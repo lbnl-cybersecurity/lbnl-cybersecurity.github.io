@@ -26,10 +26,10 @@
       <div class="jumbotron">
         <div class="media">
           <div class="media-left">
-            <img class="media-object hidden-xs" src="images/Berkeley_Lab_Logo_Large.png"><img class="media-object visible-xs" src="images/Berkeley_Lab_Logo_Small.png">
+            <a href="/"><img class="media-object hidden-xs" src="images/Berkeley_Lab_Logo_Large.png"><img class="media-object visible-xs" src="images/Berkeley_Lab_Logo_Small.png"></a>
           </div>
           <div class="media-body media-middle">
-            <h1 class="media-heading">Power Data Portal</h1>
+            <h1 class="media-heading"><a href="/">Power Data Portal</a></h1>
           </div>
         </div>
       </div>
@@ -38,9 +38,9 @@
 
         <div class="col-sm-4">
           <div class="well">
-            <p><button type="button" class="btn btn-default btn-block" disabled="disabled"><h2><i class="fa fa-fw fa-2x fa-bar-chart" aria-hidden="true"></i><br/>Visualize</h2></button></p>
+            <p><a role="button" class="btn btn-primary btn-block pad" href="visualize.html"><span class="h2"><i class="fa fa-fw fa-2x fa-bar-chart" aria-hidden="true"></i><br/>Visualize</span></a></p>
 
-            <p>Visualize the aggregated data via ElasticSearch. <span class="label label-default">Coming Soon</span></p>
+            <p>Visualize the data via BTrDB and ElasticSearch. <span class="label label-primary">Now Available</span></p>
           </div>
         </div>
 
@@ -54,9 +54,9 @@
 
         <div class="col-sm-4">
           <div class="well">
-            <p><button type="button" class="btn btn-primary btn-block"><h2><i class="fa fa-fw fa-2x fa-download" aria-hidden="true"></i><br/>Download</h2></button></p>
+            <p><a role="button" class="btn btn-primary btn-block pad" href="http://powerdata-download.lbl.gov/data/"><span class="h2"><i class="fa fa-fw fa-2x fa-download" aria-hidden="true"></i><br/>Download</span></a></p>
 
-            <p>Download the raw data files via FTP (130 GB).  <span class="label label-primary">Now Available</span></p>
+            <p>Download the gzipped raw data files over HTTP. <span class="label label-primary">Now Available</span></p>
 
           </div>
         </div>
@@ -68,7 +68,7 @@
       <p>Can synchronized distribution level phasor measurements enhance planning for power flow and system control, security and resiliency in the modernized grid?</p>
 
       <p>By installing a number of µPMUs in various locations in the electric distribution system and evaluating the data from them, the project aims to determine whether refined measurement of voltage phase angles can enable advanced diagnostic, monitoring and control methodologies in distribution systems, and to begin developing algorithms for diagnostic applications based on µPMU data.</p>
-      
+
       <p>Applications being studied include:</p>
        <ul>
          <LI> State estimation and enhanced visibility for distribution system operators </LI>
@@ -77,17 +77,17 @@
          <LI> Microgrid synchronization</LI>
       </ul>
 
-      <h2 name="data">Available datasets</h2> 
-          
+      <h2 name="data">Available datasets</h2>
+
       <p>A limited LBNL &micro;PMU dataset is available for research collaborators to visualize and download.</p>
-          
+
       <p>Please reference this publication for citations:</p>
 
       <p>Stewart, E.M. (2016). <em>Lawrence Berkeley National Laboratory Reference microPMU dataset</em>, Oct 1 2015 - Dec 31 2015 [data files and codebook].</p>
 
       <p>Additional power-related data will be available to visualize, explore, search, and  download via this portal in the near future.</p>
 
-      <h2 name="acknowledgments">Acknowledgments and Disclaimers</h2>
+      <h2 name="acknowledgments">Acknowledgments and disclaimers</h2>
 
       <p>This research is sponsored in part by the <a href="https://arpa-e.energy.gov/">U.S. Department of Energy ARPA-E program</a> (DE-AR0000340).</p>
 
@@ -99,8 +99,8 @@
 
           <h2 name=help>Questions or need help?</h2>
 
-          <p>If you have questions or need help with accessing the data, please <a href="https://github.com/lbnl-cybersecurity/lbnl-cybersecurity.github.io/issues">submit an issue</A>.          
-          
+          <p>If you have questions or need help with accessing the data, please <a href="https://github.com/lbnl-cybersecurity/lbnl-cybersecurity.github.io/issues">submit an issue</A>.
+
       <div class="well well-sm text-muted text-center small footer">
         Built Using <a href="http://getbootstrap.com/">Bootstrap</a> and <a href="http://fontawesome.io/">FontAwesome</a>.
       </div>

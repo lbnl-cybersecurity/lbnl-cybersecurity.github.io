@@ -10,15 +10,20 @@ body {
   color: white;
 }
 
+.jumbotron a {
+  color: inherit;
+}
+
+.jumbotron a:hover {
+  text-decoration: none;
+}
+
 .footer {
   margin-top: 40px;
 }
 
-button h2 {
+.pad {
   margin: 0px;
   padding: 20px;
 }
 
-button {
-  overflow: hidden;
-}

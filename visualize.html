@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LBNL Power Data Portal</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/powerdata.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div class="container">
+
+      <div class="jumbotron">
+        <div class="media">
+          <div class="media-left">
+            <a href="/"><img class="media-object hidden-xs" src="images/Berkeley_Lab_Logo_Large.png"><img class="media-object visible-xs" src="images/Berkeley_Lab_Logo_Small.png"></a>
+          </div>
+          <div class="media-body media-middle">
+            <h1 class="media-heading"><a href="/">Power Data Portal</a></h1>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-6">
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <p><a role="button" class="btn btn-primary btn-block btn-lg pad" href="https://archive.upmu.org/"><i class="fa fa-fw fa-line-chart" aria-hidden="true"></i>&nbsp;Mr. Plotter (BTrDB)</a></p>
+
+              <p>Visualize via the Multi-Resolution Plotter using BTrDB. <span class="label label-primary">Now Available</span></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6">
+          <div class="well">
+            <p><a role="button" class="btn btn-default btn-block btn-lg pad disabled" href="https://archive.upmu.org/"><i class="fa fa-fw fa-bar-chart" aria-hidden="true"></i>&nbsp;ElasticSearch</a></p>
+
+            <p>Visualize the aggregated data via ElasticSearch. <span class="label label-default">Coming Soon</span></p>
+          </div>
+        </div>
+
+      </div>
+
+      <h1 name="about">About</h1>
+
+      <p>BTrDB is the database developed through the ARPA-E project which has been utilized for the first phase of integration. The login information for the Mr. Plotter website is:</p>
+
+      <dl class="dl-horizontal">
+        <dt>Username:</dt>
+        <dd>lbnl-team</dd>
+
+        <dt>Password:</dt>
+        <dd>chocolateelcair</dd>
+      </dl>
+
+      <p>The ElasticSearch system as an entirely new solution that will be available soon for visualizing power data going forward.</p>
+
+      <div class="well well-sm text-muted text-center small footer">
+        Built Using <a href="http://getbootstrap.com/">Bootstrap</a> and <a href="http://fontawesome.io/">FontAwesome</a>.
+      </div>
+
+      <script src="js/jquery.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+    </div>
+
+  </body>
+
+</html>
+
