@@ -1,0 +1,3280 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Cybersecurity R&amp;D for Science and Energy at the Berkeley Lab" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://dst.lbl.gov/security/research/hpc-security/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#0095eb" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/security/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+      
+      
+        
+      
+        
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/security/css/wowchemy.5325722345c0a20e450ba9b6a5e49846.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/security/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://dst.lbl.gov/security/research/hpc-security/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="Berkeley Lab Cybersecurity R&amp;D" />
+  <meta property="og:url" content="https://dst.lbl.gov/security/research/hpc-security/" />
+  <meta property="og:title" content="HPC and Scientific Networking Security | Berkeley Lab Cybersecurity R&amp;D" />
+  <meta property="og:description" content="" /><meta property="og:image" content="https://dst.lbl.gov/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://dst.lbl.gov/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2019-01-01T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2019-01-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>HPC and Scientific Networking Security | Berkeley Lab Cybersecurity R&amp;D</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper   " data-wc-page-id="c3d91b6e184d659e5c835b9f70dc993a" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/security/js/wowchemy-init.min.da42964e270e05a6063fbca894d7ccff.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/security/">Berkeley Lab Cybersecurity R&amp;D</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/security/">Berkeley Lab Cybersecurity R&amp;D</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/security/research" data-target="[]"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/news"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/software"><span>Software</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/partners"><span>Partners</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/jobs"><span>Jobs</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="projects" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Cybersecurity for Scientific Computing, Networking, and HPC</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  <p>The Berkeley Lab&rsquo;s <a href="https://crd.lbl.gov" target="_blank" rel="noopener">Computing Sciences Research</a> is an active participant in a number of projects in the arena of security for scientific, high-performance computing systems and high-bandwidth research and education networks.  Research sponsors have typically included <a href="https://science.energy.gov/ascr/" target="_blank" rel="noopener">DOE&rsquo;s ASCR</a> program, and the <a href="https://www.nsf.gov" target="_blank" rel="noopener">National Science Foundation (NSF)</a>  <a href="https://www.nsf.gov/funding/pgm_summ.jsp?from=fund&amp;orgAbbr=NSF&amp;pims_id=504709" target="_blank" rel="noopener">SaTC</a> program and <a href="https://www.nsf.gov/div/index.jsp?div=OAC" target="_blank" rel="noopener">OAC</a> office, among others. </p>
+<p>LBNL&rsquo;s cybersecurity goals are to research, develop, evaluate, adapt, and integrate advanced security and privacy solutions that enable or improve scientific workflows that may otherwise not be possible due to real or perceived security restrictions that, using today&rsquo;s solution, impose onerous usability and/or performance constraints, thereby hindering scientific progress.</p>
+<p>LBNL has had a leadership role in security in scientific computing environments for many years, including the development of the <a href="https://www.zeek.org" target="_blank" rel="noopener">Zeek (Bro) Network Security Monitor</a>, the <a href="https://commons.lbl.gov/display/cpp/100G&#43;Intrusion&#43;Detection" target="_blank" rel="noopener">100G performance enhancements of Zeek (Bro)</a>, and Zeek (Bro)&rsquo;s commercial spin-off, <a href="https://www.corelight.com/" target="_blank" rel="noopener">Corelight, Inc.</a>, as well as leading several DOE-sponsored activities related to defining a cybersecurity research program within the DOE Office of Science.  More recently, LBNL led the coordination of the <a href="http://ijc3.lbl.gov" target="_blank" rel="noopener">&ldquo;Cyber R&amp;D&rdquo; Enterprise Cyber Capability (ECC)</a> of the DOE-wide Integrated Joint Cybersecurity Coordination Center (iJC3) — a sponsored R&amp;D program involving ten DOE National Laboratories as performers.  LBNL is a co-lead of <a href="https://dst.lbl.gov/security/project/nsf-trustedci/">Trusted CI, the NSF Cybersecurity Center of Excellence</a>.</p>
+<p>Recent highlights of LBNL Computing Sciences' cybersecurity R&amp;D activities include:</p>
+<ul>
+<li>
+<p>Development of <a href="https://dst.lbl.gov/security/project/desc/">secure computation architectures</a> optimized for scientific computing to ensure trustworthiness of scientific data from the edge to the HPC center.</p>
+</li>
+<li>
+<p>Development of techniques detecting misuse of high-performance computing resources using both <a href="https://dst.lbl.gov/security/project/ascr-ids-hpc/">on-system</a> and <a href="https://dst.lbl.gov/security/project/inferring-computing/">off-system</a> side channels.</p>
+</li>
+<li>
+<p>Development of a research roadmap for <a href="https://dst.lbl.gov/security/project/ascr-hpc-cybersecurity-codesign/">co-designing high-performance computing systems with security built in</a>.</p>
+</li>
+<li>
+<p>Development of the <a href="https://dst.lbl.gov/security/project/medical-science-dmz/">Medical Science DMZ</a> design pattern as a method that allows data flows at scale while simultaneously addressing the HIPAA Security Rule and related regulations governing biomedical data and appropriately managing risk.</p>
+</li>
+</ul>
+<h3 id="doe-cybersecurity-workshops-and-reports">DOE Cybersecurity Workshops and Reports</h3>
+<p><a href="https://www.orau.gov/integrity2015/" target="_blank" rel="noopener">ASCR Cybersecurity for Scientific Computing Workshop</a>, June 2–3, 2015 [<a href="http://science.osti.gov/~/media/ascr/pdf/programdocuments/docs/ASCR_Cybersecurity_20_Research_Pathways_and_Ideas_Workshop.pdf" target="_blank" rel="noopener">report</a>]</p>
+<p><a href="http://www.orau.gov/cybersecurity2015/" target="_blank" rel="noopener">ASCR Cybersecurity Workshop</a>, January 7–9, 2015 [<a href="http://science.osti.gov/~/media/ascr/pdf/programdocuments/docs/ASCR_Cybersecurity_For_Scientific_Computing_Integrity_Report_2015.pdf" target="_blank" rel="noopener">report</a>, <a href="/news-and-publications/news/2015/peisert-compiles-workshop-report-on-securing-scientific-computing-integrity/">news</a>]</p>
+<p><a href="https://wiki.cac.washington.edu/display/doe/Home" target="_blank" rel="noopener">DOE Grassroots Cybersecurity Initiative</a>, 2008–2010 [<a href="https://science.osti.gov/~/media/ascr/ascac/pdf/meetings/feb08/Frincke_presentation.pdf" target="_blank" rel="noopener">Frincke presentation</a>, <a href="https://science.osti.gov/~/media/ascr/ascac/pdf/meetings/mar09/Catlett.pdf" target="_blank" rel="noopener">Catlett ASCAC presentation,</a> <a href="https://science.osti.gov/~/media/ascr/pdf/program-documents/docs/Cyber_security_science_dec_2008.pdf" target="_blank" rel="noopener">report 1</a>, <a href="https://science.osti.gov/~/media/ascr/pdf/program-documents/docs/Complex_networked_systems_program_final.pdf" target="_blank" rel="noopener">report 2</a>, <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.776&amp;rep=rep1&amp;type=pdf" target="_blank" rel="noopener">report 3</a>]</p>
+<p><a href="https://web.archive.org/web/20080724104302/http://www.dsd.lbl.gov/Workshops/CyberWorkshop" target="_blank" rel="noopener">DOE Cybersecurity R&amp;D Challenges for Open Science: Developing a Roadmap and Vision,</a> January 24–26, 2007 [<a href="https://web.archive.org/web/*/http://dsd.lbl.gov/Workshops/CyberWorkshop/" target="_blank" rel="noopener">news</a>, <a href="http://www.osti.gov/scitech/biblio/923678-wbxW3Y/" target="_blank" rel="noopener">report</a>]</p>
+<h3 id="some-recent-news">Some recent news:</h3>
+<p><a href="https://blog.trustedci.org/2021/09/findings-report-of-2021-trusted-ci.html" target="_blank" rel="noopener">Findings Report of the 2021 Trusted CI Annual Challenge on Software Assurance Published</a> — Sept. 29, 2021</p>
+<p><a href="https://blog.trustedci.org/2021/08/trusted-ci-new-co-pis-peisert-and-shute.html" target="_blank" rel="noopener">Trusted CI new co-PIs: Peisert and Shute</a> — Aug. 3, 2021</p>
+<p><a href="https://blog.trustedci.org/2021/08/initial-findings-of-2021-trusted-ci.html" target="_blank" rel="noopener">Initial Findings of the 2021 Trusted CI Annual Challenge on Software Assurance</a> — Aug. 3, 2021</p>
+<p><a href="https://blog.trustedci.org/2021/03/announcing-2021-trusted-ci-annual.html" target="_blank" rel="noopener">Announcing the 2021 Trusted CI Annual Challenge on Software Assurance</a> - Mar. 30, 2021</p>
+<p><a href="https://cs.lbl.gov/news-media/news/2020/summer-students-support-covid-19-response" target="_blank" rel="noopener">Summer Students Tackle COVID-19</a> — Oct. 21, 2020</p>
+<p><a href="https://blog.trustedci.org/2020/09/universities-have-needs-for-computing.html" target="_blank" rel="noopener">Data Confidentiality Issues and Solutions in Academic Research Computing</a> — Sept. 10, 2020</p>
+<p><a href="https://blog.trustedci.org/2020/06/fantastic-bits-and-why-they-flip.html" target="_blank" rel="noopener">Fantastic Bits and Why They Flip</a> — Jun. 23, 2020</p>
+<p><a href="https://www.youtube.com/watch?v=gLqVDrraLIc&amp;feature=youtu.be" target="_blank" rel="noopener">Impact of AI in DOE National Laboratories (YouTube video)</a> <a href="https://youtu.be/gLqVDrraLIc?t=67" target="_blank" rel="noopener">(security discussion at 1'07&quot;</a>) — Sept. 29, 2019</p>
+<p><a href="https://cs.lbl.gov/news-media/news/2018/berkeley-lab-cybersecurity-expert-highlights-data-sharing-at-national-academies-meeting/" target="_blank" rel="noopener">Berkeley Lab Cybersecurity Specialist Highlights Data Sharing Benefits, Challenges at NAS Meeting</a> — Dec. 4, 2018</p>
+<h4 id="older-newssecuritynews"><a href="/security/news">Older News</a></h4>
+<h3 id="key-representative-publications">Key Representative Publications:</h3>
+<p>Sean Peisert, &ldquo;<a href="https://cacm.acm.org/magazines/2021/5/252168-trustworthy-scientific-computing/fulltext" target="_blank" rel="noopener">Trustworthy Scientific Computing</a>,&rdquo; <em><a href="https://cacm.acm.org/" target="_blank" rel="noopener">Communications of the ACM (CACM)</a></em>, 64(5), pp. 18–21, May 2021.</p>
+<p>Ayaz Akram, Anna Giannakou, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, &ldquo;<a href="https://arch.cs.ucdavis.edu/papers/2021-5-17-hpc-tee-performance" target="_blank" rel="noopener">Performance Analysis of Scientific Computing Workloads on General Purpose TEEs</a>,&rdquo; <em><a href="http://www.ipdps.org" target="_blank" rel="noopener">Proceedings of the 35th IEEE International Parallel &amp; Distributed Processing Sysmposium (IPDPS)</a></em>, May 17–21, 2021.</p>
+<!--
+Ayaz Akram, Anna Giannakou, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, "[Performance Analysis of Scientific Computing Workloads on Trusted Execution Environments](https://arxiv.org/abs/2010.13216)," arXiv preprint arXiv:2010.13216, 25 Oct 2020.
+-->
+<!--
+Bogdan Copos and Sean Peisert, "[Catch Me If You Can: Using Power Analysis to Identify HPC Activity](https://arxiv.org/abs/2005.03135)," arXiv preprint arXiv:2005.03135, 2020.
+-->
+<p>Sean Peisert, Eli Dart, William K. Barnett, James Cuff, Robert L. Grossman, Edward Balas, Ari Berman, Anurag Shankar, and Brian Tierney, &ldquo;<a href="https://academic.oup.com/jamia/article/25/3/267/4367749" target="_blank" rel="noopener">The Medical Science DMZ: An Network Design Pattern for Data-Intensive Medical Science</a>&rdquo;, <em>Journal of the American Medical Informatics Association (JAMIA)</em>, 25,(3):267–274, March 2018.</p>
+<p>Sean Peisert, &ldquo;<a href="https://cacm.acm.org/magazines/2017/9/220422-security-in-high-performance-computing-environments/fulltext" target="_blank" rel="noopener">Security in High-Performance Computing Environments</a>&rdquo;, <em><a href="https://cacm.acm.org/" target="_blank" rel="noopener">Communications of the ACM (CACM)</a></em>, 60(9):72-80, September 2017.</p>
+<p>Sean Peisert, Von Welch, Andrew Adams, Michael Dopheide, Susan Sons, RuthAnne Bevier, Rich LeDuc, Pascal Meunier, Stephen Schwab, and Karen Stocks, Ilkay Altintas, James Cuff, Reagan Moore, and Warren Raquel, &ldquo;<a href="http://trustedci.github.io/OSCRP/OSCRP.html" target="_blank" rel="noopener">Open Science Cyber Risk Profile</a>,&rdquo; February 2017.</p>
+<p>Sean Whalen, Sean Peisert, Matt Bishop, &ldquo;<a href="http://www.escholarship.org/uc/item/6mq830qz" target="_blank" rel="noopener">Multiclass Classification of Distributed Memory Parallel Computations</a>,&rdquo; <em><a href="http://www.journals.elsevier.com/pattern-recognition-letters/" target="_blank" rel="noopener">Pattern Recognition Letters (PRL)</a></em>, 34(3):322-329, February 2013.</p>
+<!--
+Sean Whalen, Sophie Engle, Sean Peisert, Matt Bishop, "[Network-Theoretic Classification of Parallel Computation Patterns](http://www.escholarship.org/uc/item/0g3653gc)," _[International Journal of High Performance Computing Applications (IJHPCA)](https://journals.sagepub.com/home/hpc)_, 26(2):159-169, May 2012.
+-->
+<h3 id="projects">Projects</h3>
+<p>Listings of specific projects in <a href="/security/tags/hpc">security for high-performance computing</a> and <a href="/security/tags/network">security for scientific networking</a> are available.</p>
+
+
+  
+
+    
+
+    
+    
+    
+    
+
+    <span class="d-none default-project-filter">.js-id-science-security</span>
+
+    
+    
+  
+
+  <div class="isotope projects-container row js-layout-row ">
+
+    
+    
+      
+    
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-software-assurance">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/dhs-software-assurance/" >AOSCSWAP: Study of Academic, Open Source, and COTS Software Assurance Products</a>
+    </div>
+
+    
+    <a href="/security/project/dhs-software-assurance/"  class="summary-link">
+      <div class="article-style">
+        In this project, LBNL will help inform DHS S&amp;T regarding the state of the art in software assurance tools and capabilities.  It is funded by DHS S&amp;T and is led by <a href="https://http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-HPC js-id-network js-id-science-security js-id-trusted-execution-environment js-id-edge">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/desc/" >Data Enclaves for Scientific Computing</a>
+    </div>
+
+    
+    <a href="/security/project/desc/"  class="summary-link">
+      <div class="article-style">
+        This project will develop secure computation architectures to ensure trustworthiness of scientific data while addressing the gaps left by existing solutions for scientific workflows to address the specific power, performance, and usability, and needs from the edge to the HPC center. It is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>, <a href="https://faculty.engineering.ucdavis.edu/akella/">Venkatesh Akella</a>, and <a href="https://faculty.engineering.ucdavis.edu/lowepower/">Jason Lowe-Power</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-differential-privacy js-id-power-grid js-id-distributed-energy-resources js-id-machine-learning js-id-scada js-id-privacy">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/seto-standards/" >Securing Solar for the Grid (S2G)</a>
+    </div>
+
+    
+    <a href="/security/project/seto-standards/"  class="summary-link">
+      <div class="article-style">
+        This project aims to develop an understanding of security and performance requirements for the use of AI high solar / IBR / DER penetration scenarios, and also to develop an understanding of understanding power grid data confidentiality and privacy requirements.  It is funded by DOE&rsquo;s SETO office and is co-led by <a href="https://http://crd.lbl.gov/sean-peisert/">Sean Peisert</a> and <a href="https://eta.lbl.gov/people/daniel-arnold">Daniel Arnold</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-machine-learning js-id-power-grid">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/ldrd-secure-ml-control/" >Securing Automated, Adaptive Learning-Driven Cyber-Physical System Processes</a>
+    </div>
+
+    
+    <a href="/security/project/ldrd-secure-ml-control/"  class="summary-link">
+      <div class="article-style">
+        This project is developing secure machine learning methods that will enable safer operation of automated, adaptive, learning-driven cyber-physical system processes.  It is supported by LBNL LDRD funds and is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-power-grid js-id-fault-tolerance">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/gmlc-byzantine/" >Byzantine Security — Multi-layered Intrusion Tolerant Byzantine Architecture for Bulk Power System Protective Relays</a>
+    </div>
+
+    
+    <a href="/security/project/gmlc-byzantine/"  class="summary-link">
+      <div class="article-style">
+        This project aims to explore applications of a Byzantine Fault Tolerant (BFT) architecture in combination with ML/AI methods to ensure that the bulk power system, including protective relays in the transmission grid, and associated substation and control center systems, can perform intrusion tolerant operations. It is funded by the <a href="https://www.energy.gov/2019-grid-modernization-lab-call-awards">DOE Grid Modernization Initiative</a>.  The LBNL portion of this effort is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-differential-privacy js-id-power-grid js-id-distributed-energy-resources js-id-machine-learning js-id-scada js-id-privacy">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/ceds-privacy/" >Provable Anonymization of Grid Data for Cyberattack Detection</a>
+    </div>
+
+    
+    <a href="/security/project/ceds-privacy/"  class="summary-link">
+      <div class="article-style">
+        This project aims to develop techniques for enabling data analysis for the purposes of detecting and/or investigating cyberattacks against energy delivery systems while also preserving aspects of key confidentiality elements within the underlying raw data being analyzed. The result will be a complete solution for anonymization of data collected from OT and IT networks pertaining to energy grid cyberattack detection that has been tested for its ability to retain privacy properties and still enable attack detection.  It is funded by DOE CESER&rsquo;s CEDS program and is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-power-grid js-id-distributed-energy-resources js-id-machine-learning">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/ceds-spades/" >Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES)</a>
+    </div>
+
+    
+    <a href="/security/project/ceds-spades/"  class="summary-link">
+      <div class="article-style">
+        This project is developing the methodology and tools allowing Electric Storage Systems (ESS) to automatically reconfigure themselves to counteract cyberattacks, both directly against the ESS control systems and indirectly through the electric grid. It is funded by DOE CESER&rsquo;s CEDS program and is led by <a href="https://eta.lbl.gov/people/daniel-arnold">Daniel Arnold</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-differential-privacy js-id-machine-learning js-id-medical js-id-privacy js-id-science-security js-id-transportation">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/csr-private-data/" >Privacy-Preserving Data Analysis for Scientific Discovery</a>
+    </div>
+
+    
+    <a href="/security/project/csr-private-data/"  class="summary-link">
+      <div class="article-style">
+        This project aims to produce methods, processes, and architectures applicable to a variety of scientific computing domains that enables querying, machine learning, and analysis of data while protecting against releasing sensitive information beyond pre-defined bounds.  It is supported by LBNL CSR funds and is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-science-security js-id-cybersecurity js-id-software-assurance js-id-SCADA">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/nsf-trustedci/" >Trusted CI — the National Science Foundation Cybersecurity of Excellence</a>
+    </div>
+
+    
+    <a href="/security/project/nsf-trustedci/"  class="summary-link">
+      <div class="article-style">
+        The mission of Trusted CI is to improve the cybersecurity of NSF computational science and engineering projects, while allowing those projects to focus on their science endeavors.  The PI of this center at Indiana University is Von Welch.  LBNL&rsquo;s role in this center is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-synthetic-biology js-id-machine-learning">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/jbei-automation/" >Synthetic Biology Automation</a>
+    </div>
+
+    
+    <a href="/security/project/jbei-automation/"  class="summary-link">
+      <div class="article-style">
+        In this project, LBNL Computing Sciences Research supported the automation of synthetic biology research pipelines supporting the design-build-test-learn (DBTL) cycle, including ingest and analysis of liquid chromatography mass spectrometry and feedstocks-to-fuels pipelines.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-power-grid js-id-distributed-energy-resources js-id-machine-learning">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/ceds-cigar/" >Cybersecurity via Inverter-Grid Automatic Reconfiguration (CIGAR)</a>
+    </div>
+
+    
+    <a href="/security/project/ceds-cigar/"  class="summary-link">
+      <div class="article-style">
+        This project is performing R&amp;D to enable distribution grids to adapt to resist a cyber-attack by (1) developing adaptive control algorithms for DER, voltage regulation, and protection systems; (2) analyze new attack scenarios and develop associated defensive strategies. It is funded by DOE&rsquo;s CEDS program and is co-led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a> and <a href="https://eta.lbl.gov/people/daniel-arnold">Daniel Arnold</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-network js-id-medical js-id-science-security">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/medical-science-dmz/" >Medical Science DMZ</a>
+    </div>
+
+    
+    <a href="/security/project/medical-science-dmz/"  class="summary-link">
+      <div class="article-style">
+        We have defined a Medical Science DMZ as a method that allows data flows at scale while simultaneously addressing the HIPAA Security Rule and related regulations governing biomedical data and appropriately managing risk.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-power-grid">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/uc-lfrp-cybersecurity-grid/" >UC-Lab Center for Electricity Distribution Cybersecurity</a>
+    </div>
+
+    
+    <a href="/security/project/uc-lfrp-cybersecurity-grid/"  class="summary-link">
+      <div class="article-style">
+        This project will bring together a multi-disciplinary UC-Lab team of cybersecurity and electricity infrastructure experts to investigate, through both cyber and physical modeling and physics-aware cybersecurity analysis, the impact and significance of cyberattacks on electricity distribution infrastructure.  It is funded by the <a href="https://www.ucop.edu/research-initiatives/programs/lab-fees/">UC-Lab Fees Research Program</a>.  The overall project is led by <a href="http://intra.ece.ucr.edu/~hamed/">Hamed Mohsenian-Rad</a>; the LBNL portion is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-power-grid js-id-micro-PMU js-id-machine-learning">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/gmlc-ml/" >Integrated Multi Scale Machine Learning for the Power Grid</a>
+    </div>
+
+    
+    <a href="/security/project/gmlc-ml/"  class="summary-link">
+      <div class="article-style">
+        The goal of this project is to create advanced, distributed data analytics capability  to provide visibility and controllability to distribution grid operators.   It is funded by the <a href="http://energy.gov/doe-grid-modernization-laboratory-consortium-gmlc-awards">DOE Grid Modernization Initiative</a>.  The LBNL portion of this effort is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-network js-id-machine-learning js-id-science-security">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/ijc3-cyber-rd/" >Detecting Distributed Denial of Service Attacks on Wide-Area Networks</a>
+    </div>
+
+    
+    <a href="/security/project/ijc3-cyber-rd/"  class="summary-link">
+      <div class="article-style">
+        This project develops techniques for detecting DDoS attacks and disambiguating them from large-scale science flows.  It is funded by the DOE iJC3 Cyber R&amp;D program and is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-HPC js-id-network js-id-machine-learning js-id-science-security js-id-trusted-execution-environment">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/ascr-hpc-cybersecurity-codesign/" >Toward a Hardware/Software Co-Design Framework for Ensuring the Integrity of Exascale Scientific Data</a>
+    </div>
+
+    
+    <a href="/security/project/ascr-hpc-cybersecurity-codesign/"  class="summary-link">
+      <div class="article-style">
+        This project takes a broad look at several aspects of security and scientific integrity issues in HPC systems. It is funded by DOE ASCR and is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-power-grid js-id-distributed-energy-resources js-id-micro-PMU js-id-machine-learning">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/ceds-threat-detection/" >Power Grid Threat Detection and Response with Data Analytics</a>
+    </div>
+
+    
+    <a href="/security/project/ceds-threat-detection/"  class="summary-link">
+      <div class="article-style">
+        The goal of this project is to develop technologies and methodologies to protect the nation&rsquo;s power grid from advanced cyber and all-hazard threats. This will be done through the collection of disparate data and the use of advanced analytics to detect threats and response to them.  It is funded by DOE OE&rsquo;s CEDS program via the <a href="http://energy.gov/doe-grid-modernization-laboratory-consortium-gmlc-awards">Grid Modernization Initiative</a> and is co-led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-HPC js-id-micro-PMU js-id-SCADA js-id-machine-learning js-id-science-security">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/inferring-computing/" >Inferring Computing Activity Using Physical Sensors</a>
+    </div>
+
+    
+    <a href="/security/project/inferring-computing/"  class="summary-link">
+      <div class="article-style">
+        This project uses power data to monitor the use of computing systems, including supercomputers and large computing centers.   It is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-power-grid js-id-Zeek/Bro-IDS js-id-SCADA js-id-network">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/ceds-dtkm/" >An Automated, Disruption Tolerant Key Management System for the Power Grid</a>
+    </div>
+
+    
+    <a href="/security/project/ceds-dtkm/"  class="summary-link">
+      <div class="article-style">
+        This project is designing and developing a key management system to meet the unique requirements of electrical power distribution systems.  It is funded by DOE OE&rsquo;s CEDS program and is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-machine-learning js-id-medical">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/ventilator-data/" >Bedside to the Cloud and Back</a>
+    </div>
+
+    
+    <a href="/security/project/ventilator-data/"  class="summary-link">
+      <div class="article-style">
+        This project is developing a system-based workflow to securely acquire wireless data from mechanical ventilators in critical care environments, and leverage scalable web-based analytic platforms to advance data analytics and visualization of issues surrounding patients with respiratory failure.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-network js-id-fault-tolerance js-id-science-security">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/resilience/" >Host and Network Resilience</a>
+    </div>
+
+    
+    <a href="/security/project/resilience/"  class="summary-link">
+      <div class="article-style">
+        This project focused on mapping and analyzing the qualities of resilient networks by investigating components of redundancy, diversity, quality of service, etc&hellip; The project&rsquo;s goal is to be able to quantify and compare the resilience of networks in a scientifically meaningful way.  This project was led at LBNL by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-network js-id-fault-tolerance">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/nsf-bft-ids/" >Symbiosis in Byzantine Fault Tolerance and Intrusion Detection</a>
+    </div>
+
+    
+    <a href="/security/project/nsf-bft-ids/"  class="summary-link">
+      <div class="article-style">
+        This project was funded by NSF&rsquo;s SaTC program, and was co-led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>. The theme of this effort was to integrate Byzantine fault tolerance (BFT) into intrusion detection systems (IDS), at both the fundamental and system levels, thereby improving both BFT and IDS. potential to improve BFT.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-network js-id-machine-learning">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/nsf-netsage/" >NetSage - an open privacy-aware network measurement, analysis, and visualization service</a>
+    </div>
+
+    
+    <a href="/security/project/nsf-netsage/"  class="summary-link">
+      <div class="article-style">
+        NetSage is a network measurement, analysis and visualization service funded by the National Science Foundation and is designed to address the needs of today&rsquo;s international networks.  This project is co-led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a> at LBNL.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-power-grid js-id-micro-PMU js-id-machine-learning js-id-Zeek/Bro-IDS js-id-SCADA js-id-network">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/ceds-upmu/" >Cyber Security of Power Distribution Systems by Detecting Differences Between Real-time Micro-Synchrophasor Measurements and Cyber-Reported SCADA</a>
+    </div>
+
+    
+    <a href="/security/project/ceds-upmu/"  class="summary-link">
+      <div class="article-style">
+        This project is using micro-PMU measurements and SCADA commands to develop a system to detect cyberattacks against the power distribution grid. It is funded by DOE OE&rsquo;s CEDS program and is led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-power-grid js-id-micro-PMU">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/powerdata/" >LBNL Power Data</a>
+    </div>
+
+    
+    <a href="/security/project/powerdata/"  class="summary-link">
+      <div class="article-style">
+        This distribution level phasor measurement data can be used to understand ways to enables advanced diagnostic, monitoring and control methodologies in distribution systems.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/nnsa-csl/" >NNSA Cyber Sciences Lab (CSL)</a>
+    </div>
+
+    
+    <a href="/security/project/nnsa-csl/"  class="summary-link">
+      <div class="article-style">
+        Using seed funding from the NNSA CIO, this consortium of eight DOE laboratories worked to form an enduring, national computer security research laboratory to address cybersecurity threats. LBNL&rsquo;s effort was led by Deb Agarwal and <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-network js-id-machine-learning">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/nsf-geni-hivemind/" >The Hive Mind: Applying a Distributed Security Sensor Network to GENI.</a>
+    </div>
+
+    
+    <a href="/security/project/nsf-geni-hivemind/"  class="summary-link">
+      <div class="article-style">
+        This project sought to define and prototype a security layer using a method of intrusion detection based on mobile agents and swarm intelligence. The project was funded by NSF&rsquo;s CISE Directorate, and was led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-power-grid js-id-Zeek/Bro-IDS js-id-SCADA js-id-network">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/ceds-cps-security/" >Application of Cyber Security Techniques in the Protection of Efficient Cyber-Physical Energy Generation Systems</a>
+    </div>
+
+    
+    <a href="/security/project/ceds-cps-security/"  class="summary-link">
+      <div class="article-style">
+        The goal of this project was to design and implement a measurement network, which can detect and report the resultant impact of cyber security attacks on the distribution system network. It was funded by DOE OE&rsquo;s CEDS program and was co-led by <a href="https://crd.lbl.gov/departments/data-science-and-technology/idf/affiliates/charles-mcparland/">Chuck McParland</a> and <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-HPC js-id-machine-learning js-id-network js-id-science-security">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/ascr-ids-hpc/" >A Mathematical and Data-Driven Approach to Intrusion Detection for High-Performance Computing</a>
+    </div>
+
+    
+    <a href="/security/project/ascr-ids-hpc/"  class="summary-link">
+      <div class="article-style">
+        This project developed mathematical and statistical techniques to analyze the secure access and use of high-performance computer systems. It was funded by DOE ASCR and was originally led by David H. Bailey.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-network js-id-privacy js-id-science-security">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/i3p-sanitization/" >I3P Data Sanitization</a>
+    </div>
+
+    
+    <a href="/security/project/i3p-sanitization/"  class="summary-link">
+      <div class="article-style">
+        This  project looked at defining means for understanding what data can be sanitized, and how.  At LBNL, this project was led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a> and was funded by the Institute for Information Infrastructure Protection (I3P).
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-forensics">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/i3p-forensics/" >Computer Forensics</a>
+    </div>
+
+    
+    <a href="/security/project/i3p-forensics/"  class="summary-link">
+      <div class="article-style">
+        This project is looking at establishing a rigorous, scientific model of forensic logging and analysis that is both efficient and effective at establishing the data that is necessary to record in order to understand past events.  This work was led by <a href="http://crd.lbl.gov/sean-peisert/">Sean Peisert</a>.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-cybersecurity js-id-forensics js-id-insider">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/security/project/insider-threat/" >Insider Threat</a>
+    </div>
+
+    
+    <a href="/security/project/insider-threat/"  class="summary-link">
+      <div class="article-style">
+        This project looked at defining, analyzing, and seeking methods of ameliorating the insider threat.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+  </div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="news" class="home-section wg-blank  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">HPC and Scientific Networking Security News</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12 col-lg-8">
+    <p><a href="https://blog.trustedci.org/2021/09/findings-report-of-2021-trusted-ci.html" target="_blank" rel="noopener">Findings Report of the 2021 Trusted CI Annual Challenge on Software Assurance Published</a> — Sept. 29, 2021</p>
+<p><a href="https://blog.trustedci.org/2021/08/trusted-ci-new-co-pis-peisert-and-shute.html" target="_blank" rel="noopener">Trusted CI new co-PIs: Peisert and Shute</a> — Aug. 3, 2021</p>
+<p><a href="https://blog.trustedci.org/2021/08/initial-findings-of-2021-trusted-ci.html" target="_blank" rel="noopener">Initial Findings of the 2021 Trusted CI Annual Challenge on Software Assurance</a> — Aug. 3, 2021</p>
+<p><a href="https://blog.trustedci.org/2021/03/announcing-2021-trusted-ci-annual.html" target="_blank" rel="noopener">Announcing the 2021 Trusted CI Annual Challenge on Software Assurance</a> - Mar. 30, 2021</p>
+<p><a href="https://cs.lbl.gov/news-media/news/2020/summer-students-support-covid-19-response" target="_blank" rel="noopener">Summer Students Tackle COVID-19</a> — Oct. 21, 2020</p>
+<p><a href="https://blog.trustedci.org/2020/09/universities-have-needs-for-computing.html" target="_blank" rel="noopener">Data Confidentiality Issues and Solutions in Academic Research Computing</a> — Sept. 10, 2020</p>
+<p><a href="https://blog.trustedci.org/2020/06/fantastic-bits-and-why-they-flip.html" target="_blank" rel="noopener">Fantastic Bits and Why They Flip</a> — Jun. 23, 2020</p>
+<p><a href="https://www.youtube.com/watch?v=gLqVDrraLIc&amp;feature=youtu.be" target="_blank" rel="noopener">Impact of AI in DOE National Laboratories (YouTube video)</a> <a href="https://youtu.be/gLqVDrraLIc?t=67" target="_blank" rel="noopener">(security discussion at 1'07&quot;</a>) — Sept. 29, 2019</p>
+<p><a href="https://cs.lbl.gov/news-media/news/2018/berkeley-lab-cybersecurity-expert-highlights-data-sharing-at-national-academies-meeting/" target="_blank" rel="noopener">Berkeley Lab Cybersecurity Specialist Highlights Data Sharing Benefits, Challenges at NAS Meeting</a> — Dec. 4, 2018</p>
+<p><a href="https://today.lbl.gov/2018/11/05/crds-sean-peisert-to-discuss-data-sharing-at-national-academies-cosempup-meeting-on-nov-8/" target="_blank" rel="noopener">CRD&rsquo;s Peisert to Discuss Data Sharing at National Academies' COSEMPUP Meeting</a> — Nov. 5, 2018</p>
+<p><a href="https://cs.lbl.gov/news-media/news/2018/berkeley-lab-contributes-to-2-5m-supplemental-grant-for-nsf-funded-cybersecurity-center-of-excellence/" target="_blank" rel="noopener">Berkeley Lab Contributes to $2.5M supplemental grant for NSF-funded Cybersecurity Center of Excellence</a> — Oct. 5, 2018</p>
+<p><a href="http://today.lbl.gov/2018/06/26/lab-experts-help-coordinate-isc18-worlds-first-largest-computing-conference/" target="_blank" rel="noopener">Lab Experts Help Coordinate ISC18, World’s First, Largest Computing Conference</a> — June 21, 2018</p>
+<p><a href="https://sciencenode.org/feature/into-the-science-dmz.php" target="_blank" rel="noopener">Into the Medical Science DMZ</a> (Science Node) — March 23, 2018</p>
+<p><a href="https://cs.lbl.gov/news-media/news/2018/berkeley-lab-researchers-contribute-to-making-blockchains-even-more-robust/" target="_blank" rel="noopener">Berkeley Lab Researchers Contribute to Making Blockchains Even More Robust</a> — January 30, 2018</p>
+<p><a href="http://crd.lbl.gov/news-and-publications/news/2017/esnets-science-dmz-design-could-help-transfer-protect-medical-research-data/" target="_blank" rel="noopener">ESnet&rsquo;s Science DMZ Design Could Help Transfer, Protect Medical Research Data</a> — October 16, 2017</p>
+<p><a href="https://twitter.com/LBNLcs/status/900819240734920704" target="_blank" rel="noopener">Berkeley Lab&rsquo;s cybersecurity expert Sean Peisert discusses challenges &amp; opportunities of securing HPC</a> — Aug. 24, 2017</p>
+<p><a href="https://cacm.acm.org/magazines/2017/9/220422-security-in-high-performance-computing-environments/fulltext" target="_blank" rel="noopener">HPC security article in Communications of the ACM</a></p>
+<p><a href="https://vimeo.com/226955144" target="_blank" rel="noopener">Video accompanying HPC security article on Vimeo</a></p>
+<p><a href="http://cenic.org/blog/item/re-cybersecurity-directions" target="_blank" rel="noopener">Cybersecurity: New Directions for Research and Education Networks</a> — May 26, 2017</p>
+<p><a href="https://sciencenode.org/feature/mind-the-gap-how-to-speak-like-an-information-security-pro.php" target="_blank" rel="noopener">Mind the gap: Speaking like a cybersecurity pro</a> — Feb. 10, 2017</p>
+<p><a href="http://cenic.org/blog/item/Building-a-CENIC-Security-Strategy" target="_blank" rel="noopener">Building a CENIC Security Strategy</a> — Jan. 11, 2017</p>
+<p><a href="https://esnetupdates.wordpress.com/2016/10/31/working-group-on-open-science-cybersecurity-risks-releases-first-document-draft-for-public-comment/" target="_blank" rel="noopener">Working Group on Open Science Cybersecurity Risks Releases First Document Draft for Public Comment</a> — Oct. 31, 2016</p>
+<p><a href="https://www.es.net/news-and-publications/esnet-news/2016/nsf-cybersecurity-center-of-excellence-esnet-organize-working-group-on-open-science-threats/" target="_blank" rel="noopener">NSF Cybersecurity Center of Excellence, ESnet Organize Working Group on Open Science Threats</a> — Jun. 22, 2016</p>
+<p><a href="/news-and-publications/news/2016/esnet-cenic-announce-joint-cybersecurity-initiative/">ESnet, CENIC Announce Joint Cybersecurity Initiative - CRD’s Sean Peisert to serve as director of initiative</a> [<a href="http://today.lbl.gov/2016/06/28/esnet-helps-tackle-cybersecurity-threats-to-open-science/" target="_blank" rel="noopener">TABL</a>] — Jan. 19, 2016</p>
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+<p align="center">
+Your use of this site is subject to our <A HREF="https://www.lbl.gov/disclaimers/">security and privacy policies</A>.<br>
+A U.S. Department of Energy National Laboratory Operated by the University of California <br>
+ <img src="https://dst.lbl.gov/security//media/doe-sc.png" style="height:63px;padding:20px;" display="inline-block"></img> <img src="https://dst.lbl.gov/security//media/doe-badge.png" display="inline-block" style="padding:20px;"></img> <img src="https://dst.lbl.gov/security//media/14_BL_Alt_Stack_Rev.png" style="height:110px;padding:20px;" display="inline-block"></img><br>
+</p>
+
+
+
+  <p class="powered-by">
+    © 2018-2021
+  </p>
+
+  
+  
+
+
+
+
+
+
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/security/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/security/en/js/wowchemy.min.15d0933ec0446d8722861605a9a0d71d.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,1222 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Cybersecurity R&amp;D for Science and Energy at the Berkeley Lab" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="This project will develop secure computation architectures to ensure trustworthiness of scientific data while addressing the gaps left by existing solutions for scientific workflows to address the specific power, performance, and usability, and needs from the edge to the HPC center. It is led by [Sean Peisert](http://crd.lbl.gov/sean-peisert/), [Venkatesh Akella]( https://faculty.engineering.ucdavis.edu/akella/), and [Jason Lowe-Power](https://faculty.engineering.ucdavis.edu/lowepower/)." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://dst.lbl.gov/security/project/desc/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#0095eb" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/security/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/security/css/wowchemy.5325722345c0a20e450ba9b6a5e49846.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/security/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://dst.lbl.gov/security/project/desc/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="Berkeley Lab Cybersecurity R&amp;D" />
+  <meta property="og:url" content="https://dst.lbl.gov/security/project/desc/" />
+  <meta property="og:title" content="Data Enclaves for Scientific Computing | Berkeley Lab Cybersecurity R&amp;D" />
+  <meta property="og:description" content="This project will develop secure computation architectures to ensure trustworthiness of scientific data while addressing the gaps left by existing solutions for scientific workflows to address the specific power, performance, and usability, and needs from the edge to the HPC center. It is led by [Sean Peisert](http://crd.lbl.gov/sean-peisert/), [Venkatesh Akella]( https://faculty.engineering.ucdavis.edu/akella/), and [Jason Lowe-Power](https://faculty.engineering.ucdavis.edu/lowepower/)." /><meta property="og:image" content="https://dst.lbl.gov/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://dst.lbl.gov/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-09-21T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-09-21T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dst.lbl.gov/security/project/desc/"
+  },
+  "headline": "Data Enclaves for Scientific Computing",
+  
+  "datePublished": "2021-09-21T00:00:00Z",
+  "dateModified": "2021-09-21T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Cybersecurity R\u0026D for Science and Energy at the Berkeley Lab"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Berkeley Lab Cybersecurity R\u0026D",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://dst.lbl.gov/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "This project will develop secure computation architectures to ensure trustworthiness of scientific data while addressing the gaps left by existing solutions for scientific workflows to address the specific power, performance, and usability, and needs from the edge to the HPC center. It is led by [Sean Peisert](http://crd.lbl.gov/sean-peisert/), [Venkatesh Akella]( https://faculty.engineering.ucdavis.edu/akella/), and [Jason Lowe-Power](https://faculty.engineering.ucdavis.edu/lowepower/)."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Data Enclaves for Scientific Computing | Berkeley Lab Cybersecurity R&amp;D</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="6bb59f2882615d56f676b40caff5f7ba" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/security/js/wowchemy-init.min.da42964e270e05a6063fbca894d7ccff.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/security/">Berkeley Lab Cybersecurity R&amp;D</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/security/">Berkeley Lab Cybersecurity R&amp;D</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/news"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/software"><span>Software</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/partners"><span>Partners</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/jobs"><span>Jobs</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/security/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Data Enclaves for Scientific Computing</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h4 id="principal-investigators">Principal Investigators:</h4>
+<p><a href="http://crd.lbl.gov/sean-peisert/" target="_blank" rel="noopener">Sean Peisert</a> <br>
+<a href="https://faculty.engineering.ucdavis.edu/akella/" target="_blank" rel="noopener">Venkatesh Akella</a> <br>
+<a href="https://faculty.engineering.ucdavis.edu/lowepower/" target="_blank" rel="noopener">Jason Lowe-Power</a></p>
+<h4 id="lbnl-affiliated-graduate-students">LBNL-Affiliated Graduate Students:</h4>
+<p><a href="http://www.ayazakram.com" target="_blank" rel="noopener">Ayaz Akram</a> (<a href="http://www.cs.ucdavis.edu" target="_blank" rel="noopener">UC Davis</a>  / LBNL)</p>
+<h4 id="project-alumni">Project Alumni:</h4>
+<p><a href="https://crd.lbl.gov/departments/data-science-and-technology/idf/staff/anna-giannakou/" target="_blank" rel="noopener">Anna Giannakou</a> (LBNL)</p>
+<p>Scientific data today is at risk due to how it is collected, stored, and analyzed in highly disparate computing systems.  We believe that in order to solve the problems described above that future HPC hardware and software solutions should be co-designed together with security and scientific computing integrity concepts designed and built into as much of the stack from the outset as possible.</p>
+<!--
+Advanced wireless networking is here, and with it, the continuation of an extremely rapid proliferation of network-connected devices. In the scientific world, this includes computational systems, sensor networks, and industrial control devices, designed to enable closed-loop automation of the scientific cyberinfrastructure involved in data and experiments. This proliferation of connectivity will introduce new vulnerabilities with each new device connected.
+
+A key risk due to this increased vulnerability is the trustworthiness of data collected at the edge. While controls used to ensure security in the face of today’s threats, including even nation states, may be suffcient within the perimeters of HPC facilities, the risk of tampering with and theft of U.S. scientific intellectual property grows exponentially outside those facilities because traditional physical controls are no longer available for devices deployed in the field.
+-->
+<p>This project is developing new architectures appropriate to the performance and usage needs of scientific computing to secure scientific data from the edge to the HPC center.  This includes includes sensor and edge systems that collect and process of that data takes place outside protection boundaries of traditional HPC centers, including against attacks such as ransomware and physical attacks against the computing system. Our approach will address the gaps left by existing solutions for scientific workflows to address the specific power, performance, and usability, and needs from the edge to the HPC center.</p>
+<p>This project is supported by the US Department of Energy&rsquo;s Office of Science&rsquo;s <a href="http://science.energy.gov/ascr/" target="_blank" rel="noopener">Advanced Scientific Computing Research (ASCR)</a> program under the following grants:</p>
+<p>&ldquo;<a href="%22/project/ascr-hpc-cybersecurity-codesign/%22">Toward a Hardware/Software Co-Design Framework for Ensuring the Integrity of Exascale Scientific Data</a>,&rdquo; PI: Sean Peisert, 2015.</p>
+<p>&ldquo;Cybersecurity for Edge-to-Center Scientific Computing in Advanced Wireless Environments,&rdquo; PI: Sean Peisert, Co-PIs: Venkatesh Akella and Jason Lowe-Power, 2021.</p>
+<p>It is also funded by LBNL Contractor Supported Research.</p>
+<h3 id="press-regarding-this-project">Press regarding this project:</h3>
+<p><a href="https://cs.lbl.gov/news-media/news/2018/berkeley-lab-cybersecurity-expert-highlights-data-sharing-at-national-academies-meeting/" target="_blank" rel="noopener">Berkeley Lab Cybersecurity Specialist Highlights Data Sharing Benefits, Challenges at NAS Meeting</a> — Dec. 4, 2018</p>
+<p><a href="https://today.lbl.gov/2018/11/05/crds-sean-peisert-to-discuss-data-sharing-at-national-academies-cosempup-meeting-on-nov-8/" target="_blank" rel="noopener">CRD&rsquo;s Peisert to Discuss Data Sharing at National Academies' COSEMPUP Meeting</a> — Nov. 5, 2018</p>
+<p><a href="http://today.lbl.gov/2018/06/26/lab-experts-help-coordinate-isc18-worlds-first-largest-computing-conference/" target="_blank" rel="noopener">Lab Experts Help Coordinate ISC18, World’s First, Largest Computing Conference</a> - June 21, 2018</p>
+<h3 id="publications-resulting-from-this-project">Publications resulting from this project:</h3>
+<p>Ayaz Akram, Venkatesh Akella, Sean Peisert, and Jason Lowe-Power, &ldquo;Enabling Design Space Exploration for RISC-V Secure Compute Environments,&rdquo; <em>Proceedings of the <a href="https://carrv.github.io/2021/" target="_blank" rel="noopener">Fifth Workshop on Computer Architecture Research with RISC-V (CARRV)</a></em>, (co-located with <a href="https://iscaconf.org/isca2021/" target="_blank" rel="noopener">ISCA 2021</a>) June 17, 2021</p>
+<p>Sean Peisert, &ldquo;<a href="https://cacm.acm.org/magazines/2021/5/252168-trustworthy-scientific-computing/fulltext" target="_blank" rel="noopener">Trustworthy Scientific Computing</a>,&rdquo; <a href="https://cacm.acm.org" target="_blank" rel="noopener"><em>Communications of the ACM (CACM)</em></a>, 64(5), pp. 18–21, May 2021.</p>
+<p>Ayaz Akram, Anna Giannakou, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, &ldquo;<a href="https://arch.cs.ucdavis.edu/papers/2021-5-17-hpc-tee-performance" target="_blank" rel="noopener">Performance Analysis of Scientific Computing Workloads on General Purpose TEEs</a>,&rdquo; <em><a href="http://www.ipdps.org" target="_blank" rel="noopener">Proceedings of the 35th IEEE International Parallel &amp; Distributed Processing Symposium (IPDPS)</a></em>, May 17–21, 2021.</p>
+<p>Ayaz Akram, &ldquo;<a href="http://www.ayazakram.com/papers/eurodw.pdf" target="_blank" rel="noopener">Trusted Execution for High-Performance Computing</a>,&rdquo; <em><a href="https://eurodw21.github.io" target="_blank" rel="noopener">Proceedings of the 15th EuroSys Doctoral Workshop (EuroDW)</a></em>, 2021. <a href="https://www.youtube.com/watch?v=7CLwftj1_Hs" target="_blank" rel="noopener">video</a></p>
+<p>Ayaz Akram, &ldquo;<a href="http://www.ayazakram.com/papers/yarch.pdf" target="_blank" rel="noopener">Architectures for Secure High-Performance Computing</a>,&rdquo; <em><a href="https://sites.gatech.edu/yarch2021/" target="_blank" rel="noopener">Proceedings of the Young Architect Workshop (YArch)</a></em> held in conjunction with the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2021. <a href="https://www.youtube.com/watch?v=cvL37bn04IQ" target="_blank" rel="noopener">video</a></p>
+<p>Ayaz Akram, Anna Giannakou, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, &ldquo;<a href="https://arxiv.org/abs/2010.13216" target="_blank" rel="noopener">Performance Analysis of Scientific Computing Workloads on Trusted Execution Environments</a>,&rdquo; arXiv preprint arXiv:2010.13216, 25 Oct 2020.</p>
+<h3 id="presentations">Presentations:</h3>
+<!--
+"[Hardware/Software Co-Design to Enable Trustworthy Data Domains for HPC](https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/f64a4f28b4734808924cc8c3d9a2af63/cb841a4cdcb64b0eb8b1cc53a4a42208.pdf)"
+Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Workshop on Reimagining Codesign](https://web.cvent.com/event/f64a4f28-b473-4808-924c-c8c3d9a2af63/summary), March 16-18, 2021. \[[White Paper](https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/f64a4f28b4734808924cc8c3d9a2af63/5fef554c8ff84d8283de212addcaf446.pdf)\]
+-->
+<p>Ayaz Akram and Anna Giannakou, Venkatesh Akella, Jason Lowe-Power, Sean Peisert, &ldquo;<a href="https://arch.cs.ucdavis.edu/papers/2019-7-25-hpc-enclaves" target="_blank" rel="noopener">Using Trusted Execution Environments on High Performance Computing Platforms</a>,&rdquo;
+<a href="https://keystone-enclave.org/open-source-enclaves-workshop/" target="_blank" rel="noopener">Open-Source Enclaves Workshop (OSEW 2019)</a>, Berkeley, CA, July 25, 2019.</p>
+<p>Sean Peisert, &ldquo;<a href="http://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_189637.pdf" target="_blank" rel="noopener">Usable Computer Security and Privacy to Enable and Encourage Data Sharing for Scientific Research</a>,&rdquo;  <a href="http://sites.nationalacademies.org/pga/cosepup/index.htm" target="_blank" rel="noopener">National Academies of Sciences, Engineering, and Medicine Committee on Science, Engineering, Medicine, and Public Policy (COSEMPUP) Meeting</a>, Washington, D.C., November 8, 2018.</p>
+<p>Sean Peisert, &ldquo;<a href="https://2018.isc-program.com/?page_id=10&amp;id=inv_sp155&amp;sess=sess126" target="_blank" rel="noopener">Cybersecurity Challenges and Opportunities in High-Performance Computing Environments</a>,&rdquo; <a href="https://2018.isc-program.com/" target="_blank" rel="noopener">International Supercomputing Conference (ISC)</a>, Frankfurt, Germany,  June 26, 2018.</p>
+<h3 id="other-resources">Other Resources:</h3>
+<p>Ayaz Akram, <a href="https://arch.cs.ucdavis.edu/blog/2020-11-19-cloud-hpc" target="_blank" rel="noopener">Setting up Trusted HPC System in the Cloud</a>, November 19, 2020.</p>
+<p>More information is available on other Berkeley Lab R&amp;D projects focusing on <a href="/security/">cybersecurity</a> in general, as well as specifically on <a href="/security/research/hpc-security/">cybersecurity for scientific computing</a>.</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/security/tag/cybersecurity/">cybersecurity</a>
+  
+  <a class="badge badge-light" href="/security/tag/hpc/">HPC</a>
+  
+  <a class="badge badge-light" href="/security/tag/network/">network</a>
+  
+  <a class="badge badge-light" href="/security/tag/science-security/">science security</a>
+  
+  <a class="badge badge-light" href="/security/tag/trusted-execution-environment/">trusted execution environment</a>
+  
+  <a class="badge badge-light" href="/security/tag/edge/">edge</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://dst.lbl.gov/security/project/desc/&amp;text=Data%20Enclaves%20for%20Scientific%20Computing" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://dst.lbl.gov/security/project/desc/&amp;t=Data%20Enclaves%20for%20Scientific%20Computing" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Data%20Enclaves%20for%20Scientific%20Computing&amp;body=https://dst.lbl.gov/security/project/desc/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://dst.lbl.gov/security/project/desc/&amp;title=Data%20Enclaves%20for%20Scientific%20Computing" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Data%20Enclaves%20for%20Scientific%20Computing%20https://dst.lbl.gov/security/project/desc/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://dst.lbl.gov/security/project/desc/&amp;title=Data%20Enclaves%20for%20Scientific%20Computing" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/security/project/ascr-hpc-cybersecurity-codesign/">Toward a Hardware/Software Co-Design Framework for Ensuring the Integrity of Exascale Scientific Data</a></li>
+      
+      <li><a href="/security/project/ascr-ids-hpc/">A Mathematical and Data-Driven Approach to Intrusion Detection for High-Performance Computing</a></li>
+      
+      <li><a href="/security/project/medical-science-dmz/">Medical Science DMZ</a></li>
+      
+      <li><a href="/security/project/ijc3-cyber-rd/">Detecting Distributed Denial of Service Attacks on Wide-Area Networks</a></li>
+      
+      <li><a href="/security/project/inferring-computing/">Inferring Computing Activity Using Physical Sensors</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+<p align="center">
+Your use of this site is subject to our <A HREF="https://www.lbl.gov/disclaimers/">security and privacy policies</A>.<br>
+A U.S. Department of Energy National Laboratory Operated by the University of California <br>
+ <img src="https://dst.lbl.gov/security//media/doe-sc.png" style="height:63px;padding:20px;" display="inline-block"></img> <img src="https://dst.lbl.gov/security//media/doe-badge.png" display="inline-block" style="padding:20px;"></img> <img src="https://dst.lbl.gov/security//media/14_BL_Alt_Stack_Rev.png" style="height:110px;padding:20px;" display="inline-block"></img><br>
+</p>
+
+
+
+  <p class="powered-by">
+    © 2018-2021
+  </p>
+
+  
+  
+
+
+
+
+
+
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/security/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/security/en/js/wowchemy.min.15d0933ec0446d8722861605a9a0d71d.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

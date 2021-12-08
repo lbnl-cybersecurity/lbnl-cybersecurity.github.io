@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>synthetic biology | Berkeley Lab Cybersecurity R&amp;D</title>
+    <link>https://dst.lbl.gov/security/tag/synthetic-biology/</link>
+      <atom:link href="https://dst.lbl.gov/security/tag/synthetic-biology/index.xml" rel="self" type="application/rss+xml" />
+    <description>synthetic biology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dst.lbl.gov/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
+      <title>synthetic biology</title>
+      <link>https://dst.lbl.gov/security/tag/synthetic-biology/</link>
+    </image>
+    
+    <item>
+      <title>Synthetic Biology Automation</title>
+      <link>https://dst.lbl.gov/security/project/jbei-automation/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://dst.lbl.gov/security/project/jbei-automation/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;In this project, LBNL Computing Sciences Research supported the automation of synthetic biology research pipelines supporting the design-build-test-learn (DBTL) cycle, including ingest and analysis of liquid chromatography mass spectrometry and feedstocks-to-fuels pipelines.&lt;/p&gt;
+&lt;p&gt;The work was led at JBEI by &lt;a href=&#34;https://sites.google.com/view/hectorgarciamartinhomepage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Héctor García Martín&lt;/a&gt; and supported by LBNL Computing Sciences Research by &lt;a href=&#34;https://scholar.google.com/citations?user=uToyU5oAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; and &lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This project was supported by the DOE &lt;a href=&#34;https://www.jbei.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joint BioEnergy Institute (JBEI)&lt;/a&gt; and the DOE &lt;a href=&#34;https://agilebiofoundry.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agile BioFoundry (ABF)&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Chris Lawson, Jose Manuel Martí, Tijana Radivojevic, Sai Vamshi R. Jonnalagadda, Reinhard Gentz, Nathan J. Hillson, Sean Peisert, Joonhoon Kim, Blake A. Simons, Christopher J. Petzold, Steven W. Singer, Aindrila Mukhopadhyay, Deepti Tanjore, Josh Dunn, and Héctor García Martín, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1016/j.ymben.2020.10.005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning for Metabolic Engineering: A Review&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/journal/10967176&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Metabolic Engineering&lt;/a&gt;&lt;/em&gt;, available online 19 November 2020. [&lt;a href=&#34;https://doi.org/10.1016/j.ymben.2020.10.005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Reinhard Gentz, Héctor García Martin, Edward Baidoo, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/research/2019-eScience-LCMS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workflow Automation in Liquid Chromatography Mass Spectrometry&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;http://escience2019.sdsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15th IEEE International Conference on e-Science (eScience)&lt;/a&gt;&lt;/em&gt;, San Diego, CA, September 2019. [&lt;a href=&#34;https://doi.org/10.1109/eScience.2019.00095&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
