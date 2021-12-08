@@ -1,4 +1,4 @@
 # Netlify redirects
 # Automatically generated
 # Documentation: http://bit.ly/netlify-deployment
-/security/project/ascr-secure-edge /security/project/desc/
+/project/ascr-secure-edge /project/desc/
