@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fault tolerance | Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>https://dst.lbl.gov/security/tag/fault-tolerance/</link>
-      <atom:link href="https://dst.lbl.gov/security/tag/fault-tolerance/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/tag/fault-tolerance/</link>
+      <atom:link href="https://secpriv.lbl.gov/tag/fault-tolerance/index.xml" rel="self" type="application/rss+xml" />
     <description>fault tolerance</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dst.lbl.gov/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>fault tolerance</title>
-      <link>https://dst.lbl.gov/security/tag/fault-tolerance/</link>
+      <link>https://secpriv.lbl.gov/tag/fault-tolerance/</link>
     </image>
     
     <item>
       <title>Byzantine Security — Multi-layered Intrusion Tolerant Byzantine Architecture for Bulk Power System Protective Relays</title>
-      <link>https://dst.lbl.gov/security/project/gmlc-byzantine/</link>
+      <link>https://secpriv.lbl.gov/project/gmlc-byzantine/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/gmlc-byzantine/</guid>
+      <guid>https://secpriv.lbl.gov/project/gmlc-byzantine/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;This project aims to explore applications of a Byzantine Fault Tolerant (BFT) architecture in combination with Machine Learning (ML/AI) methods to ensure that the bulk power system, including protective relays in the transmission grid, and associated substation and control center systems, can perform intrusion tolerant operations.&lt;/p&gt;
 &lt;p&gt;This project is funded by several offices within the U.S.  Department of Energy under the auspices of the DOE Grid Modernization Initiative.  The project is led by PNNL.&lt;/p&gt;
@@ -36,29 +36,29 @@
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;James R. Clavin, Yue Huang, Xin Wang, Pradeep M. Prakash, Sisi Duan, Jianwu Wang, and Sean Peisert, &amp;ldquo;A Framework for Evaluating BFT,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;http://ieee-icpads.net/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Parallel and Distributed Systems (ICPADS)&lt;/a&gt;&lt;/em&gt;, December 14–16, 2021.&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/2019-grid-modernization-lab-call-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Modernization Initiative&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Host and Network Resilience</title>
-      <link>https://dst.lbl.gov/security/project/resilience/</link>
+      <link>https://secpriv.lbl.gov/project/resilience/</link>
       <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/resilience/</guid>
+      <guid>https://secpriv.lbl.gov/project/resilience/</guid>
       <description>&lt;p&gt;LBNL&amp;rsquo;s component of this project focused on mapping and analyzing the qualities of resilient networks by investigating components of redundancy, diversity, quality of service, etc&amp;hellip; The project&amp;rsquo;s goal is to be able to quantify and compare the resilience of networks in a scientifically meaningful way.&lt;/p&gt;
 &lt;p&gt;More information is available at the &lt;a href=&#34;http://www.cs.ucdavis.edu/~peisert/projects/resilience.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis resilience project web site&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Symbiosis in Byzantine Fault Tolerance and Intrusion Detection</title>
-      <link>https://dst.lbl.gov/security/project/nsf-bft-ids/</link>
+      <link>https://secpriv.lbl.gov/project/nsf-bft-ids/</link>
       <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/nsf-bft-ids/</guid>
+      <guid>https://secpriv.lbl.gov/project/nsf-bft-ids/</guid>
       <description>&lt;p&gt;Two principal components for providing protection in large-scale distributed systems are Byzantine fault tolerance (BFT) and intrusion detection systems (IDS). BFT is used to implement strictly consistent replication of state in the face of arbitrary failures, including those introduced by malware and Internet pathogens. Intrusion detection relates to a broad set of services that detect events that could indicate the presence of an ongoing attack. But BFT traditionally suffers from high latency and replication requirements. But as these two components approach system security differently, we believe that intrusion detection has the potential to has the potential to improve BFT. The integration of these two efforts, at both the fundamental and system levels, is the theme of this research effort.&lt;/p&gt;
 &lt;p&gt;More information is available at the &lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/projects/bftids.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis BFT+IDS project web site&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

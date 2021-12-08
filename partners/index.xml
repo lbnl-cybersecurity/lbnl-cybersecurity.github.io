@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Partners | Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>https://dst.lbl.gov/security/partners/</link>
-      <atom:link href="https://dst.lbl.gov/security/partners/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/partners/</link>
+      <atom:link href="https://secpriv.lbl.gov/partners/index.xml" rel="self" type="application/rss+xml" />
     <description>Partners</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dst.lbl.gov/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>Partners</title>
-      <link>https://dst.lbl.gov/security/partners/</link>
+      <link>https://secpriv.lbl.gov/partners/</link>
     </image>
     
   </channel>

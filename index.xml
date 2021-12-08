@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>https://dst.lbl.gov/security/</link>
-      <atom:link href="https://dst.lbl.gov/security/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/</link>
+      <atom:link href="https://secpriv.lbl.gov/index.xml" rel="self" type="application/rss+xml" />
     <description>Berkeley Lab Cybersecurity R&amp;D</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dst.lbl.gov/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>Berkeley Lab Cybersecurity R&amp;D</title>
-      <link>https://dst.lbl.gov/security/</link>
+      <link>https://secpriv.lbl.gov/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://dst.lbl.gov/security/talk/example-talk/</link>
+      <link>https://secpriv.lbl.gov/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/talk/example-talk/</guid>
+      <guid>https://secpriv.lbl.gov/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>AOSCSWAP: Study of Academic, Open Source, and COTS Software Assurance Products</title>
-      <link>https://dst.lbl.gov/security/project/dhs-software-assurance/</link>
+      <link>https://secpriv.lbl.gov/project/dhs-software-assurance/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/dhs-software-assurance/</guid>
+      <guid>https://secpriv.lbl.gov/project/dhs-software-assurance/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;In this project, LBNL will help inform DHS S&amp;amp;T regarding the state of the art in software assurance tools and capabilities.&lt;/p&gt;
 &lt;p&gt;This project is supported by the the U.S. Department of Homeland Security&amp;rsquo;s &lt;a href=&#34;https://www.dhs.gov/science-and-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science and Technology Directorate&lt;/a&gt;.&lt;/p&gt;
@@ -44,15 +44,15 @@
 &lt;p&gt;&lt;a href=&#34;https://http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data Enclaves for Scientific Computing</title>
-      <link>https://dst.lbl.gov/security/project/desc/</link>
+      <link>https://secpriv.lbl.gov/project/desc/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/desc/</guid>
+      <guid>https://secpriv.lbl.gov/project/desc/</guid>
       <description>&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://faculty.engineering.ucdavis.edu/akella/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Venkatesh Akella&lt;/a&gt; &lt;br&gt;
@@ -94,15 +94,15 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://2018.isc-program.com/?page_id=10&amp;amp;id=inv_sp155&amp;amp;sess=sess126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Challenges and Opportunities in High-Performance Computing Environments&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://2018.isc-program.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Supercomputing Conference (ISC)&lt;/a&gt;, Frankfurt, Germany,  June 26, 2018.&lt;/p&gt;
 &lt;h3 id=&#34;other-resources&#34;&gt;Other Resources:&lt;/h3&gt;
 &lt;p&gt;Ayaz Akram, &lt;a href=&#34;https://arch.cs.ucdavis.edu/blog/2020-11-19-cloud-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting up Trusted HPC System in the Cloud&lt;/a&gt;, November 19, 2020.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Securing Solar for the Grid (S2G)</title>
-      <link>https://dst.lbl.gov/security/project/seto-standards/</link>
+      <link>https://secpriv.lbl.gov/project/seto-standards/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/seto-standards/</guid>
+      <guid>https://secpriv.lbl.gov/project/seto-standards/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;LBNL will lead a new workgroup for Artificial Intelligence (AI) for IBR/DER cybersecurity that will seek a draft standard report on AI performance requirements for high solar / IBR / DER penetration scenarios. This working group will specifically focus on advancing an understanding of performance requirements for IBR/DER for high solar generation scenarios.  As IBR / DER grow from tens of thousands to millions of devices, increased automation is likely required but needs to be considered within conflicting recommendations for manual control. Automation has brought significant advantages in the power grid for ensuring stability, increasing efficiency, and even providing cybersecurity benefits. At the same time, automation significantly increases cybersecurity risks because automated systems can be remotely attackable, and have similar vulnerabilities to other types of computing systems.&lt;/p&gt;
 &lt;p&gt;LBNL will also lead a new workgroup for privacy-preserving &amp;amp; cybersecure data and model sharing standards for solar / IBR / DER industry stakeholders. Use cases will focus on data and models for high solar / IBR / DER penetration scenarios. This will include threat-sharing program reformations, leveraging prior experience with CESER’s CEDS program.&lt;/p&gt;
@@ -114,15 +114,15 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;&lt;a href=&#34;https://kevalaanalytics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Securing Automated, Adaptive Learning-Driven Cyber-Physical System Processes</title>
-      <link>https://dst.lbl.gov/security/project/ldrd-secure-ml-control/</link>
+      <link>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ldrd-secure-ml-control/</guid>
+      <guid>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;Numerous DOE-relevant processes are becoming automated and adaptive, using machine learning techniques.  Such processes include vehicle and traffic navigation guidance, intelligent transportation systems, adaptive control of grid-attached equipment, large scientific instruments.&lt;br&gt;
 This creates a vulnerability for a cyber attacker to sabotage processes through tainted training data or specially crafted inputs.  Consequences might be tainted manufactured output, traffic collisions, power outages, or damage to scientific instruments or experiments. This project is developing secure machine learning methods that will enable safer operation of automated, adaptive, learning-driven &amp;ldquo;cyber-physical system&amp;rdquo; processes.&lt;/p&gt;
@@ -135,15 +135,15 @@ This creates a vulnerability for a cyber attacker to sabotage processes through 
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, &amp;ldquo;SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2111.15152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.15152&lt;/a&gt;, 30 Nov 2021.&lt;/p&gt;
 &lt;p&gt;Yize Chen, Daniel Arnold, Yuanyuan Shi, and Sean Peisert, &amp;ldquo;Understanding the Safety Requirements for Learning-based Power Systems Operations,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2110.04983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2110.04983&lt;/a&gt;, 11 Oct 2021&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 1 Workshop</title>
-      <link>https://dst.lbl.gov/security/talk/ceds_spades_y1_workshop/</link>
+      <link>https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/</link>
       <pubDate>Wed, 02 Dec 2020 10:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/talk/ceds_spades_y1_workshop/</guid>
+      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;LBNL held the first workshop for the SPADES project on Dec. 2, 2020 where the project participants convened to discuss progress made over the past year as well as plan for work to be conducted during Year 2.  Due to the COVID-19 pandemic, the workshop was held virtually.&lt;/p&gt;
 &lt;h3 id=&#34;participants&#34;&gt;Participants&lt;/h3&gt;
@@ -161,24 +161,24 @@ Dan Grinkevich, Siemens CT, &lt;a href=&#34;mailto:daniel.grinkevich@siemens.com
 Anna Scaglione, ASU, &lt;a href=&#34;mailto:ascaglio@asu.edu&#34;&gt;ascaglio@asu.edu&lt;/a&gt;&lt;br&gt;
 Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilosadac@asu.edu&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;workshop-agenda&#34;&gt;Workshop Agenda&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/security/security/static/files/ceds_spades_y1_workshop/SPADES%20Y1%20Workshop%20Agenda.pdf&#34;&gt;Workshop Agenda&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/security/static/files/ceds_spades_y1_workshop/SPADES%20Y1%20Workshop%20Agenda.pdf&#34;&gt;Workshop Agenda&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/security/security/static/files/ceds_spades_y1_workshop/LBNL%20-%20Introduction.pdf&#34;&gt;Introductory Remarks, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/security/security/static/files/ceds_spades_y1_workshop/LBNL_SPADES%20Workshop%20Battery%20Module%202020.12.02.pdf&#34;&gt;Storage and Control Module Architecture in PyCIGAR, Michael Sankur and Sy-Toan Ngo (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/security/security/static/files/ceds_spades_y1_workshop/LBNL_SPADES_Power_Electronic_Transient_Presentation.pdf&#34;&gt;Grid Forming/following &amp;amp; Active Load Stability Simulation, Ciaran Roberts (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/security/security/static/files/ceds_spades_y1_workshop/D4.3.2%20-%20SPADES%20Y1%20Workshop%20NRECA%20Presentation.pdf&#34;&gt;Open Modeling Framework (OMF) Updates. Use Case Analysis, Network Reduction, David Pinney &amp;amp; Lisa Slaughter (NRECA)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/security/security/static/files/ceds_spades_y1_workshop/Siemens_SPADES%20DOE%20workshop%2020201202.pdf&#34;&gt;Red Team Planning/Methodology, Bruno Leao (Siemens)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/security/security/static/files/ceds_spades_y1_workshop/ASU_SPADES_Y1_Workshop.pdf&#34;&gt;Log(V) 3LPF: A linearized solution to train reinforcement learning algorithms for unbalanced distribution systems, Ignacio Losada Carreno (ASU)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/security/security/static/files/ceds_spades_y1_workshop/LBNL%20-%20Concluding%20Thoughts.pdf&#34;&gt;Concluding Remarks, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/security/security/static/files/ceds_spades_y1_workshop/SPADES%20Y1%20Workshop%20Q&amp;amp;A_Notes.pdf&#34;&gt;Workshop Q&amp;amp;A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/security/static/files/ceds_spades_y1_workshop/LBNL%20-%20Introduction.pdf&#34;&gt;Introductory Remarks, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/security/static/files/ceds_spades_y1_workshop/LBNL_SPADES%20Workshop%20Battery%20Module%202020.12.02.pdf&#34;&gt;Storage and Control Module Architecture in PyCIGAR, Michael Sankur and Sy-Toan Ngo (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/security/static/files/ceds_spades_y1_workshop/LBNL_SPADES_Power_Electronic_Transient_Presentation.pdf&#34;&gt;Grid Forming/following &amp;amp; Active Load Stability Simulation, Ciaran Roberts (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/security/static/files/ceds_spades_y1_workshop/D4.3.2%20-%20SPADES%20Y1%20Workshop%20NRECA%20Presentation.pdf&#34;&gt;Open Modeling Framework (OMF) Updates. Use Case Analysis, Network Reduction, David Pinney &amp;amp; Lisa Slaughter (NRECA)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/security/static/files/ceds_spades_y1_workshop/Siemens_SPADES%20DOE%20workshop%2020201202.pdf&#34;&gt;Red Team Planning/Methodology, Bruno Leao (Siemens)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/security/static/files/ceds_spades_y1_workshop/ASU_SPADES_Y1_Workshop.pdf&#34;&gt;Log(V) 3LPF: A linearized solution to train reinforcement learning algorithms for unbalanced distribution systems, Ignacio Losada Carreno (ASU)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/security/static/files/ceds_spades_y1_workshop/LBNL%20-%20Concluding%20Thoughts.pdf&#34;&gt;Concluding Remarks, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/security/static/files/ceds_spades_y1_workshop/SPADES%20Y1%20Workshop%20Q&amp;amp;A_Notes.pdf&#34;&gt;Workshop Q&amp;amp;A&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Byzantine Security — Multi-layered Intrusion Tolerant Byzantine Architecture for Bulk Power System Protective Relays</title>
-      <link>https://dst.lbl.gov/security/project/gmlc-byzantine/</link>
+      <link>https://secpriv.lbl.gov/project/gmlc-byzantine/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/gmlc-byzantine/</guid>
+      <guid>https://secpriv.lbl.gov/project/gmlc-byzantine/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;This project aims to explore applications of a Byzantine Fault Tolerant (BFT) architecture in combination with Machine Learning (ML/AI) methods to ensure that the bulk power system, including protective relays in the transmission grid, and associated substation and control center systems, can perform intrusion tolerant operations.&lt;/p&gt;
 &lt;p&gt;This project is funded by several offices within the U.S.  Department of Energy under the auspices of the DOE Grid Modernization Initiative.  The project is led by PNNL.&lt;/p&gt;
@@ -198,15 +198,15 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;James R. Clavin, Yue Huang, Xin Wang, Pradeep M. Prakash, Sisi Duan, Jianwu Wang, and Sean Peisert, &amp;ldquo;A Framework for Evaluating BFT,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;http://ieee-icpads.net/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Parallel and Distributed Systems (ICPADS)&lt;/a&gt;&lt;/em&gt;, December 14–16, 2021.&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/2019-grid-modernization-lab-call-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Modernization Initiative&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Provable Anonymization of Grid Data for Cyberattack Detection</title>
-      <link>https://dst.lbl.gov/security/project/ceds-privacy/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-privacy/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ceds-privacy/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-privacy/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;Data is frequently not shared by organizations because that data is considered by the organization to be in some way sensitive. For example, there may be laws or regulations prohibiting sharing due to personal privacy or national security issues, or the organization owning the data may also consider that data to be a proprietary trade secret. In any case, that data cannot or will not be released in raw form, and so alternative approaches are needed if that data is to be shared at all.&lt;/p&gt;
 &lt;p&gt;Today, data is often not shared at all, or if it is shared, it is done so in ways that require people processing or analyzing that data to access the data in highly secured, non-networked environments set up to prevent any data from being exfiltrated either physically from a building or certainly from a network. This is the reason why much research is hindered.  Sometimes data is shared through processes of &amp;ldquo;anonymization&amp;rdquo; in which data is typically either masked or made more general.  Unfortunately, these techniques have repeatedly been shown to fail, typically by merging external information containing identifiable information with quasi-identifiers contained in the dataset in order to identify &amp;ldquo;anonymized&amp;rdquo; records in the dataset.&lt;/p&gt;
@@ -241,15 +241,15 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Sachin Kadam, Anna Scaglione, Nikhil Ravi, Sean Peisert, Brent Lunghino, and Aram Shumavon, &amp;ldquo;Optimum Noise Mechanism for Differentially Private Queries in Discrete Finite Sets,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2111.11661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.11661&lt;/a&gt;, 23 Nov 2021.&lt;/p&gt;
 &lt;p&gt;Nikhil Ravi, Anna Scaglione, and Sean Peisert, &amp;ldquo;Colored Noise Mechanism for Differentially Private Clustering,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2111.11661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.07850&lt;/a&gt;, 15 Nov 2021.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES)</title>
-      <link>https://dst.lbl.gov/security/project/ceds-spades/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-spades/</link>
       <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ceds-spades/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-spades/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Energy Storage Systems (ESS), such as electric batteries, are increasingly becomming critical components of the electric power system.  As these devices begin to provide grid services, it is critical to ensure that they are resistant to cyber attacks and cannot be exploited as a mechanism to disrupt the operation of the power grid.  Tools from nonlinear and optimal control theory can be utilized to develop control policies to re-dispatch setpoints in both the ESS and the surrounding electric grid infrastructure to mitigate the effect of cyber attacks.&lt;/p&gt;
 &lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
@@ -286,20 +286,20 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;a href=&#34;http://www.nreca.coop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Rural Electric Cooperative Association (NRECA)&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://www.siemens.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Siemens&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;project-workshops&#34;&gt;Project Workshops&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/security/security/talk/ceds_spades_y1_workshop/&#34;&gt;Year 1&lt;/a&gt;, held on 12/02/202&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/security/talk/ceds_spades_y1_workshop/&#34;&gt;Year 1&lt;/a&gt;, held on 12/02/202&lt;/p&gt;
 &lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
 &lt;p&gt;TBD&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Privacy-Preserving Data Analysis for Scientific Discovery</title>
-      <link>https://dst.lbl.gov/security/project/csr-private-data/</link>
+      <link>https://secpriv.lbl.gov/project/csr-private-data/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/csr-private-data/</guid>
+      <guid>https://secpriv.lbl.gov/project/csr-private-data/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;Data is frequently not shared by organizations because that data is considered by the organization to be in some way sensitive. For example, there may be laws or regulations prohibiting sharing due to personal privacy or national security issues, or the organization owning the data may also consider that data to be a proprietary trade secret. In any case, that data cannot or will not be released in raw form, and so alternative approaches are needed if that data is to be shared at all.&lt;/p&gt;
 &lt;p&gt;Today, data is often not shared at all, or if it is shared, it is done so in ways that require people processing or analyzing that data to access the data in highly secured, non-networked environments set up to prevent any data from being exfiltrated either physically from a building or certainly from a network. This is the reason why much research is hindered.  Sometimes data is shared through processes of &amp;ldquo;anonymization&amp;rdquo; in which data is typically either masked or made more general.  Unfortunately, these techniques have repeatedly been shown to fail, typically by merging external information containing identifiable information with quasi-identifiers contained in the dataset in order to identify &amp;ldquo;anonymized&amp;rdquo; records in the dataset.&lt;/p&gt;
@@ -325,15 +325,15 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;p&gt;&lt;a href=&#34;https://cs.lbl.gov/news-media/news/2020/summer-students-support-covid-19-response&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer Students Tackle COVID-19&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific research&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific research&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://dst.lbl.gov/security/slides/example/</link>
+      <link>https://secpriv.lbl.gov/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/slides/example/</guid>
+      <guid>https://secpriv.lbl.gov/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -460,33 +460,33 @@ $$&lt;/p&gt;
     
     <item>
       <title>Cybersecurity for Energy Delivery Systems</title>
-      <link>https://dst.lbl.gov/security/research/ceds/</link>
+      <link>https://secpriv.lbl.gov/research/ceds/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/research/ceds/</guid>
+      <guid>https://secpriv.lbl.gov/research/ceds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HPC and Scientific Networking Security</title>
-      <link>https://dst.lbl.gov/security/research/hpc-security/</link>
+      <link>https://secpriv.lbl.gov/research/hpc-security/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/research/hpc-security/</guid>
+      <guid>https://secpriv.lbl.gov/research/hpc-security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://dst.lbl.gov/security/projects/</link>
+      <link>https://secpriv.lbl.gov/projects/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/projects/</guid>
+      <guid>https://secpriv.lbl.gov/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trusted CI — the National Science Foundation Cybersecurity of Excellence</title>
-      <link>https://dst.lbl.gov/security/project/nsf-trustedci/</link>
+      <link>https://secpriv.lbl.gov/project/nsf-trustedci/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/nsf-trustedci/</guid>
+      <guid>https://secpriv.lbl.gov/project/nsf-trustedci/</guid>
       <description>&lt;h4 id=&#34;principal-investigators-and-site-leads&#34;&gt;Principal Investigators and Site Leads&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.vonwelch.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Von Welch&lt;/a&gt; (Lead PI, IU)&lt;br&gt;
 &lt;a href=&#34;http://www.ncsa.illinois.edu/People/jbasney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jim Basney&lt;/a&gt; (Co-PI / Lead at NCSA)&lt;br&gt;
@@ -535,15 +535,15 @@ James  Marsteller (Former Co-PI and Lead at PSC)&lt;/p&gt;
 &lt;p&gt;Jim Basney and Sean Peisert, &amp;ldquo;Two Community Surveys on Data Integrity Issues in Scientific Computing,&amp;rdquo;
 &lt;a href=&#34;https://www.trustedci.org/2020-nsf-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure&lt;/a&gt;, September 24, 2020. (&lt;a href=&#34;https://www.youtube.com/watch?v=Bh9v2H_1ADo&amp;amp;list=PLLoFSG1hhthRk1SkxWXa1oGhOvuLCQXvM&amp;amp;index=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;https://drive.google.com/file/d/1j3Vo1BU_t2okM3l4atiIkF4Jqj6h9Enm/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Von Welch &amp;amp; Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile (OSCRP)&lt;/a&gt;,&amp;rdquo; January 2017. (&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;http://hdl.handle.net/2022/21235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Synthetic Biology Automation</title>
-      <link>https://dst.lbl.gov/security/project/jbei-automation/</link>
+      <link>https://secpriv.lbl.gov/project/jbei-automation/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/jbei-automation/</guid>
+      <guid>https://secpriv.lbl.gov/project/jbei-automation/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;In this project, LBNL Computing Sciences Research supported the automation of synthetic biology research pipelines supporting the design-build-test-learn (DBTL) cycle, including ingest and analysis of liquid chromatography mass spectrometry and feedstocks-to-fuels pipelines.&lt;/p&gt;
 &lt;p&gt;The work was led at JBEI by &lt;a href=&#34;https://sites.google.com/view/hectorgarciamartinhomepage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Héctor García Martín&lt;/a&gt; and supported by LBNL Computing Sciences Research by &lt;a href=&#34;https://scholar.google.com/citations?user=uToyU5oAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; and &lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt;.&lt;/p&gt;
@@ -556,9 +556,9 @@ James  Marsteller (Former Co-PI and Lead at PSC)&lt;/p&gt;
     
     <item>
       <title>Cybersecurity via Inverter-Grid Automatic Reconfiguration (CIGAR)</title>
-      <link>https://dst.lbl.gov/security/project/ceds-cigar/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-cigar/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ceds-cigar/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-cigar/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The proliferation of Distributed Energy Resources (DER) in electric distribution systems is challenging many existing conventional paradigms of how the grid is planned and operated. This includes strategies to ensure the safety of the electric grid from cyber attacks.  Aggregations of DER constitute a mechanism through which hostile entities can remotely influence multiple systems and states in the grid in such a way that distribution system operators have virtually no warning of an attack and no clear strategy to mitigate the effects of intrusion. Furthermore, as infrastructure already exists to reconfigure DER smart inverter settings, attackers need not infiltrate individual systems to gain control over large quantities of DER. Instead, attackers need only gain access to one of a handful of systems designed to wirelessly update DER.&lt;/p&gt;
 &lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
@@ -603,15 +603,15 @@ James  Marsteller (Former Co-PI and Lead at PSC)&lt;/p&gt;
 &lt;p&gt;Shammya Shananda Saha, Daniel Arnold, Anna Scaglione, Eran Schweitzer, Ciaran Roberts, Sean Peisert, and Nathan G. Johnson. &amp;ldquo;&lt;a href=&#34;https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/rpg2.12009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lyapunov Stability of Smart Inverters Using Linearized DistFlow Approximation&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://digital-library.theiet.org/content/journals/iet-rpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IET Renewable Power Generation&lt;/a&gt;&lt;/em&gt;, accepted 28 September 2020. [&lt;a href=&#34;https://arxiv.org/abs/2011.09620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Ignacio Losada Carreño, Raksha Ramakrishna, Anna Scaglione, Daniel Arnold, Ciaran Roberts, Sy-Toan Ngo, Sean Peisert, and David Pinney, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/6cp617fw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoDa: An Irradiance-Based Synthetic Solar Data Generation Tool&lt;/a&gt;,”   &lt;em&gt;Proceedings of the &lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)&lt;/a&gt;&lt;/em&gt;, November 11–13, 2020.&lt;/p&gt;
 &lt;p&gt;Ciaran Roberts Sy-Toan Ngo, Alexandre Milesi, Sean Peisert, Daniel Arnold, Shammya Saha, Anna Scaglione, Nathan Johnson, Anton Kocheturov, Dmitriy Fradkin, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/5069z5wn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Reinforcement Learning for DER Cyber-Attack Mitigation&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)&lt;/a&gt;&lt;/em&gt;, November 11–13, 2020.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Medical Science DMZ</title>
-      <link>https://dst.lbl.gov/security/project/medical-science-dmz/</link>
+      <link>https://secpriv.lbl.gov/project/medical-science-dmz/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/medical-science-dmz/</guid>
+      <guid>https://secpriv.lbl.gov/project/medical-science-dmz/</guid>
       <description>&lt;p&gt;A &lt;a href=&#34;https://fasterdata.es.net/science-dmz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science DMZ&lt;/a&gt; is a portion of the network, built at or near the local network perimeter of an individual research institution, that is designed such that the equipment, configuration, and security poli- cies are optimized for high-performance workflows and large datasets.&lt;/p&gt;
 &lt;p&gt;Developed by &lt;a href=&#34;https://es.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESnet&lt;/a&gt; engineers, the Science DMZ model addresses common network performance problems encountered at research institutions by creating an environment that is tailored to the needs of high performance science applications, including high-volume bulk data transfer, remote experiment control, and data visualization.&lt;/p&gt;
 &lt;p&gt;The Science DMZ architecture also maintains the security of the data through a number of distinct techniques, but does not employ commercial firewalls due to their negative impact on performance. As a result, the Science DMZ model is not currently employed in environments subject to the &lt;a href=&#34;https://www.hhs.gov/hipaa/for-professionals/security/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HIPAA Security Rule&lt;/a&gt; and &lt;a href=&#34;https://www.hhs.gov/hipaa/for-professionals/special-topics/hitech-act-enforcement-interim-final-rule/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HITECH&lt;/a&gt; requirements, due to the presumed technical controls based on de facto use of stateful and deep packet–inspecting commercial firewalls.&lt;/p&gt;
@@ -636,9 +636,9 @@ James  Marsteller (Former Co-PI and Lead at PSC)&lt;/p&gt;
     
     <item>
       <title>UC-Lab Center for Electricity Distribution Cybersecurity</title>
-      <link>https://dst.lbl.gov/security/project/uc-lfrp-cybersecurity-grid/</link>
+      <link>https://secpriv.lbl.gov/project/uc-lfrp-cybersecurity-grid/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/uc-lfrp-cybersecurity-grid/</guid>
+      <guid>https://secpriv.lbl.gov/project/uc-lfrp-cybersecurity-grid/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;This project will bring together a multi-disciplinary UC-Lab team of cybersecurity and electricity infrastructure experts to investigate, through both cyber and physical modeling and physics-aware cybersecurity analysis, the impact and significance of cyberattacks on electricity distribution infrastructure.  We will develop new strategies for mitigating vulnerabilities, detecting intrusion, and protecting against detrimental system wide impact. This project will build a new knowledge base to address both theoretical and practical challenges in electricity distribution cybersecurity.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
@@ -655,15 +655,15 @@ Emma Stewart (Co-PI; PI at LLNL)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This project is funded by the &lt;a href=&#34;https://www.ucop.edu/research-initiatives/programs/lab-fees/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC-Lab Fees Research Program&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Integrated Multi Scale Machine Learning for the Power Grid</title>
-      <link>https://dst.lbl.gov/security/project/gmlc-ml/</link>
+      <link>https://secpriv.lbl.gov/project/gmlc-ml/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/gmlc-ml/</guid>
+      <guid>https://secpriv.lbl.gov/project/gmlc-ml/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The goal of this project is to create advanced, distributed data analytics capability  to provide visibility and controllability to distribution grid operators.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
@@ -675,15 +675,15 @@ Emma Stewart (Co-PI; PI at LLNL)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/doe-grid-modernization-laboratory-consortium-gmlc-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Modernization Initiative&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Detecting Distributed Denial of Service Attacks on Wide-Area Networks</title>
-      <link>https://dst.lbl.gov/security/project/ijc3-cyber-rd/</link>
+      <link>https://secpriv.lbl.gov/project/ijc3-cyber-rd/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ijc3-cyber-rd/</guid>
+      <guid>https://secpriv.lbl.gov/project/ijc3-cyber-rd/</guid>
       <description>&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI)&lt;/p&gt;
 &lt;h4 id=&#34;faculty-scientists&#34;&gt;Faculty Scientists&lt;/h4&gt;
@@ -702,15 +702,15 @@ Emma Stewart (Co-PI; PI at LLNL)&lt;/p&gt;
 &lt;p&gt;Chang Liu, &amp;ldquo;Network Monitoring and Security Enhancement in Software-Defined Networking,&amp;rdquo; Ph.D Dissertation, University of California, Davis, Department of Electrical and Computer Engineering, May 2019.  (Advisor: Prof. Chen-Nee Chuah.)&lt;/p&gt;
 &lt;h3 id=&#34;software-resulting-from-this-project&#34;&gt;Software resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/lbnl-cybersecurity/ddos-detection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LBNL DDoS Detection on Science Networks&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Toward a Hardware/Software Co-Design Framework for Ensuring the Integrity of Exascale Scientific Data</title>
-      <link>https://dst.lbl.gov/security/project/ascr-hpc-cybersecurity-codesign/</link>
+      <link>https://secpriv.lbl.gov/project/ascr-hpc-cybersecurity-codesign/</link>
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ascr-hpc-cybersecurity-codesign/</guid>
+      <guid>https://secpriv.lbl.gov/project/ascr-hpc-cybersecurity-codesign/</guid>
       <description>&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
@@ -728,7 +728,7 @@ Emma Stewart (Co-PI; PI at LLNL)&lt;/p&gt;
 &lt;p&gt;We believe that in order to solve the problems described above that future HPC hardware and software solutions should be co-designed together with security and scientific computing integrity concepts designed and built into as much of the stack from the outset as possible. Given the risk of data loss due to software and hardware, this should take into account hardware elements, operating systems, compilers, application software, and the networking stack, all the way down to the way in which software developers write software and users interact with systems in a way that can affect scientific computing integrity. However, prior to laying out the research roadmap to design and construct such an architecture, we believe that several important aspects first need to be understood more clearly.&lt;/p&gt;
 &lt;p&gt;This project takes a broad look at several aspects of security and scientific integrity issues in HPC systems. Using several case studies as exemplars, and working closely with both domain scientists as well as facility staff, we propose to test and validate several initial concepts in existing scientific computing workflows at NERSC DOE HPC facility, and analyze those models better characterize integrity-related computational behavior.&lt;/p&gt;
 &lt;p&gt;Early work on this project focused on a range of activities, including identifying misuse of computing systens, leveraging blockchains for scientific computing.  More recent work has focused on developing trustworthy scientific computing architectures.&lt;/p&gt;
-&lt;p&gt;For more on the current work, see &lt;a href=&#34;https://dst.lbl.gov/security/project/desc/&#34;&gt;Data Enclaves for Scientific Computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more on the current work, see &lt;a href=&#34;https://secpriv.lbl.gov/project/desc/&#34;&gt;Data Enclaves for Scientific Computing&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This project is supported by the US Department of Energy&amp;rsquo;s Office of Science&amp;rsquo;s &lt;a href=&#34;http://science.energy.gov/ascr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Scientific Computing Research (ASCR)&lt;/a&gt; program.&lt;/p&gt;
 &lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
 &lt;!--
@@ -740,7 +740,7 @@ Emma Stewart (Co-PI; PI at LLNL)&lt;/p&gt;
 --&gt;
 &lt;p&gt;&lt;a href=&#34;https://sciencenode.org/feature/into-the-science-dmz.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Into the Medical Science DMZ&lt;/a&gt; (Science Node) March 23, 2018&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://cs.lbl.gov/news-media/news/2018/berkeley-lab-researchers-contribute-to-making-blockchains-even-more-robust/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Researchers Contribute to Making Blockchains Even More Robust&lt;/a&gt; — January 30, 2018&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/security/news-and-publications/news/2017/esnets-science-dmz-design-could-help-transfer-protect-medical-research-data/&#34;&gt;ESnet&amp;rsquo;s Science DMZ Design Could Help Transfer, Protect Medical Research Data&lt;/a&gt; (Science Node) — October 16, 2017&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/news-and-publications/news/2017/esnets-science-dmz-design-could-help-transfer-protect-medical-research-data/&#34;&gt;ESnet&amp;rsquo;s Science DMZ Design Could Help Transfer, Protect Medical Research Data&lt;/a&gt; (Science Node) — October 16, 2017&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/LBNLcs/status/900819240734920704&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab&amp;rsquo;s cybersecurity expert Sean Peisert discusses challenges &amp;amp; opportunities of securing HPC&lt;/a&gt; — Aug. 24, 2017&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://cacm.acm.org/magazines/2017/9/220422-security-in-high-performance-computing-environments/fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPC security article in Communications of the ACM&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://vimeo.com/226955144&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video accompanying HPC security article on Vimeo&lt;/a&gt;&lt;/p&gt;
@@ -788,15 +788,15 @@ Sean Peisert, &#34;[Cybersecurity Challenges and Opportunities in High-Performan
 &lt;!--
 Ayaz Akram, [Setting up Trusted HPC System in the Cloud](https://arch.cs.ucdavis.edu/blog/2020-11-19-cloud-hpc), November 19, 2020.
 --&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Power Grid Threat Detection and Response with Data Analytics</title>
-      <link>https://dst.lbl.gov/security/project/ceds-threat-detection/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-threat-detection/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ceds-threat-detection/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-threat-detection/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The goal of this project is to develop technologies and methodologies to protect the nation&amp;rsquo;s power grid from advanced cyber and all-hazard threats. This will be done through the collection of disparate data and the use of advanced analytics to detect threats and response to them.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
@@ -818,15 +818,15 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program in support of the &lt;a href=&#34;http://energy.gov/doe-grid-modernization-laboratory-consortium-gmlc-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Modernization Initiative&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Inferring Computing Activity Using Physical Sensors</title>
-      <link>https://dst.lbl.gov/security/project/inferring-computing/</link>
+      <link>https://secpriv.lbl.gov/project/inferring-computing/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/inferring-computing/</guid>
+      <guid>https://secpriv.lbl.gov/project/inferring-computing/</guid>
       <description>&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI)&lt;/p&gt;
 &lt;h4 id=&#34;scientistspostdocs&#34;&gt;Scientists/Postdocs&lt;/h4&gt;
@@ -840,18 +840,18 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;p&gt;Bogdan Copos and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2005.03135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Catch Me If You Can: Using Power Analysis to Identify HPC Activity&lt;/a&gt;,&amp;rdquo; arXiv preprint arXiv:2005.03135, 2020.&lt;/p&gt;
 &lt;p&gt;Melissa Stockman, Dipankar Dwivedi, Reinhard Gentz, Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/4d64c3s2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Detecting Programmable Logic Controller Code Using Machine Learning&lt;/a&gt;&amp;rdquo; &lt;a href=&#34;https://www.journals.elsevier.com/international-journal-of-critical-infrastructure-protection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;International Journal of Critical Infrastructure Protection&lt;/em&gt;&lt;/a&gt;, accepted July 3, 2019. [&lt;a href=&#34;http://10.0.3.248/j.ijcip.2019.100306&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Bogdan Copos, Sean Peisert (advisor), &lt;a href=&#34;https://www.escholarship.org/uc/item/1xb249zt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Modeling Systems Using Side Channel Information&lt;/em&gt;&lt;/a&gt;. PhD dissertation, University of California, Davis, 2017.&lt;/p&gt;
-&lt;p&gt;More information is available on other LBNL R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;HPC Security projects&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other LBNL R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;HPC Security projects&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;software-resulting-from-this-project&#34;&gt;Software resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://ipo.lbl.gov/lbnl2016-053/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Identifying Computational Operations Based on Power Measurements&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An Automated, Disruption Tolerant Key Management System for the Power Grid</title>
-      <link>https://dst.lbl.gov/security/project/ceds-dtkm/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-dtkm/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ceds-dtkm/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-dtkm/</guid>
       <description>&lt;p&gt;Current key management architectures are not designed for machine-to-machine communication, are designed around an &amp;ldquo;always online&amp;rdquo; mentality, and are often burdensome to manage (key distribution, revocation lists, governance, etc.). This project is designing and developing a key management system to meet the unique requirements of electrical distribution systems (EDSs). Namely it is disruption tolerant, scales well, is centrally managed, has policy enforcement and auditing, automates key management services for devices, etc&amp;hellip;&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
@@ -868,15 +868,15 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;p&gt;Thomas W. Edgar, Aditya Ashok, Garret E. Seppala, K.M. Arthur-Durrett, M. Engels, Reinhard Gentz, and Sean Peisert, &amp;ldquo;An Automated Disruption-Tolerant Key Management Framework for Critical Systems,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://www.jinfowar.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Information Warfare&lt;/a&gt;&lt;/em&gt;, accepted 8 October, 2019.&lt;/p&gt;
 &lt;h3 id=&#34;software-resulting-from-this-project&#34;&gt;Software resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/lbnl-cybersecurity/dtkm-sparcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LBNL Disruption Tolerant Key Management Monitoring for Stream-Processing Architecture for Real-time Cyber-physical Security (DTKM-SPARCS)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bedside to the Cloud and Back</title>
-      <link>https://dst.lbl.gov/security/project/ventilator-data/</link>
+      <link>https://secpriv.lbl.gov/project/ventilator-data/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ventilator-data/</guid>
+      <guid>https://secpriv.lbl.gov/project/ventilator-data/</guid>
       <description>&lt;p&gt;This project is developing a system-based workflow to securely acquire wireless data from mechanical ventilators in critical care environments, and leverage scalable web-based analytic platforms to advance data analytics and visualization of issues surrounding patients with respiratory failure.&lt;/p&gt;
 &lt;p&gt;Researchers involved at UC Davis:&lt;/p&gt;
 &lt;UL&gt;
@@ -891,37 +891,37 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Jason Adams, Monica Lieng, Brooks Kuhn, Edward Guo, Edik Simonian, Sean Peisert, JP Delplanque, and Nick Anderson, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/4cp4891c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automated Mechanical Ventilator Waveform Analysis of Patient-Ventilator Asynchrony&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;http://journal.publications.chestnet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CHEST Journal&lt;/a&gt;&lt;/em&gt;, 148(4), October 2015.
 [&lt;A HREF=&#34;bibtex/Peisert2015CHEST.bib&#34;&gt;bib&lt;/A&gt; | &lt;A HREF=&#34;https://doi.org/10.1378/chest.2281731&#34;&gt;DOI&lt;/A&gt; | &lt;A HREF=&#34;https://escholarship.org/uc/item/4cp4891c&#34;&gt;CDL&lt;/A&gt;]&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Host and Network Resilience</title>
-      <link>https://dst.lbl.gov/security/project/resilience/</link>
+      <link>https://secpriv.lbl.gov/project/resilience/</link>
       <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/resilience/</guid>
+      <guid>https://secpriv.lbl.gov/project/resilience/</guid>
       <description>&lt;p&gt;LBNL&amp;rsquo;s component of this project focused on mapping and analyzing the qualities of resilient networks by investigating components of redundancy, diversity, quality of service, etc&amp;hellip; The project&amp;rsquo;s goal is to be able to quantify and compare the resilience of networks in a scientifically meaningful way.&lt;/p&gt;
 &lt;p&gt;More information is available at the &lt;a href=&#34;http://www.cs.ucdavis.edu/~peisert/projects/resilience.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis resilience project web site&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Symbiosis in Byzantine Fault Tolerance and Intrusion Detection</title>
-      <link>https://dst.lbl.gov/security/project/nsf-bft-ids/</link>
+      <link>https://secpriv.lbl.gov/project/nsf-bft-ids/</link>
       <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/nsf-bft-ids/</guid>
+      <guid>https://secpriv.lbl.gov/project/nsf-bft-ids/</guid>
       <description>&lt;p&gt;Two principal components for providing protection in large-scale distributed systems are Byzantine fault tolerance (BFT) and intrusion detection systems (IDS). BFT is used to implement strictly consistent replication of state in the face of arbitrary failures, including those introduced by malware and Internet pathogens. Intrusion detection relates to a broad set of services that detect events that could indicate the presence of an ongoing attack. But BFT traditionally suffers from high latency and replication requirements. But as these two components approach system security differently, we believe that intrusion detection has the potential to has the potential to improve BFT. The integration of these two efforts, at both the fundamental and system levels, is the theme of this research effort.&lt;/p&gt;
 &lt;p&gt;More information is available at the &lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/projects/bftids.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis BFT+IDS project web site&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NetSage - an open privacy-aware network measurement, analysis, and visualization service</title>
-      <link>https://dst.lbl.gov/security/project/nsf-netsage/</link>
+      <link>https://secpriv.lbl.gov/project/nsf-netsage/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/nsf-netsage/</guid>
+      <guid>https://secpriv.lbl.gov/project/nsf-netsage/</guid>
       <description>&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://internationalnetworks.iu.edu/about/schopf.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jen Schopf&lt;/a&gt; (Lead PI at IU)&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;br&gt;
 Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Security Advisor)&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;br&gt;
@@ -948,15 +948,15 @@ Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Secur
 &lt;p&gt;Alberto Gonzalez, Jason Leigh, Sean Peisert, Brian Tierney, Andrew Lee, Jennifer M. Schopf, &amp;ldquo;&lt;a href=&#34;http://escholarship.org/uc/item/5rz6t3q4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetSage: Open Privacy-Aware Network Measurement, Analysis, And Visualization Service&lt;/a&gt;&amp;rdquo;, &lt;em&gt;Proceedings of TNC16 Networking Conference&lt;/em&gt;, Prague, Czech Republic, June 2016,&lt;/p&gt;
 &lt;h3 id=&#34;software-resulting-from-this-project&#34;&gt;Software resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/lbnl-cybersecurity/tstat-dtn-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Research Network Transfer Performance Predictor (netperf-predict)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cyber Security of Power Distribution Systems by Detecting Differences Between Real-time Micro-Synchrophasor Measurements and Cyber-Reported SCADA</title>
-      <link>https://dst.lbl.gov/security/project/ceds-upmu/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-upmu/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ceds-upmu/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-upmu/</guid>
       <description>&lt;p&gt;The power distribution grid, like many cyber physical systems, was developed with careful consideration for safe operation. However, a number of features of the power system make it particularly vulnerable to cyber attacks via IP networks. &amp;ldquo;IT security&amp;rdquo; approaches to dealing with malware and other cyber attacks via a network include traditional intrusion detection systems, firewalls, encryption, etc&amp;hellip; These techniques can help, but as we&amp;rsquo;ve observed in a &lt;a href=&#34;http://dst.lbl.gov/projects.php?p=CEDS-CPS-Security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous project,&lt;/a&gt; traditional IT security techniques tend to leave a gap in safety and protection when applied to cyber-physical devices because they do not consider physical information known about the cyber-physical device they are protecting. Not only does this leave a gap in protection, but it ignores valuable information that could be used to better protect the cyber-physical device.&lt;/p&gt;
 &lt;p&gt;The goal of this is to design and implement a measurement network, which can detect and report the resultant impact of cyber security attacks on the distribution system network. The cyber-attacks against the distribution grid that we primarily focus on are ones that (1) modify the distribution grid operation and causing it to behave in individually or collectively disruptive or damaging ways; (2) mask communication from substation components in the distribution grid, through cyber denial-of-service attack, and prevent awareness of the actual operational function; and (3) mask communication to substation components in the distribution grid, through cyber denial of service attack, causing misbehaving components to fail to receive instructions to restore safe operation. The detection and reporting will be within short time frame, at present not communicable or measured on the distribution system, allowing operators to perform remedial action.&lt;/p&gt;
 &lt;p&gt;To do this, this project uses micro phasor measurement units to capture information about the physical state of the power distribution grid and combines this with SCADA command monitoring in real time. The project will build models of safe and unsafe states of the distribution grid so that certain classes cyber attacks can potentially be detected by their physical effects on the power distribution grid alone. The result will be a system that provides an independent, integrated picture of the distribution grid&amp;rsquo;s physical state, which will be difficult for a cyber-attacker to subvert using data-spoofing techniques.&lt;/p&gt;
@@ -999,7 +999,7 @@ Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Secur
 &lt;p&gt;Reinhard Gentz, &lt;a href=&#34;https://search.proquest.com/docview/1949775503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Wireless Sensor Data Transport, Aggregation and Security,&lt;/em&gt;&lt;/a&gt; Ph.D. Dissertation, Arizona State University, July 2017.&lt;/p&gt;
 &lt;p&gt;Mahdi Jamei, Anna Scaglione, Ciaran Roberts, Emma Stewart, Sean Peisert, Chuck McParland, and Alex McEachern, “&lt;a href=&#34;http://www.escholarship.org/uc/item/8pj28949&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automated Anomaly Detection in Distribution Grids Using µPMU Measurements&lt;/a&gt;,” &lt;em&gt;Proceedings of the 50th &lt;a href=&#34;http://www.hicss.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hawaii International Conference on System Sciences (HICSS)&lt;/a&gt;&lt;/em&gt;, Electric Energy Systems Track, Resilient Networks Minitrack, Waikoloa, HI, Jan. 4–7, 2017.&lt;/p&gt;
 &lt;p&gt;Mahdi Jamei, Emma Stewart, Sean Peisert, Anna Scaglione, Chuck McParland, Ciaran Roberts, and Alex McEachern, &amp;ldquo;&lt;a href=&#34;http://www.escholarship.org/uc/item/84j8f0md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Micro Synchrophasor-Based Intrusion Detection in Automated Distribution Systems: Towards Critical Infrastructure Security&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;http://computer.org/internet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Internet Computing&lt;/a&gt;&lt;/em&gt;,&amp;quot; Sept./Oct. 2016. [&lt;a href=&#34;http://www.escholarship.org/uc/item/84j8f0md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDL&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;software-resulting-from-this-project&#34;&gt;Software resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/lbnl-cybersecurity/sparcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LBNL Stream-Processing Architecture for Real-time Cyber-physical Security (SPARCS)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Analytics for Stream-Processing Architecture for Real-time Cyber-physical Security (Analytic-SPARCS).&lt;/strong&gt;&lt;/p&gt;
@@ -1008,9 +1008,9 @@ Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Secur
     
     <item>
       <title>LBNL Power Data</title>
-      <link>https://dst.lbl.gov/security/project/powerdata/</link>
+      <link>https://secpriv.lbl.gov/project/powerdata/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/powerdata/</guid>
+      <guid>https://secpriv.lbl.gov/project/powerdata/</guid>
       <description>&lt;p&gt;Can synchronized distribution level phasor measurements enhance planning for power flow and system control, security and resiliency in the modernized grid?&lt;/p&gt;
 &lt;p&gt;By installing a number of µPMUs in various locations in the electric distribution system and evaluating the data from them, this data supports a variety of projects to determine whether refined measurement of voltage phase angles can enable advanced diagnostic, monitoring and control methodologies in distribution systems, and to begin developing algorithms for diagnostic applications based on µPMU data.&lt;/p&gt;
 &lt;p&gt;Applications being studied include:&lt;/p&gt;
@@ -1023,7 +1023,7 @@ Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Secur
 &lt;/ul&gt;
 &lt;p&gt;The data available is a set of power measurements and annotations, and an interface for exploring and downloading that data. The power measurements are collected by micro-phasor measurement units (μPMUs) and PQube3 power quality meters manufactured by Power Standards Laboratory in Alameda, CA and located at Lawrence Berkeley National Laboratory, as well as other sites.&lt;/p&gt;
 &lt;p&gt;The manufacturer &lt;a href=&#34;http://www.powerstandards.com/&#34;&gt;Power Standards Laboratory (PSL)&lt;/a&gt;  supplied and tested the measurement technology, which is based on PSL&amp;rsquo;s already commercialized &lt;a href=&#34;http://www.powersensorsltd.com/PQube3.php&#34;&gt;PQube power quality recorder&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;For the data collected by the &lt;a href=&#34;https://dst.lbl.gov/security/projects/ceds-upmu&#34;&gt;CEDS µPMU project&lt;/a&gt;, please reference this publication for citations, which also contains more information on the dataset:&lt;/p&gt;
+&lt;p&gt;For the data collected by the &lt;a href=&#34;https://secpriv.lbl.gov/projects/ceds-upmu&#34;&gt;CEDS µPMU project&lt;/a&gt;, please reference this publication for citations, which also contains more information on the dataset:&lt;/p&gt;
 &lt;p&gt;Sean Peisert, Reinhard Gentz, Joshua Boverhof, Chuck McParland, Sophie Engle, Abdelrahman Elbashandy, and Dan Gunter, &amp;ldquo;&lt;A HREF=&#34;https://doi.org/10.21990/C21599&#34;&gt;LBNL Open Power Data&lt;/A&gt;,&amp;rdquo; LBNL Technical Report, May 2017. DOI:&lt;A HREF=&#34;https://doi.org/10.21990/C21599&#34;&gt;10.21990/C21599&lt;/A&gt;&lt;/p&gt;
 &lt;p&gt;This work was sponsored in part by the &lt;A HREF=&#34;https://energy.gov&#34;&gt;U.S. Department of Energy&amp;rsquo;s&lt;/A&gt; &lt;A HREF=&#34;https://energy.gov/oe/downloads/cybersecurity-energy-delivery-systems-ceds-fact-sheets&#34;&gt;Cybersecurity for Energy Delivery Systems&lt;/A&gt; program.&lt;/p&gt;
 &lt;!--
@@ -1054,30 +1054,30 @@ Sean Peisert, Reinhard Gentz, Joshua Boverhof, Chuck McParland, Sophie Engle, Ab
     
     <item>
       <title>NNSA Cyber Sciences Lab (CSL)</title>
-      <link>https://dst.lbl.gov/security/project/nnsa-csl/</link>
+      <link>https://secpriv.lbl.gov/project/nnsa-csl/</link>
       <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/nnsa-csl/</guid>
+      <guid>https://secpriv.lbl.gov/project/nnsa-csl/</guid>
       <description>&lt;p&gt;Using seed funding from the NNSA CIO, this consortium of eight DOE laboratories worked to form an enduring, national computer security research laboratory to address cybersecurity threats. Research efforts that the laboratory would address ranged from very short-range, tactical issues that leverage current capabilities, to very long-range research with results and solutions that may not be deployable for over 20 years. LBNL&amp;rsquo;s effort was led by Deb Agarwal and &lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Hive Mind: Applying a Distributed Security Sensor Network to GENI.</title>
-      <link>https://dst.lbl.gov/security/project/nsf-geni-hivemind/</link>
+      <link>https://secpriv.lbl.gov/project/nsf-geni-hivemind/</link>
       <pubDate>Wed, 04 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/nsf-geni-hivemind/</guid>
+      <guid>https://secpriv.lbl.gov/project/nsf-geni-hivemind/</guid>
       <description>&lt;p&gt;This project was funded by NSF&amp;rsquo;s CISE Directorate, and was led by Sean Peisert. The project sought to define and prototype a security layer using a method of intrusion detection based on mobile agents and swarm intelligence. The project&amp;rsquo;s goal was to provide a lightweight, decentralized, intrusion detection method that is adaptable to changing threats while communicating suspicious activity across hierarchical layers to humans who can respond when needed. The goal was to augment, not replace, more traditional security mechanisms.&lt;/p&gt;
 &lt;p&gt;More information is available at the &lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/projects/hivemind.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis GENI Hive Mind project web site&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://dst.lbl.gov/security/publication/example/</link>
+      <link>https://secpriv.lbl.gov/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/publication/example/</guid>
+      <guid>https://secpriv.lbl.gov/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -1094,9 +1094,9 @@ Sean Peisert, Reinhard Gentz, Joshua Boverhof, Chuck McParland, Sophie Engle, Ab
     
     <item>
       <title>Application of Cyber Security Techniques in the Protection of Efficient Cyber-Physical Energy Generation Systems</title>
-      <link>https://dst.lbl.gov/security/project/ceds-cps-security/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-cps-security/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ceds-cps-security/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-cps-security/</guid>
       <description>&lt;p&gt; This project is called, &amp;ldquo;Application of Cyber Security Techniques in the Protection of Efficient Cyber-Physical Energy Generation Systems.&amp;rdquo; In this project, we designed and developed a security monitoring and analysis framework for control systems and smart grid technologies. This system is designed to enhance resiliency of the system by integrating traditional computer security and safety engineering techniques. The goal is to integrate the monitoring and analysis of IP network traffic, as well as serial communications and physical constraints within a single intrusion detection system (IDS) framework and provide capabilities for determining the physical safety of system operations by simultaneously examining behavior at multiple hierarchical layers and contexts.&lt;/p&gt;
 &lt;p&gt;This project was supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
@@ -1128,15 +1128,15 @@ Sean Peisert, Reinhard Gentz, Joshua Boverhof, Chuck McParland, Sophie Engle, Ab
 &lt;p&gt;Georgia Koutsandria, &lt;em&gt;&lt;a href=&#34;http://dst.lbl.gov/research/2014-Thesis_Koutsandria.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyber Physical Security for Power Grid Protection&lt;/a&gt;,&lt;/em&gt; M.S. Thesis, Dept. of Electrical and Computer Engineering, University of California, Davis, Sept. 2014. [&lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/bibtex/Koutsandria2014-Thesis.bib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BibTeX&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Masood Parvania, Georgia Koutsandria, Vishak Muthukumar, Sean Peisert, Chuck McParland, and Anna Scaglione, &amp;ldquo;&lt;a href=&#34;http://www.escholarship.org/uc/item/1q63z548.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hybrid Control Network Intrusion Detection Systems for Automated Power Distribution Systems&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;http://www.tosg-workshop.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1st International Workshop on Trustworthiness of Smart Grids (ToSG)&lt;/a&gt;&lt;/em&gt;, Atlanta, GA, June 23, 2014. [&lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/bibtex/Peisert2014-ToSG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BibTeX&lt;/a&gt;] [&lt;a href=&#34;http://dx.doi.org/10.1109/DSN.2014.81&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Xiao Li, Zhifang Wang, Vishak Muthukumar, Anna Scaglione, Sean Peisert, and Chuck McParland, &amp;ldquo;&lt;a href=&#34;http://www.escholarship.org/uc/item/2d15z3zc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Networked Loads in the Distribution Grid&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;http://www.apsipa2012.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2012 Asia-Pacific Signal &amp;amp; Information Processing Association (APSIPA) Annual Summit and Conference&lt;/a&gt;&lt;/em&gt;, Hollywood, CA, December 3–6, 2012. [&lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/bibtex/Peisert2012-APSIPA.bib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BibTeX&lt;/a&gt;] [&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&amp;amp;arnumber=6411875&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Mathematical and Data-Driven Approach to Intrusion Detection for High-Performance Computing</title>
-      <link>https://dst.lbl.gov/security/project/ascr-ids-hpc/</link>
+      <link>https://secpriv.lbl.gov/project/ascr-ids-hpc/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ascr-ids-hpc/</guid>
+      <guid>https://secpriv.lbl.gov/project/ascr-ids-hpc/</guid>
       <description>&lt;p&gt;In this project, CRD researchers developed mathematical and statistical techniques to analyze the secure access and use of high-performance computer systems.  The project was funded by the U.S. Department of Energy&amp;rsquo;s Applied Mathematics Section. &lt;/p&gt;
 &lt;p&gt;The overall goals of the project were to develop mathematical and statistical methods to detect intrusions of high-performance computing systems.  Our mathematical analysis is predicated on the fact that large HPC systems represent unique environments, quite unlike unspecialized systems or general Internet traffic.  User behavior on HPC systems tends to be much more constrained (often driven by research deadlines and limited computational resources), and is generally limited to certain paradigms of computation (the set of codes performing the bulk of execution provide a rich source of information). In addition, the collaboration networks of users on an HPC system exhibits special characteristics than can be exploited to detect misuse or fraud.   In this research work, we employed real system data, which we have obtained in collaboration with staff in the NERSC Division of LBNL.&lt;/p&gt;
 &lt;p&gt;LBNL was this lead institution for this activity, which also involved the University of California at Davis (UC Davis) and the International Computer Science Institute (ICSI) at UC Berkeley through LBNL subcontracts.  Over the course of the project, LBNL senior investigators included Deb Agarwal, David H. Bailey (PI), Scott Campbell, Juan Meza, Sean Peisert, Taghrid Samak, and Alexander Slepoy.  The UC Davis senior investigators were Sean Peisert (joint appointment) and Matt Bishop. ICSI senior investigators included Vern Paxson and Robin Sommer.  The research team was supported in their software development and data collection techniques by the staff at the National Energy Research Scientific Computing Center (NERSC).  A variety of students and postdocs at the Berkeley Lab, UC Berkeley, and UC Davis, were also involved, as were external collaborators (not funded by this grant), at Mt. Sinai School of Medicine and the University of San Francisco.&lt;/p&gt;
@@ -1168,26 +1168,26 @@ Sean Peisert, Reinhard Gentz, Joshua Boverhof, Chuck McParland, Sophie Engle, Ab
 &lt;p&gt;Robin Sommer, Vern Paxson, &lt;a href=&#34;http://dx.doi.org/10.1109/SP.2010.25&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Outside the Closed World: On Using Machine Learning For Network Intrusion Detection&amp;rdquo;,&lt;/a&gt; Proceedings of the 31st IEEE Symposium on Security and Privacy, Oakland, CA, IEEE Computer Society, May 2010, 305–316, &lt;a href=&#34;http://dx.doi.org/10.1109/SP.2010.25&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.1109/SP.2010.25&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;funding&#34;&gt;Funding&lt;/h3&gt;
 &lt;p&gt;This project was supported by the US Department of Energy&amp;rsquo;s Office of Science&amp;rsquo;s &lt;a href=&#34;http://science.energy.gov/ascr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Scientific Computing Research (ASCR)&lt;/a&gt; program.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>I3P Data Sanitization</title>
-      <link>https://dst.lbl.gov/security/project/i3p-sanitization/</link>
+      <link>https://secpriv.lbl.gov/project/i3p-sanitization/</link>
       <pubDate>Tue, 21 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/i3p-sanitization/</guid>
+      <guid>https://secpriv.lbl.gov/project/i3p-sanitization/</guid>
       <description>&lt;p&gt;This seed project looked at defining means for understanding what data can be sanitized, and how. Traditional techniques often either make data unusable for research or operational purposes or fail to completely sanitize the data. Thus, our data sanitization work built on past techniques by also using an &amp;ldquo;open world&amp;rdquo; assumption. We also asked, what are the relationships between data fields that would need to be made in order to reveal certain information, what associations need to be protected in order to conceal certain information, and, finally, given policy constraints by the different stakeholders, can a dataset be sanitized in a way that satisfies the policies of all of those people, or would certain compromises to one or more policies need to be made? At LBNL, this project was led by Sean Peisert and was funded by the Institute for Information Infrastructure Protection (I3P).&lt;/p&gt;
 &lt;p&gt;More information is available at the &lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/projects/sanitization.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis data sanitization project web site&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Computer Forensics</title>
-      <link>https://dst.lbl.gov/security/project/i3p-forensics/</link>
+      <link>https://secpriv.lbl.gov/project/i3p-forensics/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/i3p-forensics/</guid>
+      <guid>https://secpriv.lbl.gov/project/i3p-forensics/</guid>
       <description>&lt;p&gt;This project is looking at establishing a rigorous, scientific model of forensic logging and analysis that is both efficient and effective at establishing the data that is necessary to record in order to understand past events. Additional applications include e-voting and forensic evidence in the courtroom. While forensics traditionally looks at available data and attempts to draw conclusions from it, we, in contrast, seek to understand the questions that we want to answer, and then derive what data is necessary to support answers to those questions.&lt;/p&gt;
 &lt;p&gt;More information is available at the &lt;a href=&#34;http://web.cs.ucdavis.edu/~peisert/projects/forensics.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis Computer Forensics project web site&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -1195,28 +1195,28 @@ Sean Peisert, Reinhard Gentz, Joshua Boverhof, Chuck McParland, Sophie Engle, Ab
     
     <item>
       <title>Insider Threat</title>
-      <link>https://dst.lbl.gov/security/project/insider-threat/</link>
+      <link>https://secpriv.lbl.gov/project/insider-threat/</link>
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/insider-threat/</guid>
+      <guid>https://secpriv.lbl.gov/project/insider-threat/</guid>
       <description>&lt;p&gt;This project is looking at defining, analyzing, and seeking methods of ameliorating the insider threat. Whereas security has traditionally been defined with respect to a perimeter, using static and binary access control decisions, we assert that such a perimeter no longer exists and that traditional access control techniques inhibit authorized users from performing their job. We define the &amp;ldquo;insider threat&amp;rdquo; as a combination of (a) access to a particular resource, (b) knowledge of a particular resource, and/or (c) trust of an individual by a particular organization. Moreover, the insider threat is clearly also not binary, but a spectrum of &amp;ldquo;insiderness&amp;rdquo; based on the aforementioned qualities. In the past, we have sought to develop access control solutions that integrate this understanding in combination while also being informed by social science of how users may react most optimally to system access control and countermeasures. More recently, we have used a process modeling and analysis approach in the context of elections to evaluate insider threats.&lt;/p&gt;
 &lt;p&gt;More information is available at the &lt;a href=&#34;http://web.cs.ucdavis.edu/~peisert/projects/insider.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis Insider Threat project web site&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://dst.lbl.gov/security/admin/config.yml</link>
+      <link>https://secpriv.lbl.gov/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/admin/config.yml</guid>
+      <guid>https://secpriv.lbl.gov/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://dst.lbl.gov/security/googlea3505071e5b054e3/</link>
+      <link>https://secpriv.lbl.gov/googlea3505071e5b054e3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/googlea3505071e5b054e3/</guid>
+      <guid>https://secpriv.lbl.gov/googlea3505071e5b054e3/</guid>
       <description>google-site-verification: googlea3505071e5b054e3.html</description>
     </item>
     

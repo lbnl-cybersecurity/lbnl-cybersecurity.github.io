@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>micro-PMU | Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>https://dst.lbl.gov/security/tag/micro-pmu/</link>
-      <atom:link href="https://dst.lbl.gov/security/tag/micro-pmu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/tag/micro-pmu/</link>
+      <atom:link href="https://secpriv.lbl.gov/tag/micro-pmu/index.xml" rel="self" type="application/rss+xml" />
     <description>micro-PMU</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dst.lbl.gov/security/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>micro-PMU</title>
-      <link>https://dst.lbl.gov/security/tag/micro-pmu/</link>
+      <link>https://secpriv.lbl.gov/tag/micro-pmu/</link>
     </image>
     
     <item>
       <title>Integrated Multi Scale Machine Learning for the Power Grid</title>
-      <link>https://dst.lbl.gov/security/project/gmlc-ml/</link>
+      <link>https://secpriv.lbl.gov/project/gmlc-ml/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/gmlc-ml/</guid>
+      <guid>https://secpriv.lbl.gov/project/gmlc-ml/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The goal of this project is to create advanced, distributed data analytics capability  to provide visibility and controllability to distribution grid operators.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
@@ -28,15 +28,15 @@
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/doe-grid-modernization-laboratory-consortium-gmlc-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Modernization Initiative&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Power Grid Threat Detection and Response with Data Analytics</title>
-      <link>https://dst.lbl.gov/security/project/ceds-threat-detection/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-threat-detection/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ceds-threat-detection/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-threat-detection/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The goal of this project is to develop technologies and methodologies to protect the nation&amp;rsquo;s power grid from advanced cyber and all-hazard threats. This will be done through the collection of disparate data and the use of advanced analytics to detect threats and response to them.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
@@ -58,15 +58,15 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program in support of the &lt;a href=&#34;http://energy.gov/doe-grid-modernization-laboratory-consortium-gmlc-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Modernization Initiative&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Inferring Computing Activity Using Physical Sensors</title>
-      <link>https://dst.lbl.gov/security/project/inferring-computing/</link>
+      <link>https://secpriv.lbl.gov/project/inferring-computing/</link>
       <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/inferring-computing/</guid>
+      <guid>https://secpriv.lbl.gov/project/inferring-computing/</guid>
       <description>&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI)&lt;/p&gt;
 &lt;h4 id=&#34;scientistspostdocs&#34;&gt;Scientists/Postdocs&lt;/h4&gt;
@@ -80,18 +80,18 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;p&gt;Bogdan Copos and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2005.03135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Catch Me If You Can: Using Power Analysis to Identify HPC Activity&lt;/a&gt;,&amp;rdquo; arXiv preprint arXiv:2005.03135, 2020.&lt;/p&gt;
 &lt;p&gt;Melissa Stockman, Dipankar Dwivedi, Reinhard Gentz, Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/4d64c3s2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Detecting Programmable Logic Controller Code Using Machine Learning&lt;/a&gt;&amp;rdquo; &lt;a href=&#34;https://www.journals.elsevier.com/international-journal-of-critical-infrastructure-protection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;International Journal of Critical Infrastructure Protection&lt;/em&gt;&lt;/a&gt;, accepted July 3, 2019. [&lt;a href=&#34;http://10.0.3.248/j.ijcip.2019.100306&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Bogdan Copos, Sean Peisert (advisor), &lt;a href=&#34;https://www.escholarship.org/uc/item/1xb249zt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Modeling Systems Using Side Channel Information&lt;/em&gt;&lt;/a&gt;. PhD dissertation, University of California, Davis, 2017.&lt;/p&gt;
-&lt;p&gt;More information is available on other LBNL R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;HPC Security projects&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other LBNL R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;HPC Security projects&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;software-resulting-from-this-project&#34;&gt;Software resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://ipo.lbl.gov/lbnl2016-053/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Identifying Computational Operations Based on Power Measurements&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cyber Security of Power Distribution Systems by Detecting Differences Between Real-time Micro-Synchrophasor Measurements and Cyber-Reported SCADA</title>
-      <link>https://dst.lbl.gov/security/project/ceds-upmu/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-upmu/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/ceds-upmu/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-upmu/</guid>
       <description>&lt;p&gt;The power distribution grid, like many cyber physical systems, was developed with careful consideration for safe operation. However, a number of features of the power system make it particularly vulnerable to cyber attacks via IP networks. &amp;ldquo;IT security&amp;rdquo; approaches to dealing with malware and other cyber attacks via a network include traditional intrusion detection systems, firewalls, encryption, etc&amp;hellip; These techniques can help, but as we&amp;rsquo;ve observed in a &lt;a href=&#34;http://dst.lbl.gov/projects.php?p=CEDS-CPS-Security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous project,&lt;/a&gt; traditional IT security techniques tend to leave a gap in safety and protection when applied to cyber-physical devices because they do not consider physical information known about the cyber-physical device they are protecting. Not only does this leave a gap in protection, but it ignores valuable information that could be used to better protect the cyber-physical device.&lt;/p&gt;
 &lt;p&gt;The goal of this is to design and implement a measurement network, which can detect and report the resultant impact of cyber security attacks on the distribution system network. The cyber-attacks against the distribution grid that we primarily focus on are ones that (1) modify the distribution grid operation and causing it to behave in individually or collectively disruptive or damaging ways; (2) mask communication from substation components in the distribution grid, through cyber denial-of-service attack, and prevent awareness of the actual operational function; and (3) mask communication to substation components in the distribution grid, through cyber denial of service attack, causing misbehaving components to fail to receive instructions to restore safe operation. The detection and reporting will be within short time frame, at present not communicable or measured on the distribution system, allowing operators to perform remedial action.&lt;/p&gt;
 &lt;p&gt;To do this, this project uses micro phasor measurement units to capture information about the physical state of the power distribution grid and combines this with SCADA command monitoring in real time. The project will build models of safe and unsafe states of the distribution grid so that certain classes cyber attacks can potentially be detected by their physical effects on the power distribution grid alone. The result will be a system that provides an independent, integrated picture of the distribution grid&amp;rsquo;s physical state, which will be difficult for a cyber-attacker to subvert using data-spoofing techniques.&lt;/p&gt;
@@ -134,7 +134,7 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;p&gt;Reinhard Gentz, &lt;a href=&#34;https://search.proquest.com/docview/1949775503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Wireless Sensor Data Transport, Aggregation and Security,&lt;/em&gt;&lt;/a&gt; Ph.D. Dissertation, Arizona State University, July 2017.&lt;/p&gt;
 &lt;p&gt;Mahdi Jamei, Anna Scaglione, Ciaran Roberts, Emma Stewart, Sean Peisert, Chuck McParland, and Alex McEachern, “&lt;a href=&#34;http://www.escholarship.org/uc/item/8pj28949&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automated Anomaly Detection in Distribution Grids Using µPMU Measurements&lt;/a&gt;,” &lt;em&gt;Proceedings of the 50th &lt;a href=&#34;http://www.hicss.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hawaii International Conference on System Sciences (HICSS)&lt;/a&gt;&lt;/em&gt;, Electric Energy Systems Track, Resilient Networks Minitrack, Waikoloa, HI, Jan. 4–7, 2017.&lt;/p&gt;
 &lt;p&gt;Mahdi Jamei, Emma Stewart, Sean Peisert, Anna Scaglione, Chuck McParland, Ciaran Roberts, and Alex McEachern, &amp;ldquo;&lt;a href=&#34;http://www.escholarship.org/uc/item/84j8f0md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Micro Synchrophasor-Based Intrusion Detection in Automated Distribution Systems: Towards Critical Infrastructure Security&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;http://computer.org/internet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Internet Computing&lt;/a&gt;&lt;/em&gt;,&amp;quot; Sept./Oct. 2016. [&lt;a href=&#34;http://www.escholarship.org/uc/item/84j8f0md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDL&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://dst.lbl.gov/security/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://dst.lbl.gov/security/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;software-resulting-from-this-project&#34;&gt;Software resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/lbnl-cybersecurity/sparcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LBNL Stream-Processing Architecture for Real-time Cyber-physical Security (SPARCS)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Analytics for Stream-Processing Architecture for Real-time Cyber-physical Security (Analytic-SPARCS).&lt;/strong&gt;&lt;/p&gt;
@@ -143,9 +143,9 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
     
     <item>
       <title>LBNL Power Data</title>
-      <link>https://dst.lbl.gov/security/project/powerdata/</link>
+      <link>https://secpriv.lbl.gov/project/powerdata/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://dst.lbl.gov/security/project/powerdata/</guid>
+      <guid>https://secpriv.lbl.gov/project/powerdata/</guid>
       <description>&lt;p&gt;Can synchronized distribution level phasor measurements enhance planning for power flow and system control, security and resiliency in the modernized grid?&lt;/p&gt;
 &lt;p&gt;By installing a number of µPMUs in various locations in the electric distribution system and evaluating the data from them, this data supports a variety of projects to determine whether refined measurement of voltage phase angles can enable advanced diagnostic, monitoring and control methodologies in distribution systems, and to begin developing algorithms for diagnostic applications based on µPMU data.&lt;/p&gt;
 &lt;p&gt;Applications being studied include:&lt;/p&gt;
@@ -158,7 +158,7 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;The data available is a set of power measurements and annotations, and an interface for exploring and downloading that data. The power measurements are collected by micro-phasor measurement units (μPMUs) and PQube3 power quality meters manufactured by Power Standards Laboratory in Alameda, CA and located at Lawrence Berkeley National Laboratory, as well as other sites.&lt;/p&gt;
 &lt;p&gt;The manufacturer &lt;a href=&#34;http://www.powerstandards.com/&#34;&gt;Power Standards Laboratory (PSL)&lt;/a&gt;  supplied and tested the measurement technology, which is based on PSL&amp;rsquo;s already commercialized &lt;a href=&#34;http://www.powersensorsltd.com/PQube3.php&#34;&gt;PQube power quality recorder&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;For the data collected by the &lt;a href=&#34;https://dst.lbl.gov/security/projects/ceds-upmu&#34;&gt;CEDS µPMU project&lt;/a&gt;, please reference this publication for citations, which also contains more information on the dataset:&lt;/p&gt;
+&lt;p&gt;For the data collected by the &lt;a href=&#34;https://secpriv.lbl.gov/projects/ceds-upmu&#34;&gt;CEDS µPMU project&lt;/a&gt;, please reference this publication for citations, which also contains more information on the dataset:&lt;/p&gt;
 &lt;p&gt;Sean Peisert, Reinhard Gentz, Joshua Boverhof, Chuck McParland, Sophie Engle, Abdelrahman Elbashandy, and Dan Gunter, &amp;ldquo;&lt;A HREF=&#34;https://doi.org/10.21990/C21599&#34;&gt;LBNL Open Power Data&lt;/A&gt;,&amp;rdquo; LBNL Technical Report, May 2017. DOI:&lt;A HREF=&#34;https://doi.org/10.21990/C21599&#34;&gt;10.21990/C21599&lt;/A&gt;&lt;/p&gt;
 &lt;p&gt;This work was sponsored in part by the &lt;A HREF=&#34;https://energy.gov&#34;&gt;U.S. Department of Energy&amp;rsquo;s&lt;/A&gt; &lt;A HREF=&#34;https://energy.gov/oe/downloads/cybersecurity-energy-delivery-systems-ceds-fact-sheets&#34;&gt;Cybersecurity for Energy Delivery Systems&lt;/A&gt; program.&lt;/p&gt;
 &lt;!--
