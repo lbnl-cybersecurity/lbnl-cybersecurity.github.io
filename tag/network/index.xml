@@ -18,7 +18,7 @@
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/project/desc/</guid>
       <description>&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://faculty.engineering.ucdavis.edu/akella/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Venkatesh Akella&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://faculty.engineering.ucdavis.edu/lowepower/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Lowe-Power&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;lbnl-affiliated-graduate-students&#34;&gt;LBNL-Affiliated Graduate Students:&lt;/h4&gt;
@@ -95,7 +95,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/project/ijc3-cyber-rd/</guid>
       <description>&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI)&lt;/p&gt;
 &lt;h4 id=&#34;faculty-scientists&#34;&gt;Faculty Scientists&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/departments/data-science-and-technology/idf/affiliates/chen-nee-chuah/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chen-Nee Chuah&lt;/a&gt; (LBNL Faculty Scientist / UC Davis)&lt;br&gt;
 &lt;a href=&#34;https://crd.lbl.gov/departments/data-science-and-technology/idf/affiliates/dipak-ghosal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dipak Ghosal&lt;/a&gt; (LBNL Faculty Scientist / UC Davis)&lt;/p&gt;
@@ -122,7 +122,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/project/ascr-hpc-cybersecurity-codesign/</guid>
       <description>&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://faculty.engineering.ucdavis.edu/akella/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Venkatesh Akella&lt;/a&gt; (&lt;a href=&#34;http://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt; / LBNL Faculty Scientist)&lt;br&gt;
 &lt;a href=&#34;https://faculty.engineering.ucdavis.edu/lowepower/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Lowe-Power&lt;/a&gt; (&lt;a href=&#34;http://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt; / LBNL Faculty Scientist)&lt;/p&gt;
@@ -255,8 +255,8 @@ Ayaz Akram, [Setting up Trusted HPC System in the Cloud](https://arch.cs.ucdavis
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/project/nsf-netsage/</guid>
       <description>&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://internationalnetworks.iu.edu/about/schopf.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jen Schopf&lt;/a&gt; (Lead PI at IU)&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;br&gt;
-Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Security Advisor)&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;http://internationalnetworks.iu.edu/about/schopf.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jen Schopf&lt;/a&gt; (Lead PI at IU)&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;br&gt;
+Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Security Advisor)&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;br&gt;
 &lt;/a&gt;
 &lt;a href=&#34;http://es.net/about/esnet-staff/Tools-Team/andrew-lake/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Lake&lt;/a&gt; (Current Lead at LBNL)
 &lt;a href=&#34;http://www2.hawaii.edu/~leighj/JASON_LEIGH/Jason_Leigh_Home_Page.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Leigh&lt;/a&gt; (Co-PI; Lead at UH)&lt;/p&gt;
@@ -296,7 +296,7 @@ Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Secur
 &lt;p&gt;Source code for the &lt;a href=&#34;https://github.com/lbnl-cybersecurity/sparcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LBNL Stream-Processing Architecture for Real-time Cyber-physical Security (SPARCS) is available at GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
 &lt;a href=&#34;http://eetd.lbl.gov/people/ciaran-roberts-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciaran Roberts&lt;/a&gt; (Co-PI; LBNL)&lt;br&gt;
 &lt;a href=&#34;http://lab.engineering.asu.edu/scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Co-PI; ASU)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel&lt;/h4&gt;
@@ -357,7 +357,7 @@ Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Secur
       <description>&lt;p&gt; This project is called, &amp;ldquo;Application of Cyber Security Techniques in the Protection of Efficient Cyber-Physical Energy Generation Systems.&amp;rdquo; In this project, we designed and developed a security monitoring and analysis framework for control systems and smart grid technologies. This system is designed to enhance resiliency of the system by integrating traditional computer security and safety engineering techniques. The goal is to integrate the monitoring and analysis of IP network traffic, as well as serial communications and physical constraints within a single intrusion detection system (IDS) framework and provide capabilities for determining the physical safety of system operations by simultaneously examining behavior at multiple hierarchical layers and contexts.&lt;/p&gt;
 &lt;p&gt;This project was supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
 &lt;a href=&#34;https://crd.lbl.gov/departments/data-science-and-technology/idf/affiliates/charles-mcparland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck McParland&lt;/a&gt; (PI; LBNL)&lt;br&gt;
 &lt;a href=&#34;http://web.ece.ucdavis.edu/scaglionelab/cv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Lead at UC Davis)&lt;/p&gt;
 &lt;h4 id=&#34;postdocs&#34;&gt;Postdocs&lt;/h4&gt;

@@ -22,7 +22,7 @@
 &lt;p&gt;LBNL will also lead a new workgroup for privacy-preserving &amp;amp; cybersecure data and model sharing standards for solar / IBR / DER industry stakeholders. Use cases will focus on data and models for high solar / IBR / DER penetration scenarios. This will include threat-sharing program reformations, leveraging prior experience with CESER’s CEDS program.&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/eere/solar/solar-energy-technologies-office&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solar Energy Technologies Office (SETO)&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
 &lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://kevalaanalytics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt;&lt;/p&gt;
@@ -42,7 +42,7 @@
 This creates a vulnerability for a cyber attacker to sabotage processes through tainted training data or specially crafted inputs.  Consequences might be tainted manufactured output, traffic collisions, power outages, or damage to scientific instruments or experiments. This project is developing secure machine learning methods that will enable safer operation of automated, adaptive, learning-driven &amp;ldquo;cyber-physical system&amp;rdquo; processes.&lt;/p&gt;
 &lt;p&gt;This project is supported by Berkeley Lab Contractor Supported Research funding.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) \
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) \
 &lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.yizechen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yize Chen&lt;/a&gt;&lt;/p&gt;
@@ -97,7 +97,7 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;p&gt;This project aims to explore applications of a Byzantine Fault Tolerant (BFT) architecture in combination with Machine Learning (ML/AI) methods to ensure that the bulk power system, including protective relays in the transmission grid, and associated substation and control center systems, can perform intrusion tolerant operations.&lt;/p&gt;
 &lt;p&gt;This project is funded by several offices within the U.S.  Department of Energy under the auspices of the DOE Grid Modernization Initiative.  The project is led by PNNL.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigator-at-lbnl&#34;&gt;Principal Investigator at LBNL:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI at LBNL)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI at LBNL)&lt;/p&gt;
 &lt;!--
 #### UMBC Collaborators
 
@@ -128,14 +128,13 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
 &lt;p&gt;DOE Press Release: &amp;ldquo;&lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Energy Announces Awardees of $30 Million Research Call to Enhance Cybersecurity for Energy Delivery Systems&lt;/a&gt;,&amp;rdquo; August 27, 2019.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;co-leads&#34;&gt;Co-Leads:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://scaglione.engineering.asu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Lead at Cornell Tech)  &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Lead at Cornell Tech)  &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Lead at Kevala)&lt;/p&gt;
-&lt;h4 id=&#34;postdocs&#34;&gt;Postdocs:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.public.asu.edu/~skadam6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sachin Kadam&lt;/a&gt; (ASU)&lt;/p&gt;
 &lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/nikhil--ravi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Ravi&lt;/a&gt; (Cornell Tech)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nikhil-ravi.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Ravi&lt;/a&gt; (Cornell Tech) &lt;br&gt;
+&lt;a href=&#34;https://sinelab.tech.cornell.edu/research/people/rojin_zandi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rojin Zandi&lt;/a&gt; (Cornell Tech)&lt;/p&gt;
 &lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://kevalaanalytics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt;&lt;br&gt;
@@ -143,7 +142,8 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;a href=&#34;https://www.portlandgeneral.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Portland General Electric&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;hhttps://www.SunPower.com&#34;&gt;SunPower&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (LBNL)&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.public.asu.edu/~skadam6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sachin Kadam&lt;/a&gt; (ASU) &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://crd.lbl.gov/departments/data-science-and-technology/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/raksha-ramakrishna-b4390374/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Raksha Ramakrishnan&lt;/a&gt; (KTH) &lt;br&gt;
 &lt;a href=&#34;http://eetd.lbl.gov/people/ciaran-roberts-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciaran Roberts&lt;/a&gt; (LBNL)&lt;/p&gt;
@@ -153,6 +153,7 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;h4 id=&#34;past-partners&#34;&gt;Past Partners:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.asu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arizona State University&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Nikhil Ravi, Anna Scaglione, Sachin Kadam, Reinhard Gentz, Sean Peisert, Brent Lunghino, Emmanuel Levijarvi, Aram Shumavon, &amp;ldquo;Differentially Private &lt;em&gt;K&lt;/em&gt;-means Clustering Applied to Meter Data Analysis and Synthesis,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2112.03801&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2112.03801&lt;/a&gt;, 7 Dec 2021.&lt;/p&gt;
 &lt;p&gt;Sachin Kadam, Anna Scaglione, Nikhil Ravi, Sean Peisert, Brent Lunghino, and Aram Shumavon, &amp;ldquo;Optimum Noise Mechanism for Differentially Private Queries in Discrete Finite Sets,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2111.11661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.11661&lt;/a&gt;, 23 Nov 2021.&lt;/p&gt;
 &lt;p&gt;Nikhil Ravi, Anna Scaglione, and Sean Peisert, &amp;ldquo;Colored Noise Mechanism for Differentially Private Clustering,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2111.11661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.07850&lt;/a&gt;, 15 Nov 2021.&lt;/p&gt;
 &lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
@@ -187,12 +188,12 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (LBNL) &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://eta.lbl.gov/people/ciaran-roberts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciaran Roberts&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://eta.lbl.gov/people/sy-toan-ngo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sy-Toan Ngo&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://eta.lbl.gov/people/michael-sankur&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Sankur&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/davidwpinney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Pinney&lt;/a&gt; (NRECA) &lt;br&gt;
-&lt;a href=&#34;https://scaglione.engineering.asu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (ASU) &lt;br&gt;
+&lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Cornell Tech) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/brunoleao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bruno Leao&lt;/a&gt; (Siemens) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/sindhu-suresh-ph-d-pmp-csm-80656b18/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sindhu Suresh&lt;/a&gt; (Siemens)&lt;/p&gt;
 &lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
@@ -227,7 +228,7 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;p&gt;This project was supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
 &lt;p&gt;DOE/LBNL Press Release: &amp;ldquo;&lt;a href=&#34;http://newscenter.lbl.gov/2017/09/26/berkeley-lab-aims-to-strengthen-the-cybersecurity-of-the-grid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Aims to Strengthen the Cybersecurity of the Grid&lt;/a&gt;,&amp;rdquo; September 26, 2017.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
 &lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/departments/data-science-and-technology/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; (LBNL)  &lt;br&gt;
@@ -273,7 +274,7 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;p&gt;&lt;a href=&#34;http://intra.ece.ucr.edu/~hamed/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hamed Mohsenian-Rad&lt;/a&gt; (PI; UC Riverside)&lt;br&gt;
 Mahnoosh Alizadeh (Co-PI; PI at UC Santa Barbara)&lt;br&gt;
 Rajit Gadh (Co-PI; PI at UC Los Angeles)&lt;br&gt;
-&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (Co-PI; PI at LBNL)&lt;br&gt;
+&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (Co-PI; PI at LBNL)&lt;br&gt;
 Keyue Smedley (Co-PI; PI at UC Irvine)&lt;br&gt;
 Emma Stewart (Co-PI; PI at LLNL)&lt;/p&gt;
 &lt;p&gt;Read more at the &lt;a href=&#34;https://pdcs.engr.ucr.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC-National Lab Center for Power Distribution Cyber Security web site&lt;/a&gt;.&lt;/p&gt;
@@ -296,7 +297,7 @@ Emma Stewart (Co-PI; PI at LLNL)&lt;/p&gt;
 &lt;p&gt;The goal of this project is to create advanced, distributed data analytics capability  to provide visibility and controllability to distribution grid operators.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
 &lt;p&gt;Emma Stewart (Lead; LLNL)  &lt;br&gt;
-&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI at LBNL)&lt;/p&gt;
+&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI at LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel-at-lbnl&#34;&gt;Senior Personnel at LBNL:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (LBNL)  &lt;br&gt;
 &lt;a href=&#34;https://crd.lbl.gov/departments/data-science-and-technology/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; (LBNL)&lt;/p&gt;
@@ -316,7 +317,7 @@ Emma Stewart (Co-PI; PI at LLNL)&lt;/p&gt;
 &lt;p&gt;The goal of this project is to develop technologies and methodologies to protect the nation&amp;rsquo;s power grid from advanced cyber and all-hazard threats. This will be done through the collection of disparate data and the use of advanced analytics to detect threats and response to them.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
 &lt;p&gt;Jamie Van Randwyk (Lead; LLNL)  &lt;br&gt;
-&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (Co-PI; Lead at LBNL)&lt;/p&gt;
+&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (Co-PI; Lead at LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel-at-lbnl&#34;&gt;Senior Personnel at LBNL&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (LBNL)  &lt;br&gt;
 &lt;a href=&#34;https://crd.lbl.gov/departments/data-science-and-technology/idf/staff/joshua-boverhof/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshua Boverhof&lt;/a&gt; (LBNL)  &lt;br&gt;
@@ -374,7 +375,7 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;p&gt;Source code for the &lt;a href=&#34;https://github.com/lbnl-cybersecurity/sparcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LBNL Stream-Processing Architecture for Real-time Cyber-physical Security (SPARCS) is available at GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
 &lt;a href=&#34;http://eetd.lbl.gov/people/ciaran-roberts-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciaran Roberts&lt;/a&gt; (Co-PI; LBNL)&lt;br&gt;
 &lt;a href=&#34;http://lab.engineering.asu.edu/scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Co-PI; ASU)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel&lt;/h4&gt;
@@ -470,7 +471,7 @@ Sean Peisert, Reinhard Gentz, Joshua Boverhof, Chuck McParland, Sophie Engle, Ab
       <description>&lt;p&gt; This project is called, &amp;ldquo;Application of Cyber Security Techniques in the Protection of Efficient Cyber-Physical Energy Generation Systems.&amp;rdquo; In this project, we designed and developed a security monitoring and analysis framework for control systems and smart grid technologies. This system is designed to enhance resiliency of the system by integrating traditional computer security and safety engineering techniques. The goal is to integrate the monitoring and analysis of IP network traffic, as well as serial communications and physical constraints within a single intrusion detection system (IDS) framework and provide capabilities for determining the physical safety of system operations by simultaneously examining behavior at multiple hierarchical layers and contexts.&lt;/p&gt;
 &lt;p&gt;This project was supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/sean-peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
 &lt;a href=&#34;https://crd.lbl.gov/departments/data-science-and-technology/idf/affiliates/charles-mcparland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck McParland&lt;/a&gt; (PI; LBNL)&lt;br&gt;
 &lt;a href=&#34;http://web.ece.ucdavis.edu/scaglionelab/cv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Lead at UC Davis)&lt;/p&gt;
 &lt;h4 id=&#34;postdocs&#34;&gt;Postdocs&lt;/h4&gt;
