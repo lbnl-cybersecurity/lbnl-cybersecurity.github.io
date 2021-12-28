@@ -32,6 +32,8 @@
   <url>
     <loc>https://secpriv.lbl.gov/tag/edge/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>https://secpriv.lbl.gov/tag/formal-methods/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://secpriv.lbl.gov/tag/hpc/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://secpriv.lbl.gov/tag/machine-learning/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
@@ -150,13 +152,15 @@
   <url>
     <loc>https://secpriv.lbl.gov/project/i3p-sanitization/</loc><lastmod>2010-09-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://secpriv.lbl.gov/project/i3p-forensics/</loc><lastmod>2010-09-01T00:00:00+00:00</lastmod></url>
+    <loc>https://secpriv.lbl.gov/project/election-process-modeling-analysis/</loc><lastmod>2008-10-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://secpriv.lbl.gov/tag/forensics/</loc><lastmod>2010-09-01T00:00:00+00:00</lastmod></url>
+    <loc>https://secpriv.lbl.gov/tag/forensics/</loc><lastmod>2008-09-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://secpriv.lbl.gov/tag/insider/</loc><lastmod>2010-09-01T00:00:00+00:00</lastmod></url>
+    <loc>https://secpriv.lbl.gov/tag/insider/</loc><lastmod>2008-09-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://secpriv.lbl.gov/project/insider-threat/</loc><lastmod>2010-09-01T00:00:00+00:00</lastmod></url>
+    <loc>https://secpriv.lbl.gov/project/insider-threat/</loc><lastmod>2008-09-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://secpriv.lbl.gov/project/i3p-forensics/</loc><lastmod>2007-09-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://secpriv.lbl.gov/admin/</loc></url>
   <url>

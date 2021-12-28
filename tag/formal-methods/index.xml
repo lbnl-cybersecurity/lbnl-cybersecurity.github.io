@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>formal methods | Berkeley Lab Cybersecurity R&amp;D</title>
+    <link>https://secpriv.lbl.gov/tag/formal-methods/</link>
+      <atom:link href="https://secpriv.lbl.gov/tag/formal-methods/index.xml" rel="self" type="application/rss+xml" />
+    <description>formal methods</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2021</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
+      <title>formal methods</title>
+      <link>https://secpriv.lbl.gov/tag/formal-methods/</link>
+    </image>
+    
+    <item>
+      <title>AOSCSWAP: Study of Academic, Open Source, and COTS Software Assurance Products</title>
+      <link>https://secpriv.lbl.gov/project/dhs-software-assurance/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/dhs-software-assurance/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;In this project, LBNL will help inform DHS S&amp;amp;T regarding the state of the art in software assurance tools and capabilities.&lt;/p&gt;
+&lt;p&gt;This project is supported by the the U.S. Department of Homeland Security&amp;rsquo;s &lt;a href=&#34;https://www.dhs.gov/science-and-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science and Technology Directorate&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Election Process Modeling and Analysis</title>
+      <link>https://secpriv.lbl.gov/project/election-process-modeling-analysis/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/election-process-modeling-analysis/</guid>
+      <description>&lt;p&gt;We have had several different thrusts to our work with elections and electronic voting.&lt;/p&gt;
+&lt;p&gt;One key thrust was to explore &lt;a href=&#34;http://laser.cs.umass.edu/tools/littlejil.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;process composition tools&lt;/a&gt; as applied to elections, concentrating particularly on mail-in and Internet voting. This included exploration of how to compose systems from pre-analyzed process components, how to analyze the vulnerability of these systems to attacks, and how to guarantee that important security properties are ensured for the resulting composed system. The underlying processes represent aspects of national and local elections, their composition produces an election process, and analysis of the composition gives insight into potential errors or attacks on the election. Providing an approach for &lt;a href=&#34;http://laser.cs.umass.edu/staticanalysis/index.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;formally reasoning&lt;/a&gt; about human participation extends current security work. The project also breaks new ground by exploring process-based approaches for modeling and defending against attacks.&lt;/p&gt;
+&lt;p&gt;Another thrust that we have examined looked at auditing. Election auditing verifies that the systems and procedures work as intended, and that the votes have been counted correctly. If a problem arises, forensic techniques enable auditors to determine what happened and how to compensate if possible. Complicating this is that the audit trails enabling analysis of failures may contain information that either exposes the identity of the voter (enabling voter coercion, for example); or that communicates a message to a third party (enabling vote selling). The goal of this project was to determine the information needed to assess whether the election process in general, and e-voting machines in particular, operate with the desired degree of assurance, especially with respect to anonymity and privacy.&lt;/p&gt;
+&lt;p&gt;The leads at UC Davis for this work were:&lt;/p&gt;
+&lt;p&gt;&lt;A HREF=&#34;http://nob.cs.ucdavis.edu/bishop/&#34;&gt;Matt Bishop&lt;/A&gt; (PI; UC Davis) &lt;br&gt;
+&lt;A HREF=&#34;http://www.cs.ucdavis.edu/~peisert/&#34;&gt;Sean Peisert&lt;/A&gt; (CoPI; UC Davis and LBNL)&lt;/p&gt;
+&lt;p&gt;This work was performed in close cooperation with the &lt;A HREF=&#34;http://www.marinvotes.org/&#34;&gt;Marin County Registrar of Voters&#39; office&lt;/A&gt; and the &lt;A HREF=&#34;http://www.yoloelections.org/&#34;&gt;Yolo County Clerk-Recorder&amp;rsquo;s office&lt;/A&gt;.&lt;/p&gt;
+&lt;p&gt;We also collaborated closely with &lt;A HREF=&#34;http://laser.cs.umass.edu/people/ljo.html&#34;&gt;Lee Osterweil&lt;/A&gt;, &lt;A HREF=&#34;http://www.cs.umass.edu/~clarke/&#34;&gt;Lori Clarke&lt;/A&gt;, &lt;A HREF=&#34;https://www.math.umass.edu/~avrunin&#34;&gt;George Avrunin&lt;/A&gt;, and their graduate students and postdocs in the &lt;A HREF=&#34;http://laser.cs.umass.edu/&#34;&gt;LASER Lab&lt;/A&gt; at &lt;A HREF=&#34;http://www.cs.umass.edu/&#34;&gt;UMass Amherst&lt;/A&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available at the &lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/projects/voting.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis elections and electronic voting project web site&lt;/a&gt; and &lt;a href=&#34;http://laser.cs.umass.edu/casestudies/elections.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UMass Amherst elections project web site&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;selected-publications-resulting-from-this-project&#34;&gt;Selected publications resulting from this project&lt;/h3&gt;
+&lt;p&gt;Matt Bishop, Philip Stark, Josh Benaloh, Joseph Kiniry, Ron Rivest, Sean Peisert, Joseph Hall, and Vanessa Teague, &amp;ldquo;&lt;A HREF=&#34;https://lawfareblog.com/open-source-software-wont-ensure-election-security&#34;&gt;Open-Source Software Won&amp;rsquo;t Ensure Election Security&lt;/A&gt;,&amp;rdquo; &lt;A HREF=&#34;https://www.lawfareblog.com&#34;&gt;Lawfare&lt;/A&gt;, August 24, 2017.  [&lt;A HREF=&#34;bibtex/Bishop2017-OSS-Elections.bib&#34;&gt;bib&lt;/A&gt;]&lt;/p&gt;
+&lt;p&gt;Leon J. Osterweil, Matt Bishop, Heather M. Conboy, Huong Phan, Borislava I. Simidchieva, George S. Avrunin, Lori A. Clarke, and Sean Peisert, &amp;ldquo;&lt;A HREF=&#34;research/2017-TOPS-ElectionProcesses.pdf&#34;&gt;A Comprehensive Framework for Using Iterative Analysis to Improve Human-Intensive Process Security: An Election Example&lt;/A&gt;,&amp;rdquo; &lt;em&gt;&lt;A HREF=&#34;http://tops.acm.org&#34;&gt;ACM Transactions on Privacy and Security (TOPS)&lt;/A&gt;&lt;/em&gt;, 20(2), March 2017. [&lt;A HREF=&#34;http://dx.doi.org/10.1145/3041041&#34;&gt;DOI&lt;/A&gt;] [&lt;A HREF=&#34;http://dl.acm.org/authorize?N23264&#34;&gt;OA&lt;/A&gt;] [&lt;A HREF=&#34;http://www.escholarship.org/uc/item/6r53h7zt&#34;&gt;CDL&lt;/A&gt;]&lt;/p&gt;
+&lt;p&gt;Matt Bishop, Heather Conboy, Huong Phan, Borislava I. Simidchieva, George Avrunin, Lori Clarke, Lee Osterweil, and Sean Peisert,&amp;quot; &lt;A HREF=&#34;research/2014-WRIT-Insider-Process.pdf&#34;&gt;Insider Detection by Process Analysis&lt;/A&gt;,&amp;quot; &lt;EM&gt;Proceedings of the &lt;A HREF=&#34;http://www.sei.cmu.edu/community/WRIT2014/&#34;&gt;2014 Workshop on Research for Insider Threat (WRIT)&lt;/A&gt;&lt;/EM&gt;,
+&lt;A HREF=&#34;http://www.ieee-security.org/TC/SPW2014/&#34;&gt;IEEE Computer Society Security and Privacy Workshops&lt;/A&gt;, San Jose, CA, May 18, 2014.&lt;/p&gt;
+&lt;p&gt;Matt Bishop and Sean Peisert, &amp;ldquo;&lt;A HREF=&#34;research/2012-SandP-ElectionsSecurity.pdf&#34;&gt;Security and Elections&lt;/A&gt;,&amp;rdquo;
+&lt;em&gt;&lt;A HREF=&#34;http://www.computer.org/security&#34;&gt;IEEE Security and Privacy&lt;/A&gt;&lt;/em&gt;,&lt;strong&gt;10&lt;/strong&gt;(5), pp. 64–67, Sept.-Oct. 2012. [&lt;A HREF=&#34;bibtex/Peisert2012-SP.bib&#34;&gt;BibTeX&lt;/A&gt;] [&lt;A HREF=&#34;http://dx.doi.org/10.1109/MSP.2012.127&#34;&gt;DOI&lt;/A&gt;]&lt;/p&gt;
+&lt;p&gt;Huong Phan, George Avrunin, Matt Bishop, Lori Clarke, and Leon J. Osterweil, &amp;ldquo;&lt;A HREF=&#34;https://www.usenix.org/system/files/conference/evtwote12/evtwote12-final26.pdf&#34;&gt;A Systematic Process-Model-Based Approach for Synthesizing Attacks and Evaluating Them&lt;/A&gt;,&amp;rdquo; &lt;EM&gt;Proceedings of the &lt;A HREF=&#34;http://www.usenix.org/events/evtwote12/&#34;&gt;2012 Electronic Voting Technology Workshop/Workshop on Trustworthy Elections (EVT/WOTE)&lt;/A&gt;&lt;/EM&gt;, Washinton, D.C., August 2012.&lt;/p&gt;
+&lt;p&gt;Borislava I. Simidchieva, Sophie J. Engle, Michael Clifford, Alicia Clay Jones, Sean Peisert, Matt Bishop, Lori A. Clarke, and Leon J. Osterweil, &amp;ldquo;&lt;A HREF=&#34;http://www.usenix.org/event/evtwote10/tech/full_papers/Simidchieva.pdf&#34;&gt;Modeling Faults to Improve Election Process Robustness&lt;/A&gt;,&amp;rdquo;
+&lt;EM&gt;Proceedings of the &lt;A HREF=&#34;http://www.usenix.org/events/evtwote10/&#34;&gt;2010 Electronic Voting Technology Workshop/Workshop on Trustworthy Elections (EVT/WOTE)&lt;/A&gt;&lt;/EM&gt;,
+Washinton, D.C., August 11–13, 2010.  [&lt;A HREF=&#34;bibtex/Peisert2010-EVT.bib&#34;&gt;BibTeX&lt;/A&gt;] [&lt;A HREF=&#34;http://www.usenix.org/events/evtwote10/tech/full_papers/Simidchieva.pdf&#34;&gt;Authoritative&lt;/A&gt;]&lt;/p&gt;
+&lt;p&gt;Matt Bishop, Sean Peisert, Candice Hoke, Mark Graff, and David Jefferson, &amp;ldquo;&lt;A HREF=&#34;research/2009-EVT-Forensics-BPHGJ.pdf&#34;&gt;E-Voting and Forensics: Prying Open the Black Box&lt;/A&gt;,&amp;rdquo;
+&lt;EM&gt;Proceedings of the &lt;A HREF=&#34;http://www.usenix.org/events/evtwote09/&#34;&gt;2009 Electronic Voting Technology Workshop/Workshop on Trustworthy Elections (EVT/WOTE)&lt;/A&gt;&lt;/EM&gt;,  Montreal, Canada, August 10–11, 2009. [&lt;A HREF=&#34;bibtex/Peisert2009-EVT.bib&#34;&gt;BibTeX&lt;/A&gt;] [&lt;A HREF=&#34;http://www.usenix.org/event/evtwote09/tech/full_papers/bishop.pdf&#34;&gt;Authoritative&lt;/A&gt;]&lt;/p&gt;
+&lt;p&gt;Sean Peisert, Matt Bishop, and Alec Yasinsac, &amp;ldquo;&lt;A HREF=&#34;research/2009-PBY-HICSS-Voting.pdf&#34;&gt;Vote Selling, Voter Anonymity, and Forensic Logging of Electronic Voting Machines&lt;/A&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;A HREF=&#34;http://www.hicss.hawaii.edu/hicss_42/apahome42.htm&#34;&gt;42nd Hawaii International Conference on System Sciences (HICSS)&lt;/A&gt;&lt;/em&gt;, Decision Technologies and Service Sciences Track, &lt;A HREF=&#34;http://www.hicss.hawaii.edu/hicss_42/minitracks/st-dfp.htm&#34;&gt;Digital Forensics Pedagogy and Foundational Research Activity Minitrack&lt;/A&gt;,
+Waikoloa, HI, January 5–8, 2009. &lt;em&gt;&lt;strong&gt;(Nominated for Best Paper Award)&lt;/strong&gt;&lt;/em&gt; [&lt;A HREF=&#34;bibtex/Peisert2008-HICSS.bib&#34;&gt;BibTeX&lt;/A&gt;] [&lt;A HREF=&#34;http://dx.doi.org/10.1109/HICSS.2009.503&#34;&gt;DOI&lt;/A&gt;]&lt;/p&gt;
+&lt;p&gt;Matt Bishop, Mark Graff, Candice Hoke, David Jefferson, and Sean Peisert, &amp;ldquo;&lt;A HREF=&#34;research/electionofficialtechguide-2008-10-08.pdf&#34;&gt;Resolving the Unexpected in Elections: Election Officials&#39; Options&lt;/A&gt;,&amp;rdquo; October 8, 2008. [&lt;A HREF=&#34;bibtex/EE2008.bib&#34;&gt;BibTeX&lt;/A&gt;] [&lt;A HREF=&#34;http://www.escholarship.org/uc/item/4xb8p2jn&#34;&gt;CDL&lt;/A&gt;]&lt;/DD&gt;&lt;/p&gt;
+&lt;DD&gt;Distributed by the &lt;A HREF=&#34;http://www.electionexcellence.org/&#34;&gt;Center For Election Excellence&lt;/A&gt; and the &lt;A HREF=&#34;http://www.americanbar.org/&#34;&gt;American Bar Association&lt;/A&gt;.
+&lt;p&gt;&lt;em&gt;Sponsors:&lt;/em&gt; &lt;A HREF=&#34;http://www.nsf.gov/&#34;&gt;National Science Foundation&lt;/A&gt; &lt;A HREF=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0905503&#34;&gt;CCF-0905503&lt;/A&gt;, &lt;A HREF=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1049738&#34;&gt;CNS-1049738&lt;/A&gt;, &lt;A HREF=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1258577&#34;&gt;CNS-1258577&lt;/A&gt;, and &lt;A HREF=&#34;http://www.nist.gov/itl/vote/&#34;&gt;NIST&lt;/A&gt;&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/security/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/security/research/hpc-security/&#34;&gt;cybersecurity for scientific computing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
