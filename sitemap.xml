@@ -22,9 +22,11 @@
   <url>
     <loc>https://secpriv.lbl.gov/project/dhs-software-assurance/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://secpriv.lbl.gov/tag/cybersecurity/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
+    <loc>https://secpriv.lbl.gov/tag/cyber-physical-systems/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://secpriv.lbl.gov/project/desc/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://secpriv.lbl.gov/tag/data-privacy/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://secpriv.lbl.gov/tag/differential-privacy/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
   <url>
@@ -42,13 +44,11 @@
   <url>
     <loc>https://secpriv.lbl.gov/tag/power-grid/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://secpriv.lbl.gov/tag/privacy/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://secpriv.lbl.gov/project/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://secpriv.lbl.gov/tag/scada/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
+    <loc>https://secpriv.lbl.gov/tag/scientific-computing/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://secpriv.lbl.gov/tag/science-security/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
+    <loc>https://secpriv.lbl.gov/tag/secure-systems/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://secpriv.lbl.gov/project/seto-standards/</loc><lastmod>2021-09-21T00:00:00+00:00</lastmod></url>
   <url>
@@ -84,7 +84,7 @@
   <url>
     <loc>https://secpriv.lbl.gov/research/ceds/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://secpriv.lbl.gov/research/hpc-security/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
+    <loc>https://secpriv.lbl.gov/research/scientific-computing/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://secpriv.lbl.gov/news/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -103,8 +103,6 @@
     <loc>https://secpriv.lbl.gov/project/uc-lfrp-cybersecurity-grid/</loc><lastmod>2018-03-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://secpriv.lbl.gov/project/gmlc-ml/</loc><lastmod>2017-12-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://secpriv.lbl.gov/tag/micro-pmu/</loc><lastmod>2017-12-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://secpriv.lbl.gov/project/ijc3-cyber-rd/</loc><lastmod>2017-03-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -156,9 +154,9 @@
   <url>
     <loc>https://secpriv.lbl.gov/tag/forensics/</loc><lastmod>2008-09-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://secpriv.lbl.gov/tag/insider/</loc><lastmod>2008-09-01T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://secpriv.lbl.gov/project/insider-threat/</loc><lastmod>2008-09-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://secpriv.lbl.gov/tag/insider-threat/</loc><lastmod>2008-09-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://secpriv.lbl.gov/project/i3p-forensics/</loc><lastmod>2007-09-01T00:00:00+00:00</lastmod></url>
   <url>
