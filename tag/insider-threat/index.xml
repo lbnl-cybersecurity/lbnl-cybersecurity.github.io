@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>insider threat | Berkeley Lab Cybersecurity R&amp;D</title>
+    <link>https://secpriv.lbl.gov/tag/insider-threat/</link>
+      <atom:link href="https://secpriv.lbl.gov/tag/insider-threat/index.xml" rel="self" type="application/rss+xml" />
+    <description>insider threat</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2022</copyright><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
+      <title>insider threat</title>
+      <link>https://secpriv.lbl.gov/tag/insider-threat/</link>
+    </image>
+    
+    <item>
+      <title>Insider Threat</title>
+      <link>https://secpriv.lbl.gov/project/insider-threat/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/insider-threat/</guid>
+      <description>&lt;p&gt;This project is looking at defining, analyzing, and seeking methods of ameliorating the insider threat. Whereas security has traditionally been defined with respect to a perimeter, using static and binary access control decisions, we assert that such a perimeter no longer exists and that traditional access control techniques inhibit authorized users from performing their job. We define the &amp;ldquo;insider threat&amp;rdquo; as a combination of (a) access to a particular resource, (b) knowledge of a particular resource, and/or (c) trust of an individual by a particular organization. Moreover, the insider threat is clearly also not binary, but a spectrum of &amp;ldquo;insiderness&amp;rdquo; based on the aforementioned qualities. In the past, we have sought to develop access control solutions that integrate this understanding in combination while also being informed by social science of how users may react most optimally to system access control and countermeasures. More recently, we have used a process modeling and analysis approach in the context of elections to evaluate insider threats.&lt;/p&gt;
+&lt;p&gt;More information is available at the &lt;a href=&#34;http://web.cs.ucdavis.edu/~peisert/projects/insider.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis Insider Threat project web site&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/scientific-computing/&#34;&gt;cybersecurity for scientific and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
