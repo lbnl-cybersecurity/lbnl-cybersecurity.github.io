@@ -248,17 +248,6 @@ Ayaz Akram, [Setting up Trusted HPC System in the Cloud](https://arch.cs.ucdavis
     </item>
     
     <item>
-      <title>Symbiosis in Byzantine Fault Tolerance and Intrusion Detection</title>
-      <link>https://secpriv.lbl.gov/project/nsf-bft-ids/</link>
-      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/nsf-bft-ids/</guid>
-      <description>&lt;p&gt;Two principal components for providing protection in large-scale distributed systems are Byzantine fault tolerance (BFT) and intrusion detection systems (IDS). BFT is used to implement strictly consistent replication of state in the face of arbitrary failures, including those introduced by malware and Internet pathogens. Intrusion detection relates to a broad set of services that detect events that could indicate the presence of an ongoing attack. But BFT traditionally suffers from high latency and replication requirements. But as these two components approach system security differently, we believe that intrusion detection has the potential to has the potential to improve BFT. The integration of these two efforts, at both the fundamental and system levels, is the theme of this research effort.&lt;/p&gt;
-&lt;p&gt;More information is available at the &lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/projects/bftids.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis BFT+IDS project web site&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/scientific-computing/&#34;&gt;cybersecurity for scientific and high-performance computing&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>NetSage - an open privacy-aware network measurement, analysis, and visualization service</title>
       <link>https://secpriv.lbl.gov/project/nsf-netsage/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
@@ -433,17 +422,6 @@ Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Secur
 &lt;p&gt;Robin Sommer, Vern Paxson, &lt;a href=&#34;http://dx.doi.org/10.1109/SP.2010.25&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Outside the Closed World: On Using Machine Learning For Network Intrusion Detection&amp;rdquo;,&lt;/a&gt; Proceedings of the 31st IEEE Symposium on Security and Privacy, Oakland, CA, IEEE Computer Society, May 2010, 305–316, &lt;a href=&#34;http://dx.doi.org/10.1109/SP.2010.25&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.1109/SP.2010.25&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;funding&#34;&gt;Funding&lt;/h3&gt;
 &lt;p&gt;This project was supported by the US Department of Energy&amp;rsquo;s Office of Science&amp;rsquo;s &lt;a href=&#34;http://science.energy.gov/ascr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Scientific Computing Research (ASCR)&lt;/a&gt; program.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/scientific-computing/&#34;&gt;cybersecurity for scientific and high-performance computing&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>I3P Data Sanitization</title>
-      <link>https://secpriv.lbl.gov/project/i3p-sanitization/</link>
-      <pubDate>Tue, 21 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/i3p-sanitization/</guid>
-      <description>&lt;p&gt;This seed project looked at defining means for understanding what data can be sanitized, and how. Traditional techniques often either make data unusable for research or operational purposes or fail to completely sanitize the data. Thus, our data sanitization work built on past techniques by also using an &amp;ldquo;open world&amp;rdquo; assumption. We also asked, what are the relationships between data fields that would need to be made in order to reveal certain information, what associations need to be protected in order to conceal certain information, and, finally, given policy constraints by the different stakeholders, can a dataset be sanitized in a way that satisfies the policies of all of those people, or would certain compromises to one or more policies need to be made? At LBNL, this project was led by Sean Peisert and was funded by the Institute for Information Infrastructure Protection (I3P).&lt;/p&gt;
-&lt;p&gt;More information is available at the &lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/projects/sanitization.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis data sanitization project web site&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/scientific-computing/&#34;&gt;cybersecurity for scientific and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

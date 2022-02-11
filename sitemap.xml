@@ -46,9 +46,6 @@
     <loc>https://secpriv.lbl.gov/tag/differential-privacy/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://secpriv.lbl.gov/tag/distributed-energy-resources/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://secpriv.lbl.gov/tag/edge/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -240,7 +237,5 @@
     <loc>https://secpriv.lbl.gov/categories/</loc>
   </url><url>
     <loc>https://secpriv.lbl.gov/post/</loc>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tag/zeek/bro-ids/</loc>
   </url>
 </urlset>
