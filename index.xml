@@ -407,13 +407,13 @@ $$&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-  One
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-  &lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-  Three
+   Three 
 &lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -560,7 +560,6 @@ James  Marsteller (Former Co-PI and Lead at PSC)&lt;/p&gt;
 &lt;p&gt;Sean Peisert, Karen Stocks, and Von Welch, &amp;ldquo;&lt;a href=&#34;https://cio.ucop.edu/helping-scientists-understand-research-cyber-risks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helping Scientists Understand Research Cyber Risks&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://cio.ucop.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC IT Blog&lt;/a&gt;, September 20, 2017.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, Von Welch, Andrew Adams, Michael Dopheide, Susan Sons, RuthAnne Bevier, Rich LeDuc, Pascal Meunier, Stephen Schwab, and Karen Stocks, Ilkay Altintas, James Cuff, Reagan Moore, and Warren Raquel, &amp;ldquo;&lt;a href=&#34;OSCRP&#34;&gt;Open Science Cyber Risk Profile&lt;/a&gt;,&amp;rdquo; February 2017.&lt;/p&gt;
 &lt;h3 id=&#34;trusted-ci-webinars-and-talks-involving-personnel-from-lbnl&#34;&gt;Trusted CI Webinars and Talks involving personnel from LBNL:&lt;/h3&gt;
-&lt;p&gt;Elisa Heymann, Barton Miller, and Sean Peisert, &amp;ldquo;Presenting the Results of the Trusted CI Annual Challenge on Software Assurance,&amp;rdquo; &lt;a href=&#34;https://www.trustedci.org/webinars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Webinar&lt;/a&gt;, February 28, 2022.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, Andrew Adams, Kay Avila, Elisa Heymann, &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=Q8TnSauLi7w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Observations on Software Assurance in Scientific Computing&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://www.trustedci.org/2021-nsf-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2021 NSF Cybersecurity Summit&lt;/a&gt;, October 13, 2021.&lt;/p&gt;
 &lt;p&gt;Jim Basney and Sean Peisert, &amp;ldquo;Two Community Surveys on Data Integrity Issues in Scientific Computing,&amp;rdquo;
 &lt;a href=&#34;https://www.trustedci.org/2020-nsf-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure&lt;/a&gt;, September 24, 2020. (&lt;a href=&#34;https://www.youtube.com/watch?v=Bh9v2H_1ADo&amp;amp;list=PLLoFSG1hhthRk1SkxWXa1oGhOvuLCQXvM&amp;amp;index=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;https://drive.google.com/file/d/1j3Vo1BU_t2okM3l4atiIkF4Jqj6h9Enm/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
