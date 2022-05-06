@@ -178,6 +178,26 @@ This creates a vulnerability for a cyber attacker to sabotage processes through 
     </item>
     
     <item>
+      <title>Cybersecurity via Inverter Grid Automatic Reconfiguration (CIGAR) - Year 3 (End of Project) Workshop</title>
+      <link>https://secpriv.lbl.gov/talk/ceds_cigar_y3_workshop/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/talk/ceds_cigar_y3_workshop/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;LBNL held an end of project workshop for the CIGAR project on Mar. 17, 2021 where project participants, stakeholders, and advisors were convened to discuss outcomes of the CIGAR project.  Due to the COVID-19 pandemic, the workshop was held virtually.&lt;/p&gt;
+&lt;h3 id=&#34;workshop-agenda&#34;&gt;Workshop Agenda&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/CIGAR%20Workshop%20Agenda.pdf&#34;&gt;Workshop Agenda&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;./LBNL_1.pdf&#34;&gt;Introductory Remarks and Project Overview, Sean Peisert and Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/LBNL_2.pdf&#34;&gt;Reinforcement Learning and PyCIGAR Architecture, Sy-Toan Ngo and Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/LBNL_3.pdf&#34;&gt;Simulation Experiments/Results, Ciaran Roberts (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/NRECA_4.pdf&#34;&gt;Integration of PyCIGAR into NRECA OMF and Demo, David Pinney (NRECA)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/ASU_5.pdf&#34;&gt;ASU Linearized Power Flow Model and SoDa, Ignacio Losada Carreno (ASU)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/Siemens_6.pdf&#34;&gt;Siemens Internal Tech Transfer Tool, Graph Convolutional Neural Networks and RL Extensions, Anton Kocheturov (Siemens)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/LBNL_7.pdf&#34;&gt;Key Findings and Future Research Directions, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 1 Workshop</title>
       <link>https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
@@ -660,6 +680,8 @@ James  Marsteller (Former Co-PI and Lead at PSC)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.asu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arizona State University&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;http://www.nreca.coop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Rural Electric Cooperative Association (NRECA)&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://www.siemens.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Siemens&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;project-workshops&#34;&gt;Project Workshops:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_cigar_y3_workshop/&#34;&gt;End of Project Workshop&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://archerint.com/solar-power-opens-up-new-targets-for-cyber-attackers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solar power opens up new targets for cyber attackers&lt;/a&gt; (Archer News) — May 30, 2019&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.solarpowerworldonline.com/2019/04/cyberattacks-threaten-smart-inverters-but-scientists-have-solutions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyberattacks threaten smart inverters, but scientists have solutions&lt;/a&gt; (Solar Power World) — April 30, 2019&lt;/p&gt;
