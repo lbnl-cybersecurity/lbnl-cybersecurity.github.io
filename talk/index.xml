@@ -5,7 +5,7 @@
     <link>https://secpriv.lbl.gov/talk/</link>
       <atom:link href="https://secpriv.lbl.gov/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2022</copyright><lastBuildDate>Wed, 02 Dec 2020 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2022</copyright><lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,9 +13,37 @@
     </image>
     
     <item>
+      <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 2 Workshop</title>
+      <link>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;LBNL held the second workshop for the SPADES project in Dec. 2022 where the project partners presented deep dives into work conducted in the second year of the project.  Presentations from project partners are included below:&lt;/p&gt;
+&lt;h3 id=&#34;participants&#34;&gt;Participants&lt;/h3&gt;
+&lt;p&gt;Daniel Arnold (Principal Investigator), LBNL &lt;a href=&#34;mailto:dbarnold@lbl.gov&#34;&gt;dbarnold@lbl.gov&lt;/a&gt;&lt;br&gt;
+Ciaran Roberts, LBNL &lt;a href=&#34;mailto:cmroberts@lbl.gov&#34;&gt;cmroberts@lbl.gov&lt;/a&gt;&lt;br&gt;
+Sy-Toan Ngo, LBNL &lt;a href=&#34;mailto:sytoanngo@lbl.gov&#34;&gt;sytoanngo@lbl.gov&lt;/a&gt;&lt;br&gt;
+David Pinney, NRECA, &lt;a href=&#34;mailto:david.pinney@nreca.coop&#34;&gt;david.pinney@nreca.coop&lt;/a&gt;&lt;br&gt;
+Lisa Slaughter, NRECA, &lt;a href=&#34;mailto:lisa.m.slaughter@gmail.com&#34;&gt;lisa.m.slaughter@gmail.com&lt;/a&gt;&lt;br&gt;
+Bruno Leao, Siemens CT, &lt;a href=&#34;mailto:bruno.leao@siemens.com&#34;&gt;bruno.leao@siemens.com&lt;/a&gt;&lt;br&gt;
+Sindhu Suresh, Siemens CT, &lt;a href=&#34;mailto:sindhu-suresh@siemens.com&#34;&gt;sindhu-suresh@siemens.com&lt;/a&gt;&lt;br&gt;
+Siddharth Bhela, Siemens CT, &lt;a href=&#34;mailto:siddharth.bhela@siemens.com&#34;&gt;siddharth.bhela@siemens.com&lt;/a&gt;&lt;br&gt;
+Dan Grinkevich, Siemens CT, &lt;a href=&#34;mailto:daniel.grinkevich@siemens.com&#34;&gt;daniel.grinkevich@siemens.com&lt;/a&gt;&lt;br&gt;
+Anna Scaglione, ASU, &lt;a href=&#34;mailto:as337@cornell.edu&#34;&gt;as337@cornell.edu&lt;/a&gt;&lt;br&gt;
+Ignacio Losada Carreno, Cornell Tech, &lt;a href=&#34;mailto:il244@cornell.edu&#34;&gt;il244@cornell.edu&lt;/a&gt;&lt;br&gt;
+Tong Wu, Cornell Tech, &lt;a href=&#34;mailto:tw385@cornell.edu&#34;&gt;tw385@cornell.edu&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/LBNL_SPADES_Y2.pdf&#34;&gt;LBNL (Sy-Toan Ngo)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/NRECA_SPADES_Y2_del6.pdf&#34;&gt;NRECA (David Pinney)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/SIEMENS_SPADES_Y2.pdf&#34;&gt;Siemens CT (Bruno Leao)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/CORNELL_SPADES_Y2.pdf&#34;&gt;Cornell Tech (Ignacio Losada Carreno, Tong Wu)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 1 Workshop</title>
       <link>https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/</link>
-      <pubDate>Wed, 02 Dec 2020 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;LBNL held the first workshop for the SPADES project on Dec. 2, 2020 where the project participants convened to discuss progress made over the past year as well as plan for work to be conducted during Year 2.  Due to the COVID-19 pandemic, the workshop was held virtually.&lt;/p&gt;

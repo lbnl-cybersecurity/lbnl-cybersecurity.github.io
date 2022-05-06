@@ -5,12 +5,40 @@
     <link>https://secpriv.lbl.gov/tag/power-grid/</link>
       <atom:link href="https://secpriv.lbl.gov/tag/power-grid/index.xml" rel="self" type="application/rss+xml" />
     <description>power grid</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2022</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2022</copyright><lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>power grid</title>
       <link>https://secpriv.lbl.gov/tag/power-grid/</link>
     </image>
+    
+    <item>
+      <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 2 Workshop</title>
+      <link>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;LBNL held the second workshop for the SPADES project in Dec. 2022 where the project partners presented deep dives into work conducted in the second year of the project.  Presentations from project partners are included below:&lt;/p&gt;
+&lt;h3 id=&#34;participants&#34;&gt;Participants&lt;/h3&gt;
+&lt;p&gt;Daniel Arnold (Principal Investigator), LBNL &lt;a href=&#34;mailto:dbarnold@lbl.gov&#34;&gt;dbarnold@lbl.gov&lt;/a&gt;&lt;br&gt;
+Ciaran Roberts, LBNL &lt;a href=&#34;mailto:cmroberts@lbl.gov&#34;&gt;cmroberts@lbl.gov&lt;/a&gt;&lt;br&gt;
+Sy-Toan Ngo, LBNL &lt;a href=&#34;mailto:sytoanngo@lbl.gov&#34;&gt;sytoanngo@lbl.gov&lt;/a&gt;&lt;br&gt;
+David Pinney, NRECA, &lt;a href=&#34;mailto:david.pinney@nreca.coop&#34;&gt;david.pinney@nreca.coop&lt;/a&gt;&lt;br&gt;
+Lisa Slaughter, NRECA, &lt;a href=&#34;mailto:lisa.m.slaughter@gmail.com&#34;&gt;lisa.m.slaughter@gmail.com&lt;/a&gt;&lt;br&gt;
+Bruno Leao, Siemens CT, &lt;a href=&#34;mailto:bruno.leao@siemens.com&#34;&gt;bruno.leao@siemens.com&lt;/a&gt;&lt;br&gt;
+Sindhu Suresh, Siemens CT, &lt;a href=&#34;mailto:sindhu-suresh@siemens.com&#34;&gt;sindhu-suresh@siemens.com&lt;/a&gt;&lt;br&gt;
+Siddharth Bhela, Siemens CT, &lt;a href=&#34;mailto:siddharth.bhela@siemens.com&#34;&gt;siddharth.bhela@siemens.com&lt;/a&gt;&lt;br&gt;
+Dan Grinkevich, Siemens CT, &lt;a href=&#34;mailto:daniel.grinkevich@siemens.com&#34;&gt;daniel.grinkevich@siemens.com&lt;/a&gt;&lt;br&gt;
+Anna Scaglione, ASU, &lt;a href=&#34;mailto:as337@cornell.edu&#34;&gt;as337@cornell.edu&lt;/a&gt;&lt;br&gt;
+Ignacio Losada Carreno, Cornell Tech, &lt;a href=&#34;mailto:il244@cornell.edu&#34;&gt;il244@cornell.edu&lt;/a&gt;&lt;br&gt;
+Tong Wu, Cornell Tech, &lt;a href=&#34;mailto:tw385@cornell.edu&#34;&gt;tw385@cornell.edu&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/LBNL_SPADES_Y2.pdf&#34;&gt;LBNL (Sy-Toan Ngo)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/NRECA_SPADES_Y2_del6.pdf&#34;&gt;NRECA (David Pinney)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/SIEMENS_SPADES_Y2.pdf&#34;&gt;Siemens CT (Bruno Leao)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/CORNELL_SPADES_Y2.pdf&#34;&gt;Cornell Tech (Ignacio Losada Carreno, Tong Wu)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Securing Solar for the Grid (S2G)</title>
@@ -57,7 +85,7 @@ This creates a vulnerability for a cyber attacker to sabotage processes through 
     <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 1 Workshop</title>
       <link>https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/</link>
-      <pubDate>Wed, 02 Dec 2020 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;LBNL held the first workshop for the SPADES project on Dec. 2, 2020 where the project participants convened to discuss progress made over the past year as well as plan for work to be conducted during Year 2.  Due to the COVID-19 pandemic, the workshop was held virtually.&lt;/p&gt;
@@ -194,21 +222,22 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://eta.lbl.gov/people/ciaran-roberts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciaran Roberts&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://eta.lbl.gov/people/sy-toan-ngo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sy-Toan Ngo&lt;/a&gt; (LBNL) &lt;br&gt;
-&lt;a href=&#34;https://eta.lbl.gov/people/michael-sankur&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Sankur&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/davidwpinney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Pinney&lt;/a&gt; (NRECA) &lt;br&gt;
-&lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Cornell Tech) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/brunoleao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bruno Leao&lt;/a&gt; (Siemens) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/sindhu-suresh-ph-d-pmp-csm-80656b18/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sindhu Suresh&lt;/a&gt; (Siemens)&lt;/p&gt;
+&lt;a href=&#34;https://scaglione.engineering.asu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Cornell Tech) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/brunoleao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bruno Leao&lt;/a&gt; (Siemens)&lt;/p&gt;
 &lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.asu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arizona State University&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.nreca.coop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Rural Electric Cooperative Association (NRECA)&lt;/a&gt; &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tech.cornell.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://www.nreca.coop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Rural Electric Cooperative Association (NRECA)&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.siemens.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Siemens&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;project-workshops&#34;&gt;Project Workshops&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/&#34;&gt;Year 1&lt;/a&gt;, held on 12/02/202&lt;/p&gt;
-&lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
-&lt;p&gt;TBD&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/&#34;&gt;Year 1&lt;/a&gt;, held on 12/02/2021 &lt;br&gt;
+&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/&#34;&gt;Year 2&lt;/a&gt;, held on 12/08/2022 and 12/15/2022&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Losada Carreno, I., Saha, S. S., Scaglione, A., Arnold, D., Ngo, S., and Roberts, C., “Log(v) 3LPF: A Linear Power Flow Formulation for Unbalanced Three-Phase Distribution Systems,” IEEE Transactions on Power Systems, accepted.&lt;/p&gt;
+&lt;p&gt;Arnold, D., Saha, S. S., Ngo, S., Roberts, C., Scaglione, A., Johnson, N., Peisert, S., and Pinney, D., “Adaptive Control of Distributed Energy Resources for Distribution Grid Voltage Stability,” IEEE Transactions on Power Systems, early access, March 2022, pp. 1-1.&lt;/p&gt;
+&lt;p&gt;Arnold, D., Ngo, S., Roberts, C., Chen, Y., Scaglione, A., and Peisert, S., “Adam-based Augmented Random Search for Control Policies for Distributed Energy Resource Cyber Attack Mitigation,” &lt;a href=&#34;https://acc2022.a2c2.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American Control Conference&lt;/a&gt;, 2022, accepted, available: &lt;a href=&#34;http://arxiv.org/abs/2201.11825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2201.11825&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Roberts, C., Uros M., Arnold, D., and Callaway, D. S., &amp;ldquo;Malicious Control of an Active Load in an Islanded Mixed-Source Microgrid.&amp;rdquo; In 2021 IEEE Madrid PowerTech, pp. 1-6. IEEE, 2021.&lt;/p&gt;
+&lt;p&gt;Roberts, C., Daniel Lara, J., Henriquez-Auba, R., Kameshwar Poolla, B., and Callaway, D. S., &amp;ldquo;Grid-Coupled Dynamic Response of Battery-Driven Voltage Source Converters.&amp;rdquo; In 2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (&lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SmartGridComm&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

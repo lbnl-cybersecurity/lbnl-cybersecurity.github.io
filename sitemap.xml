@@ -31,6 +31,21 @@
     <loc>https://secpriv.lbl.gov/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://secpriv.lbl.gov/tag/machine-learning/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tag/power-grid/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/talk/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tags/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://secpriv.lbl.gov/project/dhs-software-assurance/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -58,13 +73,7 @@
     <loc>https://secpriv.lbl.gov/tag/hpc/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://secpriv.lbl.gov/tag/machine-learning/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://secpriv.lbl.gov/tag/network/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tag/power-grid/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://secpriv.lbl.gov/project/</loc>
@@ -82,17 +91,11 @@
     <loc>https://secpriv.lbl.gov/tag/software-assurance/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://secpriv.lbl.gov/tags/</loc>
-    <lastmod>2021-09-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://secpriv.lbl.gov/talk/</loc>
-    <lastmod>2020-12-02T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/</loc>
-    <lastmod>2020-12-02T10:00:00+00:00</lastmod>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://secpriv.lbl.gov/project/gmlc-byzantine/</loc>
     <lastmod>2020-03-20T00:00:00+00:00</lastmod>
@@ -220,10 +223,10 @@
     <loc>https://secpriv.lbl.gov/tag/forensics/</loc>
     <lastmod>2008-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://secpriv.lbl.gov/project/insider-threat/</loc>
+    <loc>https://secpriv.lbl.gov/tag/insider-threat/</loc>
     <lastmod>2008-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://secpriv.lbl.gov/tag/insider-threat/</loc>
+    <loc>https://secpriv.lbl.gov/project/insider-threat/</loc>
     <lastmod>2008-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://secpriv.lbl.gov/project/i3p-forensics/</loc>
