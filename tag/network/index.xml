@@ -85,7 +85,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;blockquote&gt;
 &lt;p&gt;Sean Peisert, Eli Dart, William K. Barnett, James Cuff, Robert L. Grossman, Edward Balas, Ari Berman, Anurag Shankar, and Brian Tierney, &amp;ldquo;&lt;a href=&#34;https://academic.oup.com/jamia/article/doi/10.1093/jamia/ocx104/4367749/The-medical-science-DMZ-a-network-design-pattern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Medical Science DMZ: A Network Design Pattern for Data-Intensive Medical Science&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Journal of the American Medical Informatics Association (JAMIA)&lt;/em&gt;, 26(3):267–274, March 1, 2018.  DOI:&lt;a href=&#34;http://dx.doi.org/10.1093/jamia/ocx104&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1093/jamia/ocx104&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;pre&gt;&lt;code&gt;@article{MedicalScienceDMZ-2018-JAMIA-Full,
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;@article{MedicalScienceDMZ-2018-JAMIA-Full,
 	Author = {Sean Peisert and Eli Dart and Barnett, William K. and James Cuff and Grossman, Robert L. and Edward Balas and Ari Berman and Anurag Shankar and Brian Tierney},
 	Journal = {Journal of the American Medical Informatics Association (JAMIA)},
 	Month = {March 1},
@@ -94,8 +94,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 	Title = {{The Medical Science DMZ: A Network Design Pattern for Data-Intensive Medical Science}},
 	Volume = {26},
 	Year = {2018}}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
     <item>
