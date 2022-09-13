@@ -61,6 +61,50 @@ Tong Wu, Cornell Tech, &lt;a href=&#34;mailto:tw385@cornell.edu&#34;&gt;tw385@co
     </item>
     
     <item>
+      <title>Securing Automated, Adaptive Learning-Driven Cyber-Physical System Processes</title>
+      <link>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;Numerous DOE-relevant processes are becoming automated and adaptive, using machine learning techniques.  Such processes include vehicle and traffic navigation guidance, intelligent transportation systems, adaptive control of grid-attached equipment, large scientific instruments.&lt;br&gt;
+This creates a vulnerability for a cyber attacker to sabotage processes through tainted training data or specially crafted inputs.  Consequences might be tainted manufactured output, traffic collisions, power outages, or damage to scientific instruments or experiments. This project is developing secure machine learning methods that will enable safer operation of automated, adaptive, learning-driven &amp;ldquo;cyber-physical system&amp;rdquo; processes.&lt;/p&gt;
+&lt;p&gt;This project is supported by Berkeley Lab Contractor Supported Research funding.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
+&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://bashirmohd.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bashir Mohammed&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;project-alumni&#34;&gt;Project Alumni:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.yizechen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yize Chen&lt;/a&gt; (Postdoc) → Assistant Professor, University of Hong Kong&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, ”SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation,” &lt;em&gt;Proceedings of the 2022 IEEE Power Engineering Society (PES) General Meeting&lt;/em&gt;, Denver, CO. July 17-21 2022.&lt;/p&gt;
+&lt;p&gt;Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, &amp;ldquo;SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2111.15152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.15152&lt;/a&gt;, 30 Nov 2021.&lt;/p&gt;
+&lt;p&gt;Yize Chen, Daniel Arnold, Yuanyuan Shi, and Sean Peisert, &amp;ldquo;Understanding the Safety Requirements for Learning-based Power Systems Operations,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2110.04983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2110.04983&lt;/a&gt;, 11 Oct 2021&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Securing Solar for the Grid (S2G)</title>
+      <link>https://secpriv.lbl.gov/project/seto-standards/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/seto-standards/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;LBNL will lead a new workgroup for Artificial Intelligence (AI) for IBR/DER cybersecurity that will seek a draft standard report on AI performance requirements for high solar / IBR / DER penetration scenarios. This working group will specifically focus on advancing an understanding of performance requirements for IBR/DER for high solar generation scenarios.  As IBR / DER grow from tens of thousands to millions of devices, increased automation is likely required but needs to be considered within conflicting recommendations for manual control. Automation has brought significant advantages in the power grid for ensuring stability, increasing efficiency, and even providing cybersecurity benefits. At the same time, automation significantly increases cybersecurity risks because automated systems can be remotely attackable, and have similar vulnerabilities to other types of computing systems.&lt;/p&gt;
+&lt;p&gt;LBNL will also lead a new workgroup for privacy-preserving &amp;amp; cybersecure data and model sharing standards for solar / IBR / DER industry stakeholders. Use cases will focus on data and models for high solar / IBR / DER penetration scenarios. This will include threat-sharing program reformations, leveraging prior experience with CESER’s CEDS program.&lt;/p&gt;
+&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/eere/solar/solar-energy-technologies-office&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solar Energy Technologies Office (SETO)&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://kevalaanalytics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>AOSCSWAP: Study of Academic, Open Source, and COTS Software Assurance Products</title>
       <link>https://secpriv.lbl.gov/project/dhs-software-assurance/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
@@ -79,7 +123,7 @@ Tong Wu, Cornell Tech, &lt;a href=&#34;mailto:tw385@cornell.edu&#34;&gt;tw385@co
     <item>
       <title>Data Enclaves for Scientific Computing</title>
       <link>https://secpriv.lbl.gov/project/desc/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/project/desc/</guid>
       <description>&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; &lt;br&gt;
@@ -134,50 +178,6 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;h3 id=&#34;other-resources&#34;&gt;Other Resources:&lt;/h3&gt;
 &lt;p&gt;Ayaz Akram, &lt;a href=&#34;https://arch.cs.ucdavis.edu/blog/2020-11-19-cloud-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting up Trusted HPC System in the Cloud&lt;/a&gt;, November 19, 2020.&lt;/p&gt;
 &lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/scientific-computing/&#34;&gt;cybersecurity for scientific and high-performance computing&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Securing Solar for the Grid (S2G)</title>
-      <link>https://secpriv.lbl.gov/project/seto-standards/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/seto-standards/</guid>
-      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
-&lt;p&gt;LBNL will lead a new workgroup for Artificial Intelligence (AI) for IBR/DER cybersecurity that will seek a draft standard report on AI performance requirements for high solar / IBR / DER penetration scenarios. This working group will specifically focus on advancing an understanding of performance requirements for IBR/DER for high solar generation scenarios.  As IBR / DER grow from tens of thousands to millions of devices, increased automation is likely required but needs to be considered within conflicting recommendations for manual control. Automation has brought significant advantages in the power grid for ensuring stability, increasing efficiency, and even providing cybersecurity benefits. At the same time, automation significantly increases cybersecurity risks because automated systems can be remotely attackable, and have similar vulnerabilities to other types of computing systems.&lt;/p&gt;
-&lt;p&gt;LBNL will also lead a new workgroup for privacy-preserving &amp;amp; cybersecure data and model sharing standards for solar / IBR / DER industry stakeholders. Use cases will focus on data and models for high solar / IBR / DER penetration scenarios. This will include threat-sharing program reformations, leveraging prior experience with CESER’s CEDS program.&lt;/p&gt;
-&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/eere/solar/solar-energy-technologies-office&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solar Energy Technologies Office (SETO)&lt;/a&gt;.&lt;/p&gt;
-&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
-&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
-&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://kevalaanalytics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Securing Automated, Adaptive Learning-Driven Cyber-Physical System Processes</title>
-      <link>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</guid>
-      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
-&lt;p&gt;Numerous DOE-relevant processes are becoming automated and adaptive, using machine learning techniques.  Such processes include vehicle and traffic navigation guidance, intelligent transportation systems, adaptive control of grid-attached equipment, large scientific instruments.&lt;br&gt;
-This creates a vulnerability for a cyber attacker to sabotage processes through tainted training data or specially crafted inputs.  Consequences might be tainted manufactured output, traffic collisions, power outages, or damage to scientific instruments or experiments. This project is developing secure machine learning methods that will enable safer operation of automated, adaptive, learning-driven &amp;ldquo;cyber-physical system&amp;rdquo; processes.&lt;/p&gt;
-&lt;p&gt;This project is supported by Berkeley Lab Contractor Supported Research funding.&lt;/p&gt;
-&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
-&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
-&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://bashirmohd.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bashir Mohammed&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;project-alumni&#34;&gt;Project Alumni:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.yizechen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yize Chen&lt;/a&gt; (Postdoc) → Assistant Professor, University of Hong Kong&lt;/p&gt;
-&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
-&lt;p&gt;Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, ”SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation,” &lt;em&gt;Proceedings of the 2022 IEEE Power Engineering Society (PES) General Meeting&lt;/em&gt;, Denver, CO. July 17-21 2022.&lt;/p&gt;
-&lt;p&gt;Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, &amp;ldquo;SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2111.15152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.15152&lt;/a&gt;, 30 Nov 2021.&lt;/p&gt;
-&lt;p&gt;Yize Chen, Daniel Arnold, Yuanyuan Shi, and Sean Peisert, &amp;ldquo;Understanding the Safety Requirements for Learning-based Power Systems Operations,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2110.04983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2110.04983&lt;/a&gt;, 11 Oct 2021&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
