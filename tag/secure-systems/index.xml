@@ -385,5 +385,51 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 </description>
     </item>
     
+    <item>
+      <title>Secure Collaborationn</title>
+      <link>https://secpriv.lbl.gov/project/secure-collaboration/</link>
+      <pubDate>Tue, 30 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/secure-collaboration/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;The diverse set of organizations and software components involved in a typical collaboratory make providing a seamless security solution difficult. In addition, the users need support for a broad range of frequency and locations for access to the collaboratory. A collaboratory security solution needs to be robust enough to ensure that valid participants are not denied access because of its failure. There are many tools that can be applied to the task of securing collaborative environments and these include public key infrastructure, secure sockets layer, Kerberos, virtual and real private networks, grid security infrastructure, and username/password. A combination of these mechanisms can provide effective secure collaboration capabilities.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigators-and-senior-personnel&#34;&gt;Principal Investigators and Senior Personnel:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/~deba/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deb Agarwal&lt;/a&gt; &lt;br&gt;
+Karlo Berket &lt;br&gt;
+Keith Jackson &lt;br&gt;
+Charles McParland &lt;br&gt;
+Marcia Perry &lt;br&gt;
+Mary R. Thompson&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Karlo Berket and Deborah Agarwal. &lt;a href=&#34;https://www.researchgate.net/profile/Deborah-Agarwal/publication/2840108_Enabling_Secure_Ad-hoc_Collaboration/links/544c47040cf2d6347f43a52b/Enabling-Secure-Ad-hoc-Collaboration.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enabling Secure Ad-Hoc Collaboration&lt;/a&gt;. In &lt;em&gt;Proceedings of the Workshop on Advanced Collaborative Environments (WACE)&lt;/em&gt;, Seattle, WA, 2003.&lt;/p&gt;
+&lt;p&gt;Deborah Agarwal, Markus Lorch, Mary Thompson, and Marcia Perry. &lt;a href=&#34;https://escholarship.org/content/qt0dc3q2sj/qt0dc3q2sj.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A New Security Model for Collaborative Environments&lt;/a&gt;. In &lt;em&gt;Proceedings of the Workshop on Advanced Collaborative Environments (WACE)&lt;/em&gt;, Seattle, WA, June 2003.&lt;/p&gt;
+&lt;p&gt;D. Agarwal and K. Berket. &lt;a href=&#34;https://arxiv.org/pdf/cs/0307037.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supporting dynamic ad hoc collaboration capabilities&lt;/a&gt;. Arxiv preprint cs/0307037, 2003.&lt;/p&gt;
+&lt;p&gt;Deborah Agarwal, Charles McParland, and Marcia Perry. &lt;a href=&#34;https://www.osti.gov/servlets/purl/796109&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supporting collaborative computing and interaction&lt;/a&gt;. Technical report LBNL-50418, Lawrence Berkeley National Laboratory, 2002.&lt;/p&gt;
+&lt;p&gt;Deborah Agarwal, Keith Jackson, and Mary Thompson. &lt;a href=&#34;https://www.osti.gov/biblio/801956&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Securing collaborative environments&lt;/a&gt;.  Technical report LBNL-50427, Lawrence Berkeley National Laboratory, 2002.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/scientific-computing/&#34;&gt;cybersecurity for scientific and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reliable Multicast for Continuous Data Transmission for Nuclear Treaty Verification</title>
+      <link>https://secpriv.lbl.gov/project/nnsa-multicast/</link>
+      <pubDate>Mon, 30 Sep 2002 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/nnsa-multicast/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;This project involved working groups created to set up the Comprehensive Nuclear-Test-Ban Treaty verification network, an international network connecting 321 monitoring stations around the world. The goal was to monitor in real-time whether there are any activities that could be the result of nuclear weapon testing.  Berkeley Lab&amp;rsquo;s work on this project focused on developing new multicast protocols.  This project was led by &lt;a href=&#34;https://dst.lbl.gov/~deba/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deb Agarwal&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigators-and-senior-personnel&#34;&gt;Principal Investigators and Senior Personnel:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/~deba/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deb Agarwal&lt;/a&gt; &lt;br&gt;
+Karlo Berket &lt;br&gt;
+Olivier Chevassut &lt;br&gt;
+Mary R. Thompson&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Karlo Berket, Deborah A Agarwal, and Olivier Chevassut. &lt;a href=&#34;https://www.osti.gov/servlets/purl/836659&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A practical approach to the InterGroup protocols&lt;/a&gt;. &lt;em&gt;Future Generation Computer Systems&lt;/em&gt;, 18(5):709–719, 2002.&lt;/p&gt;
+&lt;p&gt;Deborah A. Agarwal. &lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.8499&amp;amp;rep=rep1&amp;amp;type=pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Discussion Of Reliable Multicast Deployment Progress For The Continuous Data Protocol&lt;/a&gt;. In &lt;em&gt;Proceedings of the 23rd Annual DoD/DOE Seismic Research Review: Worldwide Monitoring of Nuclear Explosions&lt;/em&gt;, Jackson Hole, WY, Oct. 2001.&lt;/p&gt;
+&lt;p&gt;Deborah A Agarwal, Olivier Chevassut, Mary R Thompson, and Gene Tsudik. &lt;a href=&#34;https://www.osti.gov/servlets/purl/780589&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An integrated solution for secure group communication in wide-area networks&lt;/a&gt;. In &lt;em&gt;Proceedings of the Sixth IEEE Symposium on Computers and Communications&lt;/em&gt;, pages 22–28, 2001.&lt;/p&gt;
+&lt;p&gt;Deborah Agarwal, Richard Stead, Brian Coan, James E Burns, Nishith Shah, and Nicholas Kyriakopoulos. &lt;a href=&#34;https://escholarship.org/content/qt40x3788h/qt40x3788h.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Initial results of the CD-1 reliable multicast experiment&lt;/a&gt;. Lawrence Berkeley National Laboratory, 2000.&lt;/p&gt;
+&lt;p&gt;Deborah A Agarwal. &lt;a href=&#34;https://www.osti.gov/servlets/purl/767536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using multicast in the global communications infrastructure for group communication&lt;/a&gt;. Lawrence Berkeley National Laboratory, 1999.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

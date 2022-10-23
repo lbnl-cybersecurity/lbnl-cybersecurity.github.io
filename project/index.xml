@@ -1068,6 +1068,30 @@ Waikoloa, HI, January 5–8, 2009. &lt;em&gt;&lt;strong&gt;(Nominated for Best P
     </item>
     
     <item>
+      <title>Secure Collaborationn</title>
+      <link>https://secpriv.lbl.gov/project/secure-collaboration/</link>
+      <pubDate>Tue, 30 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/secure-collaboration/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;The diverse set of organizations and software components involved in a typical collaboratory make providing a seamless security solution difficult. In addition, the users need support for a broad range of frequency and locations for access to the collaboratory. A collaboratory security solution needs to be robust enough to ensure that valid participants are not denied access because of its failure. There are many tools that can be applied to the task of securing collaborative environments and these include public key infrastructure, secure sockets layer, Kerberos, virtual and real private networks, grid security infrastructure, and username/password. A combination of these mechanisms can provide effective secure collaboration capabilities.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigators-and-senior-personnel&#34;&gt;Principal Investigators and Senior Personnel:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/~deba/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deb Agarwal&lt;/a&gt; &lt;br&gt;
+Karlo Berket &lt;br&gt;
+Keith Jackson &lt;br&gt;
+Charles McParland &lt;br&gt;
+Marcia Perry &lt;br&gt;
+Mary R. Thompson&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Karlo Berket and Deborah Agarwal. &lt;a href=&#34;https://www.researchgate.net/profile/Deborah-Agarwal/publication/2840108_Enabling_Secure_Ad-hoc_Collaboration/links/544c47040cf2d6347f43a52b/Enabling-Secure-Ad-hoc-Collaboration.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enabling Secure Ad-Hoc Collaboration&lt;/a&gt;. In &lt;em&gt;Proceedings of the Workshop on Advanced Collaborative Environments (WACE)&lt;/em&gt;, Seattle, WA, 2003.&lt;/p&gt;
+&lt;p&gt;Deborah Agarwal, Markus Lorch, Mary Thompson, and Marcia Perry. &lt;a href=&#34;https://escholarship.org/content/qt0dc3q2sj/qt0dc3q2sj.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A New Security Model for Collaborative Environments&lt;/a&gt;. In &lt;em&gt;Proceedings of the Workshop on Advanced Collaborative Environments (WACE)&lt;/em&gt;, Seattle, WA, June 2003.&lt;/p&gt;
+&lt;p&gt;D. Agarwal and K. Berket. &lt;a href=&#34;https://arxiv.org/pdf/cs/0307037.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supporting dynamic ad hoc collaboration capabilities&lt;/a&gt;. Arxiv preprint cs/0307037, 2003.&lt;/p&gt;
+&lt;p&gt;Deborah Agarwal, Charles McParland, and Marcia Perry. &lt;a href=&#34;https://www.osti.gov/servlets/purl/796109&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supporting collaborative computing and interaction&lt;/a&gt;. Technical report LBNL-50418, Lawrence Berkeley National Laboratory, 2002.&lt;/p&gt;
+&lt;p&gt;Deborah Agarwal, Keith Jackson, and Mary Thompson. &lt;a href=&#34;https://www.osti.gov/biblio/801956&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Securing collaborative environments&lt;/a&gt;.  Technical report LBNL-50427, Lawrence Berkeley National Laboratory, 2002.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/scientific-computing/&#34;&gt;cybersecurity for scientific and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reliable Multicast for Continuous Data Transmission for Nuclear Treaty Verification</title>
       <link>https://secpriv.lbl.gov/project/nnsa-multicast/</link>
       <pubDate>Mon, 30 Sep 2002 00:00:00 +0000</pubDate>
