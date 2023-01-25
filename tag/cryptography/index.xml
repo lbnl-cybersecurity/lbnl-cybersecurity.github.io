@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cryptography | Berkeley Lab Cybersecurity R&amp;D</title>
+    <link>https://secpriv.lbl.gov/tag/cryptography/</link>
+      <atom:link href="https://secpriv.lbl.gov/tag/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <description>cryptography</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2022</copyright><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
+      <title>cryptography</title>
+      <link>https://secpriv.lbl.gov/tag/cryptography/</link>
+    </image>
+    
+    <item>
+      <title>An Automated, Disruption Tolerant Key Management System for the Power Grid</title>
+      <link>https://secpriv.lbl.gov/project/ceds-dtkm/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/ceds-dtkm/</guid>
+      <description>&lt;p&gt;Current key management architectures are not designed for machine-to-machine communication, are designed around an &amp;ldquo;always online&amp;rdquo; mentality, and are often burdensome to manage (key distribution, revocation lists, governance, etc.). This project is designing and developing a key management system to meet the unique requirements of electrical distribution systems (EDSs). Namely it is disruption tolerant, scales well, is centrally managed, has policy enforcement and auditing, automates key management services for devices, etc&amp;hellip;&lt;/p&gt;
+&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
+&lt;p&gt;Thomas Edgar (PI; PNNL)&lt;br&gt;
+&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (Co-PI; Lead at LBNL)&lt;/p&gt;
+&lt;h4 id=&#34;senior-personnel-at-lbnl&#34;&gt;Senior Personnel at LBNL&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/joshua-boverhof/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshua Boverhof&lt;/a&gt; (LBNL)  &lt;br&gt;
+&lt;a href=&#34;http://lab.engineering.asu.edu/scaglione/people-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; (LBNL)&lt;/p&gt;
+&lt;h4 id=&#34;project-alumni&#34;&gt;Project Alumni:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/departments/data-science-and-technology/integrated-data-frameworks/staff/charles-mcparland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck McParland&lt;/a&gt; (LBNL → RTISYS / LBNL Affiliate)&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;http://corelight.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Corelight&lt;/a&gt; (née &lt;a href=&#34;https://www.broala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Broala&lt;/a&gt;)&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Thomas W. Edgar, Aditya Ashok, Garret E. Seppala, K.M. Arthur-Durrett, M. Engels, Reinhard Gentz, and Sean Peisert, &amp;ldquo;An Automated Disruption-Tolerant Key Management Framework for Critical Systems,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://www.jinfowar.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Information Warfare&lt;/a&gt;&lt;/em&gt;, accepted 8 October, 2019.&lt;/p&gt;
+&lt;h3 id=&#34;software-resulting-from-this-project&#34;&gt;Software resulting from this project:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lbnl-cybersecurity/dtkm-sparcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LBNL Disruption Tolerant Key Management Monitoring for Stream-Processing Architecture for Real-time Cyber-physical Security (DTKM-SPARCS)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reliable Multicast for Continuous Data Transmission for Nuclear Treaty Verification</title>
+      <link>https://secpriv.lbl.gov/project/ascr-multicast/</link>
+      <pubDate>Mon, 30 Sep 2002 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/ascr-multicast/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;LBNL&amp;rsquo;s work in reliable multicast built on graduate work in developing reliable multicast by Agarwal (Totem), Berket (InterGroup),  Keith Jackson, and Artur Muratas.&lt;/p&gt;
+&lt;p&gt;One of LBNL&amp;rsquo;s efforts in reliable multicast involved working groups created to set up the Comprehensive Nuclear-Test-Ban Treaty verification network, an international network connecting 321 monitoring stations around the world. The goal was to monitor in real-time whether there were activities that could be the result of nuclear weapon testing.   LBNL&amp;rsquo;s role in the project examined the feasibility of using multicast in the Comprehensive Nuclear Test-Ban Treaty Organization (CTBTO) network, monitoring for signs of explosions.&lt;/p&gt;
+&lt;p&gt;Subseqeuntly, LBNL also used reliable multicast to provide remote experiment access to Advanced Light Source (ALS) Beamline 7.&lt;/p&gt;
+&lt;p&gt;Later, Chevassut led a team including Agarwal, Essiari, Farret, and Thompson on secure group multicast communication encryption.&lt;/p&gt;
+&lt;p&gt;The work at LBNL was funded primarily by DOE ASCR.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigators-and-senior-personnel&#34;&gt;Principal Investigators and Senior Personnel:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/~deba/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deb Agarwal&lt;/a&gt; &lt;br&gt;
+Karlo Berket &lt;br&gt;
+Olivier Chevassut &lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/sustainable-software-engineering/staff/abdelilah-essiari/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abdelilah Essiari&lt;/a&gt; &lt;br&gt;
+Guillaume Farret &lt;br&gt;
+Keith R. Jackson &lt;br&gt;
+William Johnston &lt;br&gt;
+Artur Muratas &lt;br&gt;
+Mary R. Thompson&lt;/p&gt;
+&lt;h4 id=&#34;collaborators&#34;&gt;Collaborators:&lt;/h4&gt;
+&lt;p&gt;Giuseppe Ateniese &lt;br&gt;
+Emmanuel Bresson &lt;br&gt;
+Pierre-Alain Fouque &lt;br&gt;
+Pierrick Gaudry &lt;br&gt;
+Damian Hasse &lt;br&gt;
+Yongdae Kim &lt;br&gt;
+Samuel Meder &lt;br&gt;
+David Pointcheval &lt;br&gt;
+Frank Siebenlist &lt;br&gt;
+Gene Tsudik&lt;/p&gt;
+&lt;h3 id=&#34;selected-publications-resulting-from-this-project&#34;&gt;Selected publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Emmanuel Bresson, Olivier Chevassut, and David Pointcheval, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/1s82w7fp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A security solution for IEEE 802.11&amp;rsquo;s ad hoc mode: password-authentication and group Diffie-Hellman key exchange&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Int. J. Wirel. Mob. Comput.&lt;/em&gt;, 2(1), 4-13, 2007.&lt;/p&gt;
+&lt;p&gt;Olivier Chevassut, Pierre-Alain Fouque, Pierrick Gaudry, and David Pointcheval. &amp;ldquo;&lt;a href=&#34;&#34;&gt;The twist-augmented technique for key exchange&lt;/a&gt;&amp;rdquo; &lt;em&gt;Proceedings of the International Workshop on Public Key Cryptography&lt;/em&gt;, 2006.&lt;/p&gt;
+&lt;p&gt;Olivier Chevassut, Pierre-Alain Fouque, Pierrick Gaudry, and David Pointcheval, &amp;ldquo;&lt;a href=&#34;https://eprint.iacr.org/2005/061.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key derivation and randomness extraction&lt;/a&gt;&amp;rdquo; Cryptology ePrint Archive 2005.&lt;/p&gt;
+&lt;p&gt;Liang Fang, Samuel Meder, Olivier Chevassut, and Frank Siebenlist, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/content/qt8rj6z0p3/qt8rj6z0p3_noSplash_54d0b4b85ca1b5700d30ac37de93728a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Secure password-based authenticated key exchange for web services&lt;/a&gt;, &lt;em&gt;Proceedings of the 2004 Workshop on Secure Web Service&lt;/em&gt;, 2004.&lt;/p&gt;
+&lt;p&gt;Karlo Berket, Deborah A Agarwal, and Olivier Chevassut. &lt;a href=&#34;https://www.osti.gov/servlets/purl/836659&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A practical approach to the InterGroup protocols&lt;/a&gt;. &lt;em&gt;Future Generation Computer Systems&lt;/em&gt;, 18(5):709–719, 2002.&lt;/p&gt;
+&lt;p&gt;Emmanuel Bresson, Olivier Chevassut, and David Pointcheval, &amp;ldquo;&lt;a href=&#34;https://iacr.org/archive/asiacrypt2001/22480292.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Provably authenticated group Diffie-Hellman key exchange the dynamic case&lt;/a&gt;,&amp;rdquo; Tech. rep. ENS-LBNL, 2001.&lt;/p&gt;
+&lt;p&gt;Emmmanuel Bresson, Olivier Chevassut, and David Pointcheval, &amp;ldquo;&lt;a href=&#34;https://www.iacr.org/cryptodb/archive/2002/ASIACRYPT/45/45.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Group Diffie-Hellman Key Exchange Secure Against Dictionary Attacks&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of ASIACRYPT&lt;/em&gt;, Queenstown, New Zealand, 2002.&lt;/p&gt;
+&lt;p&gt;Emmanuel Bresson, Olivier Chevassut, and David Pointcheval. &amp;ldquo;&lt;a href=&#34;https://escholarship.org/content/qt4c64w97m/qt4c64w97m.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dynamic group Diffie-Hellman key exchange under standard assumptions&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of Eurocrypt&lt;/em&gt;, Amsterdam, Netherlands, 2002&lt;/p&gt;
+&lt;p&gt;Olivier Chevassut, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/content/qt0pm199fp/qt0pm199fp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Authenticated group Diffie-Hellman key exchange: theory and practice&lt;/a&gt;,&amp;rdquo; 2002.&lt;/p&gt;
+&lt;p&gt;Bresson, Emmanuel, Olivier Chevassut, and David Pointcheval. &amp;ldquo;&lt;a href=&#34;https://www.osti.gov/servlets/purl/801967-nETruB/native/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The group Diffie-Hellman problems&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Selected Areas in Cryptography: 9th Annual International Workshop&lt;/em&gt;, 2002.&lt;/p&gt;
+&lt;p&gt;Deborah A. Agarwal. &lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.8499&amp;amp;rep=rep1&amp;amp;type=pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Discussion Of Reliable Multicast Deployment Progress For The Continuous Data Protocol&lt;/a&gt;. In &lt;em&gt;Proceedings of the 23rd Annual DoD/DOE Seismic Research Review: Worldwide Monitoring of Nuclear Explosions&lt;/em&gt;, Jackson Hole, WY, Oct. 2001.&lt;/p&gt;
+&lt;p&gt;Deborah A Agarwal, Olivier Chevassut, Mary R Thompson, and Gene Tsudik. &lt;a href=&#34;https://www.osti.gov/servlets/purl/780589&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An integrated solution for secure group communication in wide-area networks&lt;/a&gt;. In &lt;em&gt;Proceedings of the Sixth IEEE Symposium on Computers and Communications&lt;/em&gt;, pages 22–28, 2001.&lt;/p&gt;
+&lt;p&gt;Deborah Agarwal, Richard Stead, Brian Coan, James E Burns, Nishith Shah, and Nicholas Kyriakopoulos. &lt;a href=&#34;https://escholarship.org/content/qt40x3788h/qt40x3788h.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Initial results of the CD-1 reliable multicast experiment&lt;/a&gt;. Lawrence Berkeley National Laboratory, 2000.&lt;/p&gt;
+&lt;p&gt;Giuseppe Ateniese, Olivier Chevassut, Damian Hasse, Yongdae Kim, and Gene Tsudik, &lt;a href=&#34;https://scholar.archive.org/work/emrbgw2gi5cphavtv7u5fvrogu/access/wayback/http://www-users.cs.umn.edu:80/~kyd/paper/achkt99.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The design of a group key agreement API&lt;/a&gt;. &lt;em&gt;Proceedings of the DARPA Information Survivability Conference and Exposition (DISCEX)&lt;/em&gt;, 2000&lt;/p&gt;
+&lt;p&gt;Deborah A Agarwal. &lt;a href=&#34;https://www.osti.gov/servlets/purl/767536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using multicast in the global communications infrastructure for group communication&lt;/a&gt;. Lawrence Berkeley National Laboratory, 1999.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
