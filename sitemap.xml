@@ -118,6 +118,8 @@
   <url>
     <loc>https://secpriv.lbl.gov/project/ventilator-data/</loc><lastmod>2015-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://secpriv.lbl.gov/tag/cryptography/</loc><lastmod>2015-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://secpriv.lbl.gov/project/resilience/</loc><lastmod>2015-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://secpriv.lbl.gov/project/nsf-bft-ids/</loc><lastmod>2015-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
