@@ -132,7 +132,34 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
       <link>https://secpriv.lbl.gov/project/nsf-trustedci/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/project/nsf-trustedci/</guid>
-      <description>&lt;h4 id=&#34;principal-investigators-and-site-leads&#34;&gt;Principal Investigators and Site Leads&lt;/h4&gt;
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hud9a1a919fcb667042118d1d1be22d972_12240_a6cffb88482b4cb657e728ff7fbed6f2.webp 400w,
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hud9a1a919fcb667042118d1d1be22d972_12240_80d5cfa1ef942a3591aff6f2511b9852.webp 760w,
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hud9a1a919fcb667042118d1d1be22d972_12240_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://secpriv.lbl.gov/media/partners/TrustedCI_logo_blue_web%281%29-small_hud9a1a919fcb667042118d1d1be22d972_12240_a6cffb88482b4cb657e728ff7fbed6f2.webp&#34;
+               width=&#34;144&#34;
+               height=&#34;41&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h4 id=&#34;principal-investigators-and-site-leads&#34;&gt;Principal Investigators and Site Leads&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.ncsa.illinois.edu/People/jbasney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jim Basney&lt;/a&gt; (Director, PI, and Lead at UIUC/NCSA) &lt;br&gt;
 &lt;a href=&#34;https://psc.edu/staff/benninger&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathy Benninger&lt;/a&gt; (Lead at CMU/PSC) &lt;br&gt;
 &lt;a href=&#34;http://pages.cs.wisc.edu/~bart/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barton Miller&lt;/a&gt; (Co-PI and Lead at U. Wisc.) &lt;br&gt;
@@ -177,7 +204,7 @@ James  Marsteller (Former Co-PI and Lead at CMU/PSC) &lt;br&gt;
 &lt;p&gt;Von Welch, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2017/10/open-science-cyber-risk-profile.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile publications&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, October 10, 2017.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2017/04/oscrp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile Published&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, April 3, 2017.&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-lbnls-involvement-with-trusted-ci&#34;&gt;Publications resulting from LBNL&amp;rsquo;s involvement with Trusted CI:&lt;/h3&gt;
-&lt;p&gt;Andrew Adams, Emily K. Adams, Dan Gunter, Ryan Kiser, Mark Krenz, Sean Peisert, and John Zage. “&lt;a href=&#34;https://doi.org/10.5281/zenodo.7327987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roadmap for Securing Operational Technology in NSF Scientific Research&lt;/a&gt;,” &lt;a href=&#34;https://doi.org/10.5281/zenodo.7327987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, November 16 2022.&lt;/p&gt;
+&lt;p&gt;Andrew Adams, Emily K. Adams, Dan Gunter, Ryan Kiser, Mark Krenz, Sean Peisert, and John Zage. &amp;ldquo;&lt;a href=&#34;https://doi.org/10.5281/zenodo.7327987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roadmap for Securing Operational Technology in NSF Scientific Research&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://doi.org/10.5281/zenodo.7327987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, November 16 2022.&lt;/p&gt;
 &lt;p&gt;Emily K. Adams, Daniel Gunter, Ryan Kiser, Mark Krenz, Sean Peisert, Susan Sons, and John Zage, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.5281/zenodo.6828675&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Findings of the 2022 Trusted CI Study on the Security of Operational Technology in NSF Scientific Research&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://doi.org/10.5281/zenodo.6828675&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, July 13, 2022.&lt;/p&gt;
 &lt;p&gt;Andrew Adams, Kay Avila, Elisa Heymann, Mark Krenz, Jason R. Lee, Barton Miller, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.5281/zenodo.5777646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guide to Securing Scientific Software&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://doi.org/10.5281/zenodo.5777646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, December 14, 2021.&lt;/p&gt;
 &lt;p&gt;Andrew Adams, Kay Avila, Elisa Heymann, Mark Krenz, Jason R. Lee, Barton Miller, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://hdl.handle.net/2022/26799&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The State of the Scientific Software World: Findings of the 2021 Trusted CI Software Assurance Annual Challenge Interviews&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;http://hdl.handle.net/2022/26799&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, September 29, 2021.&lt;/p&gt;
