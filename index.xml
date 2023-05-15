@@ -33,97 +33,114 @@
     </item>
     
     <item>
-      <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 2 Workshop</title>
-      <link>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</link>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-&lt;p&gt;LBNL held the second workshop for the SPADES project in Dec. 2022 where the project partners presented deep dives into work conducted in the second year of the project.  Presentations from project partners are included below:&lt;/p&gt;
-&lt;h3 id=&#34;participants&#34;&gt;Participants&lt;/h3&gt;
-&lt;p&gt;Daniel Arnold (Principal Investigator), LBNL &lt;a href=&#34;mailto:dbarnold@lbl.gov&#34;&gt;dbarnold@lbl.gov&lt;/a&gt;&lt;br&gt;
-Ciaran Roberts, LBNL &lt;a href=&#34;mailto:cmroberts@lbl.gov&#34;&gt;cmroberts@lbl.gov&lt;/a&gt;&lt;br&gt;
-Sy-Toan Ngo, LBNL &lt;a href=&#34;mailto:sytoanngo@lbl.gov&#34;&gt;sytoanngo@lbl.gov&lt;/a&gt;&lt;br&gt;
-David Pinney, NRECA, &lt;a href=&#34;mailto:david.pinney@nreca.coop&#34;&gt;david.pinney@nreca.coop&lt;/a&gt;&lt;br&gt;
-Lisa Slaughter, NRECA, &lt;a href=&#34;mailto:lisa.m.slaughter@gmail.com&#34;&gt;lisa.m.slaughter@gmail.com&lt;/a&gt;&lt;br&gt;
-Bruno Leao, Siemens CT, &lt;a href=&#34;mailto:bruno.leao@siemens.com&#34;&gt;bruno.leao@siemens.com&lt;/a&gt;&lt;br&gt;
-Sindhu Suresh, Siemens CT, &lt;a href=&#34;mailto:sindhu-suresh@siemens.com&#34;&gt;sindhu-suresh@siemens.com&lt;/a&gt;&lt;br&gt;
-Siddharth Bhela, Siemens CT, &lt;a href=&#34;mailto:siddharth.bhela@siemens.com&#34;&gt;siddharth.bhela@siemens.com&lt;/a&gt;&lt;br&gt;
-Dan Grinkevich, Siemens CT, &lt;a href=&#34;mailto:daniel.grinkevich@siemens.com&#34;&gt;daniel.grinkevich@siemens.com&lt;/a&gt;&lt;br&gt;
-Anna Scaglione, ASU, &lt;a href=&#34;mailto:as337@cornell.edu&#34;&gt;as337@cornell.edu&lt;/a&gt;&lt;br&gt;
-Ignacio Losada Carreno, Cornell Tech, &lt;a href=&#34;mailto:il244@cornell.edu&#34;&gt;il244@cornell.edu&lt;/a&gt;&lt;br&gt;
-Tong Wu, Cornell Tech, &lt;a href=&#34;mailto:tw385@cornell.edu&#34;&gt;tw385@cornell.edu&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/LBNL_SPADES_Y2.pdf&#34;&gt;LBNL (Sy-Toan Ngo)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/NRECA_SPADES_Y2_del6.pdf&#34;&gt;NRECA (David Pinney)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/SIEMENS_SPADES_Y2.pdf&#34;&gt;Siemens CT (Bruno Leao)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/CORNELL_SPADES_Y2.pdf&#34;&gt;Cornell Tech (Ignacio Losada Carreno, Tong Wu)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Securing Automated, Adaptive Learning-Driven Cyber-Physical System Processes</title>
-      <link>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</guid>
-      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
-&lt;p&gt;Numerous DOE-relevant processes are becoming automated and adaptive, using machine learning techniques.  Such processes include vehicle and traffic navigation guidance, intelligent transportation systems, adaptive control of grid-attached equipment, large scientific instruments.&lt;br&gt;
-This creates a vulnerability for a cyber attacker to sabotage processes through tainted training data or specially crafted inputs.  Consequences might be tainted manufactured output, traffic collisions, power outages, or damage to scientific instruments or experiments. This project is developing secure machine learning methods that will enable safer operation of automated, adaptive, learning-driven &amp;ldquo;cyber-physical system&amp;rdquo; processes.&lt;/p&gt;
-&lt;p&gt;This project is supported by Berkeley Lab Contractor Supported Research funding.&lt;/p&gt;
-&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
-&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
-&lt;!-- #### Senior Personnel --&gt;
-&lt;h4 id=&#34;project-alumni&#34;&gt;Project Alumni:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://bashirmohd.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bashir Mohammed&lt;/a&gt; → DeepMind &lt;br&gt;
-&lt;a href=&#34;https://www.yizechen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yize Chen&lt;/a&gt; (Postdoc) → Assistant Professor, University of Hong Kong&lt;/p&gt;
-&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
-&lt;p&gt;Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, ”SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation,” &lt;em&gt;Proceedings of the 2022 IEEE Power Engineering Society (PES) General Meeting&lt;/em&gt;, Denver, CO. July 17-21 2022.&lt;/p&gt;
-&lt;p&gt;Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, &amp;ldquo;SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2111.15152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.15152&lt;/a&gt;, 30 Nov 2021.&lt;/p&gt;
-&lt;p&gt;Yize Chen, Daniel Arnold, Yuanyuan Shi, and Sean Peisert, &amp;ldquo;Understanding the Safety Requirements for Learning-based Power Systems Operations,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2110.04983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2110.04983&lt;/a&gt;, 11 Oct 2021&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Securing Solar for the Grid (S2G)</title>
-      <link>https://secpriv.lbl.gov/project/seto-standards/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/seto-standards/</guid>
-      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
-&lt;p&gt;LBNL will lead a new workgroup for Artificial Intelligence (AI) for IBR/DER cybersecurity that will seek a draft standard report on AI performance requirements for high solar / IBR / DER penetration scenarios. This working group will specifically focus on advancing an understanding of performance requirements for IBR/DER for high solar generation scenarios.  As IBR / DER grow from tens of thousands to millions of devices, increased automation is likely required but needs to be considered within conflicting recommendations for manual control. Automation has brought significant advantages in the power grid for ensuring stability, increasing efficiency, and even providing cybersecurity benefits. At the same time, automation significantly increases cybersecurity risks because automated systems can be remotely attackable, and have similar vulnerabilities to other types of computing systems.&lt;/p&gt;
-&lt;p&gt;LBNL will also lead a new workgroup for privacy-preserving &amp;amp; cybersecure data and model sharing standards for solar / IBR / DER industry stakeholders. Use cases will focus on data and models for high solar / IBR / DER penetration scenarios. This will include threat-sharing program reformations, leveraging prior experience with CESER’s CEDS program.&lt;/p&gt;
-&lt;p&gt;This project was supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/eere/solar/solar-energy-technologies-office&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solar Energy Technologies Office (SETO)&lt;/a&gt;.&lt;/p&gt;
-&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
-&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
-&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://kevalaanalytics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AOSCSWAP: Study of Academic, Open Source, and COTS Software Assurance Products</title>
-      <link>https://secpriv.lbl.gov/project/dhs-software-assurance/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/dhs-software-assurance/</guid>
-      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
-&lt;p&gt;In this project, LBNL will help inform DHS S&amp;amp;T regarding the state of the art in software assurance tools and capabilities.&lt;/p&gt;
-&lt;p&gt;This project is supported by the the U.S. Department of Homeland Security&amp;rsquo;s &lt;a href=&#34;https://www.dhs.gov/science-and-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science and Technology Directorate&lt;/a&gt;.&lt;/p&gt;
-&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
-&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/3435g520&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Current State of Software Assurance Tools and Techniques&lt;/a&gt;,&amp;rdquo; LBNL Technical Report, October 24, 2022.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; projects.&lt;/p&gt;
+      <title>Trusted CI, the National Science Foundation Cybersecurity of Excellence</title>
+      <link>https://secpriv.lbl.gov/project/nsf-trustedci/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/nsf-trustedci/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hud9a1a919fcb667042118d1d1be22d972_12240_ebb5a8b2707d96ce8a3005716aecfdb7.webp 400w,
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hud9a1a919fcb667042118d1d1be22d972_12240_80d5cfa1ef942a3591aff6f2511b9852.webp 760w,
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hud9a1a919fcb667042118d1d1be22d972_12240_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://secpriv.lbl.gov/media/partners/TrustedCI_logo_blue_web%281%29-small_hud9a1a919fcb667042118d1d1be22d972_12240_ebb5a8b2707d96ce8a3005716aecfdb7.webp&#34;
+               width=&#34;144&#34;
+               height=&#34;41&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h4 id=&#34;principal-investigators-and-site-leads&#34;&gt;Principal Investigators and Site Leads&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ncsa.illinois.edu/People/jbasney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jim Basney&lt;/a&gt; (Director, PI, and Lead at UIUC/NCSA) &lt;br&gt;
+&lt;a href=&#34;https://psc.edu/staff/benninger&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathy Benninger&lt;/a&gt; (Lead at CMU/PSC) &lt;br&gt;
+&lt;a href=&#34;http://pages.cs.wisc.edu/~bart/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barton Miller&lt;/a&gt; (Co-PI and Lead at U. Wisc.) &lt;br&gt;
+&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (Deputy Director, Co-PI, and Lead at LBNL) &lt;br&gt;
+&lt;a href=&#34;https://cacr.iu.edu/about/people/kelli-shute.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kelli Shute&lt;/a&gt; (Executive Director, Co-PI, and Lead at IU)&lt;/p&gt;
+&lt;h4 id=&#34;additional-lbnl-staff&#34;&gt;Additional LBNL Staff&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/daniel-gunter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Gunter&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;lbnl-project-alumni&#34;&gt;LBNL Project Alumni&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.nersc.gov/about/nersc-staff/networking-security/jason-lee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason R. Lee&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.drewpaine.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drew Paine&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;former-pis-and-site-leads&#34;&gt;Former PIs and Site Leads:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/dana-brunson-3955ab11/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dana Brunson&lt;/a&gt; (Former Co-PI / Lead at Internet2) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/randy-butler-59821911/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Randal Butler&lt;/a&gt; (Former Co-PI at UIUC) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/james-a-marsteller-cissp-2874b21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James  Marsteller&lt;/a&gt; (Former Co-PI and Lead at CMU/PSC) &lt;br&gt;
+&lt;a href=&#34;http://www.vonwelch.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Von Welch&lt;/a&gt; (Former PI and Founding Director, IU)&lt;/p&gt;
+&lt;p&gt;The mission of Trusted CI, the National Science Foundation Cybersecurity of Excellence, is to improve the cybersecurity of NSF computational science and engineering projects, while allowing those projects to focus on their science endeavors.&lt;/p&gt;
+&lt;p&gt;As the National Science Foundation Cybersecurity Center of Excellence, Trusted CI draws on expertise from multiple internationally recognized institutions, including &lt;a href=&#34;https://cacr.iu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indiana University&lt;/a&gt;, the &lt;a href=&#34;https://www.ncsa.illinois.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Illinois&lt;/a&gt;, the &lt;a href=&#34;https://www.wisc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Wisconsin-Madison&lt;/a&gt;, the &lt;a href=&#34;https://www.psc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pittsburgh Supercomputing Center&lt;/a&gt;, and &lt;a href=&#34;https://www.lbl.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab&lt;/a&gt;. Drawing on this expertise, Trusted CI collaborates with NSF-funded research organizations to focus on addressing the unique cybersecurity challenges faced by such entities. In addition to our leadership team, a world-class &lt;a href=&#34;https://www.trustedci.org/advisory-committee&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Advisory Committee&lt;/a&gt; adds its experience and a critical eye to the center&amp;rsquo;s strategic decision-making.&lt;/p&gt;
+&lt;p&gt;This project is supported by award # &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1547272&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACI-1547272&lt;/a&gt;, &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920430&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAC-1920430&lt;/a&gt;, and &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241313&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAC-2241313&lt;/a&gt; from the National Science Foundation&amp;rsquo;s Office of Advanced Cyberinfrastructure.&lt;/p&gt;
+&lt;p&gt;Read more at the &lt;a href=&#34;https://trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI web site&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;news-about-from-lbnls-involvement-with-this-center&#34;&gt;News about from LBNL&amp;rsquo;s involvement with this center:&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://sciencenode.org/feature/mind-the-gap-how-to-speak-like-an-information-security-pro.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mind the gap: Speaking like a cybersecurity pro&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://sciencenode.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Node&lt;/a&gt;, February 10, 2017.&lt;/p&gt;
+&lt;h3 id=&#34;selected-trusted-ci-blog-posts-involving-lbnls-personnel&#34;&gt;Selected Trusted CI blog posts involving LBNL&amp;rsquo;s personnel:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.trustedci.org/2023/03/save-date-announcing-2023-nsf.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAVE THE DATE: Announcing the 2023 NSF Cybersecurity Summit, Oct 24-26, 2023 in Berkeley, CA&lt;/a&gt; — Mar. 21, 2023&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.trustedci.org/2023/02/register-NIST-3rd-HPC-workshop.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registration Open for 3rd HPC Security Workshop at NIST NCCoE&lt;/a&gt; — Feb. 3, 2023&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &lt;a href=&#34;https://blog.trustedci.org/2022/11/publication-of-trusted-ci-roadmap-for.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publication of the Trusted CI Roadmap for Securing Operational Technology in NSF Scientific Research&lt;/a&gt; — Nov. 16, 2022.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &lt;a href=&#34;https://blog.trustedci.org/2022/11/open-science-cyber-risk-profile-oscrp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile (OSCRP) Updated with Science DMZ, Software Assurance, Operational Technology, and Cloud Computing Elements&lt;/a&gt; — Nov. 1, 2022&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &lt;a href=&#34;https://blog.trustedci.org/2022/07/findings-of-2022-trusted-ci-study-on.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Findings of the 2022 Trusted CI Study on the Security of Operational Technology in NSF Scientific Research&lt;/a&gt; — July 15, 2022.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &lt;a href=&#34;https://cs.lbl.gov/news-media/news/2022/berkeley-labs-sean-peisert-tapped-to-take-on-deputy-director-role/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab’s Sean Peisert Tapped to Take on Deputy Director Role&lt;/a&gt; — June 28, 2022&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &lt;a href=&#34;https://blog.trustedci.org/2022/06/announcement-of-trusted-ci-director.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Announcement of Trusted CI Director Transition&lt;/a&gt; — June 27, 2022&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2022/05/better-scientific-software-bssw-helps.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Better Scientific Software (BSSw) Helps Promote Trusted CI Guide to Securing Scientific Software&lt;/a&gt;,&amp;rdquo; May 13, 2022.&lt;/p&gt;
+&lt;p&gt;Elisa Heyman Pignolo, Barton Miller, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://bssw.io/blog_posts/trusted-cyberinfrastructure-evaluation-guidance-and-programs-for-assurance-of-scientific-software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted Cyberinfrastructure Evaluation, Guidance, and Programs for Assurance of Scientific Software&lt;/a&gt;,&amp;rdquo; May 13, 2022.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2022/01/announcing-2022-trusted-ci-annual.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Announcing the 2022 Trusted CI Annual Challenge on Scientific OT/CPS Security&lt;/a&gt;,&amp;rdquo; Jan. 5, 2022.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2021/12/publication-of-trusted-ci-guide-to.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publication of the Trusted CI Guide to Securing Scientific Software&lt;/a&gt;,&amp;rdquo;  &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, Dec. 14, 2021.&lt;/p&gt;
+&lt;p&gt;Sean Peiert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2021/09/findings-report-of-2021-trusted-ci.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Findings Report of the 2021 Trusted CI Annual Challenge on Software Assurance Published&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;,  Sept. 29, 2021&lt;/p&gt;
+&lt;p&gt;Sean Peiert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2021/08/trusted-ci-new-co-pis-peisert-and-shute.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI new co-PIs: Peisert and Shute&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, Aug. 3, 2021&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2021/08/initial-findings-of-2021-trusted-ci.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Initial Findings of the 2021 Trusted CI Annual Challenge on Software Assurance&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;,  Aug. 3, 2021&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2021/03/announcing-2021-trusted-ci-annual.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Announcing the 2021 Trusted CI Annual Challenge on Software Assurance&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, Mar. 30, 2021.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2020/09/universities-have-needs-for-computing.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Confidentiality Issues and Solutions in Academic Research Computing&lt;/a&gt;,&amp;rdquo;
+&lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, September 10, 2020.&lt;/p&gt;
+&lt;p&gt;Anurag Shankar, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2020/07/trusted-ci-completes-highly-successful.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Completes a Highly Successful Engagement with UC Berkeley&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, July 21, 2020.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2020/06/fantastic-bits-and-why-they-flip.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fantastic Bits and Why They Flip&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, June 23, 2020.&lt;/p&gt;
+&lt;p&gt;John Zage, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2020/01/in-second-half-of-2019-trusted-ci-and.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Concludes SLATE Engagement&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, January 27, 2020.&lt;/p&gt;
+&lt;p&gt;John Zage, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2019/09/trusted-ci-begins-engagement-with-slate.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI begins engagement with SLATE&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, September 4, 2019.&lt;/p&gt;
+&lt;p&gt;Von Welch, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2017/10/open-science-cyber-risk-profile.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile publications&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, October 10, 2017.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2017/04/oscrp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile Published&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, April 3, 2017.&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-lbnls-involvement-with-trusted-ci&#34;&gt;Publications resulting from LBNL&amp;rsquo;s involvement with Trusted CI:&lt;/h3&gt;
+&lt;p&gt;Andrew Adams, Emily K. Adams, Dan Gunter, Ryan Kiser, Mark Krenz, Sean Peisert, and John Zage. &amp;ldquo;&lt;a href=&#34;https://doi.org/10.5281/zenodo.7327987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roadmap for Securing Operational Technology in NSF Scientific Research&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://doi.org/10.5281/zenodo.7327987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, November 16 2022.&lt;/p&gt;
+&lt;p&gt;Emily K. Adams, Daniel Gunter, Ryan Kiser, Mark Krenz, Sean Peisert, Susan Sons, and John Zage, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.5281/zenodo.6828675&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Findings of the 2022 Trusted CI Study on the Security of Operational Technology in NSF Scientific Research&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://doi.org/10.5281/zenodo.6828675&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, July 13, 2022.&lt;/p&gt;
+&lt;p&gt;Andrew Adams, Kay Avila, Elisa Heymann, Mark Krenz, Jason R. Lee, Barton Miller, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.5281/zenodo.5777646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guide to Securing Scientific Software&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://doi.org/10.5281/zenodo.5777646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, December 14, 2021.&lt;/p&gt;
+&lt;p&gt;Andrew Adams, Kay Avila, Elisa Heymann, Mark Krenz, Jason R. Lee, Barton Miller, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://hdl.handle.net/2022/26799&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The State of the Scientific Software World: Findings of the 2021 Trusted CI Software Assurance Annual Challenge Interviews&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;http://hdl.handle.net/2022/26799&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, September 29, 2021.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/7cz7m1ws&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Examination and Survey of Data Confidentiality Issues and Solutions in Academic Research Computing&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://escholarship.org/uc/item/7cz7m1ws&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, September 8, 2020.&lt;/p&gt;
+&lt;p&gt;Anurag Shankar, Andrew Adams, John Zage, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://www.ideals.illinois.edu/handle/2142/107784&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Berkeley Secure Research Data and Compute Platform&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://www.trustedci.org/reports&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, June 20, 2020.&lt;/p&gt;
+&lt;p&gt;Andrew K. Adams, Christopher Weaver, Jim Basney, Joe Breen, John Zage, Kay Avila, Lincoln Bryant, Mitchell Steinman, Reinhard Gentz, Robert Gardner, Sean Peisert, Shawn McKee, Tom Barton, &amp;ldquo;&lt;a href=&#34;https://www.ideals.illinois.edu/bitstream/handle/2142/106019/Trusted%20CI%20SLATE%20Engagement%20Final%20Report.pdf?sequence=2&amp;amp;isAllowed=y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI SLATE Engagement — Final Report&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://www.trustedci.org/reports&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, January 6 2020.&lt;/p&gt;
+&lt;p&gt;Reinhard Gentz and Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://hdl.handle.net/2022/24910&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Examination and Survey of Random Bit Flips and Scientific Computing&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://www.trustedci.org/reports&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, December 20, 2019.&lt;/p&gt;
+&lt;p&gt;Andrew Adams, Kay Avila, Jim Basney, Dana Brunson, Robert Cowles, Jeannette Dopheide, Terry Fleury, Elisa Heymann, Florence Hudson, Craig Jackson, Ryan Kiser, Mark Krenz, Jim Marsteller, Barton P. Miller, Sean Peisert, Scott Russell, Susan Sons, Von Welch, John Zage, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/pdf/1904.05383&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Experiences in Cybersecurity and Service to Open Science&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;https://www.pearc19.pearc.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Practice and Experience in Advanced Research Computing (PEARC)&lt;/a&gt;&lt;/em&gt;, July 28-August 1, 2019.  ACM.&lt;/p&gt;
+&lt;p&gt;Sean Peisert and Von Welch, &amp;ldquo;&lt;a href=&#34;OSCRP-Mag&#34;&gt;The Open Science Cyber Risk Profile: The Rosetta Stone for Open Science and Cybersecurity&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;IEEE Security &amp;amp; Privacy&lt;/em&gt;&lt;/a&gt;, 15(5), pp. 94–95, Sept./Oct. 2017.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, Karen Stocks, and Von Welch, &amp;ldquo;&lt;a href=&#34;https://cio.ucop.edu/helping-scientists-understand-research-cyber-risks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helping Scientists Understand Research Cyber Risks&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://cio.ucop.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC IT Blog&lt;/a&gt;, September 20, 2017.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, Von Welch, Andrew Adams, Michael Dopheide, Susan Sons, RuthAnne Bevier, Rich LeDuc, Pascal Meunier, Stephen Schwab, and Karen Stocks, Ilkay Altintas, James Cuff, Reagan Moore, and Warren Raquel, &amp;ldquo;&lt;a href=&#34;OSCRP&#34;&gt;Open Science Cyber Risk Profile&lt;/a&gt;,&amp;rdquo; February 2017. DOI: &lt;a href=&#34;https://doi.org/10.5281/zenodo.7268749&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.5281/zenodo.7268749&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;trusted-ci-webinars-and-talks-involving-personnel-from-lbnl&#34;&gt;Trusted CI Webinars and Talks involving personnel from LBNL:&lt;/h3&gt;
+&lt;p&gt;Emily Adams, Ryan Kiser, Mark Krenz, and Sean Peisert, “&lt;a href=&#34;https://www.youtube.com/watch?v=mkFsk4LEF68&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Study on the Security of Operational Technology in NSF Scientific Research&lt;/a&gt;,” &lt;a href=&#34;https://www.trustedci.org/2022-cybersecurity-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022 NSF Cybersecurity Summit&lt;/a&gt;, Bloomington, IN, October 19, 2022.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;Trusted CI Evaluation, Guidance, and Programs for Assurance of Scientific Software,&amp;quot;&lt;a href=&#34;https://www.nitrd.gov/coordination-areas/lsn/magic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NITRD MAGIC&lt;/a&gt; &lt;a href=&#34;https://www.nitrd.gov/nitrdgroups/images/2022/MAGIC-Agenda-03022022.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meeting&lt;/a&gt;, March 2, 2022.&lt;/p&gt;
+&lt;p&gt;Elisa Heymann, Barton Miller, and Sean Peisert, &amp;ldquo;Presenting the Results of the Trusted CI Annual Challenge on Software Assurance,&amp;rdquo; &lt;a href=&#34;https://www.trustedci.org/webinars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Webinar&lt;/a&gt;, February 28, 2022.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, Andrew Adams, Kay Avila, Elisa Heymann, &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=Q8TnSauLi7w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Observations on Software Assurance in Scientific Computing&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://www.trustedci.org/2021-nsf-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2021 NSF Cybersecurity Summit&lt;/a&gt;, October 13, 2021.&lt;/p&gt;
+&lt;p&gt;Jim Basney and Sean Peisert, &amp;ldquo;Two Community Surveys on Data Integrity Issues in Scientific Computing,&amp;rdquo;
+&lt;a href=&#34;https://www.trustedci.org/2020-nsf-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure&lt;/a&gt;, September 24, 2020. (&lt;a href=&#34;https://www.youtube.com/watch?v=Bh9v2H_1ADo&amp;amp;list=PLLoFSG1hhthRk1SkxWXa1oGhOvuLCQXvM&amp;amp;index=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;https://drive.google.com/file/d/1j3Vo1BU_t2okM3l4atiIkF4Jqj6h9Enm/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Von Welch &amp;amp; Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile (OSCRP)&lt;/a&gt;,&amp;rdquo; January 2017. (&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;http://hdl.handle.net/2022/21235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/scientific-computing/&#34;&gt;cybersecurity for scientific and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data Enclaves for Scientific Computing</title>
       <link>https://secpriv.lbl.gov/project/desc/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/project/desc/</guid>
       <description>&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; &lt;br&gt;
@@ -183,6 +200,251 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
     </item>
     
     <item>
+      <title>Privacy-Preserving Data Analysis for Scientific Discovery</title>
+      <link>https://secpriv.lbl.gov/project/csr-private-data/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/csr-private-data/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;Data is frequently not shared by organizations because that data is considered by the organization to be in some way sensitive. For example, there may be laws or regulations prohibiting sharing due to personal privacy or national security issues, or the organization owning the data may also consider that data to be a proprietary trade secret. In any case, that data cannot or will not be released in raw form, and so alternative approaches are needed if that data is to be shared at all.&lt;/p&gt;
+&lt;p&gt;Today, data is often not shared at all, or if it is shared, it is done so in ways that require people processing or analyzing that data to access the data in highly secured, non-networked environments set up to prevent any data from being exfiltrated either physically from a building or certainly from a network. This is the reason why much research is hindered.  Sometimes data is shared through processes of &amp;ldquo;anonymization&amp;rdquo; in which data is typically either masked or made more general.  Unfortunately, these techniques have repeatedly been shown to fail, typically by merging external information containing identifiable information with quasi-identifiers contained in the dataset in order to identify &amp;ldquo;anonymized&amp;rdquo; records in the dataset.&lt;/p&gt;
+&lt;p&gt;This project aims to develop a method of leveraging a variety of hardware and software apparoaches, in concert with privacy-preserving technologies, such as differential privacy, for the scientific analysis of sensitive data, in order to provide significantly greater confidence to the owner of a set of sensitive data that the data will not be exposed or altered, and also reduce the liability exposure of the data center to assertions of security negligence or insider attacks by providing an environment in which even they cannot access the raw data, all without significant negative impacts to usability or performance.  The environment that we envision that is is both secure and usable, and also has protections against &amp;ldquo;insiders&amp;rdquo; such as system administrators leverages techniques that are relatively new, and just becoming practically useful for these purposes.&lt;/p&gt;
+&lt;p&gt;This project is supported by Berkeley Lab Contractor Supported Research funding.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
+&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/affiliates/chen-nee-chuah/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chen-nee Chuah&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/jane-macfarlane&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jane Macfarlane&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://faculty.engineering.ucdavis.edu/zhang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Zhang&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/ammarhydr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ammar Haydari&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/hamdy-hosny-elgammal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hamdy Elgammal&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;past-students&#34;&gt;Past Students:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/garchit07/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Archit Garg&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/chitrabhanu-gupta-6114a8145/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chitrabhanu Gupta&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/jinyue-song-17021668/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jinyue Song&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;http://jayneelvora.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jayneel Vora&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/news-and-publications/news/2022/scientific-data-division-summer-students-tackle-data-privacy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientific Data Division Summer Students Tackle Data Privacy&lt;/a&gt; - Sept. 15, 2022&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cs.lbl.gov/news-media/news/2020/summer-students-support-covid-19-response&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer Students Tackle COVID-19&lt;/a&gt; - Oct. 21, 2020&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Ammar Haydari, Chen-Nee Chuah, Michael Zhang, Jane Macfarlane, and Sean Peisert, &amp;ldquo;Differentially Private Map Matching for Mobility Trajectories,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;https://www.acsac.org/2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022 Annual Computer Security Applications Conference (ACSAC)&lt;/a&gt;&lt;/em&gt;, Austin, TX, December 5-9, 2022.&lt;/p&gt;
+&lt;p&gt;Hector Garcia Martin, Tijana Radivojevic, Jeremy Zucker, Kristofer Bouchard, Jess Sustarich, Sean Peisert, Dan Arnold, Nathan Hillson, Gyorgy Babnigg, Jose Manuel Marti, Christopher J. Mungall, Gregg T. Beckham, Lucas Waldburger, James Carothers, ShivShankar Sundaram, Deb Agarwal, Blake A. Simmons, Tyler Backman, Deepanwita Banerjee, Deepti Tanjore, Lavanya Ramakrishnan, and Anup Singh, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2210.09085&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perspectives for Self-Driving Labs in Synthetic Biology&lt;/a&gt;,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2210.09085&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2210.09085&lt;/a&gt;, 14 Oct 2022.&lt;/p&gt;
+&lt;p&gt;Ammar Haydari, Michael Zhang, Chen-Nee Chuah, Jane Macfarlane, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2112.08487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adaptive Differential Privacy Mechanism for Aggregated Mobility Dataset&lt;/a&gt;,&amp;rdquo; arXiv preprint arXiv:2112.08487, 10 Dec 2021.&lt;/p&gt;
+&lt;p&gt;Luca Pion-Tonachini, Kristofer Bouchard, Hector Garcia Martin, Sean Peisert, W. Bradley Holtz, Anil Aswani, Dipankar Dwivedi, Haruko Wainwright, Ghanshyam Pilania, Benjamin Nachman, Babetta L. Marrone, Nicola Falco, Prabhat, Daniel Arnold, Alejandro Wolf-Yadlin, Sarah Powers, Sharlee Climer, Quinn Jackson, Ty Carlson, Michael Sohn, Petrus Zwart, Neeraj Kumar, Amy Justice, Claire Tomlin, Daniel Jacobson, Gos Micklem, Georgios V. Gkoutos, Peter J. Bickel, Jean-Baptiste Cazier, Juliane Müller, Bobbie-Jo Webb-Robertson, Rick Stevens, Mark Anderson, Ken Kreutz-Delgado, Michael W. Mahoney, James B. Brown, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2111.13786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning from Learning Machines: a New Generation of AI Technology to Meet the Needs of Science&lt;/a&gt;,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2111.13786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.13786&lt;/a&gt;, 27 Nov 2021.&lt;/p&gt;
+&lt;h3 id=&#34;presentations&#34;&gt;Presentations:&lt;/h3&gt;
+&lt;!--
+&#34;[Hardware/Software Co-Design to Enable Trustworthy Data Domains for HPC](https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/f64a4f28b4734808924cc8c3d9a2af63/cb841a4cdcb64b0eb8b1cc53a4a42208.pdf)&#34;
+Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Workshop on Reimagining Codesign](https://web.cvent.com/event/f64a4f28-b473-4808-924c-c8c3d9a2af63/summary), March 16-18, 2021. \[[White Paper](https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/f64a4f28b4734808924cc8c3d9a2af63/5fef554c8ff84d8283de212addcaf446.pdf)\]
+--&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;Securing Edge-to-Center Computing with Trustworthy Data Domains,&amp;rdquo; &lt;a href=&#34;https://community.apan.org/wg/afosr/w/researchareas/31786/2022-energy-consequences-of-information-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022 AFRL/AFOSR/DOE Energy Cost of Information Workshop&lt;/a&gt;, February 18, 2022.&lt;/p&gt;
+&lt;p&gt;Venkatesh Akella and Sean Peisert, &amp;ldquo;Usable Computer Security and Privacy to Enable Data Sharing for Scientific Research,&amp;rdquo; &lt;a href=&#34;https://hopin.com/events/tccoe-2022-summit%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted Computing Center of Excellence (TCCOE) Summit&lt;/a&gt;, February 1–3, 2022.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;The Social Dilemma,&amp;rdquo; (panel; with Safiya Noble, UCLA; Gillian Hayes UCI; Bryan Cunningham, UCI; Pegah Parsi, UCSD; and Allison Henry, UC Berkeley), &lt;a href=&#34;https://compliance.ucr.edu/data-privacy-day-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California Data Privacy Day&lt;/a&gt;, January 28, 2022.&lt;/p&gt;
+&lt;p&gt;Keynote: &amp;ldquo;Usable Computer Security and Privacy to Enable Data Sharing for Scientific Research,&amp;rdquo; &lt;a href=&#34;https://svcc2021.svcsi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Second International Silicon Valley Cybersecurity Conference (SVCC)&lt;/a&gt;, December 3, 2021.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;Advancing Cybersecurity as an Enabling Capability in High-Performance Computing Environments&amp;rdquo;, &lt;a href=&#34;https://www.hpcuserforum.com/events.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPC User Forum&lt;/a&gt;, Sept. 7–9, 2021&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;Cyber Privacy and Security Risks During the Pandemic” (panel - with Bart Preneel, KU Leuven; Kritika Bhardwaj, NLU Delhi; Margaret Bourdeaux, Harvard/Berkman Klein; Susan Landau, Tufts; and Smitha Prasad, NLU Delhi), Hewlett Foundation event hosted by the &lt;a href=&#34;https://fletcher.tufts.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fletcher School&lt;/a&gt; at Tufts University and the &lt;a href=&#34;https://ccgdelhi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre for Communication Governance (CCG)&lt;/a&gt; at National Law University, Delhi, December 17, 2020.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;Fragility, Interdependence, and Tradeoffs — Cybersecurity and Privacy Lessons from the Pandemic,&amp;rdquo; &lt;a href=&#34;https://www.nitrd.gov/nitrdgroups/index.php?title=CSIA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Federal Cybersecurity R&amp;amp;D Interagency Working Group (CSIA IWG)&lt;/a&gt;, &lt;a href=&#34;https://www.nitrd.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NITRD&lt;/a&gt;, December 3, 2020.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;Scientific Computing and Sensitive Data,&amp;rdquo; &lt;a href=&#34;https://datalab.ucdavis.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DataLab&lt;/a&gt; &lt;a href=&#34;https://datalab.ucdavis.edu/health-data-science-systems/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Data Science and Systems Research and Learning Cluster&lt;/a&gt;, University of California, Davis, October 2, 2020.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;Privacy-Preserving Data Analysis in Scientific Computing Environments,&amp;rdquo; &lt;a href=&#34;https://www.whitehouse.gov/ostp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;White House Office of Science &amp;amp; Technology Policy Workshop&lt;/a&gt;, Eisenhower Administration Building, Washington, D.C., Jan. 31, 2020.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;Privacy-Preserving Data Analysis for Energy Delivery Systems and Scientific Discovery,&amp;rdquo; &lt;a href=&#34;https://www.wapa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Western Area Power Administration (WAPA)&lt;/a&gt;, Golden, CO, November 5, 2019.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_189637.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Usable Computer Security and Privacy to Enable and Encourage Data Sharing for Scientific Research&lt;/a&gt;,&amp;rdquo;  &lt;a href=&#34;http://sites.nationalacademies.org/pga/cosepup/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Academies of Sciences, Engineering, and Medicine Committee on Science, Engineering, Medicine, and Public Policy (COSEMPUP) Meeting&lt;/a&gt;, Washington, D.C., November 8, 2018.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://2018.isc-program.com/?page_id=10&amp;amp;id=inv_sp155&amp;amp;sess=sess126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Challenges and Opportunities in High-Performance Computing Environments&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://2018.isc-program.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Supercomputing Conference (ISC)&lt;/a&gt;, Frankfurt, Germany,  June 26, 2018.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/scientific-computing/&#34;&gt;cybersecurity for scientific and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Securing Automated, Adaptive Learning-Driven Cyber-Physical System Processes</title>
+      <link>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;Numerous DOE-relevant processes are becoming automated and adaptive, using machine learning techniques.  Such processes include vehicle and traffic navigation guidance, intelligent transportation systems, adaptive control of grid-attached equipment, large scientific instruments.&lt;br&gt;
+This creates a vulnerability for a cyber attacker to sabotage processes through tainted training data or specially crafted inputs.  Consequences might be tainted manufactured output, traffic collisions, power outages, or damage to scientific instruments or experiments. This project is developing secure machine learning methods that will enable safer operation of automated, adaptive, learning-driven &amp;ldquo;cyber-physical system&amp;rdquo; processes.&lt;/p&gt;
+&lt;p&gt;This project is supported by Berkeley Lab Contractor Supported Research funding.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
+&lt;!-- #### Senior Personnel --&gt;
+&lt;h4 id=&#34;project-alumni&#34;&gt;Project Alumni:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://bashirmohd.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bashir Mohammed&lt;/a&gt; → DeepMind &lt;br&gt;
+&lt;a href=&#34;https://www.yizechen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yize Chen&lt;/a&gt; (Postdoc) → Assistant Professor, University of Hong Kong&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, ”SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation,” &lt;em&gt;Proceedings of the 2022 IEEE Power Engineering Society (PES) General Meeting&lt;/em&gt;, Denver, CO. July 17-21 2022.&lt;/p&gt;
+&lt;p&gt;Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, &amp;ldquo;SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2111.15152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.15152&lt;/a&gt;, 30 Nov 2021.&lt;/p&gt;
+&lt;p&gt;Yize Chen, Daniel Arnold, Yuanyuan Shi, and Sean Peisert, &amp;ldquo;Understanding the Safety Requirements for Learning-based Power Systems Operations,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2110.04983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2110.04983&lt;/a&gt;, 11 Oct 2021&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Provable Anonymization of Grid Data for Cyberattack Detection</title>
+      <link>https://secpriv.lbl.gov/project/ceds-privacy/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/ceds-privacy/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;Data is frequently not shared by organizations because that data is considered by the organization to be in some way sensitive. For example, there may be laws or regulations prohibiting sharing due to personal privacy or national security issues, or the organization owning the data may also consider that data to be a proprietary trade secret. In any case, that data cannot or will not be released in raw form, and so alternative approaches are needed if that data is to be shared at all.&lt;/p&gt;
+&lt;p&gt;Today, data is often not shared at all, or if it is shared, it is done so in ways that require people processing or analyzing that data to access the data in highly secured, non-networked environments set up to prevent any data from being exfiltrated either physically from a building or certainly from a network. This is the reason why much research is hindered.  Sometimes data is shared through processes of &amp;ldquo;anonymization&amp;rdquo; in which data is typically either masked or made more general.  Unfortunately, these techniques have repeatedly been shown to fail, typically by merging external information containing identifiable information with quasi-identifiers contained in the dataset in order to identify &amp;ldquo;anonymized&amp;rdquo; records in the dataset.&lt;/p&gt;
+&lt;p&gt;This project aims to develop techniques for enabling data analysis for the purposes of detecting and/or investigating cyberattacks against energy delivery systems while also preserving aspects of key confidentiality elements within the underlying raw data being analyzed.  Specifically, this project proposes to examine the application of privacy-preserving techniques to OT and grid-security-relevant IT data provided by the California Energy Commission (CEC), Kevala, and Portland General Electric, in order to protect privacy as much as possible, thereby minimizing the amount of data for which &amp;ldquo;traditional&amp;rdquo; (and vulnerable) anonymization techniques need to be applied.  The result will be a solution for anonymization of data collected from OT and IT networks pertaining to energy grid cyberattack detection that has been tested for its ability to retain privacy properties and still enable attack detection.&lt;/p&gt;
+&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
+&lt;p&gt;DOE Press Release: &amp;ldquo;&lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Energy Announces Awardees of $30 Million Research Call to Enhance Cybersecurity for Energy Delivery Systems&lt;/a&gt;,&amp;rdquo; August 27, 2019.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
+&lt;h4 id=&#34;co-leads&#34;&gt;Co-Leads:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Lead at Cornell Tech)  &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Lead at Kevala)&lt;/p&gt;
+&lt;h4 id=&#34;postdocs&#34;&gt;Postdocs:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://sinelab.tech.cornell.edu/research/people/tong_wu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tong Wu&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;)&lt;/p&gt;
+&lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://nikhil-ravi.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Ravi&lt;/a&gt; (Cornell Tech)&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://kevalaanalytics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://energy.ca.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;California Energy Commission&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.portlandgeneral.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Portland General Electric&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;hhttps://www.SunPower.com&#34;&gt;SunPower&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://sinelab.tech.cornell.edu/research/people/rojin_zandi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rojin Zandi&lt;/a&gt; (Cornell Tech) &lt;br&gt;
+&lt;a href=&#34;https://www.public.asu.edu/~skadam6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sachin Kadam&lt;/a&gt; (ASU) &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (LBNL) &lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; (LBNL) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/raksha-ramakrishna-b4390374/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Raksha Ramakrishnan&lt;/a&gt; (KTH) &lt;br&gt;
+&lt;a href=&#34;http://eetd.lbl.gov/people/ciaran-roberts-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciaran Roberts&lt;/a&gt; (LBNL)&lt;/p&gt;
+&lt;!--
+#### Past Postdocs:
+--&gt;
+&lt;h4 id=&#34;past-partners&#34;&gt;Past Partners:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.asu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arizona State University&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/news-and-publications/news/2022/scientific-data-division-summer-students-tackle-data-privacy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientific Data Division Summer Students Tackle Data Privacy&lt;/a&gt; - Sept. 15, 2022&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Nikhil Ravi, Anna Scaglione, Julieta Giraldez, Parth Pradhan, Chuck Moran, and Sean Peisert, &amp;ldquo;Solar Photovoltaic Systems Metadata Inference and Differentially Private Publication,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2304.03749&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2304.03749&lt;/a&gt; 7 Apr 2023.&lt;/p&gt;
+&lt;p&gt;Nikhil Ravi, Anna Scaglione, Sachin Kadam, Reinhard Gentz, Sean Peisert, Brent Lunghino, Emmanuel Levijarvi, and Aram Shumavon, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1109/TSG.2022.3184252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differentially Private &lt;em&gt;K&lt;/em&gt;-means Clustering Applied to Meter Data Analysis and Synthesis&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://www.ieee-pes.org/ieee-transactions-on-smart-grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Smart Grid&lt;/a&gt;&lt;/em&gt;, June 17, 2022.&lt;/p&gt;
+&lt;p&gt;Anna Scaglione, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1145/3494107.3522780&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Use of Differential Privacy for Energy Data&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;https://illinois.adsc.com.sg/CPSS2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;8th ACM on Cyber-Physical System Security Workshop (CPSS &amp;lsquo;22)&lt;/a&gt;&lt;/em&gt;, May 30-June 2, 2022.  &lt;a href=&#34;https://doi.org/10.1145/3494107.3522780&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1145/3494107.3522780&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nikhil Ravi, Anna Scaglione, Sachin Kadam, Reinhard Gentz, Sean Peisert, Brent Lunghino, Emmanuel Levijarvi, Aram Shumavon, &amp;ldquo;Differentially Private &lt;em&gt;K&lt;/em&gt;-means Clustering Applied to Meter Data Analysis and Synthesis,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2112.03801&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2112.03801&lt;/a&gt;, 7 Dec 2021.&lt;/p&gt;
+&lt;p&gt;Sachin Kadam, Anna Scaglione, Nikhil Ravi, Sean Peisert, Brent Lunghino, and Aram Shumavon, &amp;ldquo;Optimum Noise Mechanism for Differentially Private Queries in Discrete Finite Sets,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2111.11661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.11661&lt;/a&gt;, 23 Nov 2021.&lt;/p&gt;
+&lt;p&gt;Nikhil Ravi, Anna Scaglione, and Sean Peisert, &amp;ldquo;Colored Noise Mechanism for Differentially Private Clustering,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2111.11661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.07850&lt;/a&gt;, 15 Nov 2021.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES)</title>
+      <link>https://secpriv.lbl.gov/project/ceds-spades/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/ceds-spades/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Energy Storage Systems (ESS), such as electric batteries, are increasingly becomming critical components of the electric power system.  As these devices begin to provide grid services, it is critical to ensure that they are resistant to cyber attacks and cannot be exploited as a mechanism to disrupt the operation of the power grid.  Tools from nonlinear and optimal control theory can be utilized to develop control policies to re-dispatch setpoints in both the ESS and the surrounding electric grid infrastructure to mitigate the effect of cyber attacks.&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Characterize the interaction ESS control systems and Distributed Energy Resource (DER) smart inverter functions on electric grid voltage stability.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Develop a supervisory control system (reinforcement learning-based) that will identify and autonomously update control parameters of the power electronic control systems within ESS devices.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Validate control approaches via Hardware-In-the-Loop (HIL) testing at the LBNL FLEXGRID facility.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integrate the defensive reinforcement learning-based agent into the NRECA Open Modeling Framework (OMF) simulation tool.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
+&lt;p&gt;The Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) project will develop the methodology and tools allowing Energy Storage Systems (ESS) to automatically reconfigure themselves to counteract cyberattacks against both the ESS control system directly and indirectly through the electric distribution grid. This research will begin with an effort to analyze the stability of both ESS control systems and the interaction of the ESS control system and the electric grid, to determine what parameters an attacker would change if a given device (or multiple devices) were to be compromised.  Then, the research team will develop a supervisory control framework that utilizes adaptive control and reinforcement learning techniques to adjust ESS control system parameters and ESS active and reactive power injections to actively defend against a variety of cyberattacks.  The supervisory control framework will be validated in Hardware-in-the-Loop (HIL) experiments where an independent red team will attempt to alter control parameters of an ESS to prevent the device from providing grid services.  The reinforcement learning defensive algorithms will be integrated into the National Rural Electric Cooperative Association (NRECA) Open Modeling Framework (OMF), thereby allowing defensive strategies to be tailored on a utility specific basis.  The major outcomes of this project will be the tools to isolate the component of the ESS control system that has been compromised during a cyberattack as well as policies for changing the control parameters of ESS to mitigate a wide variety of cyberattacks on both the ESS device itself and the electric distribution grid.&lt;/p&gt;
+&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
+&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (LBNL) &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/ciaran-roberts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciaran Roberts&lt;/a&gt; (LBNL) &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/sy-toan-ngo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sy-Toan Ngo&lt;/a&gt; (LBNL) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/davidwpinney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Pinney&lt;/a&gt; (NRECA) &lt;br&gt;
+&lt;a href=&#34;https://scaglione.engineering.asu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Cornell Tech) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/brunoleao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bruno Leao&lt;/a&gt; (Siemens)&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tech.cornell.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://www.nreca.coop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Rural Electric Cooperative Association (NRECA)&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.siemens.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Siemens&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;project-workshops&#34;&gt;Project Workshops&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/&#34;&gt;Year 1&lt;/a&gt;, held on 12/02/2021 &lt;br&gt;
+&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/&#34;&gt;Year 2&lt;/a&gt;, held on 12/08/2022 and 12/15/2022&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Losada Carreno, I., Saha, S. S., Scaglione, A., Arnold, D., Ngo, S., and Roberts, C., “Log(v) 3LPF: A Linear Power Flow Formulation for Unbalanced Three-Phase Distribution Systems,” IEEE Transactions on Power Systems, accepted.&lt;/p&gt;
+&lt;p&gt;Arnold, D., Saha, S. S., Ngo, S., Roberts, C., Scaglione, A., Johnson, N., Peisert, S., and Pinney, D., “Adaptive Control of Distributed Energy Resources for Distribution Grid Voltage Stability,” IEEE Transactions on Power Systems, early access, March 2022, pp. 1-1.&lt;/p&gt;
+&lt;p&gt;Arnold, D., Ngo, S., Roberts, C., Chen, Y., Scaglione, A., and Peisert, S., “Adam-based Augmented Random Search for Control Policies for Distributed Energy Resource Cyber Attack Mitigation,” &lt;a href=&#34;https://acc2022.a2c2.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American Control Conference&lt;/a&gt;, 2022, accepted, available: &lt;a href=&#34;http://arxiv.org/abs/2201.11825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2201.11825&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Roberts, C., Uros M., Arnold, D., and Callaway, D. S., &amp;ldquo;Malicious Control of an Active Load in an Islanded Mixed-Source Microgrid.&amp;rdquo; In 2021 IEEE Madrid PowerTech, pp. 1-6. IEEE, 2021.&lt;/p&gt;
+&lt;p&gt;Roberts, C., Daniel Lara, J., Henriquez-Auba, R., Kameshwar Poolla, B., and Callaway, D. S., &amp;ldquo;Grid-Coupled Dynamic Response of Battery-Driven Voltage Source Converters.&amp;rdquo; In 2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (&lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SmartGridComm&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 2 Workshop</title>
+      <link>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;LBNL held the second workshop for the SPADES project in Dec. 2022 where the project partners presented deep dives into work conducted in the second year of the project.  Presentations from project partners are included below:&lt;/p&gt;
+&lt;h3 id=&#34;participants&#34;&gt;Participants&lt;/h3&gt;
+&lt;p&gt;Daniel Arnold (Principal Investigator), LBNL &lt;a href=&#34;mailto:dbarnold@lbl.gov&#34;&gt;dbarnold@lbl.gov&lt;/a&gt;&lt;br&gt;
+Ciaran Roberts, LBNL &lt;a href=&#34;mailto:cmroberts@lbl.gov&#34;&gt;cmroberts@lbl.gov&lt;/a&gt;&lt;br&gt;
+Sy-Toan Ngo, LBNL &lt;a href=&#34;mailto:sytoanngo@lbl.gov&#34;&gt;sytoanngo@lbl.gov&lt;/a&gt;&lt;br&gt;
+David Pinney, NRECA, &lt;a href=&#34;mailto:david.pinney@nreca.coop&#34;&gt;david.pinney@nreca.coop&lt;/a&gt;&lt;br&gt;
+Lisa Slaughter, NRECA, &lt;a href=&#34;mailto:lisa.m.slaughter@gmail.com&#34;&gt;lisa.m.slaughter@gmail.com&lt;/a&gt;&lt;br&gt;
+Bruno Leao, Siemens CT, &lt;a href=&#34;mailto:bruno.leao@siemens.com&#34;&gt;bruno.leao@siemens.com&lt;/a&gt;&lt;br&gt;
+Sindhu Suresh, Siemens CT, &lt;a href=&#34;mailto:sindhu-suresh@siemens.com&#34;&gt;sindhu-suresh@siemens.com&lt;/a&gt;&lt;br&gt;
+Siddharth Bhela, Siemens CT, &lt;a href=&#34;mailto:siddharth.bhela@siemens.com&#34;&gt;siddharth.bhela@siemens.com&lt;/a&gt;&lt;br&gt;
+Dan Grinkevich, Siemens CT, &lt;a href=&#34;mailto:daniel.grinkevich@siemens.com&#34;&gt;daniel.grinkevich@siemens.com&lt;/a&gt;&lt;br&gt;
+Anna Scaglione, ASU, &lt;a href=&#34;mailto:as337@cornell.edu&#34;&gt;as337@cornell.edu&lt;/a&gt;&lt;br&gt;
+Ignacio Losada Carreno, Cornell Tech, &lt;a href=&#34;mailto:il244@cornell.edu&#34;&gt;il244@cornell.edu&lt;/a&gt;&lt;br&gt;
+Tong Wu, Cornell Tech, &lt;a href=&#34;mailto:tw385@cornell.edu&#34;&gt;tw385@cornell.edu&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/LBNL_SPADES_Y2.pdf&#34;&gt;LBNL (Sy-Toan Ngo)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/NRECA_SPADES_Y2_del6.pdf&#34;&gt;NRECA (David Pinney)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/SIEMENS_SPADES_Y2.pdf&#34;&gt;Siemens CT (Bruno Leao)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/CORNELL_SPADES_Y2.pdf&#34;&gt;Cornell Tech (Ignacio Losada Carreno, Tong Wu)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Securing Solar for the Grid (S2G)</title>
+      <link>https://secpriv.lbl.gov/project/seto-standards/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/seto-standards/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;LBNL will lead a new workgroup for Artificial Intelligence (AI) for IBR/DER cybersecurity that will seek a draft standard report on AI performance requirements for high solar / IBR / DER penetration scenarios. This working group will specifically focus on advancing an understanding of performance requirements for IBR/DER for high solar generation scenarios.  As IBR / DER grow from tens of thousands to millions of devices, increased automation is likely required but needs to be considered within conflicting recommendations for manual control. Automation has brought significant advantages in the power grid for ensuring stability, increasing efficiency, and even providing cybersecurity benefits. At the same time, automation significantly increases cybersecurity risks because automated systems can be remotely attackable, and have similar vulnerabilities to other types of computing systems.&lt;/p&gt;
+&lt;p&gt;LBNL will also lead a new workgroup for privacy-preserving &amp;amp; cybersecure data and model sharing standards for solar / IBR / DER industry stakeholders. Use cases will focus on data and models for high solar / IBR / DER penetration scenarios. This will include threat-sharing program reformations, leveraging prior experience with CESER’s CEDS program.&lt;/p&gt;
+&lt;p&gt;This project was supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/eere/solar/solar-energy-technologies-office&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solar Energy Technologies Office (SETO)&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://kevalaanalytics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AOSCSWAP: Study of Academic, Open Source, and COTS Software Assurance Products</title>
+      <link>https://secpriv.lbl.gov/project/dhs-software-assurance/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/dhs-software-assurance/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;In this project, LBNL will help inform DHS S&amp;amp;T regarding the state of the art in software assurance tools and capabilities.&lt;/p&gt;
+&lt;p&gt;This project is supported by the the U.S. Department of Homeland Security&amp;rsquo;s &lt;a href=&#34;https://www.dhs.gov/science-and-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science and Technology Directorate&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/3435g520&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Current State of Software Assurance Tools and Techniques&lt;/a&gt;,&amp;rdquo; LBNL Technical Report, October 24, 2022.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cybersecurity via Inverter Grid Automatic Reconfiguration (CIGAR) - Year 3 (End of Project) Workshop</title>
       <link>https://secpriv.lbl.gov/talk/ceds_cigar_y3_workshop/</link>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
@@ -199,6 +461,61 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/ASU_5.pdf&#34;&gt;ASU Linearized Power Flow Model and SoDa, Ignacio Losada Carreno (ASU)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/Siemens_6.pdf&#34;&gt;Siemens Internal Tech Transfer Tool, Graph Convolutional Neural Networks and RL Extensions, Anton Kocheturov (Siemens)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/LBNL_7.pdf&#34;&gt;Key Findings and Future Research Directions, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity via Inverter-Grid Automatic Reconfiguration (CIGAR)</title>
+      <link>https://secpriv.lbl.gov/project/ceds-cigar/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/ceds-cigar/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;The proliferation of Distributed Energy Resources (DER) in electric distribution systems is challenging many existing conventional paradigms of how the grid is planned and operated. This includes strategies to ensure the safety of the electric grid from cyber attacks.  Aggregations of DER constitute a mechanism through which hostile entities can remotely influence multiple systems and states in the grid in such a way that distribution system operators have virtually no warning of an attack and no clear strategy to mitigate the effects of intrusion. Furthermore, as infrastructure already exists to reconfigure DER smart inverter settings, attackers need not infiltrate individual systems to gain control over large quantities of DER. Instead, attackers need only gain access to one of a handful of systems designed to wirelessly update DER.&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of a state observer that detects the presence and severity of cyber attacks.&lt;/li&gt;
+&lt;li&gt;Creation of a set of adaptive controllers that adjust settings of DER inverter controllers and distribution grid voltage regulation and protection systems to mitigate the cyber-physical attack in real time.&lt;/li&gt;
+&lt;li&gt;Development of reinforcement learning-based agents that will explore defenses against different attack scenarios&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
+&lt;p&gt;The LBNL-led &amp;ldquo;Cybersecurity via Inverter-Grid Automatic Reconfiguration (CIGAR)&amp;rdquo; project seeks to develop supervisory control algorithms to counteract cyber-physical attacks that have compromised multiple independent systems in the electric grid. This research will begin with an effort to analyze the stability of different types of feedback control systems (e.g, distributed energy resources, and voltage regulation and protection systems) in the electric grid to determine what parameters an attacker would change if DER and utility voltage regulation and protection systems were compromised. Then, the research team will develop adaptive control algorithms that adjust critical parameters in non-compromised systems to actively fight the cyber-physical attack. Finally, this project will utilize reinforcement learning techniques to simultaneously develop defense strategies in higher dimensions tailored to specific sections of the electric grid.  Analysis of derived attack and defensive strategies will also highlight specific system vulnerabilities as well as determine recommended upgrades to enhance system cyber security.&lt;/p&gt;
+&lt;p&gt;This project was supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
+&lt;p&gt;DOE/LBNL Press Release: &amp;ldquo;&lt;a href=&#34;http://newscenter.lbl.gov/2017/09/26/berkeley-lab-aims-to-strengthen-the-cybersecurity-of-the-grid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Aims to Strengthen the Cybersecurity of the Grid&lt;/a&gt;,&amp;rdquo; September 26, 2017.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
+&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; (LBNL)  &lt;br&gt;
+&lt;a href=&#34;http://eetd.lbl.gov/people/ciaran-roberts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciaran Roberts&lt;/a&gt; (LBNL) &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/sy-toan-ngo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sy-Toan Ngo&lt;/a&gt; (LBNL)&lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/davidwpinney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Pinney&lt;/a&gt; (Lead at NRECA) &lt;br&gt;
+&lt;a href=&#34;https://scaglione.engineering.asu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Lead at ASU)  &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/dmitriy-fradkin-6526272/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dmitriy Fradkin&lt;/a&gt; (Lead at Siemens)  &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/sindhu-suresh-ph-d-pmp-csm-80656b18/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sindhu Suresh&lt;/a&gt; (Siemens) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/anton-kocheturov-611914a2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anton Kocheturov&lt;/a&gt; (Siemens)&lt;/p&gt;
+&lt;h4 id=&#34;students&#34;&gt;Students:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/ewa-garbiec-5809a0156/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ewa Garbiec&lt;/a&gt; (UC Dublin) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/ignacio-losada-0879457b/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ignacio Losada Carreño&lt;/a&gt; (ASU) &lt;br&gt;
+&lt;a href=&#34;https://milesial.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexandre Milesi&lt;/a&gt; (Univ. Tech. Compiègne) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/shammya-saha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shammya Saha&lt;/a&gt; (ASU)&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.asu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arizona State University&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://www.nreca.coop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Rural Electric Cooperative Association (NRECA)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.siemens.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Siemens&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;project-workshops&#34;&gt;Project Workshops:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_cigar_y3_workshop/&#34;&gt;End of Project Workshop&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://archerint.com/solar-power-opens-up-new-targets-for-cyber-attackers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solar power opens up new targets for cyber attackers&lt;/a&gt; (Archer News) — May 30, 2019&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.solarpowerworldonline.com/2019/04/cyberattacks-threaten-smart-inverters-but-scientists-have-solutions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyberattacks threaten smart inverters, but scientists have solutions&lt;/a&gt; (Solar Power World) — April 30, 2019&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://spectrum.ieee.org/energywise/energy/the-smarter-grid/cyber-defense-tool-targets-grid-vulnerability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyber Defense Tool Is an Early Warning System for Grid Attacks&lt;/a&gt; (IEEE Spectrum Energywise Blog) — March 27, 2018&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://newscenter.lbl.gov/2017/09/26/berkeley-lab-aims-to-strengthen-the-cybersecurity-of-the-grid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Aims to Strengthen the Cybersecurity of the Grid&lt;/a&gt; — September 27, 2017&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Sean Peisert, Daniel Arnold, Ciaran Roberts, Sy-Toan Ngo, Michael Sankur, Anna Scaglione, Ignacio Losada Carreno, Shammya Saha Anton Kocheturov, Dmitriy Fradkin, David Pinney, Ryan Mahoney, Lisa Slaughter, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/8c13q45x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity via Inverter Grid Automatic Reconfiguration (CIGAR) Year 3 Report&lt;/a&gt;,&amp;rdquo; March 31 2021.&lt;/p&gt;
+&lt;p&gt;Ciaran Roberts, Sy-Toan Ngo, Alexandre Milesi, Anna Scaglione, Sean Peisert, Daniel Arnold, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/content/qt5069z5wn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Reinforcement Learning for Mitigating Cyber-Physical DER Voltage Unbalance Attacks&lt;/a&gt;,&amp;rdquo; Proceedings of the &lt;a href=&#34;https://acc2021.a2c2.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2021 American Control Conference (ACC)&lt;/a&gt;, May 26–28, 2021.&lt;/p&gt;
+&lt;p&gt;Shammya Shananda Saha, Daniel Arnold, Anna Scaglione, Eran Schweitzer, Ciaran Roberts, Sean Peisert, and Nathan G. Johnson. &amp;ldquo;&lt;a href=&#34;https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/rpg2.12009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lyapunov Stability of Smart Inverters Using Linearized DistFlow Approximation&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://digital-library.theiet.org/content/journals/iet-rpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IET Renewable Power Generation&lt;/a&gt;&lt;/em&gt;, accepted 28 September 2020. [&lt;a href=&#34;https://arxiv.org/abs/2011.09620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Ignacio Losada Carreño, Raksha Ramakrishna, Anna Scaglione, Daniel Arnold, Ciaran Roberts, Sy-Toan Ngo, Sean Peisert, and David Pinney, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/6cp617fw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoDa: An Irradiance-Based Synthetic Solar Data Generation Tool&lt;/a&gt;,”   &lt;em&gt;Proceedings of the &lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)&lt;/a&gt;&lt;/em&gt;, November 11–13, 2020.&lt;/p&gt;
+&lt;p&gt;Ciaran Roberts Sy-Toan Ngo, Alexandre Milesi, Sean Peisert, Daniel Arnold, Shammya Saha, Anna Scaglione, Nathan Johnson, Anton Kocheturov, Dmitriy Fradkin, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/5069z5wn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Reinforcement Learning for DER Cyber-Attack Mitigation&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)&lt;/a&gt;&lt;/em&gt;, November 11–13, 2020.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -262,163 +579,6 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;p&gt;James R. Clavin, Yue Huang, Xin Wang, Pradeep M. Prakash, Sisi Duan, Jianwu Wang, and Sean Peisert, &amp;ldquo;A Framework for Evaluating BFT,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;http://ieee-icpads.net/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Parallel and Distributed Systems (ICPADS)&lt;/a&gt;&lt;/em&gt;, December 14–16, 2021.&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/2019-grid-modernization-lab-call-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Modernization Initiative&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Provable Anonymization of Grid Data for Cyberattack Detection</title>
-      <link>https://secpriv.lbl.gov/project/ceds-privacy/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/ceds-privacy/</guid>
-      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
-&lt;p&gt;Data is frequently not shared by organizations because that data is considered by the organization to be in some way sensitive. For example, there may be laws or regulations prohibiting sharing due to personal privacy or national security issues, or the organization owning the data may also consider that data to be a proprietary trade secret. In any case, that data cannot or will not be released in raw form, and so alternative approaches are needed if that data is to be shared at all.&lt;/p&gt;
-&lt;p&gt;Today, data is often not shared at all, or if it is shared, it is done so in ways that require people processing or analyzing that data to access the data in highly secured, non-networked environments set up to prevent any data from being exfiltrated either physically from a building or certainly from a network. This is the reason why much research is hindered.  Sometimes data is shared through processes of &amp;ldquo;anonymization&amp;rdquo; in which data is typically either masked or made more general.  Unfortunately, these techniques have repeatedly been shown to fail, typically by merging external information containing identifiable information with quasi-identifiers contained in the dataset in order to identify &amp;ldquo;anonymized&amp;rdquo; records in the dataset.&lt;/p&gt;
-&lt;p&gt;This project aims to develop techniques for enabling data analysis for the purposes of detecting and/or investigating cyberattacks against energy delivery systems while also preserving aspects of key confidentiality elements within the underlying raw data being analyzed.  Specifically, this project proposes to examine the application of privacy-preserving techniques to OT and grid-security-relevant IT data provided by the California Energy Commission (CEC), Kevala, and Portland General Electric, in order to protect privacy as much as possible, thereby minimizing the amount of data for which &amp;ldquo;traditional&amp;rdquo; (and vulnerable) anonymization techniques need to be applied.  The result will be a solution for anonymization of data collected from OT and IT networks pertaining to energy grid cyberattack detection that has been tested for its ability to retain privacy properties and still enable attack detection.&lt;/p&gt;
-&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
-&lt;p&gt;DOE Press Release: &amp;ldquo;&lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Energy Announces Awardees of $30 Million Research Call to Enhance Cybersecurity for Energy Delivery Systems&lt;/a&gt;,&amp;rdquo; August 27, 2019.&lt;/p&gt;
-&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
-&lt;h4 id=&#34;co-leads&#34;&gt;Co-Leads:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Lead at Cornell Tech)  &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Lead at Kevala)&lt;/p&gt;
-&lt;h4 id=&#34;postdocs&#34;&gt;Postdocs:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://sinelab.tech.cornell.edu/research/people/tong_wu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tong Wu&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;)&lt;/p&gt;
-&lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://nikhil-ravi.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Ravi&lt;/a&gt; (Cornell Tech)&lt;/p&gt;
-&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://kevalaanalytics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://energy.ca.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;California Energy Commission&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://www.portlandgeneral.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Portland General Electric&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;hhttps://www.SunPower.com&#34;&gt;SunPower&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://sinelab.tech.cornell.edu/research/people/rojin_zandi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rojin Zandi&lt;/a&gt; (Cornell Tech) &lt;br&gt;
-&lt;a href=&#34;https://www.public.asu.edu/~skadam6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sachin Kadam&lt;/a&gt; (ASU) &lt;br&gt;
-&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (LBNL) &lt;br&gt;
-&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; (LBNL) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/raksha-ramakrishna-b4390374/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Raksha Ramakrishnan&lt;/a&gt; (KTH) &lt;br&gt;
-&lt;a href=&#34;http://eetd.lbl.gov/people/ciaran-roberts-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciaran Roberts&lt;/a&gt; (LBNL)&lt;/p&gt;
-&lt;!--
-#### Past Postdocs:
---&gt;
-&lt;h4 id=&#34;past-partners&#34;&gt;Past Partners:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.asu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arizona State University&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/news-and-publications/news/2022/scientific-data-division-summer-students-tackle-data-privacy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientific Data Division Summer Students Tackle Data Privacy&lt;/a&gt; - Sept. 15, 2022&lt;/p&gt;
-&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
-&lt;p&gt;Nikhil Ravi, Anna Scaglione, Julieta Giraldez, Parth Pradhan, Chuck Moran, and Sean Peisert, &amp;ldquo;Solar Photovoltaic Systems Metadata Inference and Differentially Private Publication,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2304.03749&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2304.03749&lt;/a&gt; 7 Apr 2023.&lt;/p&gt;
-&lt;p&gt;Nikhil Ravi, Anna Scaglione, Sachin Kadam, Reinhard Gentz, Sean Peisert, Brent Lunghino, Emmanuel Levijarvi, and Aram Shumavon, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1109/TSG.2022.3184252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differentially Private &lt;em&gt;K&lt;/em&gt;-means Clustering Applied to Meter Data Analysis and Synthesis&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://www.ieee-pes.org/ieee-transactions-on-smart-grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Smart Grid&lt;/a&gt;&lt;/em&gt;, June 17, 2022.&lt;/p&gt;
-&lt;p&gt;Anna Scaglione, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1145/3494107.3522780&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Use of Differential Privacy for Energy Data&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;https://illinois.adsc.com.sg/CPSS2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;8th ACM on Cyber-Physical System Security Workshop (CPSS &amp;lsquo;22)&lt;/a&gt;&lt;/em&gt;, May 30-June 2, 2022.  &lt;a href=&#34;https://doi.org/10.1145/3494107.3522780&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1145/3494107.3522780&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Nikhil Ravi, Anna Scaglione, Sachin Kadam, Reinhard Gentz, Sean Peisert, Brent Lunghino, Emmanuel Levijarvi, Aram Shumavon, &amp;ldquo;Differentially Private &lt;em&gt;K&lt;/em&gt;-means Clustering Applied to Meter Data Analysis and Synthesis,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2112.03801&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2112.03801&lt;/a&gt;, 7 Dec 2021.&lt;/p&gt;
-&lt;p&gt;Sachin Kadam, Anna Scaglione, Nikhil Ravi, Sean Peisert, Brent Lunghino, and Aram Shumavon, &amp;ldquo;Optimum Noise Mechanism for Differentially Private Queries in Discrete Finite Sets,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2111.11661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.11661&lt;/a&gt;, 23 Nov 2021.&lt;/p&gt;
-&lt;p&gt;Nikhil Ravi, Anna Scaglione, and Sean Peisert, &amp;ldquo;Colored Noise Mechanism for Differentially Private Clustering,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2111.11661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.07850&lt;/a&gt;, 15 Nov 2021.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES)</title>
-      <link>https://secpriv.lbl.gov/project/ceds-spades/</link>
-      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/ceds-spades/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;Energy Storage Systems (ESS), such as electric batteries, are increasingly becomming critical components of the electric power system.  As these devices begin to provide grid services, it is critical to ensure that they are resistant to cyber attacks and cannot be exploited as a mechanism to disrupt the operation of the power grid.  Tools from nonlinear and optimal control theory can be utilized to develop control policies to re-dispatch setpoints in both the ESS and the surrounding electric grid infrastructure to mitigate the effect of cyber attacks.&lt;/p&gt;
-&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Characterize the interaction ESS control systems and Distributed Energy Resource (DER) smart inverter functions on electric grid voltage stability.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Develop a supervisory control system (reinforcement learning-based) that will identify and autonomously update control parameters of the power electronic control systems within ESS devices.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Validate control approaches via Hardware-In-the-Loop (HIL) testing at the LBNL FLEXGRID facility.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Integrate the defensive reinforcement learning-based agent into the NRECA Open Modeling Framework (OMF) simulation tool.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
-&lt;p&gt;The Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) project will develop the methodology and tools allowing Energy Storage Systems (ESS) to automatically reconfigure themselves to counteract cyberattacks against both the ESS control system directly and indirectly through the electric distribution grid. This research will begin with an effort to analyze the stability of both ESS control systems and the interaction of the ESS control system and the electric grid, to determine what parameters an attacker would change if a given device (or multiple devices) were to be compromised.  Then, the research team will develop a supervisory control framework that utilizes adaptive control and reinforcement learning techniques to adjust ESS control system parameters and ESS active and reactive power injections to actively defend against a variety of cyberattacks.  The supervisory control framework will be validated in Hardware-in-the-Loop (HIL) experiments where an independent red team will attempt to alter control parameters of an ESS to prevent the device from providing grid services.  The reinforcement learning defensive algorithms will be integrated into the National Rural Electric Cooperative Association (NRECA) Open Modeling Framework (OMF), thereby allowing defensive strategies to be tailored on a utility specific basis.  The major outcomes of this project will be the tools to isolate the component of the ESS control system that has been compromised during a cyberattack as well as policies for changing the control parameters of ESS to mitigate a wide variety of cyberattacks on both the ESS device itself and the electric distribution grid.&lt;/p&gt;
-&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
-&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
-&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (LBNL) &lt;br&gt;
-&lt;a href=&#34;https://eta.lbl.gov/people/ciaran-roberts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciaran Roberts&lt;/a&gt; (LBNL) &lt;br&gt;
-&lt;a href=&#34;https://eta.lbl.gov/people/sy-toan-ngo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sy-Toan Ngo&lt;/a&gt; (LBNL) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/davidwpinney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Pinney&lt;/a&gt; (NRECA) &lt;br&gt;
-&lt;a href=&#34;https://scaglione.engineering.asu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Cornell Tech) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/brunoleao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bruno Leao&lt;/a&gt; (Siemens)&lt;/p&gt;
-&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.tech.cornell.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.nreca.coop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Rural Electric Cooperative Association (NRECA)&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.siemens.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Siemens&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;project-workshops&#34;&gt;Project Workshops&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/&#34;&gt;Year 1&lt;/a&gt;, held on 12/02/2021 &lt;br&gt;
-&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/&#34;&gt;Year 2&lt;/a&gt;, held on 12/08/2022 and 12/15/2022&lt;/p&gt;
-&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
-&lt;p&gt;Losada Carreno, I., Saha, S. S., Scaglione, A., Arnold, D., Ngo, S., and Roberts, C., “Log(v) 3LPF: A Linear Power Flow Formulation for Unbalanced Three-Phase Distribution Systems,” IEEE Transactions on Power Systems, accepted.&lt;/p&gt;
-&lt;p&gt;Arnold, D., Saha, S. S., Ngo, S., Roberts, C., Scaglione, A., Johnson, N., Peisert, S., and Pinney, D., “Adaptive Control of Distributed Energy Resources for Distribution Grid Voltage Stability,” IEEE Transactions on Power Systems, early access, March 2022, pp. 1-1.&lt;/p&gt;
-&lt;p&gt;Arnold, D., Ngo, S., Roberts, C., Chen, Y., Scaglione, A., and Peisert, S., “Adam-based Augmented Random Search for Control Policies for Distributed Energy Resource Cyber Attack Mitigation,” &lt;a href=&#34;https://acc2022.a2c2.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American Control Conference&lt;/a&gt;, 2022, accepted, available: &lt;a href=&#34;http://arxiv.org/abs/2201.11825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2201.11825&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Roberts, C., Uros M., Arnold, D., and Callaway, D. S., &amp;ldquo;Malicious Control of an Active Load in an Islanded Mixed-Source Microgrid.&amp;rdquo; In 2021 IEEE Madrid PowerTech, pp. 1-6. IEEE, 2021.&lt;/p&gt;
-&lt;p&gt;Roberts, C., Daniel Lara, J., Henriquez-Auba, R., Kameshwar Poolla, B., and Callaway, D. S., &amp;ldquo;Grid-Coupled Dynamic Response of Battery-Driven Voltage Source Converters.&amp;rdquo; In 2020 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (&lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SmartGridComm&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy-Preserving Data Analysis for Scientific Discovery</title>
-      <link>https://secpriv.lbl.gov/project/csr-private-data/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/csr-private-data/</guid>
-      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
-&lt;p&gt;Data is frequently not shared by organizations because that data is considered by the organization to be in some way sensitive. For example, there may be laws or regulations prohibiting sharing due to personal privacy or national security issues, or the organization owning the data may also consider that data to be a proprietary trade secret. In any case, that data cannot or will not be released in raw form, and so alternative approaches are needed if that data is to be shared at all.&lt;/p&gt;
-&lt;p&gt;Today, data is often not shared at all, or if it is shared, it is done so in ways that require people processing or analyzing that data to access the data in highly secured, non-networked environments set up to prevent any data from being exfiltrated either physically from a building or certainly from a network. This is the reason why much research is hindered.  Sometimes data is shared through processes of &amp;ldquo;anonymization&amp;rdquo; in which data is typically either masked or made more general.  Unfortunately, these techniques have repeatedly been shown to fail, typically by merging external information containing identifiable information with quasi-identifiers contained in the dataset in order to identify &amp;ldquo;anonymized&amp;rdquo; records in the dataset.&lt;/p&gt;
-&lt;p&gt;This project aims to develop a method of leveraging a variety of hardware and software apparoaches, in concert with privacy-preserving technologies, such as differential privacy, for the scientific analysis of sensitive data, in order to provide significantly greater confidence to the owner of a set of sensitive data that the data will not be exposed or altered, and also reduce the liability exposure of the data center to assertions of security negligence or insider attacks by providing an environment in which even they cannot access the raw data, all without significant negative impacts to usability or performance.  The environment that we envision that is is both secure and usable, and also has protections against &amp;ldquo;insiders&amp;rdquo; such as system administrators leverages techniques that are relatively new, and just becoming practically useful for these purposes.&lt;/p&gt;
-&lt;p&gt;This project is supported by Berkeley Lab Contractor Supported Research funding.&lt;/p&gt;
-&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
-&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/affiliates/chen-nee-chuah/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chen-nee Chuah&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://eta.lbl.gov/people/jane-macfarlane&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jane Macfarlane&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://faculty.engineering.ucdavis.edu/zhang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Zhang&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/ammarhydr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ammar Haydari&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/hamdy-hosny-elgammal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hamdy Elgammal&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;past-students&#34;&gt;Past Students:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/garchit07/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Archit Garg&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/chitrabhanu-gupta-6114a8145/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chitrabhanu Gupta&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/jinyue-song-17021668/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jinyue Song&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;http://jayneelvora.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jayneel Vora&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/news-and-publications/news/2022/scientific-data-division-summer-students-tackle-data-privacy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientific Data Division Summer Students Tackle Data Privacy&lt;/a&gt; - Sept. 15, 2022&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://cs.lbl.gov/news-media/news/2020/summer-students-support-covid-19-response&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer Students Tackle COVID-19&lt;/a&gt; - Oct. 21, 2020&lt;/p&gt;
-&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
-&lt;p&gt;Ammar Haydari, Chen-Nee Chuah, Michael Zhang, Jane Macfarlane, and Sean Peisert, &amp;ldquo;Differentially Private Map Matching for Mobility Trajectories,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;https://www.acsac.org/2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022 Annual Computer Security Applications Conference (ACSAC)&lt;/a&gt;&lt;/em&gt;, Austin, TX, December 5-9, 2022.&lt;/p&gt;
-&lt;p&gt;Hector Garcia Martin, Tijana Radivojevic, Jeremy Zucker, Kristofer Bouchard, Jess Sustarich, Sean Peisert, Dan Arnold, Nathan Hillson, Gyorgy Babnigg, Jose Manuel Marti, Christopher J. Mungall, Gregg T. Beckham, Lucas Waldburger, James Carothers, ShivShankar Sundaram, Deb Agarwal, Blake A. Simmons, Tyler Backman, Deepanwita Banerjee, Deepti Tanjore, Lavanya Ramakrishnan, and Anup Singh, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2210.09085&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perspectives for Self-Driving Labs in Synthetic Biology&lt;/a&gt;,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2210.09085&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2210.09085&lt;/a&gt;, 14 Oct 2022.&lt;/p&gt;
-&lt;p&gt;Ammar Haydari, Michael Zhang, Chen-Nee Chuah, Jane Macfarlane, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2112.08487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adaptive Differential Privacy Mechanism for Aggregated Mobility Dataset&lt;/a&gt;,&amp;rdquo; arXiv preprint arXiv:2112.08487, 10 Dec 2021.&lt;/p&gt;
-&lt;p&gt;Luca Pion-Tonachini, Kristofer Bouchard, Hector Garcia Martin, Sean Peisert, W. Bradley Holtz, Anil Aswani, Dipankar Dwivedi, Haruko Wainwright, Ghanshyam Pilania, Benjamin Nachman, Babetta L. Marrone, Nicola Falco, Prabhat, Daniel Arnold, Alejandro Wolf-Yadlin, Sarah Powers, Sharlee Climer, Quinn Jackson, Ty Carlson, Michael Sohn, Petrus Zwart, Neeraj Kumar, Amy Justice, Claire Tomlin, Daniel Jacobson, Gos Micklem, Georgios V. Gkoutos, Peter J. Bickel, Jean-Baptiste Cazier, Juliane Müller, Bobbie-Jo Webb-Robertson, Rick Stevens, Mark Anderson, Ken Kreutz-Delgado, Michael W. Mahoney, James B. Brown, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2111.13786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning from Learning Machines: a New Generation of AI Technology to Meet the Needs of Science&lt;/a&gt;,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2111.13786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.13786&lt;/a&gt;, 27 Nov 2021.&lt;/p&gt;
-&lt;h3 id=&#34;presentations&#34;&gt;Presentations:&lt;/h3&gt;
-&lt;!--
-&#34;[Hardware/Software Co-Design to Enable Trustworthy Data Domains for HPC](https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/f64a4f28b4734808924cc8c3d9a2af63/cb841a4cdcb64b0eb8b1cc53a4a42208.pdf)&#34;
-Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Workshop on Reimagining Codesign](https://web.cvent.com/event/f64a4f28-b473-4808-924c-c8c3d9a2af63/summary), March 16-18, 2021. \[[White Paper](https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/f64a4f28b4734808924cc8c3d9a2af63/5fef554c8ff84d8283de212addcaf446.pdf)\]
---&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;Securing Edge-to-Center Computing with Trustworthy Data Domains,&amp;rdquo; &lt;a href=&#34;https://community.apan.org/wg/afosr/w/researchareas/31786/2022-energy-consequences-of-information-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022 AFRL/AFOSR/DOE Energy Cost of Information Workshop&lt;/a&gt;, February 18, 2022.&lt;/p&gt;
-&lt;p&gt;Venkatesh Akella and Sean Peisert, &amp;ldquo;Usable Computer Security and Privacy to Enable Data Sharing for Scientific Research,&amp;rdquo; &lt;a href=&#34;https://hopin.com/events/tccoe-2022-summit%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted Computing Center of Excellence (TCCOE) Summit&lt;/a&gt;, February 1–3, 2022.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;The Social Dilemma,&amp;rdquo; (panel; with Safiya Noble, UCLA; Gillian Hayes UCI; Bryan Cunningham, UCI; Pegah Parsi, UCSD; and Allison Henry, UC Berkeley), &lt;a href=&#34;https://compliance.ucr.edu/data-privacy-day-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California Data Privacy Day&lt;/a&gt;, January 28, 2022.&lt;/p&gt;
-&lt;p&gt;Keynote: &amp;ldquo;Usable Computer Security and Privacy to Enable Data Sharing for Scientific Research,&amp;rdquo; &lt;a href=&#34;https://svcc2021.svcsi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Second International Silicon Valley Cybersecurity Conference (SVCC)&lt;/a&gt;, December 3, 2021.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;Advancing Cybersecurity as an Enabling Capability in High-Performance Computing Environments&amp;rdquo;, &lt;a href=&#34;https://www.hpcuserforum.com/events.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPC User Forum&lt;/a&gt;, Sept. 7–9, 2021&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;Cyber Privacy and Security Risks During the Pandemic” (panel - with Bart Preneel, KU Leuven; Kritika Bhardwaj, NLU Delhi; Margaret Bourdeaux, Harvard/Berkman Klein; Susan Landau, Tufts; and Smitha Prasad, NLU Delhi), Hewlett Foundation event hosted by the &lt;a href=&#34;https://fletcher.tufts.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fletcher School&lt;/a&gt; at Tufts University and the &lt;a href=&#34;https://ccgdelhi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre for Communication Governance (CCG)&lt;/a&gt; at National Law University, Delhi, December 17, 2020.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;Fragility, Interdependence, and Tradeoffs — Cybersecurity and Privacy Lessons from the Pandemic,&amp;rdquo; &lt;a href=&#34;https://www.nitrd.gov/nitrdgroups/index.php?title=CSIA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Federal Cybersecurity R&amp;amp;D Interagency Working Group (CSIA IWG)&lt;/a&gt;, &lt;a href=&#34;https://www.nitrd.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NITRD&lt;/a&gt;, December 3, 2020.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;Scientific Computing and Sensitive Data,&amp;rdquo; &lt;a href=&#34;https://datalab.ucdavis.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DataLab&lt;/a&gt; &lt;a href=&#34;https://datalab.ucdavis.edu/health-data-science-systems/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Data Science and Systems Research and Learning Cluster&lt;/a&gt;, University of California, Davis, October 2, 2020.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;Privacy-Preserving Data Analysis in Scientific Computing Environments,&amp;rdquo; &lt;a href=&#34;https://www.whitehouse.gov/ostp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;White House Office of Science &amp;amp; Technology Policy Workshop&lt;/a&gt;, Eisenhower Administration Building, Washington, D.C., Jan. 31, 2020.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;Privacy-Preserving Data Analysis for Energy Delivery Systems and Scientific Discovery,&amp;rdquo; &lt;a href=&#34;https://www.wapa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Western Area Power Administration (WAPA)&lt;/a&gt;, Golden, CO, November 5, 2019.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_189637.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Usable Computer Security and Privacy to Enable and Encourage Data Sharing for Scientific Research&lt;/a&gt;,&amp;rdquo;  &lt;a href=&#34;http://sites.nationalacademies.org/pga/cosepup/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Academies of Sciences, Engineering, and Medicine Committee on Science, Engineering, Medicine, and Public Policy (COSEMPUP) Meeting&lt;/a&gt;, Washington, D.C., November 8, 2018.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://2018.isc-program.com/?page_id=10&amp;amp;id=inv_sp155&amp;amp;sess=sess126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Challenges and Opportunities in High-Performance Computing Environments&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://2018.isc-program.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Supercomputing Conference (ISC)&lt;/a&gt;, Frankfurt, Germany,  June 26, 2018.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/scientific-computing/&#34;&gt;cybersecurity for scientific and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -571,111 +731,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Trusted CI, the National Science Foundation Cybersecurity of Excellence</title>
-      <link>https://secpriv.lbl.gov/project/nsf-trustedci/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/nsf-trustedci/</guid>
-      <description>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hud9a1a919fcb667042118d1d1be22d972_12240_ebb5a8b2707d96ce8a3005716aecfdb7.webp 400w,
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hud9a1a919fcb667042118d1d1be22d972_12240_80d5cfa1ef942a3591aff6f2511b9852.webp 760w,
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hud9a1a919fcb667042118d1d1be22d972_12240_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://secpriv.lbl.gov/media/partners/TrustedCI_logo_blue_web%281%29-small_hud9a1a919fcb667042118d1d1be22d972_12240_ebb5a8b2707d96ce8a3005716aecfdb7.webp&#34;
-               width=&#34;144&#34;
-               height=&#34;41&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;h4 id=&#34;principal-investigators-and-site-leads&#34;&gt;Principal Investigators and Site Leads&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.ncsa.illinois.edu/People/jbasney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jim Basney&lt;/a&gt; (Director, PI, and Lead at UIUC/NCSA) &lt;br&gt;
-&lt;a href=&#34;https://psc.edu/staff/benninger&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathy Benninger&lt;/a&gt; (Lead at CMU/PSC) &lt;br&gt;
-&lt;a href=&#34;http://pages.cs.wisc.edu/~bart/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barton Miller&lt;/a&gt; (Co-PI and Lead at U. Wisc.) &lt;br&gt;
-&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (Deputy Director, Co-PI, and Lead at LBNL) &lt;br&gt;
-&lt;a href=&#34;https://cacr.iu.edu/about/people/kelli-shute.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kelli Shute&lt;/a&gt; (Executive Director, Co-PI, and Lead at IU)&lt;/p&gt;
-&lt;h4 id=&#34;additional-lbnl-staff&#34;&gt;Additional LBNL Staff&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/daniel-gunter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Gunter&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;lbnl-project-alumni&#34;&gt;LBNL Project Alumni&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://www.nersc.gov/about/nersc-staff/networking-security/jason-lee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason R. Lee&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://www.drewpaine.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drew Paine&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;former-pis-and-site-leads&#34;&gt;Former PIs and Site Leads:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/dana-brunson-3955ab11/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dana Brunson&lt;/a&gt; (Former Co-PI / Lead at Internet2) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/randy-butler-59821911/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Randal Butler&lt;/a&gt; (Former Co-PI at UIUC) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/james-a-marsteller-cissp-2874b21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James  Marsteller&lt;/a&gt; (Former Co-PI and Lead at CMU/PSC) &lt;br&gt;
-&lt;a href=&#34;http://www.vonwelch.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Von Welch&lt;/a&gt; (Former PI and Founding Director, IU)&lt;/p&gt;
-&lt;p&gt;The mission of Trusted CI, the National Science Foundation Cybersecurity of Excellence, is to improve the cybersecurity of NSF computational science and engineering projects, while allowing those projects to focus on their science endeavors.&lt;/p&gt;
-&lt;p&gt;As the National Science Foundation Cybersecurity Center of Excellence, Trusted CI draws on expertise from multiple internationally recognized institutions, including &lt;a href=&#34;https://cacr.iu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indiana University&lt;/a&gt;, the &lt;a href=&#34;https://www.ncsa.illinois.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Illinois&lt;/a&gt;, the &lt;a href=&#34;https://www.wisc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Wisconsin-Madison&lt;/a&gt;, the &lt;a href=&#34;https://www.psc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pittsburgh Supercomputing Center&lt;/a&gt;, and &lt;a href=&#34;https://www.lbl.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab&lt;/a&gt;. Drawing on this expertise, Trusted CI collaborates with NSF-funded research organizations to focus on addressing the unique cybersecurity challenges faced by such entities. In addition to our leadership team, a world-class &lt;a href=&#34;https://www.trustedci.org/advisory-committee&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Advisory Committee&lt;/a&gt; adds its experience and a critical eye to the center&amp;rsquo;s strategic decision-making.&lt;/p&gt;
-&lt;p&gt;This project is supported by award # &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1547272&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACI-1547272&lt;/a&gt;, &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920430&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAC-1920430&lt;/a&gt;, and &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241313&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAC-2241313&lt;/a&gt; from the National Science Foundation&amp;rsquo;s Office of Advanced Cyberinfrastructure.&lt;/p&gt;
-&lt;p&gt;Read more at the &lt;a href=&#34;https://trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI web site&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;news-about-from-lbnls-involvement-with-this-center&#34;&gt;News about from LBNL&amp;rsquo;s involvement with this center:&lt;/h3&gt;
-&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://sciencenode.org/feature/mind-the-gap-how-to-speak-like-an-information-security-pro.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mind the gap: Speaking like a cybersecurity pro&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://sciencenode.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Node&lt;/a&gt;, February 10, 2017.&lt;/p&gt;
-&lt;h3 id=&#34;selected-trusted-ci-blog-posts-involving-lbnls-personnel&#34;&gt;Selected Trusted CI blog posts involving LBNL&amp;rsquo;s personnel:&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://blog.trustedci.org/2023/03/save-date-announcing-2023-nsf.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAVE THE DATE: Announcing the 2023 NSF Cybersecurity Summit, Oct 24-26, 2023 in Berkeley, CA&lt;/a&gt; — Mar. 21, 2023&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://blog.trustedci.org/2023/02/register-NIST-3rd-HPC-workshop.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Registration Open for 3rd HPC Security Workshop at NIST NCCoE&lt;/a&gt; — Feb. 3, 2023&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &lt;a href=&#34;https://blog.trustedci.org/2022/11/publication-of-trusted-ci-roadmap-for.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publication of the Trusted CI Roadmap for Securing Operational Technology in NSF Scientific Research&lt;/a&gt; — Nov. 16, 2022.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &lt;a href=&#34;https://blog.trustedci.org/2022/11/open-science-cyber-risk-profile-oscrp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile (OSCRP) Updated with Science DMZ, Software Assurance, Operational Technology, and Cloud Computing Elements&lt;/a&gt; — Nov. 1, 2022&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &lt;a href=&#34;https://blog.trustedci.org/2022/07/findings-of-2022-trusted-ci-study-on.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Findings of the 2022 Trusted CI Study on the Security of Operational Technology in NSF Scientific Research&lt;/a&gt; — July 15, 2022.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &lt;a href=&#34;https://cs.lbl.gov/news-media/news/2022/berkeley-labs-sean-peisert-tapped-to-take-on-deputy-director-role/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab’s Sean Peisert Tapped to Take on Deputy Director Role&lt;/a&gt; — June 28, 2022&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &lt;a href=&#34;https://blog.trustedci.org/2022/06/announcement-of-trusted-ci-director.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Announcement of Trusted CI Director Transition&lt;/a&gt; — June 27, 2022&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2022/05/better-scientific-software-bssw-helps.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Better Scientific Software (BSSw) Helps Promote Trusted CI Guide to Securing Scientific Software&lt;/a&gt;,&amp;rdquo; May 13, 2022.&lt;/p&gt;
-&lt;p&gt;Elisa Heyman Pignolo, Barton Miller, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://bssw.io/blog_posts/trusted-cyberinfrastructure-evaluation-guidance-and-programs-for-assurance-of-scientific-software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted Cyberinfrastructure Evaluation, Guidance, and Programs for Assurance of Scientific Software&lt;/a&gt;,&amp;rdquo; May 13, 2022.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2022/01/announcing-2022-trusted-ci-annual.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Announcing the 2022 Trusted CI Annual Challenge on Scientific OT/CPS Security&lt;/a&gt;,&amp;rdquo; Jan. 5, 2022.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2021/12/publication-of-trusted-ci-guide-to.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publication of the Trusted CI Guide to Securing Scientific Software&lt;/a&gt;,&amp;rdquo;  &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, Dec. 14, 2021.&lt;/p&gt;
-&lt;p&gt;Sean Peiert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2021/09/findings-report-of-2021-trusted-ci.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Findings Report of the 2021 Trusted CI Annual Challenge on Software Assurance Published&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;,  Sept. 29, 2021&lt;/p&gt;
-&lt;p&gt;Sean Peiert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2021/08/trusted-ci-new-co-pis-peisert-and-shute.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI new co-PIs: Peisert and Shute&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, Aug. 3, 2021&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2021/08/initial-findings-of-2021-trusted-ci.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Initial Findings of the 2021 Trusted CI Annual Challenge on Software Assurance&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;,  Aug. 3, 2021&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2021/03/announcing-2021-trusted-ci-annual.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Announcing the 2021 Trusted CI Annual Challenge on Software Assurance&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, Mar. 30, 2021.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2020/09/universities-have-needs-for-computing.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Confidentiality Issues and Solutions in Academic Research Computing&lt;/a&gt;,&amp;rdquo;
-&lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, September 10, 2020.&lt;/p&gt;
-&lt;p&gt;Anurag Shankar, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2020/07/trusted-ci-completes-highly-successful.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Completes a Highly Successful Engagement with UC Berkeley&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, July 21, 2020.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2020/06/fantastic-bits-and-why-they-flip.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fantastic Bits and Why They Flip&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, June 23, 2020.&lt;/p&gt;
-&lt;p&gt;John Zage, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2020/01/in-second-half-of-2019-trusted-ci-and.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Concludes SLATE Engagement&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, January 27, 2020.&lt;/p&gt;
-&lt;p&gt;John Zage, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2019/09/trusted-ci-begins-engagement-with-slate.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI begins engagement with SLATE&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, September 4, 2019.&lt;/p&gt;
-&lt;p&gt;Von Welch, &amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2017/10/open-science-cyber-risk-profile.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile publications&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, October 10, 2017.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://blog.trustedci.org/2017/04/oscrp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile Published&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://blog.trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Blog Post&lt;/a&gt;, April 3, 2017.&lt;/p&gt;
-&lt;h3 id=&#34;publications-resulting-from-lbnls-involvement-with-trusted-ci&#34;&gt;Publications resulting from LBNL&amp;rsquo;s involvement with Trusted CI:&lt;/h3&gt;
-&lt;p&gt;Andrew Adams, Emily K. Adams, Dan Gunter, Ryan Kiser, Mark Krenz, Sean Peisert, and John Zage. &amp;ldquo;&lt;a href=&#34;https://doi.org/10.5281/zenodo.7327987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Roadmap for Securing Operational Technology in NSF Scientific Research&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://doi.org/10.5281/zenodo.7327987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, November 16 2022.&lt;/p&gt;
-&lt;p&gt;Emily K. Adams, Daniel Gunter, Ryan Kiser, Mark Krenz, Sean Peisert, Susan Sons, and John Zage, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.5281/zenodo.6828675&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Findings of the 2022 Trusted CI Study on the Security of Operational Technology in NSF Scientific Research&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://doi.org/10.5281/zenodo.6828675&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, July 13, 2022.&lt;/p&gt;
-&lt;p&gt;Andrew Adams, Kay Avila, Elisa Heymann, Mark Krenz, Jason R. Lee, Barton Miller, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.5281/zenodo.5777646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guide to Securing Scientific Software&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://doi.org/10.5281/zenodo.5777646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, December 14, 2021.&lt;/p&gt;
-&lt;p&gt;Andrew Adams, Kay Avila, Elisa Heymann, Mark Krenz, Jason R. Lee, Barton Miller, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://hdl.handle.net/2022/26799&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The State of the Scientific Software World: Findings of the 2021 Trusted CI Software Assurance Annual Challenge Interviews&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;http://hdl.handle.net/2022/26799&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, September 29, 2021.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/7cz7m1ws&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Examination and Survey of Data Confidentiality Issues and Solutions in Academic Research Computing&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://escholarship.org/uc/item/7cz7m1ws&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, September 8, 2020.&lt;/p&gt;
-&lt;p&gt;Anurag Shankar, Andrew Adams, John Zage, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://www.ideals.illinois.edu/handle/2142/107784&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Berkeley Secure Research Data and Compute Platform&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://www.trustedci.org/reports&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, June 20, 2020.&lt;/p&gt;
-&lt;p&gt;Andrew K. Adams, Christopher Weaver, Jim Basney, Joe Breen, John Zage, Kay Avila, Lincoln Bryant, Mitchell Steinman, Reinhard Gentz, Robert Gardner, Sean Peisert, Shawn McKee, Tom Barton, &amp;ldquo;&lt;a href=&#34;https://www.ideals.illinois.edu/bitstream/handle/2142/106019/Trusted%20CI%20SLATE%20Engagement%20Final%20Report.pdf?sequence=2&amp;amp;isAllowed=y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI SLATE Engagement — Final Report&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://www.trustedci.org/reports&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, January 6 2020.&lt;/p&gt;
-&lt;p&gt;Reinhard Gentz and Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://hdl.handle.net/2022/24910&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Examination and Survey of Random Bit Flips and Scientific Computing&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://www.trustedci.org/reports&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Report&lt;/a&gt;, December 20, 2019.&lt;/p&gt;
-&lt;p&gt;Andrew Adams, Kay Avila, Jim Basney, Dana Brunson, Robert Cowles, Jeannette Dopheide, Terry Fleury, Elisa Heymann, Florence Hudson, Craig Jackson, Ryan Kiser, Mark Krenz, Jim Marsteller, Barton P. Miller, Sean Peisert, Scott Russell, Susan Sons, Von Welch, John Zage, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/pdf/1904.05383&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Experiences in Cybersecurity and Service to Open Science&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;https://www.pearc19.pearc.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Practice and Experience in Advanced Research Computing (PEARC)&lt;/a&gt;&lt;/em&gt;, July 28-August 1, 2019.  ACM.&lt;/p&gt;
-&lt;p&gt;Sean Peisert and Von Welch, &amp;ldquo;&lt;a href=&#34;OSCRP-Mag&#34;&gt;The Open Science Cyber Risk Profile: The Rosetta Stone for Open Science and Cybersecurity&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;IEEE Security &amp;amp; Privacy&lt;/em&gt;&lt;/a&gt;, 15(5), pp. 94–95, Sept./Oct. 2017.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, Karen Stocks, and Von Welch, &amp;ldquo;&lt;a href=&#34;https://cio.ucop.edu/helping-scientists-understand-research-cyber-risks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helping Scientists Understand Research Cyber Risks&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://cio.ucop.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC IT Blog&lt;/a&gt;, September 20, 2017.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, Von Welch, Andrew Adams, Michael Dopheide, Susan Sons, RuthAnne Bevier, Rich LeDuc, Pascal Meunier, Stephen Schwab, and Karen Stocks, Ilkay Altintas, James Cuff, Reagan Moore, and Warren Raquel, &amp;ldquo;&lt;a href=&#34;OSCRP&#34;&gt;Open Science Cyber Risk Profile&lt;/a&gt;,&amp;rdquo; February 2017. DOI: &lt;a href=&#34;https://doi.org/10.5281/zenodo.7268749&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.5281/zenodo.7268749&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;trusted-ci-webinars-and-talks-involving-personnel-from-lbnl&#34;&gt;Trusted CI Webinars and Talks involving personnel from LBNL:&lt;/h3&gt;
-&lt;p&gt;Emily Adams, Ryan Kiser, Mark Krenz, and Sean Peisert, “&lt;a href=&#34;https://www.youtube.com/watch?v=mkFsk4LEF68&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Study on the Security of Operational Technology in NSF Scientific Research&lt;/a&gt;,” &lt;a href=&#34;https://www.trustedci.org/2022-cybersecurity-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022 NSF Cybersecurity Summit&lt;/a&gt;, Bloomington, IN, October 19, 2022.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, &amp;ldquo;Trusted CI Evaluation, Guidance, and Programs for Assurance of Scientific Software,&amp;quot;&lt;a href=&#34;https://www.nitrd.gov/coordination-areas/lsn/magic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NITRD MAGIC&lt;/a&gt; &lt;a href=&#34;https://www.nitrd.gov/nitrdgroups/images/2022/MAGIC-Agenda-03022022.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meeting&lt;/a&gt;, March 2, 2022.&lt;/p&gt;
-&lt;p&gt;Elisa Heymann, Barton Miller, and Sean Peisert, &amp;ldquo;Presenting the Results of the Trusted CI Annual Challenge on Software Assurance,&amp;rdquo; &lt;a href=&#34;https://www.trustedci.org/webinars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Webinar&lt;/a&gt;, February 28, 2022.&lt;/p&gt;
-&lt;p&gt;Sean Peisert, Andrew Adams, Kay Avila, Elisa Heymann, &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=Q8TnSauLi7w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Observations on Software Assurance in Scientific Computing&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://www.trustedci.org/2021-nsf-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2021 NSF Cybersecurity Summit&lt;/a&gt;, October 13, 2021.&lt;/p&gt;
-&lt;p&gt;Jim Basney and Sean Peisert, &amp;ldquo;Two Community Surveys on Data Integrity Issues in Scientific Computing,&amp;rdquo;
-&lt;a href=&#34;https://www.trustedci.org/2020-nsf-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure&lt;/a&gt;, September 24, 2020. (&lt;a href=&#34;https://www.youtube.com/watch?v=Bh9v2H_1ADo&amp;amp;list=PLLoFSG1hhthRk1SkxWXa1oGhOvuLCQXvM&amp;amp;index=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;https://drive.google.com/file/d/1j3Vo1BU_t2okM3l4atiIkF4Jqj6h9Enm/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Von Welch &amp;amp; Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile (OSCRP)&lt;/a&gt;,&amp;rdquo; January 2017. (&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;http://hdl.handle.net/2022/21235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/scientific-computing/&#34;&gt;cybersecurity for scientific and high-performance computing&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Synthetic Biology Automation</title>
       <link>https://secpriv.lbl.gov/project/jbei-automation/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
@@ -688,61 +743,6 @@ $$&lt;/p&gt;
 &lt;p&gt;Luca Pion-Tonachini, Kristofer Bouchard, Hector Garcia Martin, Sean Peisert, W. Bradley Holtz, Anil Aswani, Dipankar Dwivedi, Haruko Wainwright, Ghanshyam Pilania, Benjamin Nachman, Babetta L. Marrone, Nicola Falco, Prabhat, Daniel Arnold, Alejandro Wolf-Yadlin, Sarah Powers, Sharlee Climer, Quinn Jackson, Ty Carlson, Michael Sohn, Petrus Zwart, Neeraj Kumar, Amy Justice, Claire Tomlin, Daniel Jacobson, Gos Micklem, Georgios V. Gkoutos, Peter J. Bickel, Jean-Baptiste Cazier, Juliane Müller, Bobbie-Jo Webb-Robertson, Rick Stevens, Mark Anderson, Ken Kreutz-Delgado, Michael W. Mahoney, James B. Brown, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2111.13786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning from Learning Machines: a New Generation of AI Technology to Meet the Needs of Science&lt;/a&gt;,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2111.13786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.13786&lt;/a&gt;, 27 Nov 2021.&lt;/p&gt;
 &lt;p&gt;Chris Lawson, Jose Manuel Martí, Tijana Radivojevic, Sai Vamshi R. Jonnalagadda, Reinhard Gentz, Nathan J. Hillson, Sean Peisert, Joonhoon Kim, Blake A. Simons, Christopher J. Petzold, Steven W. Singer, Aindrila Mukhopadhyay, Deepti Tanjore, Josh Dunn, and Héctor García Martín, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1016/j.ymben.2020.10.005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning for Metabolic Engineering: A Review&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/journal/10967176&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Metabolic Engineering&lt;/a&gt;&lt;/em&gt;, available online 19 November 2020. [&lt;a href=&#34;https://doi.org/10.1016/j.ymben.2020.10.005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Reinhard Gentz, Héctor García Martin, Edward Baidoo, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/research/2019-eScience-LCMS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workflow Automation in Liquid Chromatography Mass Spectrometry&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;http://escience2019.sdsc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15th IEEE International Conference on e-Science (eScience)&lt;/a&gt;&lt;/em&gt;, San Diego, CA, September 2019. [&lt;a href=&#34;https://doi.org/10.1109/eScience.2019.00095&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cybersecurity via Inverter-Grid Automatic Reconfiguration (CIGAR)</title>
-      <link>https://secpriv.lbl.gov/project/ceds-cigar/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/ceds-cigar/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;The proliferation of Distributed Energy Resources (DER) in electric distribution systems is challenging many existing conventional paradigms of how the grid is planned and operated. This includes strategies to ensure the safety of the electric grid from cyber attacks.  Aggregations of DER constitute a mechanism through which hostile entities can remotely influence multiple systems and states in the grid in such a way that distribution system operators have virtually no warning of an attack and no clear strategy to mitigate the effects of intrusion. Furthermore, as infrastructure already exists to reconfigure DER smart inverter settings, attackers need not infiltrate individual systems to gain control over large quantities of DER. Instead, attackers need only gain access to one of a handful of systems designed to wirelessly update DER.&lt;/p&gt;
-&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Development of a state observer that detects the presence and severity of cyber attacks.&lt;/li&gt;
-&lt;li&gt;Creation of a set of adaptive controllers that adjust settings of DER inverter controllers and distribution grid voltage regulation and protection systems to mitigate the cyber-physical attack in real time.&lt;/li&gt;
-&lt;li&gt;Development of reinforcement learning-based agents that will explore defenses against different attack scenarios&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
-&lt;p&gt;The LBNL-led &amp;ldquo;Cybersecurity via Inverter-Grid Automatic Reconfiguration (CIGAR)&amp;rdquo; project seeks to develop supervisory control algorithms to counteract cyber-physical attacks that have compromised multiple independent systems in the electric grid. This research will begin with an effort to analyze the stability of different types of feedback control systems (e.g, distributed energy resources, and voltage regulation and protection systems) in the electric grid to determine what parameters an attacker would change if DER and utility voltage regulation and protection systems were compromised. Then, the research team will develop adaptive control algorithms that adjust critical parameters in non-compromised systems to actively fight the cyber-physical attack. Finally, this project will utilize reinforcement learning techniques to simultaneously develop defense strategies in higher dimensions tailored to specific sections of the electric grid.  Analysis of derived attack and defensive strategies will also highlight specific system vulnerabilities as well as determine recommended upgrades to enhance system cyber security.&lt;/p&gt;
-&lt;p&gt;This project was supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
-&lt;p&gt;DOE/LBNL Press Release: &amp;ldquo;&lt;a href=&#34;http://newscenter.lbl.gov/2017/09/26/berkeley-lab-aims-to-strengthen-the-cybersecurity-of-the-grid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Aims to Strengthen the Cybersecurity of the Grid&lt;/a&gt;,&amp;rdquo; September 26, 2017.&lt;/p&gt;
-&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
-&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL)&lt;/p&gt;
-&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; (LBNL)  &lt;br&gt;
-&lt;a href=&#34;http://eetd.lbl.gov/people/ciaran-roberts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciaran Roberts&lt;/a&gt; (LBNL) &lt;br&gt;
-&lt;a href=&#34;https://eta.lbl.gov/people/sy-toan-ngo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sy-Toan Ngo&lt;/a&gt; (LBNL)&lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/davidwpinney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Pinney&lt;/a&gt; (Lead at NRECA) &lt;br&gt;
-&lt;a href=&#34;https://scaglione.engineering.asu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Lead at ASU)  &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/dmitriy-fradkin-6526272/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dmitriy Fradkin&lt;/a&gt; (Lead at Siemens)  &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/sindhu-suresh-ph-d-pmp-csm-80656b18/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sindhu Suresh&lt;/a&gt; (Siemens) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/anton-kocheturov-611914a2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anton Kocheturov&lt;/a&gt; (Siemens)&lt;/p&gt;
-&lt;h4 id=&#34;students&#34;&gt;Students:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/ewa-garbiec-5809a0156/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ewa Garbiec&lt;/a&gt; (UC Dublin) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/ignacio-losada-0879457b/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ignacio Losada Carreño&lt;/a&gt; (ASU) &lt;br&gt;
-&lt;a href=&#34;https://milesial.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexandre Milesi&lt;/a&gt; (Univ. Tech. Compiègne) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/shammya-saha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shammya Saha&lt;/a&gt; (ASU)&lt;/p&gt;
-&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.asu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arizona State University&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://www.nreca.coop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Rural Electric Cooperative Association (NRECA)&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://www.siemens.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Siemens&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;project-workshops&#34;&gt;Project Workshops:&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_cigar_y3_workshop/&#34;&gt;End of Project Workshop&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://archerint.com/solar-power-opens-up-new-targets-for-cyber-attackers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solar power opens up new targets for cyber attackers&lt;/a&gt; (Archer News) — May 30, 2019&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.solarpowerworldonline.com/2019/04/cyberattacks-threaten-smart-inverters-but-scientists-have-solutions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyberattacks threaten smart inverters, but scientists have solutions&lt;/a&gt; (Solar Power World) — April 30, 2019&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://spectrum.ieee.org/energywise/energy/the-smarter-grid/cyber-defense-tool-targets-grid-vulnerability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyber Defense Tool Is an Early Warning System for Grid Attacks&lt;/a&gt; (IEEE Spectrum Energywise Blog) — March 27, 2018&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://newscenter.lbl.gov/2017/09/26/berkeley-lab-aims-to-strengthen-the-cybersecurity-of-the-grid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Aims to Strengthen the Cybersecurity of the Grid&lt;/a&gt; — September 27, 2017&lt;/p&gt;
-&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
-&lt;p&gt;Sean Peisert, Daniel Arnold, Ciaran Roberts, Sy-Toan Ngo, Michael Sankur, Anna Scaglione, Ignacio Losada Carreno, Shammya Saha Anton Kocheturov, Dmitriy Fradkin, David Pinney, Ryan Mahoney, Lisa Slaughter, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/8c13q45x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity via Inverter Grid Automatic Reconfiguration (CIGAR) Year 3 Report&lt;/a&gt;,&amp;rdquo; March 31 2021.&lt;/p&gt;
-&lt;p&gt;Ciaran Roberts, Sy-Toan Ngo, Alexandre Milesi, Anna Scaglione, Sean Peisert, Daniel Arnold, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/content/qt5069z5wn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Reinforcement Learning for Mitigating Cyber-Physical DER Voltage Unbalance Attacks&lt;/a&gt;,&amp;rdquo; Proceedings of the &lt;a href=&#34;https://acc2021.a2c2.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2021 American Control Conference (ACC)&lt;/a&gt;, May 26–28, 2021.&lt;/p&gt;
-&lt;p&gt;Shammya Shananda Saha, Daniel Arnold, Anna Scaglione, Eran Schweitzer, Ciaran Roberts, Sean Peisert, and Nathan G. Johnson. &amp;ldquo;&lt;a href=&#34;https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/rpg2.12009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lyapunov Stability of Smart Inverters Using Linearized DistFlow Approximation&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://digital-library.theiet.org/content/journals/iet-rpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IET Renewable Power Generation&lt;/a&gt;&lt;/em&gt;, accepted 28 September 2020. [&lt;a href=&#34;https://arxiv.org/abs/2011.09620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;Ignacio Losada Carreño, Raksha Ramakrishna, Anna Scaglione, Daniel Arnold, Ciaran Roberts, Sy-Toan Ngo, Sean Peisert, and David Pinney, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/6cp617fw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoDa: An Irradiance-Based Synthetic Solar Data Generation Tool&lt;/a&gt;,”   &lt;em&gt;Proceedings of the &lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)&lt;/a&gt;&lt;/em&gt;, November 11–13, 2020.&lt;/p&gt;
-&lt;p&gt;Ciaran Roberts Sy-Toan Ngo, Alexandre Milesi, Sean Peisert, Daniel Arnold, Shammya Saha, Anna Scaglione, Nathan Johnson, Anton Kocheturov, Dmitriy Fradkin, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/5069z5wn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Reinforcement Learning for DER Cyber-Attack Mitigation&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)&lt;/a&gt;&lt;/em&gt;, November 11–13, 2020.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

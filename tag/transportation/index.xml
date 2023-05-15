@@ -5,7 +5,7 @@
     <link>https://secpriv.lbl.gov/tag/transportation/</link>
       <atom:link href="https://secpriv.lbl.gov/tag/transportation/index.xml" rel="self" type="application/rss+xml" />
     <description>transportation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2022</copyright><lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2022</copyright><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>transportation</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Privacy-Preserving Data Analysis for Scientific Discovery</title>
       <link>https://secpriv.lbl.gov/project/csr-private-data/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/project/csr-private-data/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;Data is frequently not shared by organizations because that data is considered by the organization to be in some way sensitive. For example, there may be laws or regulations prohibiting sharing due to personal privacy or national security issues, or the organization owning the data may also consider that data to be a proprietary trade secret. In any case, that data cannot or will not be released in raw form, and so alternative approaches are needed if that data is to be shared at all.&lt;/p&gt;
