@@ -5,7 +5,7 @@
     <link>https://secpriv.lbl.gov/tag/software-assurance/</link>
       <atom:link href="https://secpriv.lbl.gov/tag/software-assurance/index.xml" rel="self" type="application/rss+xml" />
     <description>software assurance</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2022</copyright><lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2023</copyright><lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>software assurance</title>
@@ -45,11 +45,12 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;h4 id=&#34;principal-investigators-and-site-leads&#34;&gt;Principal Investigators and Site Leads&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.ncsa.illinois.edu/People/jbasney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jim Basney&lt;/a&gt; (Director, PI, and Lead at UIUC/NCSA) &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ncsa.illinois.edu/People/jbasney/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jim Basney&lt;/a&gt; (Director, PI, and Site Lead at UIUC/NCSA) &lt;br&gt;
 &lt;a href=&#34;https://psc.edu/staff/benninger&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathy Benninger&lt;/a&gt; (Lead at CMU/PSC) &lt;br&gt;
-&lt;a href=&#34;http://pages.cs.wisc.edu/~bart/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barton Miller&lt;/a&gt; (Co-PI and Lead at U. Wisc.) &lt;br&gt;
-&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (Deputy Director, Co-PI, and Lead at LBNL) &lt;br&gt;
-&lt;a href=&#34;https://cacr.iu.edu/about/people/kelli-shute.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kelli Shute&lt;/a&gt; (Executive Director, Co-PI, and Lead at IU)&lt;/p&gt;
+&lt;a href=&#34;http://pages.cs.wisc.edu/~bart/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barton Miller&lt;/a&gt; (Co-PI and Site Lead at U. Wisc.) &lt;br&gt;
+&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (Deputy Director, Co-PI, and Site Lead at LBNL) &lt;br&gt;
+&lt;a href=&#34;https://cacr.iu.edu/about/people/scott-russell.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scott Russell&lt;/a&gt; (IU)
+&lt;a href=&#34;https://cacr.iu.edu/about/people/kelli-shute.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kelli Shute&lt;/a&gt; (Executive Director, Co-PI, and Site Lead at IU)&lt;/p&gt;
 &lt;h4 id=&#34;additional-lbnl-staff&#34;&gt;Additional LBNL Staff&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/daniel-gunter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Gunter&lt;/a&gt;&lt;/p&gt;
