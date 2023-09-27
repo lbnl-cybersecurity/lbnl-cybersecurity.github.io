@@ -20,19 +20,29 @@
   <url>
     <loc>https://secpriv.lbl.gov/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://secpriv.lbl.gov/tag/cyber-physical-systems/</loc><lastmod>2023-04-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://secpriv.lbl.gov/tag/cyber-physical-systems/</loc><lastmod>2023-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://secpriv.lbl.gov/tag/data-privacy/</loc><lastmod>2023-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://secpriv.lbl.gov/tag/differential-privacy/</loc><lastmod>2023-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://secpriv.lbl.gov/tag/machine-learning/</loc><lastmod>2023-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://secpriv.lbl.gov/tag/power-grid/</loc><lastmod>2023-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://secpriv.lbl.gov/project/ceser-shielders/</loc><lastmod>2023-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://secpriv.lbl.gov/project/</loc><lastmod>2023-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://secpriv.lbl.gov/tags/</loc><lastmod>2023-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://secpriv.lbl.gov/tag/maritime/</loc><lastmod>2023-04-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://secpriv.lbl.gov/project/</loc><lastmod>2023-04-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://secpriv.lbl.gov/tag/scientific-computing/</loc><lastmod>2023-04-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://secpriv.lbl.gov/tag/secure-systems/</loc><lastmod>2023-04-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://secpriv.lbl.gov/tag/software-assurance/</loc><lastmod>2023-04-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://secpriv.lbl.gov/tags/</loc><lastmod>2023-04-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://secpriv.lbl.gov/project/nsf-trustedci/</loc><lastmod>2023-04-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -46,19 +56,11 @@
   <url>
     <loc>https://secpriv.lbl.gov/tag/network/</loc><lastmod>2023-01-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://secpriv.lbl.gov/tag/data-privacy/</loc><lastmod>2023-01-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://secpriv.lbl.gov/tag/differential-privacy/</loc><lastmod>2023-01-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://secpriv.lbl.gov/tag/machine-learning/</loc><lastmod>2023-01-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://secpriv.lbl.gov/tag/medical/</loc><lastmod>2023-01-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://secpriv.lbl.gov/project/csr-private-data/</loc><lastmod>2023-01-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://secpriv.lbl.gov/tag/transportation/</loc><lastmod>2023-01-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://secpriv.lbl.gov/tag/power-grid/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</loc><lastmod>2022-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

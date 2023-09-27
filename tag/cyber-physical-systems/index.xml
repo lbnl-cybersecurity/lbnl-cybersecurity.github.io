@@ -5,12 +5,36 @@
     <link>https://secpriv.lbl.gov/tag/cyber-physical-systems/</link>
       <atom:link href="https://secpriv.lbl.gov/tag/cyber-physical-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>cyber-physical systems</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2023</copyright><lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2023</copyright><lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>cyber-physical systems</title>
       <link>https://secpriv.lbl.gov/tag/cyber-physical-systems/</link>
     </image>
+    
+    <item>
+      <title>Privacy-Preserving, Collective Cyberattack Defense of DERs</title>
+      <link>https://secpriv.lbl.gov/project/ceser-shielders/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/ceser-shielders/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;This project aims to develop, apply, and test a technique for enabling collective defense of distribution grids with significant penetration of distributed energy resources (DER) and responsive loads (particularly Electric Vehicles), by leveraging a privacy-preserving method of data sharing without exposing raw data that might contain personally identifiable information (PII) from individual consumers or buildings or that might otherwise be considered national security information that could be leveraged by adversaries to more effectively compromise and potentially destabilize portions of the electric grid. We envision creating a software platform to allow utilities to share relevant cybersecurity information with one another in a manner that does not compromise the privacy of customers in their service territories. In doing so, we hope to reduce the reluctance of utilities to share information that can be used to harden other networks by reducing privacy-related liabilities associated with grid operational technology (OT) data.&lt;/p&gt;
+&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Office of Cybersecurity, Energy Security, and Emergency Response (CESER)&lt;/a&gt; Risk Management Tools and Technologies (RMT) program.&lt;/p&gt;
+&lt;p&gt;DOE Press Release: &amp;ldquo;&lt;a href=&#34;https://www.energy.gov/ceser/articles/doe-announces-39-million-research-funding-enhance-cybersecurity-clean-distributed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOE Announces $39 Million in Research Funding to Enhance Cybersecurity of Clean Distributed Energy Resources&lt;/a&gt;,&amp;rdquo; September 12, 2023.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
+&lt;h4 id=&#34;co-leads&#34;&gt;Co-Leads:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/julieta-giraldez-328a0014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julieta Giraldez&lt;/a&gt; (Co-PI; Kevala) \
+&lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Co-PI; Cornell Tech)  &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Kevala) &lt;br&gt;
+&lt;a href=&#34;https://www.nrel.gov/research/staff/ryan-cryar.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ryan Cryar&lt;/a&gt; (NREL)&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://kevala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.nrel.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Renewable Energy Laboratory (NREL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Trusted CI, the National Science Foundation Cybersecurity of Excellence</title>
