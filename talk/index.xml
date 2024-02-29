@@ -5,12 +5,24 @@
     <link>https://secpriv.lbl.gov/talk/</link>
       <atom:link href="https://secpriv.lbl.gov/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2023</copyright><lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2023</copyright><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://secpriv.lbl.gov/talk/</link>
     </image>
+    
+    <item>
+      <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 3 Report</title>
+      <link>https://secpriv.lbl.gov/talk/ceds_spades_y3_report/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y3_report/</guid>
+      <description>&lt;h2 id=&#34;final-project-report&#34;&gt;Final Project Report&lt;/h2&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;The SPADES project concluded work in July of 2023.  The final report from the SPADES project is included below:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y3_report/SPADES_Y3_Final_Report_with_Appendices.pdf&#34;&gt;Final Project Report&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 2 Workshop</title>
