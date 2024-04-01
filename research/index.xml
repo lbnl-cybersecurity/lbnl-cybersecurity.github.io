@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>http://localhost:1313/research/</link>
-      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/research/</link>
+      <atom:link href="https://secpriv.lbl.gov/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2024</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://secpriv.lbl.gov/research/</link>
     </image>
     
     <item>
       <title>Cybersecurity for Energy Delivery Systems</title>
-      <link>http://localhost:1313/research/ceds/</link>
+      <link>https://secpriv.lbl.gov/research/ceds/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/ceds/</guid>
+      <guid>https://secpriv.lbl.gov/research/ceds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cybersecurity for Scientific and High-Performance Computing</title>
-      <link>http://localhost:1313/research/scientific-computing/</link>
+      <link>https://secpriv.lbl.gov/research/scientific-computing/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/scientific-computing/</guid>
+      <guid>https://secpriv.lbl.gov/research/scientific-computing/</guid>
       <description></description>
     </item>
     

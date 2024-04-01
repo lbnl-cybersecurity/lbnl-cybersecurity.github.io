@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>http://localhost:1313/event/</link>
-      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/event/</link>
+      <atom:link href="https://secpriv.lbl.gov/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2024</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:1313/event/</link>
+      <link>https://secpriv.lbl.gov/event/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/talk/example-talk/</link>
+      <link>https://secpriv.lbl.gov/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/example-talk/</guid>
+      <guid>https://secpriv.lbl.gov/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
