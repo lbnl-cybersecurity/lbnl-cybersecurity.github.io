@@ -1,6 +1,6 @@
-/*! Wowchemy v5.5.0 | https://wowchemy.com/ */
+/*! Hugo Blox Builder v5.9.7 | https://hugoblox.com/ */
 /*! Copyright 2016-present George Cushen (https://georgecushen.com/) */
-/*! License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */
+/*! License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md */
 @charset "UTF-8";
 /* Set Bootstrap variables */
 /*!
@@ -7204,24 +7204,21 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 /*************************************************
- *  Wowchemy: The Website Builder for Hugo
+ *  Hugo Blox Builder: The Website Builder for Hugo
  *  Designed by @GeorgeCushen
- *  https://wowchemy.com/
- *  License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md
+ *  https://hugoblox.com/
+ *  License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md
  **************************************************/
-/* Wowchemy Helpers */
+/* Hugo Blox Builder Helpers */
 /*************************************************
- *  Wowchemy's Core Style
+ *  Hugo Blox Builder's Core Style
  **************************************************/
 html {
   font-family: "Roboto", sans-serif;
   font-size: 12.32px;
   color: rgba(0, 0, 0, 0.8);
-  line-height: 1.65;
-  scroll-padding-top: 70px; }
-  @media (max-width: 991.98px) {
-    html {
-      scroll-padding-top: 50px; } }
+  line-height: 1.65; }
+
 @media screen and (min-width: 58em) {
   html {
     font-size: 16px; } }
@@ -7234,11 +7231,8 @@ body {
   background-color: white;
   padding-top: 0;
   counter-reset: captions;
-  overflow-x: hidden;
-  margin-top: 70px; }
-  @media (max-width: 991.98px) {
-    body {
-      margin-top: 50px; } }
+  overflow-x: hidden; }
+
 body.no-navbar {
   margin-top: 0 !important;
   scroll-padding-top: 0 !important; }
@@ -7449,7 +7443,7 @@ small,
 .responsive-wrap iframe {
   max-width: 100%; }
 
-/* Wowchemy Elements */
+/* Hugo Blox Builder Elements */
 /*************************************************
  *  Button size override
  *************************************************/
@@ -7837,35 +7831,69 @@ svg {
   z-index: 1031; }
 
 /*************************************************
- *  Gallery.
+ *  Gallery shortcode.
  **************************************************/
-.gallery {
-  margin: 0.5em -4px 1.5em -4px;
-  font-size: 0; }
-
-.gallery img {
-  min-height: 48px;
-  min-width: 48px; }
-
-a[data-fancybox] {
-  text-decoration: none;
-  cursor: zoom-in; }
-
-.gallery a[data-fancybox] img {
-  height: 250px;
-  width: auto;
-  max-width: inherit;
-  display: inherit;
-  margin: 0;
-  padding: 4px;
-  box-shadow: none;
-  vertical-align: inherit; }
-
 .fancybox-caption {
   font-size: 1rem;
   line-height: 1.5rem;
   text-align: center; }
 
+.gallery-grid {
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-auto-rows: 150px;
+  grid-auto-flow: row dense; }
+
+.gallery-item {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  color: #fff;
+  grid-column-start: auto;
+  grid-row-start: auto;
+  background-size: cover;
+  background: #000 center;
+  box-shadow: -2px 2px 10px 0 rgba(68, 68, 68, 0.4);
+  transition: transform 0.3s ease-in-out;
+  cursor: zoom-in;
+  counter-increment: item-counter;
+  overflow: hidden; }
+  .gallery-item a {
+    z-index: 1; }
+  .gallery-item a[data-fancybox] {
+    text-decoration: none;
+    cursor: zoom-in; }
+  .gallery-item img {
+    all: initial;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: zoom-in;
+    min-height: 48px;
+    min-width: 48px; }
+  .gallery-item:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%; }
+  .gallery-item:hover {
+    transform: scale(1.05); }
+  .gallery-item--medium {
+    grid-row-end: span 2; }
+  .gallery-item--large {
+    grid-row-end: span 3; }
+  .gallery-item--full {
+    grid-column-end: auto; }
+    @media screen and (min-width: 768px) {
+      .gallery-item--full {
+        grid-column: 1/-1;
+        grid-row-end: span 2; } }
 /*************************************************
  *  Tables
  **************************************************/
@@ -7925,7 +7953,7 @@ a.badge:hover {
 .dark .tag-cloud a:hover {
   color: #005b6f; }
 
-/* Wowchemy Components */
+/* Hugo Blox Builder Components */
 /*************************************************
  *  Author profile card
  **************************************************/
@@ -8124,7 +8152,7 @@ a.summary-link {
   transform: translateY(-100%); }
 
 .header--fixed {
-  position: fixed;
+  position: sticky;
   z-index: 10;
   right: 0;
   left: 0;
@@ -8397,6 +8425,36 @@ details p {
 
 .dark details p {
   border-left: 1px solid rgba(255, 255, 255, 0.8); }
+
+.bilibili {
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin: 1rem auto;
+  text-align: center; }
+  .bilibili iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border: none;
+    left: 0;
+    top: 0; }
+
+#announcement {
+  font-size: 16px; }
+
+#announcement.alert, .article-style aside#announcement {
+  padding: 0.1rem 1.25rem; }
+
+.alert-dismissible .close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+  padding: 0.1rem 1.25rem; }
+
+[data-wc-announcement-status="dismissed"] #announcement {
+  display: none; }
 
 /*************************************************
  *  Documentation layout
@@ -9164,7 +9222,7 @@ ul.network-icon {
   margin: 0; }
 
 #profile .network-icon {
-  margin-top: 30px; }
+  margin-top: 0.5rem; }
 
 .network-icon li {
   margin-right: 10px; }
@@ -9221,6 +9279,34 @@ ul.ul-edu li .description p.institution {
 .dark .avatar-emoji {
   background-color: #000;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.04), 0 2px 6px rgba(0, 0, 0, 0.04), 0 0 1px rgba(255, 255, 255, 0.96); }
+
+.wg-about-avatar .avatar {
+  width: auto;
+  height: auto;
+  max-width: 225px;
+  max-height: 225px; }
+
+.wg-about-avatar #profile .network-icon {
+  margin-top: 0.5rem; }
+
+.wg-about-avatar ul.network-icon .big-icon {
+  font-size: 1.5rem; }
+
+@media (max-width: 767.98px) {
+  .wg-about-avatar .network-icon li {
+    /* Min 48px Lighthouse tap targets on mobile */
+    margin-right: 12px; } }
+
+.wg-about-avatar .dark .portrait-title h3 {
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: bold; }
+
+.wg-about-avatar .dark .portrait-title h2 {
+  color: #fff;
+  font-weight: bold; }
+
+.wg-about-avatar .bio-text {
+  max-width: 680px; }
 
 /*************************************************
  *  Contact
@@ -9473,6 +9559,55 @@ a.hero-cta-alt:hover {
   z-index: 3; }
 
 /*************************************************
+ *  Hugo Blox: Skills
+ **************************************************/
+.skill-group-title {
+  display: inline-block;
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #c7c7c7;
+  font-size: 1rem;
+  line-height: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px; }
+
+.skills-content {
+  margin-bottom: 15px; }
+
+.skills-name {
+  margin-bottom: 6px;
+  color: #888;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  text-transform: uppercase; }
+
+.skills-description {
+  margin-bottom: 6px;
+  font-size: 0.7rem;
+  text-transform: none; }
+
+.dark .skills-name {
+  color: #eee; }
+
+.skills-icon {
+  margin-right: 0.5em; }
+
+.skills-wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 10px;
+  border: 1px solid #a8e9e9;
+  border-radius: 10px; }
+
+.skills-percent {
+  position: absolute;
+  width: 60%;
+  height: 10px;
+  background-color: #3cb5b5; }
+
+/*************************************************
  *  Dark themed components
  **************************************************/
 .dark .article-title a {
@@ -9511,7 +9646,8 @@ body.dark,
 
 .dark pre {
   /* Match `pre` bg color. */
-  border-color: #44475a; }
+  border-color: #44475a;
+  color: #fff; }
 
 .dark mark,
 .dark .mark {
