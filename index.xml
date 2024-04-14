@@ -378,6 +378,28 @@ This creates a vulnerability for a cyber attacker to sabotage processes through 
     </item>
     
     <item>
+      <title>Using Fuzz Testing to Detect Software Tampering</title>
+      <link>https://secpriv.lbl.gov/project/nnsa-fuzzing/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/nnsa-fuzzing/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;It is essential to have the ability to verify that software operating on arms control monitoring equipment is within agreed parameters and has not undergone modification.  Existing approaches to ensuring the absence of tampering are outdated and are easily defeated by a motivated adversary.  Specifically, we use a coverage-guided, gray-box fuzzing approach to test the response of binaries to a wide range of inputs to increase confidence that the binary is behaving as expected. Our approach brings modern software analysis tools to bear to address today&amp;rsquo;s challenges.  Success in our project would enable identification of a critical mass of alterations of a software’s logic that have the potential to affect the output of the nuclear monitoring software, and provide a different result to inspectors.&lt;/p&gt;
+&lt;p&gt;This project is supported by the &lt;a href=&#34;https://www.energy.gov/nnsa/nonproliferation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Nuclear Security Administration
+Office of Defense Nuclear Nonproliferation Research and Development&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
+&lt;a href=&#34;https://pages.cs.wisc.edu/~bart/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barton Miller&lt;/a&gt; (Co-PI; University of Wisconsin-Madison)&lt;/p&gt;
+&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
+&lt;p&gt;Joshua Boverhof (LBNL) &lt;br&gt;
+Elisa Heymann Pignolo (University of Wisconsin-Madison) &lt;br&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?user=BhqfFmwAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jayson Vavrek&lt;/a&gt; (LBNL)&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Jayson R. Vavrek, Luozhong Zhou, Joshua Boverhof, Elisa R. Heymann, Barton P. Miller, and Sean Peisert. &lt;a href=&#34;https://arxiv.org/abs/2404.05946&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differential Fuzz Testing to Detect Tampering In Sensor Systems and its Application to Arms Control Authentication&lt;/a&gt;, arXiv preprint 2404.05946, 2024.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Provable Anonymization of Grid Data for Cyberattack Detection</title>
       <link>https://secpriv.lbl.gov/project/ceds-privacy/</link>
       <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>

@@ -135,7 +135,15 @@
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://secpriv.lbl.gov/tag/nuclear-treaty-assurance/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/project/nnsa-fuzzing/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -333,10 +341,6 @@
   </url><url>
     <loc>https://secpriv.lbl.gov/project/secure-collaboration/</loc>
     <lastmod>2003-09-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tag/nuclear-treaty-assurance/</loc>
-    <lastmod>2002-09-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://secpriv.lbl.gov/project/ascr-multicast/</loc>
