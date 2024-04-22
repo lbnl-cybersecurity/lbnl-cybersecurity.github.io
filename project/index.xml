@@ -70,7 +70,7 @@
 &lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/news-and-publications/news/2023/berkeley-lab-leading-the-way-with-new-cybersecurity-projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Leading the Way with New Cybersecurity Projects&lt;/a&gt; — Nov. 6, 2023&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Hang Liu, Anna Scaglione, and Sean Peisert, “&lt;a href=&#34;&#34;&gt;Privacy Leakage in Graph Signal to Graph Matching Problems&lt;/a&gt;,” &lt;em&gt;Proceedings of the &lt;a href=&#34;https://2024.ieeeicassp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Acoustics, Speech, and Signal Processing&lt;/a&gt;&lt;/em&gt;, Seoul, South Korea, April 14–19, 2024.&lt;/p&gt;
-&lt;p&gt;Nikhil Ravi, Anna Scaglione, Sean Peisert, and Parth Pradhan, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2403.02324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preserving Smart Grid Integrity: A Differential Privacy Framework for Secure Detection of False Data Injection Attacks in the Smart Grid&lt;/a&gt;,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; arXiv:2403.02324, 4 Mar 2024.&lt;/p&gt;
+&lt;p&gt;Nikhil Ravi, Anna Scaglione, Sean Peisert, and Parth Pradhan, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2403.02324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differentially Private Communication of Measurement Anomalies in the Smart Grid&lt;/a&gt;,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; arXiv:2403.02324, 4 Mar 2024.&lt;/p&gt;
 &lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -190,6 +190,28 @@
 &lt;a href=&#34;https://www.trustedci.org/2020-nsf-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure&lt;/a&gt;, September 24, 2020. (&lt;a href=&#34;https://www.youtube.com/watch?v=Bh9v2H_1ADo&amp;amp;list=PLLoFSG1hhthRk1SkxWXa1oGhOvuLCQXvM&amp;amp;index=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;https://drive.google.com/file/d/1j3Vo1BU_t2okM3l4atiIkF4Jqj6h9Enm/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Von Welch &amp;amp; Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile (OSCRP)&lt;/a&gt;,&amp;rdquo; January 2017. (&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;http://hdl.handle.net/2022/21235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/scientific-computing/&#34;&gt;cybersecurity for scientific and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Fuzz Testing to Detect Software Tampering</title>
+      <link>https://secpriv.lbl.gov/project/nnsa-fuzzing/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/nnsa-fuzzing/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;It is essential to have the ability to verify that software operating on arms control monitoring equipment is within agreed parameters and has not undergone modification.  Existing approaches to ensuring the absence of tampering are outdated and are easily defeated by a motivated adversary.  Specifically, we use a coverage-guided, gray-box fuzzing approach to test the response of binaries to a wide range of inputs to increase confidence that the binary is behaving as expected. Our approach brings modern software analysis tools to bear to address today&amp;rsquo;s challenges.  Success in our project would enable identification of a critical mass of alterations of a software’s logic that have the potential to affect the output of the nuclear monitoring software, and provide a different result to inspectors.&lt;/p&gt;
+&lt;p&gt;This project is supported by the &lt;a href=&#34;https://www.energy.gov/nnsa/nonproliferation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Nuclear Security Administration
+Office of Defense Nuclear Nonproliferation Research and Development&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
+&lt;a href=&#34;https://pages.cs.wisc.edu/~bart/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barton Miller&lt;/a&gt; (Co-PI; University of Wisconsin-Madison)&lt;/p&gt;
+&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
+&lt;p&gt;Joshua Boverhof (LBNL) &lt;br&gt;
+Elisa Heymann Pignolo (University of Wisconsin-Madison) &lt;br&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?user=BhqfFmwAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jayson Vavrek&lt;/a&gt; (LBNL)&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Jayson R. Vavrek, Luozhong Zhou, Joshua Boverhof, Elisa R. Heymann, Barton P. Miller, and Sean Peisert. &lt;a href=&#34;https://arxiv.org/abs/2404.05946&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differential Fuzz Testing to Detect Tampering In Sensor Systems and its Application to Arms Control Authentication&lt;/a&gt;, arXiv preprint 2404.05946, 9 Apr 2024.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -342,28 +364,6 @@ This creates a vulnerability for a cyber attacker to sabotage processes through 
 &lt;p&gt;Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, &amp;ldquo;SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2111.15152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.15152&lt;/a&gt;, 30 Nov 2021.&lt;/p&gt;
 &lt;p&gt;Yize Chen, Daniel Arnold, Yuanyuan Shi, and Sean Peisert, &amp;ldquo;Understanding the Safety Requirements for Learning-based Power Systems Operations,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2110.04983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2110.04983&lt;/a&gt;, 11 Oct 2021&lt;/p&gt;
 &lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using Fuzz Testing to Detect Software Tampering</title>
-      <link>https://secpriv.lbl.gov/project/nnsa-fuzzing/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/nnsa-fuzzing/</guid>
-      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
-&lt;p&gt;It is essential to have the ability to verify that software operating on arms control monitoring equipment is within agreed parameters and has not undergone modification.  Existing approaches to ensuring the absence of tampering are outdated and are easily defeated by a motivated adversary.  Specifically, we use a coverage-guided, gray-box fuzzing approach to test the response of binaries to a wide range of inputs to increase confidence that the binary is behaving as expected. Our approach brings modern software analysis tools to bear to address today&amp;rsquo;s challenges.  Success in our project would enable identification of a critical mass of alterations of a software’s logic that have the potential to affect the output of the nuclear monitoring software, and provide a different result to inspectors.&lt;/p&gt;
-&lt;p&gt;This project is supported by the &lt;a href=&#34;https://www.energy.gov/nnsa/nonproliferation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Nuclear Security Administration
-Office of Defense Nuclear Nonproliferation Research and Development&lt;/a&gt;.&lt;/p&gt;
-&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL) &lt;br&gt;
-&lt;a href=&#34;https://pages.cs.wisc.edu/~bart/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barton Miller&lt;/a&gt; (Co-PI; University of Wisconsin-Madison)&lt;/p&gt;
-&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
-&lt;p&gt;Joshua Boverhof (LBNL) &lt;br&gt;
-Elisa Heymann Pignolo (University of Wisconsin-Madison) &lt;br&gt;
-&lt;a href=&#34;https://scholar.google.com/citations?user=BhqfFmwAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jayson Vavrek&lt;/a&gt; (LBNL)&lt;/p&gt;
-&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
-&lt;p&gt;Jayson R. Vavrek, Luozhong Zhou, Joshua Boverhof, Elisa R. Heymann, Barton P. Miller, and Sean Peisert. &lt;a href=&#34;https://arxiv.org/abs/2404.05946&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differential Fuzz Testing to Detect Tampering In Sensor Systems and its Application to Arms Control Authentication&lt;/a&gt;, arXiv preprint 2404.05946, 9 Apr 2024.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

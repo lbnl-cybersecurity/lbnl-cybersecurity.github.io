@@ -5,7 +5,7 @@
     <link>https://secpriv.lbl.gov/tag/nuclear-treaty-assurance/</link>
       <atom:link href="https://secpriv.lbl.gov/tag/nuclear-treaty-assurance/index.xml" rel="self" type="application/rss+xml" />
     <description>Nuclear Treaty Assurance</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2024</copyright><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2024</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://secpriv.lbl.gov/media/icon_hu50b49c3fcbd20d6e5e531897676c7eb8_245171_512x512_fill_lanczos_center_3.png</url>
       <title>Nuclear Treaty Assurance</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Using Fuzz Testing to Detect Software Tampering</title>
       <link>https://secpriv.lbl.gov/project/nnsa-fuzzing/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/project/nnsa-fuzzing/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;It is essential to have the ability to verify that software operating on arms control monitoring equipment is within agreed parameters and has not undergone modification.  Existing approaches to ensuring the absence of tampering are outdated and are easily defeated by a motivated adversary.  Specifically, we use a coverage-guided, gray-box fuzzing approach to test the response of binaries to a wide range of inputs to increase confidence that the binary is behaving as expected. Our approach brings modern software analysis tools to bear to address today&amp;rsquo;s challenges.  Success in our project would enable identification of a critical mass of alterations of a software’s logic that have the potential to affect the output of the nuclear monitoring software, and provide a different result to inspectors.&lt;/p&gt;
