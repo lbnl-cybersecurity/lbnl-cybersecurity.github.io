@@ -39,6 +39,38 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://secpriv.lbl.gov/tag/cyber-physical-systems/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tag/maritime/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/project/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tag/research-cyberinfrastructure/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tag/secure-systems/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tag/software-assurance/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tags/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/project/nsf-trustedci/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://secpriv.lbl.gov/tag/machine-learning/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -49,18 +81,6 @@
   </url><url>
     <loc>https://secpriv.lbl.gov/tag/power-grid/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/project/</loc>
-    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tags/</loc>
-    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tag/cyber-physical-systems/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://secpriv.lbl.gov/tag/data-privacy/</loc>
@@ -81,26 +101,6 @@
   </url><url>
     <loc>https://secpriv.lbl.gov/talk/ceds_spades_y3_report/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tag/maritime/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tag/research-cyberinfrastructure/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tag/secure-systems/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tag/software-assurance/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/project/nsf-trustedci/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://secpriv.lbl.gov/tag/nuclear-treaty-assurance/</loc>

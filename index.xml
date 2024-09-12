@@ -33,94 +33,9 @@
     </item>
     
     <item>
-      <title>Mitigation via Analytics for Inverter-Grid Cybersecurity (MAGIC)</title>
-      <link>https://secpriv.lbl.gov/project/rmt-magic/</link>
-      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/rmt-magic/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-&lt;p&gt;The Mitigation via Analytics for Grid-Inverter Cybersecurity (MAGIC) project will develop secure Artificial Intelligence/Machine Learning (AI/ML) tools to both detect and mitigate cyber attacks on aggregations of Distributed Energy Resources (DER) in electric power distribution systems and microgrids. In so doing, MAGIC will facilitate detecting cyber attacks on DER in their earliest stages and ameliorating the effect of attacks immediately.&lt;/p&gt;
-&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Develop secure AI/ML algorithms to detect cyber attacks on aggregations of DER and distinguish attacks from normal operating conditions.&lt;/li&gt;
-&lt;li&gt;Extend a reinforcement learning framework developed in previous RMT/CEDS projects to mitigate the effect of cyber attacks on DER in a wide array of operating conditions.&lt;/li&gt;
-&lt;li&gt;Integrate the attack detection and mitigation algorithms into a commercially available substation/microgrid management platform for algorithm demonstration.&lt;/li&gt;
-&lt;li&gt;Create an open source simulation tool allowing electric utilities to determine rules to detect and mitigate cyber attacks designed to severely disrupt normal grid operations or cause voltage instabilities.&lt;/li&gt;
-&lt;li&gt;Develop a software test harness to assess the security of AI/ML algorithms for electric grid attack detection and mitigation.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
-&lt;p&gt;The Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) project will develop the methodology and tools allowing Energy Storage Systems (ESS) to automatically reconfigure themselves to counteract cyberattacks against both the ESS control system directly and indirectly through the electric distribution grid. This research will begin with an effort to analyze the stability of both ESS control systems and the interaction of the ESS control system and the electric grid, to determine what parameters an attacker would change if a given device (or multiple devices) were to be compromised.  Then, the research team will develop a supervisory control framework that utilizes adaptive control and reinforcement learning techniques to adjust ESS control system parameters and ESS active and reactive power injections to actively defend against a variety of cyberattacks.  The supervisory control framework will be validated in Hardware-in-the-Loop (HIL) experiments where an independent red team will attempt to alter control parameters of an ESS to prevent the device from providing grid services.  The reinforcement learning defensive algorithms will be integrated into the National Rural Electric Cooperative Association (NRECA) Open Modeling Framework (OMF), thereby allowing defensive strategies to be tailored on a utility specific basis.  The major outcomes of this project will be the tools to isolate the component of the ESS control system that has been compromised during a cyberattack as well as policies for changing the control parameters of ESS to mitigate a wide variety of cyberattacks on both the ESS device itself and the electric distribution grid.&lt;/p&gt;
-&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s Office of Cybersecurity, Energy Security, and Emergency Response (CESER) &lt;a href=&#34;https://www.energy.gov/ceser/risk-management-tools-and-technologies-rmt-fact-sheets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Risk Management Tools and Technologies (RMT) Program.&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
-&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (LBNL) &lt;br&gt;
-&lt;a href=&#34;https://www.nrel.gov/research/staff/ryan-king.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ryan King&lt;/a&gt; (NREL) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/lmslaughter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lisa Slaughter&lt;/a&gt; (NRECA) &lt;br&gt;
-&lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Cornell Tech) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/brunoleao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bruno Leao&lt;/a&gt; (Siemens)&lt;/p&gt;
-&lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
-&lt;p&gt;DOE Press Release: &amp;ldquo;&lt;a href=&#34;https://www.energy.gov/ceser/articles/doe-announces-39-million-research-funding-enhance-cybersecurity-clean-distributed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOE Announces $39 Million in Research Funding to Enhance Cybersecurity of Clean Distributed Energy Resources&lt;/a&gt;&amp;rdquo; - Sept. 12, 2023&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/news-and-publications/news/2023/berkeley-lab-leading-the-way-with-new-cybersecurity-projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab leading the way with new cybersecurity projects&lt;/a&gt; - Nov. 6, 2023&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy-Preserving, Collective Cyberattack Defense of DERs</title>
-      <link>https://secpriv.lbl.gov/project/ceser-shielders/</link>
-      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/ceser-shielders/</guid>
-      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
-&lt;p&gt;This project aims to develop, apply, and test a technique for enabling collective defense of distribution grids with significant penetration of distributed energy resources (DER) and responsive loads (particularly Electric Vehicles), by leveraging a privacy-preserving method of data sharing without exposing raw data that might contain personally identifiable information (PII) from individual consumers or buildings or that might otherwise be considered national security information that could be leveraged by adversaries to more effectively compromise and potentially destabilize portions of the electric grid. We envision creating a software platform to allow utilities to share relevant cybersecurity information with one another in a manner that does not compromise the privacy of customers in their service territories. In doing so, we hope to reduce the reluctance of utilities to share information that can be used to harden other networks by reducing privacy-related liabilities associated with grid operational technology (OT) data.&lt;/p&gt;
-&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Office of Cybersecurity, Energy Security, and Emergency Response (CESER)&lt;/a&gt; Risk Management Tools and Technologies (RMT) program.&lt;/p&gt;
-&lt;p&gt;DOE Press Release: &amp;ldquo;&lt;a href=&#34;https://www.energy.gov/ceser/articles/doe-announces-39-million-research-funding-enhance-cybersecurity-clean-distributed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOE Announces $39 Million in Research Funding to Enhance Cybersecurity of Clean Distributed Energy Resources&lt;/a&gt;,&amp;rdquo; September 12, 2023.&lt;/p&gt;
-&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
-&lt;h4 id=&#34;co-leads&#34;&gt;Co-Leads:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL) &lt;br&gt;
-&lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Co-PI; Cornell Tech)  &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Co-PI; Kevala) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/parth-pradhan-abb9966/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parth Pradhan&lt;/a&gt; (Kevala) &lt;br&gt;
-&lt;a href=&#34;https://www.nrel.gov/research/staff/ryan-cryar.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ryan Cryar&lt;/a&gt; (NREL)&lt;/p&gt;
-&lt;h4 id=&#34;postdocs&#34;&gt;Postdocs:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=n1tKLQcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Hang Liu&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;)&lt;/p&gt;
-&lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://sinelab.tech.cornell.edu/research/people/andrew_campbell/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Campbell&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;)&lt;/p&gt;
-&lt;h4 id=&#34;additional-researchers&#34;&gt;Additional Researchers&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://tong-andrew-wu.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Tong Wu&lt;/a&gt; (University of Central Florida)&lt;/p&gt;
-&lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://nikhil-ravi.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Ravi&lt;/a&gt; (Cornell Tech)&lt;/p&gt;
-&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://kevala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://www.nrel.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Renewable Energy Laboratory (NREL)&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/news-and-publications/news/2023/berkeley-lab-leading-the-way-with-new-cybersecurity-projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Leading the Way with New Cybersecurity Projects&lt;/a&gt; — Nov. 6, 2023&lt;/p&gt;
-&lt;h3 id=&#34;presentations-relating-to-this-project&#34;&gt;Presentations relating to this project:&lt;/h3&gt;
-&lt;p&gt;Sean Peisert, “LBNL Electric Grid Cybersecurity R&amp;amp;D and Trustworthy Scientific Cyberinfrastructure,” &lt;a href=&#34;https://www.nitrd.gov/coordination-areas/csia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)&lt;/a&gt; Meeting, May 23, 2024.&lt;/p&gt;
-&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
-&lt;p&gt;Hang Liu, Anna Scaglione, and Sean Peisert, “&lt;a href=&#34;https://doi.org/10.1109/ICASSP48485.2024.10447364&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Leakage in Graph Signal to Graph Matching Problems&lt;/a&gt;,” &lt;em&gt;Proceedings of the &lt;a href=&#34;https://2024.ieeeicassp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Acoustics, Speech, and Signal Processing&lt;/a&gt;&lt;/em&gt;, Seoul, South Korea, April 14–19, 2024.&lt;/p&gt;
-&lt;p&gt;Nikhil Ravi, Anna Scaglione, Sean Peisert, and Parth Pradhan, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2403.02324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differentially Private Communication of Measurement Anomalies in the Smart Grid&lt;/a&gt;,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; arXiv:2403.02324, 4 Mar 2024.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 3 Report</title>
-      <link>https://secpriv.lbl.gov/talk/ceds_spades_y3_report/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y3_report/</guid>
-      <description>&lt;h2 id=&#34;final-project-report&#34;&gt;Final Project Report&lt;/h2&gt;
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-&lt;p&gt;The SPADES project concluded work in July of 2023.  The final report from the SPADES project is included below:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y3_report/SPADES_Y3_Final_Report_with_Appendices.pdf&#34;&gt;Final Project Report&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Trusted CI, the National Science Foundation Cybersecurity of Excellence</title>
       <link>https://secpriv.lbl.gov/project/nsf-trustedci/</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/project/nsf-trustedci/</guid>
       <description>
 
@@ -235,6 +150,91 @@
 &lt;a href=&#34;https://www.trustedci.org/2020-nsf-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure&lt;/a&gt;, September 24, 2020. (&lt;a href=&#34;https://www.youtube.com/watch?v=Bh9v2H_1ADo&amp;amp;list=PLLoFSG1hhthRk1SkxWXa1oGhOvuLCQXvM&amp;amp;index=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;https://drive.google.com/file/d/1j3Vo1BU_t2okM3l4atiIkF4Jqj6h9Enm/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Von Welch &amp;amp; Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile (OSCRP)&lt;/a&gt;,&amp;rdquo; January 2017. (&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;http://hdl.handle.net/2022/21235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mitigation via Analytics for Inverter-Grid Cybersecurity (MAGIC)</title>
+      <link>https://secpriv.lbl.gov/project/rmt-magic/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/rmt-magic/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;The Mitigation via Analytics for Grid-Inverter Cybersecurity (MAGIC) project will develop secure Artificial Intelligence/Machine Learning (AI/ML) tools to both detect and mitigate cyber attacks on aggregations of Distributed Energy Resources (DER) in electric power distribution systems and microgrids. In so doing, MAGIC will facilitate detecting cyber attacks on DER in their earliest stages and ameliorating the effect of attacks immediately.&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Develop secure AI/ML algorithms to detect cyber attacks on aggregations of DER and distinguish attacks from normal operating conditions.&lt;/li&gt;
+&lt;li&gt;Extend a reinforcement learning framework developed in previous RMT/CEDS projects to mitigate the effect of cyber attacks on DER in a wide array of operating conditions.&lt;/li&gt;
+&lt;li&gt;Integrate the attack detection and mitigation algorithms into a commercially available substation/microgrid management platform for algorithm demonstration.&lt;/li&gt;
+&lt;li&gt;Create an open source simulation tool allowing electric utilities to determine rules to detect and mitigate cyber attacks designed to severely disrupt normal grid operations or cause voltage instabilities.&lt;/li&gt;
+&lt;li&gt;Develop a software test harness to assess the security of AI/ML algorithms for electric grid attack detection and mitigation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
+&lt;p&gt;The Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) project will develop the methodology and tools allowing Energy Storage Systems (ESS) to automatically reconfigure themselves to counteract cyberattacks against both the ESS control system directly and indirectly through the electric distribution grid. This research will begin with an effort to analyze the stability of both ESS control systems and the interaction of the ESS control system and the electric grid, to determine what parameters an attacker would change if a given device (or multiple devices) were to be compromised.  Then, the research team will develop a supervisory control framework that utilizes adaptive control and reinforcement learning techniques to adjust ESS control system parameters and ESS active and reactive power injections to actively defend against a variety of cyberattacks.  The supervisory control framework will be validated in Hardware-in-the-Loop (HIL) experiments where an independent red team will attempt to alter control parameters of an ESS to prevent the device from providing grid services.  The reinforcement learning defensive algorithms will be integrated into the National Rural Electric Cooperative Association (NRECA) Open Modeling Framework (OMF), thereby allowing defensive strategies to be tailored on a utility specific basis.  The major outcomes of this project will be the tools to isolate the component of the ESS control system that has been compromised during a cyberattack as well as policies for changing the control parameters of ESS to mitigate a wide variety of cyberattacks on both the ESS device itself and the electric distribution grid.&lt;/p&gt;
+&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s Office of Cybersecurity, Energy Security, and Emergency Response (CESER) &lt;a href=&#34;https://www.energy.gov/ceser/risk-management-tools-and-technologies-rmt-fact-sheets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Risk Management Tools and Technologies (RMT) Program.&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
+&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (LBNL) &lt;br&gt;
+&lt;a href=&#34;https://www.nrel.gov/research/staff/ryan-king.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ryan King&lt;/a&gt; (NREL) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/lmslaughter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lisa Slaughter&lt;/a&gt; (NRECA) &lt;br&gt;
+&lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Cornell Tech) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/brunoleao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bruno Leao&lt;/a&gt; (Siemens)&lt;/p&gt;
+&lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
+&lt;p&gt;DOE Press Release: &amp;ldquo;&lt;a href=&#34;https://www.energy.gov/ceser/articles/doe-announces-39-million-research-funding-enhance-cybersecurity-clean-distributed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOE Announces $39 Million in Research Funding to Enhance Cybersecurity of Clean Distributed Energy Resources&lt;/a&gt;&amp;rdquo; - Sept. 12, 2023&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/news-and-publications/news/2023/berkeley-lab-leading-the-way-with-new-cybersecurity-projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab leading the way with new cybersecurity projects&lt;/a&gt; - Nov. 6, 2023&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving, Collective Cyberattack Defense of DERs</title>
+      <link>https://secpriv.lbl.gov/project/ceser-shielders/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/ceser-shielders/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;This project aims to develop, apply, and test a technique for enabling collective defense of distribution grids with significant penetration of distributed energy resources (DER) and responsive loads (particularly Electric Vehicles), by leveraging a privacy-preserving method of data sharing without exposing raw data that might contain personally identifiable information (PII) from individual consumers or buildings or that might otherwise be considered national security information that could be leveraged by adversaries to more effectively compromise and potentially destabilize portions of the electric grid. We envision creating a software platform to allow utilities to share relevant cybersecurity information with one another in a manner that does not compromise the privacy of customers in their service territories. In doing so, we hope to reduce the reluctance of utilities to share information that can be used to harden other networks by reducing privacy-related liabilities associated with grid operational technology (OT) data.&lt;/p&gt;
+&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Office of Cybersecurity, Energy Security, and Emergency Response (CESER)&lt;/a&gt; Risk Management Tools and Technologies (RMT) program.&lt;/p&gt;
+&lt;p&gt;DOE Press Release: &amp;ldquo;&lt;a href=&#34;https://www.energy.gov/ceser/articles/doe-announces-39-million-research-funding-enhance-cybersecurity-clean-distributed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOE Announces $39 Million in Research Funding to Enhance Cybersecurity of Clean Distributed Energy Resources&lt;/a&gt;,&amp;rdquo; September 12, 2023.&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
+&lt;h4 id=&#34;co-leads&#34;&gt;Co-Leads:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL) &lt;br&gt;
+&lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Co-PI; Cornell Tech)  &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Co-PI; Kevala) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/parth-pradhan-abb9966/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parth Pradhan&lt;/a&gt; (Kevala) &lt;br&gt;
+&lt;a href=&#34;https://www.nrel.gov/research/staff/ryan-cryar.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ryan Cryar&lt;/a&gt; (NREL)&lt;/p&gt;
+&lt;h4 id=&#34;postdocs&#34;&gt;Postdocs:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=n1tKLQcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Hang Liu&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;)&lt;/p&gt;
+&lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://sinelab.tech.cornell.edu/research/people/andrew_campbell/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Campbell&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;)&lt;/p&gt;
+&lt;h4 id=&#34;additional-researchers&#34;&gt;Additional Researchers&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://tong-andrew-wu.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Tong Wu&lt;/a&gt; (University of Central Florida)&lt;/p&gt;
+&lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://nikhil-ravi.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Ravi&lt;/a&gt; (Cornell Tech)&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://kevala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.nrel.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Renewable Energy Laboratory (NREL)&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/news-and-publications/news/2023/berkeley-lab-leading-the-way-with-new-cybersecurity-projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Leading the Way with New Cybersecurity Projects&lt;/a&gt; — Nov. 6, 2023&lt;/p&gt;
+&lt;h3 id=&#34;presentations-relating-to-this-project&#34;&gt;Presentations relating to this project:&lt;/h3&gt;
+&lt;p&gt;Sean Peisert, “LBNL Electric Grid Cybersecurity R&amp;amp;D and Trustworthy Scientific Cyberinfrastructure,” &lt;a href=&#34;https://www.nitrd.gov/coordination-areas/csia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)&lt;/a&gt; Meeting, May 23, 2024.&lt;/p&gt;
+&lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Hang Liu, Anna Scaglione, and Sean Peisert, “&lt;a href=&#34;https://doi.org/10.1109/ICASSP48485.2024.10447364&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Leakage in Graph Signal to Graph Matching Problems&lt;/a&gt;,” &lt;em&gt;Proceedings of the &lt;a href=&#34;https://2024.ieeeicassp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Acoustics, Speech, and Signal Processing&lt;/a&gt;&lt;/em&gt;, Seoul, South Korea, April 14–19, 2024.&lt;/p&gt;
+&lt;p&gt;Nikhil Ravi, Anna Scaglione, Sean Peisert, and Parth Pradhan, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2403.02324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differentially Private Communication of Measurement Anomalies in the Smart Grid&lt;/a&gt;,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; arXiv:2403.02324, 4 Mar 2024.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 3 Report</title>
+      <link>https://secpriv.lbl.gov/talk/ceds_spades_y3_report/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y3_report/</guid>
+      <description>&lt;h2 id=&#34;final-project-report&#34;&gt;Final Project Report&lt;/h2&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;The SPADES project concluded work in July of 2023.  The final report from the SPADES project is included below:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y3_report/SPADES_Y3_Final_Report_with_Appendices.pdf&#34;&gt;Final Project Report&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
