@@ -22,11 +22,12 @@
 &lt;a href=&#34;https://faculty.engineering.ucdavis.edu/akella/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Venkatesh Akella&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://faculty.engineering.ucdavis.edu/lowepower/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Lowe-Power&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;research-staff&#34;&gt;Research Staff:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/farzad-fatollahi-fard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Farzad Fatollahl-Fard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/farzad-fatollahi-fard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Farzad Fatollahl-Fard&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/paul-hargrove/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Paul Hargrove&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;affiliated-graduate-students&#34;&gt;Affiliated Graduate Students:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/kaustavgoswami&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaustav Goswami&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;)&lt;/p&gt;
 &lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.ayazakram.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayaz Akram&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;  / LBNL)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ayazakram.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayaz Akram&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt; / LBNL)&lt;/p&gt;
 &lt;p&gt;Scientific data today is at risk due to how it is collected, stored, and analyzed in highly disparate computing systems.  We believe that in order to solve the problems described above that future HPC hardware and software solutions should be co-designed together with security and scientific computing integrity concepts designed and built into as much of the stack from the outset as possible.&lt;/p&gt;
 &lt;!--
 Advanced wireless networking is here, and with it, the continuation of an extremely rapid proliferation of network-connected devices. In the scientific world, this includes computational systems, sensor networks, and industrial control devices, designed to enable closed-loop automation of the scientific cyberinfrastructure involved in data and experiments. This proliferation of connectivity will introduce new vulnerabilities with each new device connected.
