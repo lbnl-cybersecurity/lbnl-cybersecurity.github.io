@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software Assurance | Berkeley Lab Cybersecurity R&amp;D</title>
+    <title>Software Assurance | Berkeley Lab Cybersecurity Research</title>
     <link>https://secpriv.lbl.gov/tag/software-assurance/</link>
       <atom:link href="https://secpriv.lbl.gov/tag/software-assurance/index.xml" rel="self" type="application/rss+xml" />
     <description>Software Assurance</description>
@@ -120,7 +120,7 @@
 &lt;p&gt;Sean Peisert, Karen Stocks, and Von Welch, &amp;ldquo;&lt;a href=&#34;https://cio.ucop.edu/helping-scientists-understand-research-cyber-risks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helping Scientists Understand Research Cyber Risks&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://cio.ucop.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC IT Blog&lt;/a&gt;, September 20, 2017.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, Von Welch, Andrew Adams, Michael Dopheide, Susan Sons, RuthAnne Bevier, Rich LeDuc, Pascal Meunier, Stephen Schwab, and Karen Stocks, Ilkay Altintas, James Cuff, Reagan Moore, and Warren Raquel, &amp;ldquo;&lt;a href=&#34;OSCRP&#34;&gt;Open Science Cyber Risk Profile&lt;/a&gt;,&amp;rdquo; February 2017. DOI: &lt;a href=&#34;https://doi.org/10.5281/zenodo.7268749&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.5281/zenodo.7268749&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;trusted-ci-webinars-and-talks-involving-personnel-from-lbnl&#34;&gt;Trusted CI Webinars and Talks involving personnel from LBNL:&lt;/h3&gt;
-&lt;p&gt;Sean Peisert, “LBNL Electric Grid Cybersecurity R&amp;amp;D and Trustworthy Scientific Cyberinfrastructure,” &lt;a href=&#34;https://www.nitrd.gov/coordination-areas/csia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)&lt;/a&gt; Meeting, May 23, 2024.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, “LBNL Electric Grid Cybersecurity research and Trustworthy Scientific Cyberinfrastructure,” &lt;a href=&#34;https://www.nitrd.gov/coordination-areas/csia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)&lt;/a&gt; Meeting, May 23, 2024.&lt;/p&gt;
 &lt;p&gt;&lt;A HREF=&#34;https://www.nsf.gov/staff/staff_bio.jsp?lan=tghoward&amp;org=NSF&amp;from_org=NSF&#34;&gt;Tim Howard&lt;/A&gt; (NSF/USAP),
 &lt;A HREF=&#34;https://scripps.ucsd.edu/profiles/jmeyer&#34;&gt;Jon Meyer&lt;/A&gt; (SIO/CCRV),  &lt;A HREF=&#34;https://ceoas.oregonstate.edu/people/craig-risien&#34;&gt;Craig Risien&lt;/A&gt; (OSU/OOI),
 &lt;A HREF=&#34;https://hmsc.oregonstate.edu/users/christopher-romsos&#34;&gt;Chris Romsos&lt;/A&gt; (OSU/CCRV),
@@ -132,7 +132,7 @@
 &lt;p&gt;Jim Basney and Sean Peisert, &amp;ldquo;Two Community Surveys on Data Integrity Issues in Scientific Computing,&amp;rdquo;
 &lt;a href=&#34;https://www.trustedci.org/2020-nsf-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure&lt;/a&gt;, September 24, 2020. (&lt;a href=&#34;https://www.youtube.com/watch?v=Bh9v2H_1ADo&amp;amp;list=PLLoFSG1hhthRk1SkxWXa1oGhOvuLCQXvM&amp;amp;index=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;https://drive.google.com/file/d/1j3Vo1BU_t2okM3l4atiIkF4Jqj6h9Enm/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Von Welch &amp;amp; Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile (OSCRP)&lt;/a&gt;,&amp;rdquo; January 2017. (&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;http://hdl.handle.net/2022/21235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -148,7 +148,7 @@
 &lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/3435g520&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Current State of Software Assurance Tools and Techniques&lt;/a&gt;,&amp;rdquo; LBNL Technical Report, October 24, 2022.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; projects.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; projects.&lt;/p&gt;
 </description>
     </item>
     

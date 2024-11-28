@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Berkeley Lab Cybersecurity R&amp;D</title>
+    <title>Recent &amp; Upcoming Talks | Berkeley Lab Cybersecurity Research</title>
     <link>https://secpriv.lbl.gov/event/</link>
       <atom:link href="https://secpriv.lbl.gov/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
