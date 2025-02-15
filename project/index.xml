@@ -5,7 +5,7 @@
     <link>https://secpriv.lbl.gov/project/</link>
       <atom:link href="https://secpriv.lbl.gov/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2024</copyright><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://secpriv.lbl.gov/media/icon_hu3130313802150892297.png</url>
       <title>Projects</title>
@@ -184,8 +184,11 @@
 &lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL) &lt;br&gt;
 &lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Co-PI; Cornell Tech)  &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Co-PI; Kevala) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/parth-pradhan-abb9966/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parth Pradhan&lt;/a&gt; (Kevala) &lt;br&gt;
 &lt;a href=&#34;https://www.nrel.gov/research/staff/ryan-cryar.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ryan Cryar&lt;/a&gt; (NREL)&lt;/p&gt;
+&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/peteb4ker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pete Baker&lt;/a&gt; (Kevala) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/eli-kerr-067234102/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eli Kerr&lt;/a&gt; (Kevala) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/chuck-moran/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck Moran&lt;/a&gt; (Kevala)&lt;/p&gt;
 &lt;h4 id=&#34;postdocs&#34;&gt;Postdocs:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=n1tKLQcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Hang Liu&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;)&lt;/p&gt;
 &lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students:&lt;/h4&gt;
@@ -193,7 +196,8 @@
 &lt;h4 id=&#34;additional-researchers&#34;&gt;Additional Researchers&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://tong-andrew-wu.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Tong Wu&lt;/a&gt; (University of Central Florida)&lt;/p&gt;
 &lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://nikhil-ravi.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Ravi&lt;/a&gt; (Cornell Tech)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/parth-pradhan-abb9966/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parth Pradhan&lt;/a&gt; (Kevala) &lt;br&gt;
+&lt;a href=&#34;https://nikhil-ravi.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Ravi&lt;/a&gt; (Cornell Tech)&lt;/p&gt;
 &lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://kevala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt; &lt;br&gt;
@@ -201,8 +205,11 @@
 &lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/news-and-publications/news/2023/berkeley-lab-leading-the-way-with-new-cybersecurity-projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Leading the Way with New Cybersecurity Projects&lt;/a&gt; — Nov. 6, 2023&lt;/p&gt;
 &lt;h3 id=&#34;presentations-relating-to-this-project&#34;&gt;Presentations relating to this project:&lt;/h3&gt;
-&lt;p&gt;Sean Peisert, “LBNL Electric Grid Cybersecurity research and Trustworthy Scientific Cyberinfrastructure,” &lt;a href=&#34;https://www.nitrd.gov/coordination-areas/csia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)&lt;/a&gt; Meeting, May 23, 2024.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, “LBNL Electric Grid Cybersecurity Research and Trustworthy Scientific Cyberinfrastructure,” &lt;a href=&#34;https://www.nitrd.gov/coordination-areas/csia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)&lt;/a&gt; Meeting, May 23, 2024.&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Hang Liu, Anna Scaglione, and Sean Peisert, ”&lt;a href=&#34;https://doi.org/10.1109/TIFS.2024.3483669&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph-Signal-to-Graph Matching for Network De-anonymization Attacks&lt;/a&gt;,”&lt;em&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Information Forensics and Security&lt;/a&gt;&lt;/em&gt;, accepted 14 Oct, 2024.&lt;/p&gt;
+&lt;p&gt;Sachin Kadam, Anna Scaglione, Nikhil Ravi, Sean Peisert, Brent Lunghino, and Aram Shumavon, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1186/s42400-024-00239-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Optimum Noise Mechanism for Differentially Private Queries in Discrete Finite Sets&lt;/a&gt;&lt;/A&gt;,&amp;rdquo;
+&lt;em&gt;&lt;a href=&#34;https://cybersecurity.springeropen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity&lt;/a&gt;&lt;/em&gt;, 7(1):54, 25 September 2024.&lt;/p&gt;
 &lt;p&gt;Hang Liu, Anna Scaglione, and Sean Peisert, “&lt;a href=&#34;https://doi.org/10.1109/ICASSP48485.2024.10447364&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Leakage in Graph Signal to Graph Matching Problems&lt;/a&gt;,” &lt;em&gt;Proceedings of the &lt;a href=&#34;https://2024.ieeeicassp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Acoustics, Speech, and Signal Processing&lt;/a&gt;&lt;/em&gt;, Seoul, South Korea, April 14–19, 2024.&lt;/p&gt;
 &lt;p&gt;Nikhil Ravi, Anna Scaglione, Sean Peisert, and Parth Pradhan, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2403.02324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differentially Private Communication of Measurement Anomalies in the Smart Grid&lt;/a&gt;,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; arXiv:2403.02324, 4 Mar 2024.&lt;/p&gt;
 &lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
@@ -239,35 +246,43 @@ Elisa Heymann Pignolo (University of Wisconsin-Madison) &lt;br&gt;
     </item>
     
     <item>
-      <title>Data Enclaves for Scientific Computing</title>
+      <title>Data Enclaves for Scientific/Secure Computing</title>
       <link>https://secpriv.lbl.gov/project/desc/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://secpriv.lbl.gov/project/desc/</guid>
       <description>&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://faculty.engineering.ucdavis.edu/akella/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Venkatesh Akella&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://faculty.engineering.ucdavis.edu/lowepower/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Lowe-Power&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sean Peisert&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://faculty.engineering.ucdavis.edu/akella/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Venkatesh Akella&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://faculty.engineering.ucdavis.edu/lowepower/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jason Lowe-Power&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;research-staff&#34;&gt;Research Staff:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/farzad-fatollahi-fard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Farzad Fatollahl-Fard&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://crd.lbl.gov/paul-hargrove/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Paul Hargrove&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;affiliated-graduate-students&#34;&gt;Affiliated Graduate Students:&lt;/h4&gt;
+&lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/kaustavgoswami&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaustav Goswami&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;)&lt;/p&gt;
+&lt;h4 id=&#34;project-partners-on-na-22-desc-project&#34;&gt;Project Partners on NA-22 DESC Project:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.galois.com/team/david-archer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. David Archer&lt;/a&gt; (Galois) &lt;br&gt;
+&lt;a href=&#34;https://www.ornl.gov/staff-profile/james-t-matta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. James Matta&lt;/a&gt; (ORNL) &lt;br&gt;
+&lt;a href=&#34;https://anp.lbl.gov/personnel/profile-vavrek/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jayson Vavrek&lt;/a&gt; (LBNL) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/jon-warner-4b17b015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jon Warner&lt;/a&gt; (ANL) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/marie-whyatt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Marie Whyatt&lt;/a&gt; (PNNL)&lt;/p&gt;
 &lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.ayazakram.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayaz Akram&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt; / LBNL)&lt;/p&gt;
-&lt;p&gt;Scientific data today is at risk due to how it is collected, stored, and analyzed in highly disparate computing systems.  We believe that in order to solve the problems described above that future HPC hardware and software solutions should be co-designed together with security and scientific computing integrity concepts designed and built into as much of the stack from the outset as possible.&lt;/p&gt;
-&lt;!--
-Advanced wireless networking is here, and with it, the continuation of an extremely rapid proliferation of network-connected devices. In the scientific world, this includes computational systems, sensor networks, and industrial control devices, designed to enable closed-loop automation of the scientific cyberinfrastructure involved in data and experiments. This proliferation of connectivity will introduce new vulnerabilities with each new device connected.
-
-A key risk due to this increased vulnerability is the trustworthiness of data collected at the edge. While controls used to ensure security in the face of today’s threats, including even nation states, may be suffcient within the perimeters of HPC facilities, the risk of tampering with and theft of U.S. scientific intellectual property grows exponentially outside those facilities because traditional physical controls are no longer available for devices deployed in the field.
---&gt;
+&lt;hr width=&#34;70%&#34; /&gt;
+&lt;h2 id=&#34;project-descriptions&#34;&gt;Project Descriptions&lt;/h2&gt;
+&lt;p&gt;Data Enclaves for Scientific/Secure Computing (DESC) is a new architecture appropriate to the needs of applications for which existing commercial trusted execution environments (TEEs) have shortcomings.  These applications include the following.&lt;/p&gt;
+&lt;h3 id=&#34;high-performance-computing&#34;&gt;High Performance Computing&lt;/h3&gt;
+&lt;p&gt;This project is developing new architectures appropriate to the performance and usage needs of scientific computing to secure scientific data from the edge to the HPC center.  Scientific data today is at risk due to how it is collected, stored, and analyzed in highly disparate computing systems.  We believe that in order to solve the problems described above that future HPC hardware and software solutions should be co-designed together with security and scientific computing integrity concepts designed and built into as much of the stack from the outset as possible.&lt;/p&gt;
+&lt;h3 id=&#34;edge-computing&#34;&gt;Edge Computing&lt;/h3&gt;
 &lt;p&gt;This project is developing new architectures appropriate to the performance and usage needs of scientific computing to secure scientific data from the edge to the HPC center.  This includes includes sensor and edge systems that collect and process of that data takes place outside protection boundaries of traditional HPC centers, including against attacks such as ransomware and physical attacks against the computing system. Our approach will address the gaps left by existing solutions for scientific workflows to address the specific power, performance, and usability, and needs from the edge to the HPC center.&lt;/p&gt;
-&lt;p&gt;This project is supported by the US Department of Energy&amp;rsquo;s Office of Science&amp;rsquo;s &lt;a href=&#34;http://science.energy.gov/ascr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Scientific Computing Research (ASCR)&lt;/a&gt; program under the following grants:&lt;/p&gt;
+&lt;p&gt;The secure HPC and Edge computing projects are supported by the US Department of Energy&amp;rsquo;s Office of Science&amp;rsquo;s &lt;a href=&#34;http://science.energy.gov/ascr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Scientific Computing Research (ASCR)&lt;/a&gt; program under the following grants:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;&lt;a href=&#34;%22/project/ascr-hpc-cybersecurity-codesign/%22&#34;&gt;Toward a Hardware/Software Co-Design Framework for Ensuring the Integrity of Exascale Scientific Data&lt;/a&gt;,&amp;rdquo; PI: Sean Peisert, 2015.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Cybersecurity for Edge-to-Center Scientific Computing in Advanced Wireless Environments,&amp;rdquo; PI: Sean Peisert, Co-PIs: Venkatesh Akella and Jason Lowe-Power, 2021.&lt;/p&gt;
-&lt;p&gt;It is also funded by &lt;a href=&#34;https://www.energy.gov/nnsa/nonproliferation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNSA DNN&lt;/a&gt; research:&lt;/p&gt;
+&lt;h3 id=&#34;nuclear&#34;&gt;Nuclear Treaty Verification&lt;/h3&gt;
+&lt;p&gt;It is essential to have the ability to ensure that software operating on arms control monitoring equipment has not undergone modification and associated data has not been disclosed. It has been many years since most treaties and other agreements were implemented. Existing approaches to ensuring data confidentiality, and software and data integrity, are outdated and thus are easily defeated by a motivated adversary. We are co-designing hardware/software security mechanisms that will allow a “secure computational data enclave continuum” — end-to-end security of nuclear monitoring data from the sensor through to the analysis and detection, not only at rest, but during computation.&lt;/p&gt;
+&lt;p&gt;This project is funded by &lt;a href=&#34;https://www.energy.gov/nnsa/nonproliferation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNSA&amp;rsquo;s Office of Defense Nuclear Nonproliferation (DNN)&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Data Enclaves for Secure Computing (DESC): Enabling Secure Nuclear Treaty Verification in Hostile Environments,&amp;rdquo; PI: Sean Peisert, Co-PIs: Venkatesh Akella, David Archer, and Jason Lowe-Power, 2024.&lt;/p&gt;
-&lt;p&gt;It is also funded by LBNL Contractor Supported Research.&lt;/p&gt;
-&lt;p&gt;See also the &lt;a href=&#34;https://arch.cs.ucdavis.edu/projects/security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hardware-software security page&lt;/a&gt; at &lt;a href=&#34;https://arch.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DArchR, the UC Davis Architecture Research group&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;DESC is also funded by LBNL Contractor Supported Research.&lt;/p&gt;
+&lt;p&gt;For more information on DESC, see also the &lt;a href=&#34;https://arch.cs.ucdavis.edu/projects/security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hardware-software security page&lt;/a&gt; at &lt;a href=&#34;https://arch.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DArchR, the UC Davis Architecture Research group&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://cs.lbl.gov/news-media/news/2018/berkeley-lab-cybersecurity-expert-highlights-data-sharing-at-national-academies-meeting/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Cybersecurity Specialist Highlights Data Sharing Benefits, Challenges at NAS Meeting&lt;/a&gt; — Dec. 4, 2018&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://today.lbl.gov/2018/11/05/crds-sean-peisert-to-discuss-data-sharing-at-national-academies-cosempup-meeting-on-nov-8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRD&amp;rsquo;s Peisert to Discuss Data Sharing at National Academies&amp;rsquo; COSEMPUP Meeting&lt;/a&gt; — Nov. 5, 2018&lt;/p&gt;
