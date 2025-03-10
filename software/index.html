@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: March 5, 2025 --><html lang="en-us" >
+<!-- Last Published: March 10, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -775,10 +775,16 @@
 
 <div class="universal-wrapper">
   
-  <div class="article-style"><p>LBNL&rsquo;s cybersecurity research team has produced a variety of software tools and libraries that are publicly available for use.  A partial listing of selected software is below:</p>
+  <div class="article-style"><p>LBNL&rsquo;s cybersecurity and privacy research team has produced a variety of software tools and libraries that are publicly available for use.  A partial listing of selected software is below:</p>
 <ul>
 <li>
-<p><a href="https://github.com/lbnl-cybersecurity/CEDSKMeans" target="_blank" rel="noopener">CEDS DP K-Means Clustering</a>.  This repository contains the code for the CEDS Data Product K-Means Clustering.</p>
+<p><a href="https://github.com/lbnl-cybersecurity/DPANI" target="_blank" rel="noopener">Differentially Private Adaptive Noise Injection DP-ANI</a>.  This software implements a differential privacy-based privacy model for mobility applications that protects origins and destinations from being inferred from aggregated mobility datasets. This is achieved by injecting Planar Laplace noise to the user origin and destination GPS points. The noisy GPS points are then transformed into a link representation using a link-matching algorithm. Finally, the link trajectories form an aggregated mobility network.</p>
+</li>
+<li>
+<p><a href="https://github.com/lbnl-cybersecurity/DPMM" target="_blank" rel="noopener">Differentially Private Map Matching (DPMM)</a>.  This software implements a differential privacy (DP)-based map-matching algorithm, that generates link-level location trajectories in a privacy-preserving manner to protect users’ origin destinations (OD) and travel paths. OD privacy is achieved by injecting Planar Laplace noise to the user OD GPS points. Travel-path privacy is provided with randomized travel path construction using exponential DP mechanism. The injected noise level is selected adaptively, by considering the link density of the location and the functional category of the localized links. For path privacy, our mechanism samples waypoints and selects candidate paths between waypoints.</p>
+</li>
+<li>
+<p><a href="https://github.com/lbnl-cybersecurity/CEDSKMeans" target="_blank" rel="noopener">CEDS DP K-Means Clustering</a>.  This software implements K-means clustering to power grid advanced metering infrastructure (AMI) data to obtain customer labels and centroids for a set of load time series by applying the framework of differential privacy.  This is useful to generate differentially private synthetic load data consistent with the labeled data.</p>
 </li>
 <li>
 <p><a href="https://github.com/lbnl-cybersecurity/LBNL_Physics_Based_IDS" target="_blank" rel="noopener">LBNL Physics-Based Intrusion Detection Zeek/Bro Modules</a>.<br>
