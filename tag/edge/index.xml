@@ -35,7 +35,8 @@
 &lt;a href=&#34;https://www.linkedin.com/in/jon-warner-4b17b015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jon Warner&lt;/a&gt; (ANL) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/marie-whyatt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Marie Whyatt&lt;/a&gt; (PNNL)&lt;/p&gt;
 &lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.ayazakram.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayaz Akram&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt; / LBNL)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ayazakram.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayaz Akram&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt; / LBNL) &lt;br&gt;
+[Chitrabhanu Gupta][Gupta] ([UC Davis])&lt;/p&gt;
 &lt;hr width=&#34;70%&#34; /&gt;
 &lt;h2 id=&#34;project-descriptions&#34;&gt;Project Descriptions&lt;/h2&gt;
 &lt;p&gt;Data Enclaves for Scientific/Secure Computing (DESC) is a new architecture appropriate to the needs of applications for which existing commercial trusted execution environments (TEEs) have shortcomings.  These applications include the following.&lt;/p&gt;

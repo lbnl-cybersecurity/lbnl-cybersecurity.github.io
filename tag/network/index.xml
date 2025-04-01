@@ -35,7 +35,8 @@
 &lt;a href=&#34;https://www.linkedin.com/in/jon-warner-4b17b015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jon Warner&lt;/a&gt; (ANL) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/marie-whyatt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Marie Whyatt&lt;/a&gt; (PNNL)&lt;/p&gt;
 &lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.ayazakram.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayaz Akram&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt; / LBNL)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ayazakram.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayaz Akram&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt; / LBNL) &lt;br&gt;
+[Chitrabhanu Gupta][Gupta] ([UC Davis])&lt;/p&gt;
 &lt;hr width=&#34;70%&#34; /&gt;
 &lt;h2 id=&#34;project-descriptions&#34;&gt;Project Descriptions&lt;/h2&gt;
 &lt;p&gt;Data Enclaves for Scientific/Secure Computing (DESC) is a new architecture appropriate to the needs of applications for which existing commercial trusted execution environments (TEEs) have shortcomings.  These applications include the following.&lt;/p&gt;
@@ -129,8 +130,8 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
       <description>&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI)&lt;/p&gt;
 &lt;h4 id=&#34;faculty-scientists&#34;&gt;Faculty Scientists&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/affiliates/chen-nee-chuah/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chen-Nee Chuah&lt;/a&gt; (LBNL Faculty Scientist / UC Davis)&lt;br&gt;
-&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/affiliates/dipak-ghosal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dipak Ghosal&lt;/a&gt; (LBNL Faculty Scientist / UC Davis)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/chen-nee-chuah/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chen-Nee Chuah&lt;/a&gt; (LBNL Faculty Scientist / UC Davis)&lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/dipak-ghosal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dipak Ghosal&lt;/a&gt; (LBNL Faculty Scientist / UC Davis)&lt;/p&gt;
 &lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/affiliates/ross-gegan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ross Gegan&lt;/a&gt; (LBNL GSR / UC Davis)  &lt;br&gt;
 &lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/affiliates/chang-liu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chang Liu&lt;/a&gt; (LBNL GSR / UC Davis)&lt;/p&gt;
@@ -162,10 +163,10 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;&lt;a href=&#34;http://www.ayazakram.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayaz Akram&lt;/a&gt; (&lt;a href=&#34;http://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;  / LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;project-alumni&#34;&gt;Project Alumni:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://sites.google.com/a/ucdavis.edu/bogdancopos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bogdan Copos&lt;/a&gt; (LBNL/&lt;a href=&#34;http://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;; Ph.D. 2017) → SRI International  →  Google&lt;br&gt;
-&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/affiliates/hein-meling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Hein Meling&lt;/a&gt; (LBNL/&lt;a href=&#34;http://www.ux.uis.no/~meling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Stavanger&lt;/a&gt;)&lt;br&gt;
-&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/affiliates/amir-teshome-wonjiga/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amir Teshome Wonjiga&lt;/a&gt; (LBNL/&lt;a href=&#34;https://www.inria.fr/en/centre/rennes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INRIA Rennes&lt;/a&gt;; Ph.D. 2019)&lt;br&gt;
-&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; (LBNL)&lt;br&gt;
-&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/anna-giannakou/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Giannakou&lt;/a&gt; (LBNL)&lt;/p&gt;
+&lt;a href=&#34;https://crd.lbl.gov/hein-meling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Hein Meling&lt;/a&gt; (LBNL/&lt;a href=&#34;http://www.ux.uis.no/~meling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Stavanger&lt;/a&gt;)&lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/amir-teshome-wonjiga/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amir Teshome Wonjiga&lt;/a&gt; (LBNL/&lt;a href=&#34;https://www.inria.fr/en/centre/rennes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INRIA Rennes&lt;/a&gt;; Ph.D. 2019)&lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; (LBNL)&lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/anna-giannakou/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Giannakou&lt;/a&gt; (LBNL)&lt;/p&gt;
 &lt;p&gt;Scientific data today is at risk due to how it is collected, stored, and analyzed in highly disparate computing systems. How can we make claims about the integrity of data as it traverses open, international networks and via instruments and systems with widely varying reliability and provenance? Numerous causes for integrity loss are possible, including bugs in existing computational pipelines, network events, user error, unintentional system effects or even intentional attack by outsiders (e.g., scientific competitors), insiders (e.g., disgruntled employees), or in the hardware/software supply chain, without any trace of the modification. Given these gaps and shortcomings in existing HPC solutions, how can we make claims about the integrity of the scientific data as it traverses those systems and networks?&lt;/p&gt;
 &lt;p&gt;We believe that in order to solve the problems described above that future HPC hardware and software solutions should be co-designed together with security and scientific computing integrity concepts designed and built into as much of the stack from the outset as possible. Given the risk of data loss due to software and hardware, this should take into account hardware elements, operating systems, compilers, application software, and the networking stack, all the way down to the way in which software developers write software and users interact with systems in a way that can affect scientific computing integrity. However, prior to laying out the research roadmap to design and construct such an architecture, we believe that several important aspects first need to be understood more clearly.&lt;/p&gt;
 &lt;p&gt;This project takes a broad look at several aspects of security and scientific integrity issues in HPC systems. Using several case studies as exemplars, and working closely with both domain scientists as well as facility staff, we propose to test and validate several initial concepts in existing scientific computing workflows at NERSC DOE HPC facility, and analyze those models better characterize integrity-related computational behavior.&lt;/p&gt;
@@ -241,7 +242,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Thomas Edgar (PI; PNNL)&lt;br&gt;
 &lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (Co-PI; Lead at LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel-at-lbnl&#34;&gt;Senior Personnel at LBNL&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/joshua-boverhof/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshua Boverhof&lt;/a&gt; (LBNL)  &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/joshua-boverhof/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshua Boverhof&lt;/a&gt; (LBNL)  &lt;br&gt;
 &lt;a href=&#34;http://lab.engineering.asu.edu/scaglione/people-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; (LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;project-alumni&#34;&gt;Project Alumni:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://crd.lbl.gov/departments/data-science-and-technology/integrated-data-frameworks/staff/charles-mcparland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck McParland&lt;/a&gt; (LBNL → RTISYS / LBNL Affiliate)&lt;/p&gt;
@@ -329,7 +330,7 @@ Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Secur
 &lt;a href=&#34;http://www.riversideca.gov/utilities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Riverside Public Utilities&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;http://southerncompany.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Southern Company&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;project-alumni&#34;&gt;Project Alumni:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/affiliates/charles-mcparland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck McParland&lt;/a&gt; (Former Co-PI; LBNL → RTISYS / LBNL Affiliate)&lt;a href=&#34;http://www.enernex.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/charles-mcparland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck McParland&lt;/a&gt; (Former Co-PI; LBNL → RTISYS / LBNL Affiliate)&lt;a href=&#34;http://www.enernex.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;br&gt;
 &lt;/a&gt;&lt;a href=&#34;http://eetd.lbl.gov/people/emma-stewart&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emma Stewart&lt;/a&gt; (Former Co-PI; LBNL → LLNL)&lt;/p&gt;
 &lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://gcn.com/articles/2018/09/21/grid-cybersecurity.aspx?m=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Electric grid protection through low-cost sensors, machine learning&lt;/a&gt; (Route 50; formerly Government Computing News) — September 21, 2018&lt;/p&gt;
@@ -375,7 +376,7 @@ Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Secur
 &lt;p&gt;This project was supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
-&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/affiliates/charles-mcparland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck McParland&lt;/a&gt; (PI; LBNL)&lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/charles-mcparland/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck McParland&lt;/a&gt; (PI; LBNL)&lt;br&gt;
 &lt;a href=&#34;http://web.ece.ucdavis.edu/scaglionelab/cv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Lead at UC Davis)&lt;/p&gt;
 &lt;h4 id=&#34;postdocs&#34;&gt;Postdocs&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.ece.ucdavis.edu/%7Emparvani/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Masood Parvania&lt;/a&gt; (Postdoc; UC Davis → faculty at U of Utah)&lt;br&gt;
@@ -461,7 +462,7 @@ Sean Peisert&lt;/a&gt; (Former Co-PI; Former Lead at LBNL and UC Davis → Secur
 &lt;p&gt;&lt;a href=&#34;https://dst.lbl.gov/~deba/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deb Agarwal&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://dblp.org/pid/14/2773.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Karlo Berket&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://dblp.org/pid/86/4171.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Olivier Chevassut&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/sustainable-software-engineering/staff/abdelilah-essiari/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abdelilah Essiari&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/abdelilah-essiari/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abdelilah Essiari&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/guillaume-farret/?originalSubdomain=it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guillaume Farret&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://dblp.org/pid/64/6863.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keith R. Jackson&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/bill-johnston-69a25014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;William Johnston&lt;/a&gt; &lt;br&gt;
