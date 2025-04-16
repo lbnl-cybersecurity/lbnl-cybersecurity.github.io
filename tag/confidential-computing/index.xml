@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Confidential Computing | Berkeley Lab Cybersecurity Research</title>
-    <link>https://secpriv.lbl.gov/tag/confidential-computing/</link>
-      <atom:link href="https://secpriv.lbl.gov/tag/confidential-computing/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/confidential-computing/</link>
+      <atom:link href="http://localhost:1313/tag/confidential-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Confidential Computing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://secpriv.lbl.gov/media/icon_hu3130313802150892297.png</url>
+      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Confidential Computing</title>
-      <link>https://secpriv.lbl.gov/tag/confidential-computing/</link>
+      <link>http://localhost:1313/tag/confidential-computing/</link>
     </image>
     
     <item>
       <title>Data Enclaves for Scientific/Secure Computing</title>
-      <link>https://secpriv.lbl.gov/project/desc/</link>
+      <link>http://localhost:1313/project/desc/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/desc/</guid>
+      <guid>http://localhost:1313/project/desc/</guid>
       <description>&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sean Peisert&lt;/a&gt; (LBNL &amp;amp; UC Davis) &lt;br&gt;
 &lt;a href=&#34;https://faculty.engineering.ucdavis.edu/akella/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Venkatesh Akella&lt;/a&gt; (LBNL &amp;amp; UC Davis) &lt;br&gt;
@@ -36,7 +36,7 @@
 &lt;a href=&#34;https://www.linkedin.com/in/marie-whyatt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Marie Whyatt&lt;/a&gt; (PNNL)&lt;/p&gt;
 &lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.ayazakram.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayaz Akram&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt; / LBNL) &lt;br&gt;
-[Chitrabhanu Gupta][Gupta] ([UC Davis])&lt;/p&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/chitrabhanu-gupta-6114a8145/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chitrabhanu Gupta&lt;/a&gt; ([UC Davis])&lt;/p&gt;
 &lt;hr width=&#34;70%&#34; /&gt;
 &lt;h2 id=&#34;project-descriptions&#34;&gt;Project Descriptions&lt;/h2&gt;
 &lt;p&gt;Data Enclaves for Scientific/Secure Computing (DESC) is a new architecture appropriate to the needs of applications for which existing commercial trusted execution environments (TEEs) have shortcomings.  These applications include the following.&lt;/p&gt;
@@ -92,15 +92,15 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://2018.isc-program.com/?page_id=10&amp;amp;id=inv_sp155&amp;amp;sess=sess126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Challenges and Opportunities in High-Performance Computing Environments&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://2018.isc-program.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Supercomputing Conference (ISC)&lt;/a&gt;, Frankfurt, Germany,  June 26, 2018.&lt;/p&gt;
 &lt;h3 id=&#34;other-resources&#34;&gt;Other Resources:&lt;/h3&gt;
 &lt;p&gt;Ayaz Akram, &lt;a href=&#34;https://arch.cs.ucdavis.edu/blog/2020-11-19-cloud-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting up Trusted HPC System in the Cloud&lt;/a&gt;, November 19, 2020.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Privacy-Preserving Data Analysis for Scientific Discovery</title>
-      <link>https://secpriv.lbl.gov/project/csr-private-data/</link>
+      <link>http://localhost:1313/project/csr-private-data/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/csr-private-data/</guid>
+      <guid>http://localhost:1313/project/csr-private-data/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;Data is frequently not shared by organizations because that data is considered by the organization to be in some way sensitive. For example, there may be laws or regulations prohibiting sharing due to personal privacy or national security issues, or the organization owning the data may also consider that data to be a proprietary trade secret. In any case, that data cannot or will not be released in raw form, and so alternative approaches are needed if that data is to be shared at all.&lt;/p&gt;
 &lt;p&gt;Today, data is often not shared at all, or if it is shared, it is done so in ways that require people processing or analyzing that data to access the data in highly secured, non-networked environments set up to prevent any data from being exfiltrated either physically from a building or certainly from a network. This is the reason why much research is hindered.  Sometimes data is shared through processes of &amp;ldquo;anonymization&amp;rdquo; in which data is typically either masked or made more general.  Unfortunately, these techniques have repeatedly been shown to fail, typically by merging external information containing identifiable information with quasi-identifiers contained in the dataset in order to identify &amp;ldquo;anonymized&amp;rdquo; records in the dataset.&lt;/p&gt;
@@ -156,15 +156,15 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Sean Peisert, &amp;ldquo;Privacy-Preserving Data Analysis for Energy Delivery Systems and Scientific Discovery,&amp;rdquo; &lt;a href=&#34;https://www.wapa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Western Area Power Administration (WAPA)&lt;/a&gt;, Golden, CO, November 5, 2019.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_189637.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Usable Computer Security and Privacy to Enable and Encourage Data Sharing for Scientific Research&lt;/a&gt;,&amp;rdquo;  &lt;a href=&#34;http://sites.nationalacademies.org/pga/cosepup/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Academies of Sciences, Engineering, and Medicine Committee on Science, Engineering, Medicine, and Public Policy (COSEMPUP) Meeting&lt;/a&gt;, Washington, D.C., November 8, 2018.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://2018.isc-program.com/?page_id=10&amp;amp;id=inv_sp155&amp;amp;sess=sess126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Challenges and Opportunities in High-Performance Computing Environments&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://2018.isc-program.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Supercomputing Conference (ISC)&lt;/a&gt;, Frankfurt, Germany,  June 26, 2018.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Toward a Hardware/Software Co-Design Framework for Ensuring the Integrity of Exascale Scientific Data</title>
-      <link>https://secpriv.lbl.gov/project/ascr-hpc-cybersecurity-codesign/</link>
+      <link>http://localhost:1313/project/ascr-hpc-cybersecurity-codesign/</link>
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/ascr-hpc-cybersecurity-codesign/</guid>
+      <guid>http://localhost:1313/project/ascr-hpc-cybersecurity-codesign/</guid>
       <description>&lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
@@ -182,7 +182,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;We believe that in order to solve the problems described above that future HPC hardware and software solutions should be co-designed together with security and scientific computing integrity concepts designed and built into as much of the stack from the outset as possible. Given the risk of data loss due to software and hardware, this should take into account hardware elements, operating systems, compilers, application software, and the networking stack, all the way down to the way in which software developers write software and users interact with systems in a way that can affect scientific computing integrity. However, prior to laying out the research roadmap to design and construct such an architecture, we believe that several important aspects first need to be understood more clearly.&lt;/p&gt;
 &lt;p&gt;This project takes a broad look at several aspects of security and scientific integrity issues in HPC systems. Using several case studies as exemplars, and working closely with both domain scientists as well as facility staff, we propose to test and validate several initial concepts in existing scientific computing workflows at NERSC DOE HPC facility, and analyze those models better characterize integrity-related computational behavior.&lt;/p&gt;
 &lt;p&gt;Early work on this project focused on a range of activities, including identifying misuse of computing systens, leveraging blockchains for scientific computing.  More recent work has focused on developing trustworthy scientific computing architectures.&lt;/p&gt;
-&lt;p&gt;For more on the current work, see &lt;a href=&#34;https://secpriv.lbl.gov/project/desc/&#34;&gt;Data Enclaves for Scientific Computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more on the current work, see &lt;a href=&#34;http://localhost:1313/project/desc/&#34;&gt;Data Enclaves for Scientific Computing&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This project is supported by the US Department of Energy&amp;rsquo;s Office of Science&amp;rsquo;s &lt;a href=&#34;http://science.energy.gov/ascr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Scientific Computing Research (ASCR)&lt;/a&gt; program.&lt;/p&gt;
 &lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://cs.lbl.gov/news-media/news/2018/berkeley-lab-cybersecurity-expert-highlights-data-sharing-at-national-academies-meeting/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Cybersecurity Specialist Highlights Data Sharing Benefits, Challenges at NAS Meeting&lt;/a&gt; — Dec. 4, 2018&lt;/p&gt;
@@ -190,7 +190,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;&lt;a href=&#34;http://today.lbl.gov/2018/06/26/lab-experts-help-coordinate-isc18-worlds-first-largest-computing-conference/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lab Experts Help Coordinate ISC18, World’s First, Largest Computing Conference&lt;/a&gt; - June 21, 2018&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://sciencenode.org/feature/into-the-science-dmz.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Into the Medical Science DMZ&lt;/a&gt; (Science Node) March 23, 2018&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://cs.lbl.gov/news-media/news/2018/berkeley-lab-researchers-contribute-to-making-blockchains-even-more-robust/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab Researchers Contribute to Making Blockchains Even More Robust&lt;/a&gt; — January 30, 2018&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/news-and-publications/news/2017/esnets-science-dmz-design-could-help-transfer-protect-medical-research-data/&#34;&gt;ESnet&amp;rsquo;s Science DMZ Design Could Help Transfer, Protect Medical Research Data&lt;/a&gt; (Science Node) — October 16, 2017&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/news-and-publications/news/2017/esnets-science-dmz-design-could-help-transfer-protect-medical-research-data/&#34;&gt;ESnet&amp;rsquo;s Science DMZ Design Could Help Transfer, Protect Medical Research Data&lt;/a&gt; (Science Node) — October 16, 2017&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/LBNLcs/status/900819240734920704&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab&amp;rsquo;s cybersecurity expert Sean Peisert discusses challenges &amp;amp; opportunities of securing HPC&lt;/a&gt; — Aug. 24, 2017&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://cacm.acm.org/magazines/2017/9/220422-security-in-high-performance-computing-environments/fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPC security article in Communications of the ACM&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://vimeo.com/226955144&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video accompanying HPC security article on Vimeo&lt;/a&gt;&lt;/p&gt;
@@ -238,7 +238,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Sean Peisert, &lt;a href=&#34;https://www.nist.gov/news-events/events/2016/09/nsci-high-performance-computing-security-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Security Expert on Why HPC Matters - Cybersecurity for HPC Systems: Challenges and Opportunities,&lt;/a&gt; &lt;a href=&#34;https://www.nist.gov/news-events/events/2016/09/nsci-high-performance-computing-security-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSCI: High-Performance Computing Security Workshop&lt;/a&gt;, National Institute of Standards and Technology (NIST), Gaithersburg, MD, September 29, 2016,&lt;/p&gt;
 &lt;h3 id=&#34;other-resources&#34;&gt;Other Resources:&lt;/h3&gt;
 &lt;p&gt;Ayaz Akram, &lt;a href=&#34;https://arch.cs.ucdavis.edu/blog/2020-11-19-cloud-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting up Trusted HPC System in the Cloud&lt;/a&gt;, November 19, 2020.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

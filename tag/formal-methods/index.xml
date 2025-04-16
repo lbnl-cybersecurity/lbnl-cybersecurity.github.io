@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Formal Methods | Berkeley Lab Cybersecurity Research</title>
-    <link>https://secpriv.lbl.gov/tag/formal-methods/</link>
-      <atom:link href="https://secpriv.lbl.gov/tag/formal-methods/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/formal-methods/</link>
+      <atom:link href="http://localhost:1313/tag/formal-methods/index.xml" rel="self" type="application/rss+xml" />
     <description>Formal Methods</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://secpriv.lbl.gov/media/icon_hu3130313802150892297.png</url>
+      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Formal Methods</title>
-      <link>https://secpriv.lbl.gov/tag/formal-methods/</link>
+      <link>http://localhost:1313/tag/formal-methods/</link>
     </image>
     
     <item>
       <title>AOSCSWAP: Study of Academic, Open Source, and COTS Software Assurance Products</title>
-      <link>https://secpriv.lbl.gov/project/dhs-software-assurance/</link>
+      <link>http://localhost:1313/project/dhs-software-assurance/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/dhs-software-assurance/</guid>
+      <guid>http://localhost:1313/project/dhs-software-assurance/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;In this project, LBNL will help inform DHS S&amp;amp;T regarding the state of the art in software assurance tools and capabilities.&lt;/p&gt;
 &lt;p&gt;This project is supported by the the U.S. Department of Homeland Security&amp;rsquo;s &lt;a href=&#34;https://www.dhs.gov/science-and-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science and Technology Directorate&lt;/a&gt;.&lt;/p&gt;
@@ -24,15 +24,15 @@
 &lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/3435g520&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Current State of Software Assurance Tools and Techniques&lt;/a&gt;,&amp;rdquo; LBNL Technical Report, October 24, 2022.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; projects.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; projects.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Election Process Modeling and Analysis</title>
-      <link>https://secpriv.lbl.gov/project/election-process-modeling-analysis/</link>
+      <link>http://localhost:1313/project/election-process-modeling-analysis/</link>
       <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/election-process-modeling-analysis/</guid>
+      <guid>http://localhost:1313/project/election-process-modeling-analysis/</guid>
       <description>&lt;p&gt;We have had several different thrusts to our work with elections and electronic voting.&lt;/p&gt;
 &lt;p&gt;One key thrust was to explore &lt;a href=&#34;http://laser.cs.umass.edu/tools/littlejil.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;process composition tools&lt;/a&gt; as applied to elections, concentrating particularly on mail-in and Internet voting. This included exploration of how to compose systems from pre-analyzed process components, how to analyze the vulnerability of these systems to attacks, and how to guarantee that important security properties are ensured for the resulting composed system. The underlying processes represent aspects of national and local elections, their composition produces an election process, and analysis of the composition gives insight into potential errors or attacks on the election. Providing an approach for &lt;a href=&#34;http://laser.cs.umass.edu/staticanalysis/index.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;formally reasoning&lt;/a&gt; about human participation extends current security work. The project also breaks new ground by exploring process-based approaches for modeling and defending against attacks.&lt;/p&gt;
 &lt;p&gt;Another thrust that we have examined looked at auditing. Election auditing verifies that the systems and procedures work as intended, and that the votes have been counted correctly. If a problem arises, forensic techniques enable auditors to determine what happened and how to compensate if possible. Complicating this is that the audit trails enabling analysis of failures may contain information that either exposes the identity of the voter (enabling voter coercion, for example); or that communicates a message to a third party (enabling vote selling). The goal of this project was to determine the information needed to assess whether the election process in general, and e-voting machines in particular, operate with the desired degree of assurance, especially with respect to anonymity and privacy.&lt;/p&gt;
@@ -60,7 +60,7 @@ Waikoloa, HI, January 5–8, 2009. &lt;em&gt;&lt;strong&gt;(Nominated for Best P
 &lt;p&gt;Matt Bishop, Mark Graff, Candice Hoke, David Jefferson, and Sean Peisert, &amp;ldquo;&lt;A HREF=&#34;research/electionofficialtechguide-2008-10-08.pdf&#34;&gt;Resolving the Unexpected in Elections: Election Officials&amp;rsquo; Options&lt;/A&gt;,&amp;rdquo; October 8, 2008. [&lt;A HREF=&#34;bibtex/EE2008.bib&#34;&gt;BibTeX&lt;/A&gt;] [&lt;A HREF=&#34;http://www.escholarship.org/uc/item/4xb8p2jn&#34;&gt;CDL&lt;/A&gt;]&lt;/DD&gt;&lt;/p&gt;
 &lt;DD&gt;Distributed by the &lt;A HREF=&#34;http://www.electionexcellence.org/&#34;&gt;Center For Election Excellence&lt;/A&gt; and the &lt;A HREF=&#34;http://www.americanbar.org/&#34;&gt;American Bar Association&lt;/A&gt;.
 &lt;p&gt;&lt;em&gt;Sponsors:&lt;/em&gt; &lt;A HREF=&#34;http://www.nsf.gov/&#34;&gt;National Science Foundation&lt;/A&gt; &lt;A HREF=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0905503&#34;&gt;CCF-0905503&lt;/A&gt;, &lt;A HREF=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1049738&#34;&gt;CNS-1049738&lt;/A&gt;, &lt;A HREF=&#34;http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1258577&#34;&gt;CNS-1258577&lt;/A&gt;, and &lt;A HREF=&#34;http://www.nist.gov/itl/vote/&#34;&gt;NIST&lt;/A&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maritime | Berkeley Lab Cybersecurity Research</title>
-    <link>https://secpriv.lbl.gov/tag/maritime/</link>
-      <atom:link href="https://secpriv.lbl.gov/tag/maritime/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/maritime/</link>
+      <atom:link href="http://localhost:1313/tag/maritime/index.xml" rel="self" type="application/rss+xml" />
     <description>Maritime</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://secpriv.lbl.gov/media/icon_hu3130313802150892297.png</url>
+      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Maritime</title>
-      <link>https://secpriv.lbl.gov/tag/maritime/</link>
+      <link>http://localhost:1313/tag/maritime/</link>
     </image>
     
     <item>
       <title>Trusted CI, the National Science Foundation Cybersecurity of Excellence</title>
-      <link>https://secpriv.lbl.gov/project/nsf-trustedci/</link>
+      <link>http://localhost:1313/project/nsf-trustedci/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/nsf-trustedci/</guid>
+      <guid>http://localhost:1313/project/nsf-trustedci/</guid>
       <description>
 
 
@@ -38,10 +38,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu16122017579311966184.webp 400w,
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu1152578481768289525.webp 760w,
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu14244197474024635937.webp 1200w&#34;
-               src=&#34;https://secpriv.lbl.gov/media/partners/TrustedCI_logo_blue_web%281%29-small_hu16122017579311966184.webp&#34;
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_2e88da9d4fa35750.webp 400w,
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_399f57a0b7541126.webp 760w,
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_1e928bf91d58dfa0.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/partners/TrustedCI_logo_blue_web%281%29-small_hu_2e88da9d4fa35750.webp&#34;
                width=&#34;144&#34;
                height=&#34;41&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -58,21 +58,24 @@
 &lt;a href=&#34;https://cacr.iu.edu/about/people/kelli-shute.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kelli Shute&lt;/a&gt; (Executive Director, Co-PI, and Site Lead at IU)&lt;/p&gt;
 &lt;h4 id=&#34;additional-lbnl-staff&#34;&gt;Additional LBNL Staff&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://eta.lbl.gov/people/daniel-arnold&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;https://crd.lbl.gov/daniel-gunter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Gunter&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/alberto-diaz-gonzalez&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alberto Díaz González&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://crd.lbl.gov/pained/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drew Paine&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/katherine-rasmussen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katherine Rasmussen&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://crd.lbl.gov/damian-rouson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Damian Rouson&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;lbnl-project-alumni&#34;&gt;LBNL Project Alumni&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/divisions/scidata/idf/staff/reinhard-gentz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://crd.lbl.gov/daniel-gunter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Gunter&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://www.nersc.gov/about/nersc-staff/networking-security/jason-lee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason R. Lee&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;former-pis-and-site-leads&#34;&gt;Former PIs and Site Leads:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://psc.edu/staff/benninger&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kathy Benninger&lt;/a&gt; (Former Site Lead at PSC) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/dana-brunson-3955ab11/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dana Brunson&lt;/a&gt; (Former Co-PI / Site Lead at Internet2) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/randy-butler-59821911/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Randal Butler&lt;/a&gt; (Former Co-PI at UIUC) &lt;br&gt;
 &lt;a href=&#34;http://www.vonwelch.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Von Welch&lt;/a&gt; (Former PI and Founding Director, IU)&lt;/p&gt;
-&lt;p&gt;The mission of Trusted CI, the National Science Foundation Cybersecurity of Excellence, is to improve the cybersecurity of NSF computational science and engineering projects, while allowing those projects to focus on their science endeavors.&lt;/p&gt;
-&lt;p&gt;As the National Science Foundation Cybersecurity Center of Excellence, Trusted CI draws on expertise from multiple internationally recognized institutions, including &lt;a href=&#34;https://cacr.iu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indiana University&lt;/a&gt;, the &lt;a href=&#34;https://www.ncsa.illinois.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Illinois&lt;/a&gt;, the &lt;a href=&#34;https://www.wisc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Wisconsin-Madison&lt;/a&gt;, the &lt;a href=&#34;https://www.psc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pittsburgh Supercomputing Center&lt;/a&gt;, and &lt;a href=&#34;https://www.lbl.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab&lt;/a&gt;. Drawing on this expertise, Trusted CI collaborates with NSF-funded research organizations to focus on addressing the unique cybersecurity challenges faced by such entities. In addition to our leadership team, a world-class &lt;a href=&#34;https://www.trustedci.org/advisory-committee&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Advisory Committee&lt;/a&gt; adds its experience and a critical eye to the center&amp;rsquo;s strategic decision-making.&lt;/p&gt;
+&lt;p&gt;The mission of Trusted CI is to enable trustworthy NSF science by partnering with cyberinfrastructure (CI) operators to build and maintain effective cybersecurity programs, publishing resources that are valuable to the broader NSF community, and supporting the processes, tools, and knowledge to secure NSF research progress.&lt;/p&gt;
+&lt;p&gt;As the National Science Foundation Cybersecurity Center of Excellence, Trusted CI draws on expertise from multiple internationally recognized institutions, including &lt;a href=&#34;https://cacr.iu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indiana University&lt;/a&gt;, the &lt;a href=&#34;https://www.ncsa.illinois.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Illinois&lt;/a&gt;, the &lt;a href=&#34;https://www.wisc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Wisconsin-Madison&lt;/a&gt;, the &lt;a href=&#34;https://www.psc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pittsburgh Supercomputing Center&lt;/a&gt;, &lt;a href=&#34;https://www.asu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arizona State University&lt;/a&gt;, &lt;a href=&#34;https://shinstitute.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sustainable Horizons Institute&lt;/a&gt;, and &lt;a href=&#34;https://www.lbl.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab&lt;/a&gt;. Drawing on this expertise, Trusted CI collaborates with NSF-funded research organizations to focus on addressing the unique cybersecurity challenges faced by such entities. In addition to our leadership team, a world-class &lt;a href=&#34;https://www.trustedci.org/advisory-committee&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI Advisory Committee&lt;/a&gt; adds its experience and a critical eye to the center&amp;rsquo;s strategic decision-making.&lt;/p&gt;
 &lt;p&gt;Berkeley Lab is the lead institution for Trusted CI.  Berkeley Lab&amp;rsquo;s additional roles in Trusted CI have included co-leading the &lt;a href=&#34;http://trustedci.github.io/OSCRP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile (OSCRP)&lt;/a&gt; working group &amp;ndash; a cross-disciplinary group of computer security professionals and scientific researchers that worked to develop a document designed to help researchers understand the cyber risks to their work.  It has also led studies into &lt;a href=&#34;http://hdl.handle.net/2022/24910&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scientific data integrity&lt;/a&gt;, &lt;a href=&#34;https://escholarship.org/uc/item/7cz7m1ws&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scientific data confidentiality&lt;/a&gt;, &lt;a href=&#34;https://blog.trustedci.org/2021/12/publication-of-trusted-ci-guide-to.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;software assurance in science&lt;/a&gt;, the &lt;a href=&#34;https://blog.trustedci.org/2022/01/announcing-2022-trusted-ci-annual.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;security of operational technology in science&lt;/a&gt;, and &lt;a href=&#34;https://blog.trustedci.org/2023/01/announcing-2023-trusted-ci-annual.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;building security into NSF Major Facilities by design&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This project is supported by award # &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1547272&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACI-1547272&lt;/a&gt;, &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920430&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAC-1920430&lt;/a&gt;, and &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241313&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAC-2241313&lt;/a&gt; from the National Science Foundation&amp;rsquo;s Office of Advanced Cyberinfrastructure.&lt;/p&gt;
+&lt;p&gt;This project is supported by the National Science Foundation under Interagency Agreement #A2407-049-089-064206.0.  In the past, Trusted CI was also supported by National Science Foundation awards
+&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1547272&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACI-1547272&lt;/a&gt;, &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920430&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAC-1920430&lt;/a&gt;, and &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241313&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAC-2241313&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Read more at the &lt;a href=&#34;https://trustedci.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted CI web site&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;news-about-from-lbnls-involvement-with-this-center&#34;&gt;News about from LBNL&amp;rsquo;s involvement with this center:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://cs.lbl.gov/news-media/news/2024/trusted-ci-nsf-release&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Center of Excellence Receives Five-Year, $6M/Year Award From NSF&lt;/a&gt; [&lt;a href=&#34;https://crd.lbl.gov/news-and-publications/news/2024/trusted-ci-nsf-award&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;expanded announcement&lt;/a&gt;] — Oct. 3, 2024&lt;/p&gt;
@@ -132,7 +135,7 @@
 &lt;p&gt;Jim Basney and Sean Peisert, &amp;ldquo;Two Community Surveys on Data Integrity Issues in Scientific Computing,&amp;rdquo;
 &lt;a href=&#34;https://www.trustedci.org/2020-nsf-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure&lt;/a&gt;, September 24, 2020. (&lt;a href=&#34;https://www.youtube.com/watch?v=Bh9v2H_1ADo&amp;amp;list=PLLoFSG1hhthRk1SkxWXa1oGhOvuLCQXvM&amp;amp;index=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;https://drive.google.com/file/d/1j3Vo1BU_t2okM3l4atiIkF4Jqj6h9Enm/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Von Welch &amp;amp; Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile (OSCRP)&lt;/a&gt;,&amp;rdquo; January 2017. (&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;http://hdl.handle.net/2022/21235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

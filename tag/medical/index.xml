@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medical | Berkeley Lab Cybersecurity Research</title>
-    <link>https://secpriv.lbl.gov/tag/medical/</link>
-      <atom:link href="https://secpriv.lbl.gov/tag/medical/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/medical/</link>
+      <atom:link href="http://localhost:1313/tag/medical/index.xml" rel="self" type="application/rss+xml" />
     <description>Medical</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://secpriv.lbl.gov/media/icon_hu3130313802150892297.png</url>
+      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Medical</title>
-      <link>https://secpriv.lbl.gov/tag/medical/</link>
+      <link>http://localhost:1313/tag/medical/</link>
     </image>
     
     <item>
       <title>Privacy-Preserving Data Analysis for Scientific Discovery</title>
-      <link>https://secpriv.lbl.gov/project/csr-private-data/</link>
+      <link>http://localhost:1313/project/csr-private-data/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/csr-private-data/</guid>
+      <guid>http://localhost:1313/project/csr-private-data/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;Data is frequently not shared by organizations because that data is considered by the organization to be in some way sensitive. For example, there may be laws or regulations prohibiting sharing due to personal privacy or national security issues, or the organization owning the data may also consider that data to be a proprietary trade secret. In any case, that data cannot or will not be released in raw form, and so alternative approaches are needed if that data is to be shared at all.&lt;/p&gt;
 &lt;p&gt;Today, data is often not shared at all, or if it is shared, it is done so in ways that require people processing or analyzing that data to access the data in highly secured, non-networked environments set up to prevent any data from being exfiltrated either physically from a building or certainly from a network. This is the reason why much research is hindered.  Sometimes data is shared through processes of &amp;ldquo;anonymization&amp;rdquo; in which data is typically either masked or made more general.  Unfortunately, these techniques have repeatedly been shown to fail, typically by merging external information containing identifiable information with quasi-identifiers contained in the dataset in order to identify &amp;ldquo;anonymized&amp;rdquo; records in the dataset.&lt;/p&gt;
@@ -72,15 +72,15 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Sean Peisert, &amp;ldquo;Privacy-Preserving Data Analysis for Energy Delivery Systems and Scientific Discovery,&amp;rdquo; &lt;a href=&#34;https://www.wapa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Western Area Power Administration (WAPA)&lt;/a&gt;, Golden, CO, November 5, 2019.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_189637.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Usable Computer Security and Privacy to Enable and Encourage Data Sharing for Scientific Research&lt;/a&gt;,&amp;rdquo;  &lt;a href=&#34;http://sites.nationalacademies.org/pga/cosepup/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Academies of Sciences, Engineering, and Medicine Committee on Science, Engineering, Medicine, and Public Policy (COSEMPUP) Meeting&lt;/a&gt;, Washington, D.C., November 8, 2018.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://2018.isc-program.com/?page_id=10&amp;amp;id=inv_sp155&amp;amp;sess=sess126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Challenges and Opportunities in High-Performance Computing Environments&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://2018.isc-program.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Supercomputing Conference (ISC)&lt;/a&gt;, Frankfurt, Germany,  June 26, 2018.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Medical Science DMZ</title>
-      <link>https://secpriv.lbl.gov/project/medical-science-dmz/</link>
+      <link>http://localhost:1313/project/medical-science-dmz/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/medical-science-dmz/</guid>
+      <guid>http://localhost:1313/project/medical-science-dmz/</guid>
       <description>&lt;p&gt;A &lt;a href=&#34;https://fasterdata.es.net/science-dmz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science DMZ&lt;/a&gt; is a portion of the network, built at or near the local network perimeter of an individual research institution, that is designed such that the equipment, configuration, and security poli- cies are optimized for high-performance workflows and large datasets.&lt;/p&gt;
 &lt;p&gt;Developed by &lt;a href=&#34;https://es.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESnet&lt;/a&gt; engineers, the Science DMZ model addresses common network performance problems encountered at research institutions by creating an environment that is tailored to the needs of high performance science applications, including high-volume bulk data transfer, remote experiment control, and data visualization.&lt;/p&gt;
 &lt;p&gt;The Science DMZ architecture also maintains the security of the data through a number of distinct techniques, but does not employ commercial firewalls due to their negative impact on performance. As a result, the Science DMZ model is not currently employed in environments subject to the &lt;a href=&#34;https://www.hhs.gov/hipaa/for-professionals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HIPAA Security Rule&lt;/a&gt; and &lt;a href=&#34;https://www.hhs.gov/hipaa/for-professionals/special-topics/hitech-act-enforcement-interim-final-rule/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HITECH&lt;/a&gt; requirements, due to the presumed technical controls based on de facto use of stateful and deep packet–inspecting commercial firewalls.&lt;/p&gt;
@@ -88,8 +88,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;h3 id=&#34;cite-the-medical-science-dmz&#34;&gt;Cite the Medical Science DMZ&lt;/h3&gt;
 &lt;p&gt;Two versions of our Medical Science DMZ paper have been published in &lt;a href=&#34;http://jamia.oxfordjournals.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of the American Medical Informatics Association (JAMIA)&lt;/a&gt; &amp;mdash; a &amp;ldquo;&lt;a href=&#34;http://jamia.oxfordjournals.org/content/23/6/1199.article-info&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;brief communication&lt;/a&gt;&amp;rdquo; in JAMIA 23(6), November 2016, and a &amp;ldquo;full&amp;rdquo; version in JAMIA 25(3), March 2018.  Citation information for the &amp;ldquo;&lt;a href=&#34;https://academic.oup.com/jamia/article/doi/10.1093/jamia/ocx104/4367749/The-medical-science-DMZ-a-network-design-pattern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;full&lt;/a&gt;&amp;rdquo; version of our Medical Science DMZ paper &amp;ndash; the canonical citation &amp;ndash; is as follows:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Sean Peisert, Eli Dart, William K. Barnett, James Cuff, Robert L. Grossman, Edward Balas, Ari Berman, Anurag Shankar, and Brian Tierney, &amp;ldquo;&lt;a href=&#34;https://academic.oup.com/jamia/article/doi/10.1093/jamia/ocx104/4367749/The-medical-science-DMZ-a-network-design-pattern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Medical Science DMZ: A Network Design Pattern for Data-Intensive Medical Science&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Journal of the American Medical Informatics Association (JAMIA)&lt;/em&gt;, 26(3):267–274, March 1, 2018.  DOI:&lt;a href=&#34;http://dx.doi.org/10.1093/jamia/ocx104&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1093/jamia/ocx104&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Sean Peisert, Eli Dart, William K. Barnett, James Cuff, Robert L. Grossman, Edward Balas, Ari Berman, Anurag Shankar, and Brian Tierney, &amp;ldquo;&lt;a href=&#34;https://academic.oup.com/jamia/article/doi/10.1093/jamia/ocx104/4367749/The-medical-science-DMZ-a-network-design-pattern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Medical Science DMZ: A Network Design Pattern for Data-Intensive Medical Science&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Journal of the American Medical Informatics Association (JAMIA)&lt;/em&gt;, 26(3):267–274, March 1, 2018.  DOI:&lt;a href=&#34;http://dx.doi.org/10.1093/jamia/ocx104&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1093/jamia/ocx104&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;@article{MedicalScienceDMZ-2018-JAMIA-Full,
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	Author = {Sean Peisert and Eli Dart and Barnett, William K. and James Cuff and Grossman, Robert L. and Edward Balas and Ari Berman and Anurag Shankar and Brian Tierney},
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	Journal = {Journal of the American Medical Informatics Association (JAMIA)},
@@ -104,9 +103,9 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
     
     <item>
       <title>Bedside to the Cloud and Back</title>
-      <link>https://secpriv.lbl.gov/project/ventilator-data/</link>
+      <link>http://localhost:1313/project/ventilator-data/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/ventilator-data/</guid>
+      <guid>http://localhost:1313/project/ventilator-data/</guid>
       <description>&lt;p&gt;This project is developing a system-based workflow to securely acquire wireless data from mechanical ventilators in critical care environments, and leverage scalable web-based analytic platforms to advance data analytics and visualization of issues surrounding patients with respiratory failure.&lt;/p&gt;
 &lt;p&gt;Researchers involved at UC Davis:&lt;/p&gt;
 &lt;UL&gt;
@@ -121,7 +120,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Jason Adams, Monica Lieng, Brooks Kuhn, Edward Guo, Edik Simonian, Sean Peisert, JP Delplanque, and Nick Anderson, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/4cp4891c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automated Mechanical Ventilator Waveform Analysis of Patient-Ventilator Asynchrony&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;http://journal.publications.chestnet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CHEST Journal&lt;/a&gt;&lt;/em&gt;, 148(4), October 2015.
 [&lt;A HREF=&#34;bibtex/Peisert2015CHEST.bib&#34;&gt;bib&lt;/A&gt; | &lt;A HREF=&#34;https://doi.org/10.1378/chest.2281731&#34;&gt;DOI&lt;/A&gt; | &lt;A HREF=&#34;https://escholarship.org/uc/item/4cp4891c&#34;&gt;CDL&lt;/A&gt;]&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

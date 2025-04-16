@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software | Berkeley Lab Cybersecurity Research</title>
-    <link>https://secpriv.lbl.gov/software/</link>
-      <atom:link href="https://secpriv.lbl.gov/software/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/software/</link>
+      <atom:link href="http://localhost:1313/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Software</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://secpriv.lbl.gov/media/icon_hu3130313802150892297.png</url>
+      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Software</title>
-      <link>https://secpriv.lbl.gov/software/</link>
+      <link>http://localhost:1313/software/</link>
     </image>
     
   </channel>
