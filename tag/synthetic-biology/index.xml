@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Synthetic Biology | Berkeley Lab Cybersecurity Research</title>
-    <link>http://localhost:1313/tag/synthetic-biology/</link>
-      <atom:link href="http://localhost:1313/tag/synthetic-biology/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/tag/synthetic-biology/</link>
+      <atom:link href="https://secpriv.lbl.gov/tag/synthetic-biology/index.xml" rel="self" type="application/rss+xml" />
     <description>Synthetic Biology</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Synthetic Biology</title>
-      <link>http://localhost:1313/tag/synthetic-biology/</link>
+      <link>https://secpriv.lbl.gov/tag/synthetic-biology/</link>
     </image>
     
     <item>
       <title>Synthetic Biology Automation</title>
-      <link>http://localhost:1313/project/jbei-automation/</link>
+      <link>https://secpriv.lbl.gov/project/jbei-automation/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/jbei-automation/</guid>
+      <guid>https://secpriv.lbl.gov/project/jbei-automation/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;In this project, LBNL Computing Sciences Research supported the automation of synthetic biology research pipelines supporting the design-build-test-learn (DBTL) cycle, including ingest and analysis of liquid chromatography mass spectrometry and feedstocks-to-fuels pipelines.&lt;/p&gt;
 &lt;p&gt;The work was led at JBEI by &lt;a href=&#34;https://sites.google.com/view/hectorgarciamartinhomepage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Héctor García Martín&lt;/a&gt; and supported by LBNL Computing Sciences Research by &lt;a href=&#34;https://scholar.google.com/citations?user=uToyU5oAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reinhard Gentz&lt;/a&gt; and &lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt;.&lt;/p&gt;

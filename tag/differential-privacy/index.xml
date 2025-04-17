@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Differential Privacy | Berkeley Lab Cybersecurity Research</title>
-    <link>http://localhost:1313/tag/differential-privacy/</link>
-      <atom:link href="http://localhost:1313/tag/differential-privacy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/tag/differential-privacy/</link>
+      <atom:link href="https://secpriv.lbl.gov/tag/differential-privacy/index.xml" rel="self" type="application/rss+xml" />
     <description>Differential Privacy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Differential Privacy</title>
-      <link>http://localhost:1313/tag/differential-privacy/</link>
+      <link>https://secpriv.lbl.gov/tag/differential-privacy/</link>
     </image>
     
     <item>
       <title>Privacy-Preserving, Collective Cyberattack Defense of DERs</title>
-      <link>http://localhost:1313/project/ceser-shielders/</link>
+      <link>https://secpriv.lbl.gov/project/ceser-shielders/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ceser-shielders/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceser-shielders/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;This project aims to develop, apply, and test a technique for enabling collective defense of distribution grids with significant penetration of distributed energy resources (DER) and responsive loads (particularly Electric Vehicles), by leveraging a privacy-preserving method of data sharing without exposing raw data that might contain personally identifiable information (PII) from individual consumers or buildings or that might otherwise be considered national security information that could be leveraged by adversaries to more effectively compromise and potentially destabilize portions of the electric grid. We envision creating a software platform to allow utilities to share relevant cybersecurity information with one another in a manner that does not compromise the privacy of customers in their service territories. In doing so, we hope to reduce the reluctance of utilities to share information that can be used to harden other networks by reducing privacy-related liabilities associated with grid operational technology (OT) data.&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Office of Cybersecurity, Energy Security, and Emergency Response (CESER)&lt;/a&gt; Risk Management Tools and Technologies (RMT) program.&lt;/p&gt;
@@ -31,6 +31,7 @@
 &lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/peteb4ker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pete Baker&lt;/a&gt; (Kevala) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/eli-kerr-067234102/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eli Kerr&lt;/a&gt; (Kevala) &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/jason-macdonald&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Macdonald&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/chuck-moran/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck Moran&lt;/a&gt; (Kevala)&lt;/p&gt;
 &lt;h4 id=&#34;postdocs&#34;&gt;Postdocs:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=n1tKLQcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Hang Liu&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;)&lt;/p&gt;
@@ -55,15 +56,15 @@
 &lt;em&gt;&lt;a href=&#34;https://cybersecurity.springeropen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity&lt;/a&gt;&lt;/em&gt;, 7(1):54, 25 September 2024.&lt;/p&gt;
 &lt;p&gt;Hang Liu, Anna Scaglione, and Sean Peisert, “&lt;a href=&#34;https://doi.org/10.1109/ICASSP48485.2024.10447364&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Leakage in Graph Signal to Graph Matching Problems&lt;/a&gt;,” &lt;em&gt;Proceedings of the &lt;a href=&#34;https://2024.ieeeicassp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Acoustics, Speech, and Signal Processing&lt;/a&gt;&lt;/em&gt;, Seoul, South Korea, April 14–19, 2024.&lt;/p&gt;
 &lt;p&gt;Nikhil Ravi, Anna Scaglione, Sean Peisert, and Parth Pradhan, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2403.02324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differentially Private Communication of Measurement Anomalies in the Smart Grid&lt;/a&gt;,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; arXiv:2403.02324, 4 Mar 2024.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Privacy-Preserving Data Analysis for Scientific Discovery</title>
-      <link>http://localhost:1313/project/csr-private-data/</link>
+      <link>https://secpriv.lbl.gov/project/csr-private-data/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/csr-private-data/</guid>
+      <guid>https://secpriv.lbl.gov/project/csr-private-data/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;Data is frequently not shared by organizations because that data is considered by the organization to be in some way sensitive. For example, there may be laws or regulations prohibiting sharing due to personal privacy or national security issues, or the organization owning the data may also consider that data to be a proprietary trade secret. In any case, that data cannot or will not be released in raw form, and so alternative approaches are needed if that data is to be shared at all.&lt;/p&gt;
 &lt;p&gt;Today, data is often not shared at all, or if it is shared, it is done so in ways that require people processing or analyzing that data to access the data in highly secured, non-networked environments set up to prevent any data from being exfiltrated either physically from a building or certainly from a network. This is the reason why much research is hindered.  Sometimes data is shared through processes of &amp;ldquo;anonymization&amp;rdquo; in which data is typically either masked or made more general.  Unfortunately, these techniques have repeatedly been shown to fail, typically by merging external information containing identifiable information with quasi-identifiers contained in the dataset in order to identify &amp;ldquo;anonymized&amp;rdquo; records in the dataset.&lt;/p&gt;
@@ -119,15 +120,15 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Sean Peisert, &amp;ldquo;Privacy-Preserving Data Analysis for Energy Delivery Systems and Scientific Discovery,&amp;rdquo; &lt;a href=&#34;https://www.wapa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Western Area Power Administration (WAPA)&lt;/a&gt;, Golden, CO, November 5, 2019.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_189637.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Usable Computer Security and Privacy to Enable and Encourage Data Sharing for Scientific Research&lt;/a&gt;,&amp;rdquo;  &lt;a href=&#34;http://sites.nationalacademies.org/pga/cosepup/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Academies of Sciences, Engineering, and Medicine Committee on Science, Engineering, Medicine, and Public Policy (COSEMPUP) Meeting&lt;/a&gt;, Washington, D.C., November 8, 2018.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://2018.isc-program.com/?page_id=10&amp;amp;id=inv_sp155&amp;amp;sess=sess126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Challenges and Opportunities in High-Performance Computing Environments&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://2018.isc-program.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Supercomputing Conference (ISC)&lt;/a&gt;, Frankfurt, Germany,  June 26, 2018.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Provable Anonymization of Grid Data for Cyberattack Detection</title>
-      <link>http://localhost:1313/project/ceds-privacy/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-privacy/</link>
       <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ceds-privacy/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-privacy/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;Data is frequently not shared by organizations because that data is considered by the organization to be in some way sensitive. For example, there may be laws or regulations prohibiting sharing due to personal privacy or national security issues, or the organization owning the data may also consider that data to be a proprietary trade secret. In any case, that data cannot or will not be released in raw form, and so alternative approaches are needed if that data is to be shared at all.&lt;/p&gt;
 &lt;p&gt;Today, data is often not shared at all, or if it is shared, it is done so in ways that require people processing or analyzing that data to access the data in highly secured, non-networked environments set up to prevent any data from being exfiltrated either physically from a building or certainly from a network. This is the reason why much research is hindered.  Sometimes data is shared through processes of &amp;ldquo;anonymization&amp;rdquo; in which data is typically either masked or made more general.  Unfortunately, these techniques have repeatedly been shown to fail, typically by merging external information containing identifiable information with quasi-identifiers contained in the dataset in order to identify &amp;ldquo;anonymized&amp;rdquo; records in the dataset.&lt;/p&gt;
@@ -182,15 +183,15 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Nikhil Ravi, Anna Scaglione, Sachin Kadam, Reinhard Gentz, Sean Peisert, Brent Lunghino, Emmanuel Levijarvi, Aram Shumavon, &amp;ldquo;Differentially Private &lt;em&gt;K&lt;/em&gt;-means Clustering Applied to Meter Data Analysis and Synthesis,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2112.03801&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2112.03801&lt;/a&gt;, 7 Dec 2021.&lt;/p&gt;
 &lt;p&gt;Sachin Kadam, Anna Scaglione, Nikhil Ravi, Sean Peisert, Brent Lunghino, and Aram Shumavon, &amp;ldquo;Optimum Noise Mechanism for Differentially Private Queries in Discrete Finite Sets,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2111.11661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.11661&lt;/a&gt;, 23 Nov 2021.&lt;/p&gt;
 &lt;p&gt;Nikhil Ravi, Anna Scaglione, and Sean Peisert, &amp;ldquo;Colored Noise Mechanism for Differentially Private Clustering,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2111.11661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.07850&lt;/a&gt;, 15 Nov 2021.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Securing Solar for the Grid (S2G)</title>
-      <link>http://localhost:1313/project/seto-standards/</link>
+      <link>https://secpriv.lbl.gov/project/seto-standards/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/seto-standards/</guid>
+      <guid>https://secpriv.lbl.gov/project/seto-standards/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;LBNL will lead a new workgroup for Artificial Intelligence (AI) for IBR/DER cybersecurity that will seek a draft standard report on AI performance requirements for high solar / IBR / DER penetration scenarios. This working group will specifically focus on advancing an understanding of performance requirements for IBR/DER for high solar generation scenarios.  As IBR / DER grow from tens of thousands to millions of devices, increased automation is likely required but needs to be considered within conflicting recommendations for manual control. Automation has brought significant advantages in the power grid for ensuring stability, increasing efficiency, and even providing cybersecurity benefits. At the same time, automation significantly increases cybersecurity risks because automated systems can be remotely attackable, and have similar vulnerabilities to other types of computing systems.&lt;/p&gt;
 &lt;p&gt;LBNL will also lead a new workgroup for privacy-preserving &amp;amp; cybersecure data and model sharing standards for solar / IBR / DER industry stakeholders. Use cases will focus on data and models for high solar / IBR / DER penetration scenarios. This will include threat-sharing program reformations, leveraging prior experience with CESER’s CEDS program.&lt;/p&gt;
@@ -203,7 +204,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Founder and CEO, &lt;a href=&#34;https://kevalaanalytics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt;)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Robert Currie, Sean Peisert, Anna Scaglione, Aram Shumavon, and Nikhil Ravi, &amp;ldquo;Data Privacy for the Grid: Toward a Data Privacy Standard for Inverter-Based and Distributed Energy Resources,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Power &amp;amp; Energy Magazine&lt;/a&gt;&lt;/em&gt;, 21(5), pp. 58-57, Sept.-Oct 2023.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

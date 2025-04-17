@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People | Berkeley Lab Cybersecurity Research</title>
-    <link>http://localhost:1313/people/</link>
-      <atom:link href="http://localhost:1313/people/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/people/</link>
+      <atom:link href="https://secpriv.lbl.gov/people/index.xml" rel="self" type="application/rss+xml" />
     <description>People</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu_95cb6356a9638a43.png</url>
       <title>People</title>
-      <link>http://localhost:1313/people/</link>
+      <link>https://secpriv.lbl.gov/people/</link>
     </image>
     
   </channel>

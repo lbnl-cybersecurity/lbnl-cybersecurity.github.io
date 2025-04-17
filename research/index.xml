@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Berkeley Lab Cybersecurity Research</title>
-    <link>http://localhost:1313/research/</link>
-      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/research/</link>
+      <atom:link href="https://secpriv.lbl.gov/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://secpriv.lbl.gov/research/</link>
     </image>
     
     <item>
       <title>Cybersecurity for Energy Delivery Systems</title>
-      <link>http://localhost:1313/research/ceds/</link>
+      <link>https://secpriv.lbl.gov/research/ceds/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/ceds/</guid>
+      <guid>https://secpriv.lbl.gov/research/ceds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cybersecurity for Nuclear Arms Control Monitoring and Safeguards</title>
-      <link>http://localhost:1313/research/nuclear-safeguards/</link>
+      <link>https://secpriv.lbl.gov/research/nuclear-safeguards/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/nuclear-safeguards/</guid>
+      <guid>https://secpriv.lbl.gov/research/nuclear-safeguards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cybersecurity for Research Cyberinfrastructure and High-Performance Computing</title>
-      <link>http://localhost:1313/research/research-cyberinfrastructure/</link>
+      <link>https://secpriv.lbl.gov/research/research-cyberinfrastructure/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research-cyberinfrastructure/</guid>
+      <guid>https://secpriv.lbl.gov/research/research-cyberinfrastructure/</guid>
       <description></description>
     </item>
     
