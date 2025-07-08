@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI | Berkeley Lab Cybersecurity Research</title>
+    <title>AI | Berkeley Lab Cybersecurity R&amp;D</title>
     <link>https://secpriv.lbl.gov/tag/ai/</link>
       <atom:link href="https://secpriv.lbl.gov/tag/ai/index.xml" rel="self" type="application/rss+xml" />
     <description>AI</description>
@@ -24,25 +24,31 @@
 &lt;h4 id=&#34;principal-investigator&#34;&gt;Principal Investigator:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;co-leads&#34;&gt;Co-Leads:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/daniel-arnold-78b59269/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL) &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/daniel-arnold-78b59269/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL → LLNL) &lt;br&gt;
 &lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Co-PI; Cornell Tech)  &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Co-PI; Kevala) &lt;br&gt;
 &lt;a href=&#34;https://research-hub.nrel.gov/en/persons/vivek-kumar-singh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vivek Kumar Singh&lt;/a&gt; (NREL)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/peteb4ker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pete Baker&lt;/a&gt; (Kevala) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/eli-kerr-067234102/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eli Kerr&lt;/a&gt; (Kevala) &lt;br&gt;
-&lt;a href=&#34;https://eta.lbl.gov/people/jason-macdonald&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Macdonald&lt;/a&gt; (LBNL) &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/jason-macdonald&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason MacDonald&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/chuck-moran/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck Moran&lt;/a&gt; (Kevala)&lt;/p&gt;
-&lt;h4 id=&#34;postdocs&#34;&gt;Postdocs:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=n1tKLQcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Hang Liu&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;)&lt;/p&gt;
+&lt;!--
+#### Postdocs:
+--&gt;
 &lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://sinelab.tech.cornell.edu/research/people/andrew_campbell/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Campbell&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;)&lt;/p&gt;
-&lt;h4 id=&#34;additional-researchers&#34;&gt;Additional Researchers&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://tong-andrew-wu.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Tong Wu&lt;/a&gt; (University of Central Florida)&lt;/p&gt;
+&lt;!--
+#### Additional Researchers
+
+[Dr. Tong Wu](https://tong-andrew-wu.github.io) (University of Central Florida)
+--&gt;
 &lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.nrel.gov/research/staff/ryan-cryar.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ryan Cryar&lt;/a&gt; (NREL) &lt;br&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?user=n1tKLQcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hang Liu&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt; Postdoc 2023-2025 → Assistant Professor, University of Macao) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/parth-pradhan-abb9966/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parth Pradhan&lt;/a&gt; (Kevala) &lt;br&gt;
-&lt;a href=&#34;https://nikhil-ravi.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Ravi&lt;/a&gt; (Ph.D., Cornell Tech, 2004 → finance sector)&lt;/p&gt;
+&lt;a href=&#34;https://nikhil-ravi.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nikhil Ravi&lt;/a&gt; (Ph.D., Cornell Tech, 2024 → finance sector) &lt;br&gt;
+&lt;a href=&#34;https://tong-andrew-wu.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Tong Wu&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt; Postdoc, 2022-2024 → Assistant Professor, University of Central Florida)&lt;/p&gt;
 &lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://kevala.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt; &lt;br&gt;
@@ -59,7 +65,7 @@
 &lt;em&gt;&lt;a href=&#34;https://cybersecurity.springeropen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity&lt;/a&gt;&lt;/em&gt;, 7(1):54, 25 September 2024.&lt;/p&gt;
 &lt;p&gt;Hang Liu, Anna Scaglione, and Sean Peisert, “&lt;a href=&#34;https://doi.org/10.1109/ICASSP48485.2024.10447364&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Leakage in Graph Signal to Graph Matching Problems&lt;/a&gt;,” &lt;em&gt;Proceedings of the &lt;a href=&#34;https://2024.ieeeicassp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Acoustics, Speech, and Signal Processing&lt;/a&gt;&lt;/em&gt;, Seoul, South Korea, April 14–19, 2024.&lt;/p&gt;
 &lt;p&gt;Nikhil Ravi, Anna Scaglione, Sean Peisert, and Parth Pradhan, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2403.02324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differentially Private Communication of Measurement Anomalies in the Smart Grid&lt;/a&gt;,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; arXiv:2403.02324, 4 Mar 2024.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -123,7 +129,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Sean Peisert, &amp;ldquo;Privacy-Preserving Data Analysis for Energy Delivery Systems and Scientific Discovery,&amp;rdquo; &lt;a href=&#34;https://www.wapa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Western Area Power Administration (WAPA)&lt;/a&gt;, Golden, CO, November 5, 2019.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_189637.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Usable Computer Security and Privacy to Enable and Encourage Data Sharing for Scientific Research&lt;/a&gt;,&amp;rdquo;  &lt;a href=&#34;http://sites.nationalacademies.org/pga/cosepup/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Academies of Sciences, Engineering, and Medicine Committee on Science, Engineering, Medicine, and Public Policy (COSEMPUP) Meeting&lt;/a&gt;, Washington, D.C., November 8, 2018.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://2018.isc-program.com/?page_id=10&amp;amp;id=inv_sp155&amp;amp;sess=sess126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Challenges and Opportunities in High-Performance Computing Environments&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://2018.isc-program.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Supercomputing Conference (ISC)&lt;/a&gt;, Frankfurt, Germany,  June 26, 2018.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -181,7 +187,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Arnold, D., Saha, S. S., Ngo, S., Roberts, C., Scaglione, A., Johnson, N., Peisert, S., and Pinney, D., “Adaptive Control of Distributed Energy Resources for Distribution Grid Voltage Stability,” IEEE Transactions on Power Systems, Vol. 38(1), Mar. 2022, pp. 129 - 141. &lt;a href=&#34;https://doi.org/10.1109/TPWRS.2022.3157558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/TPWRS.2022.3157558&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Arnold, D., Ngo, S., Roberts, C., Chen, Y., Scaglione, A., and Peisert, S., “Adam-based Augmented Random Search for Control Policies for Distributed Energy Resource Cyber Attack Mitigation,” &lt;a href=&#34;https://acc2022.a2c2.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American Control Conference&lt;/a&gt;, 2022, accepted, available: &lt;a href=&#34;http://arxiv.org/abs/2201.11825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2201.11825&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Roberts, C., Markovic, U., Arnold, D., and Callaway, D. S., “Malicious Control of an Active Load in an Islanded Mixed-Source Microgrid,” Proceedings of 2021 IEEE Madrid PowerTech, Madrid, Spain, July 2021, pp. 1-6. &lt;a href=&#34;https://doi.org/10.1109/PowerTech46648.2021.9495077&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/PowerTech46648.2021.9495077&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -202,7 +208,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Founder and CEO, &lt;a href=&#34;https://kevalaanalytics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt;)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Robert Currie, Sean Peisert, Anna Scaglione, Aram Shumavon, and Nikhil Ravi, &amp;ldquo;Data Privacy for the Grid: Toward a Data Privacy Standard for Inverter-Based and Distributed Energy Resources,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Power &amp;amp; Energy Magazine&lt;/a&gt;&lt;/em&gt;, 21(5), pp. 58-57, Sept.-Oct 2023.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -259,7 +265,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Shammya Shananda Saha, Daniel Arnold, Anna Scaglione, Eran Schweitzer, Ciaran Roberts, Sean Peisert, and Nathan G. Johnson. &amp;ldquo;&lt;a href=&#34;https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/rpg2.12009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lyapunov Stability of Smart Inverters Using Linearized DistFlow Approximation&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://digital-library.theiet.org/content/journals/iet-rpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IET Renewable Power Generation&lt;/a&gt;&lt;/em&gt;, accepted 28 September 2020. [&lt;a href=&#34;https://arxiv.org/abs/2011.09620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Ignacio Losada Carreño, Raksha Ramakrishna, Anna Scaglione, Daniel Arnold, Ciaran Roberts, Sy-Toan Ngo, Sean Peisert, and David Pinney, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/6cp617fw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoDa: An Irradiance-Based Synthetic Solar Data Generation Tool&lt;/a&gt;,”   &lt;em&gt;Proceedings of the &lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)&lt;/a&gt;&lt;/em&gt;, November 11–13, 2020.&lt;/p&gt;
 &lt;p&gt;Ciaran Roberts Sy-Toan Ngo, Alexandre Milesi, Sean Peisert, Daniel Arnold, Shammya Saha, Anna Scaglione, Nathan Johnson, Anton Kocheturov, Dmitriy Fradkin, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/5069z5wn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Reinforcement Learning for DER Cyber-Attack Mitigation&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)&lt;/a&gt;&lt;/em&gt;, November 11–13, 2020.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

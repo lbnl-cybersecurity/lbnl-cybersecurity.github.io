@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cryptography | Berkeley Lab Cybersecurity Research</title>
+    <title>Cryptography | Berkeley Lab Cybersecurity R&amp;D</title>
     <link>https://secpriv.lbl.gov/tag/cryptography/</link>
       <atom:link href="https://secpriv.lbl.gov/tag/cryptography/index.xml" rel="self" type="application/rss+xml" />
     <description>Cryptography</description>
@@ -33,7 +33,7 @@
 &lt;p&gt;Thomas W. Edgar, Aditya Ashok, Garret E. Seppala, K.M. Arthur-Durrett, M. Engels, Reinhard Gentz, and Sean Peisert, &amp;ldquo;An Automated Disruption-Tolerant Key Management Framework for Critical Systems,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://www.jinfowar.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Information Warfare&lt;/a&gt;&lt;/em&gt;, accepted 8 October, 2019.&lt;/p&gt;
 &lt;h3 id=&#34;software-resulting-from-this-project&#34;&gt;Software resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/lbnl-cybersecurity/dtkm-sparcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LBNL Disruption Tolerant Key Management Monitoring for Stream-Processing Architecture for Real-time Cyber-physical Security (DTKM-SPARCS)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -101,7 +101,7 @@ Gene Tsudik&lt;/p&gt;
 &lt;p&gt;Deborah Agarwal, Richard Stead, Brian Coan, James E Burns, Nishith Shah, and Nicholas Kyriakopoulos. &lt;a href=&#34;https://escholarship.org/content/qt40x3788h/qt40x3788h.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Initial results of the CD-1 reliable multicast experiment&lt;/a&gt;. Lawrence Berkeley National Laboratory, 2000.&lt;/p&gt;
 &lt;p&gt;Giuseppe Ateniese, Olivier Chevassut, Damian Hasse, Yongdae Kim, and Gene Tsudik, &lt;a href=&#34;https://scholar.archive.org/work/emrbgw2gi5cphavtv7u5fvrogu/access/wayback/http://www-users.cs.umn.edu:80/~kyd/paper/achkt99.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The design of a group key agreement API&lt;/a&gt;. &lt;em&gt;Proceedings of the DARPA Information Survivability Conference and Exposition (DISCEX)&lt;/em&gt;, 2000&lt;/p&gt;
 &lt;p&gt;Deborah A Agarwal. &lt;a href=&#34;https://www.osti.gov/servlets/purl/767536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using multicast in the global communications infrastructure for group communication&lt;/a&gt;. Lawrence Berkeley National Laboratory, 1999.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

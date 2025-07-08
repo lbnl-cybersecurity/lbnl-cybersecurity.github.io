@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Confidential Computing | Berkeley Lab Cybersecurity Research</title>
+    <title>Confidential Computing | Berkeley Lab Cybersecurity R&amp;D</title>
     <link>https://secpriv.lbl.gov/tag/confidential-computing/</link>
       <atom:link href="https://secpriv.lbl.gov/tag/confidential-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Confidential Computing</description>
@@ -92,7 +92,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://2018.isc-program.com/?page_id=10&amp;amp;id=inv_sp155&amp;amp;sess=sess126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Challenges and Opportunities in High-Performance Computing Environments&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://2018.isc-program.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Supercomputing Conference (ISC)&lt;/a&gt;, Frankfurt, Germany,  June 26, 2018.&lt;/p&gt;
 &lt;h3 id=&#34;other-resources&#34;&gt;Other Resources:&lt;/h3&gt;
 &lt;p&gt;Ayaz Akram, &lt;a href=&#34;https://arch.cs.ucdavis.edu/blog/2020-11-19-cloud-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting up Trusted HPC System in the Cloud&lt;/a&gt;, November 19, 2020.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -156,7 +156,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Sean Peisert, &amp;ldquo;Privacy-Preserving Data Analysis for Energy Delivery Systems and Scientific Discovery,&amp;rdquo; &lt;a href=&#34;https://www.wapa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Western Area Power Administration (WAPA)&lt;/a&gt;, Golden, CO, November 5, 2019.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_189637.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Usable Computer Security and Privacy to Enable and Encourage Data Sharing for Scientific Research&lt;/a&gt;,&amp;rdquo;  &lt;a href=&#34;http://sites.nationalacademies.org/pga/cosepup/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Academies of Sciences, Engineering, and Medicine Committee on Science, Engineering, Medicine, and Public Policy (COSEMPUP) Meeting&lt;/a&gt;, Washington, D.C., November 8, 2018.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://2018.isc-program.com/?page_id=10&amp;amp;id=inv_sp155&amp;amp;sess=sess126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Challenges and Opportunities in High-Performance Computing Environments&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://2018.isc-program.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Supercomputing Conference (ISC)&lt;/a&gt;, Frankfurt, Germany,  June 26, 2018.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -238,7 +238,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Sean Peisert, &lt;a href=&#34;https://www.nist.gov/news-events/events/2016/09/nsci-high-performance-computing-security-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Security Expert on Why HPC Matters - Cybersecurity for HPC Systems: Challenges and Opportunities,&lt;/a&gt; &lt;a href=&#34;https://www.nist.gov/news-events/events/2016/09/nsci-high-performance-computing-security-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSCI: High-Performance Computing Security Workshop&lt;/a&gt;, National Institute of Standards and Technology (NIST), Gaithersburg, MD, September 29, 2016,&lt;/p&gt;
 &lt;h3 id=&#34;other-resources&#34;&gt;Other Resources:&lt;/h3&gt;
 &lt;p&gt;Ayaz Akram, &lt;a href=&#34;https://arch.cs.ucdavis.edu/blog/2020-11-19-cloud-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting up Trusted HPC System in the Cloud&lt;/a&gt;, November 19, 2020.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

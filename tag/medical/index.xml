@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Medical | Berkeley Lab Cybersecurity Research</title>
+    <title>Medical | Berkeley Lab Cybersecurity R&amp;D</title>
     <link>https://secpriv.lbl.gov/tag/medical/</link>
       <atom:link href="https://secpriv.lbl.gov/tag/medical/index.xml" rel="self" type="application/rss+xml" />
     <description>Medical</description>
@@ -72,7 +72,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Sean Peisert, &amp;ldquo;Privacy-Preserving Data Analysis for Energy Delivery Systems and Scientific Discovery,&amp;rdquo; &lt;a href=&#34;https://www.wapa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Western Area Power Administration (WAPA)&lt;/a&gt;, Golden, CO, November 5, 2019.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;http://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_189637.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Usable Computer Security and Privacy to Enable and Encourage Data Sharing for Scientific Research&lt;/a&gt;,&amp;rdquo;  &lt;a href=&#34;http://sites.nationalacademies.org/pga/cosepup/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Academies of Sciences, Engineering, and Medicine Committee on Science, Engineering, Medicine, and Public Policy (COSEMPUP) Meeting&lt;/a&gt;, Washington, D.C., November 8, 2018.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://2018.isc-program.com/?page_id=10&amp;amp;id=inv_sp155&amp;amp;sess=sess126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Challenges and Opportunities in High-Performance Computing Environments&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://2018.isc-program.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Supercomputing Conference (ISC)&lt;/a&gt;, Frankfurt, Germany,  June 26, 2018.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -120,7 +120,7 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Jason Adams, Monica Lieng, Brooks Kuhn, Edward Guo, Edik Simonian, Sean Peisert, JP Delplanque, and Nick Anderson, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/4cp4891c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Automated Mechanical Ventilator Waveform Analysis of Patient-Ventilator Asynchrony&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;http://journal.publications.chestnet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CHEST Journal&lt;/a&gt;&lt;/em&gt;, 148(4), October 2015.
 [&lt;A HREF=&#34;bibtex/Peisert2015CHEST.bib&#34;&gt;bib&lt;/A&gt; | &lt;A HREF=&#34;https://doi.org/10.1378/chest.2281731&#34;&gt;DOI&lt;/A&gt; | &lt;A HREF=&#34;https://escholarship.org/uc/item/4cp4891c&#34;&gt;CDL&lt;/A&gt;]&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
