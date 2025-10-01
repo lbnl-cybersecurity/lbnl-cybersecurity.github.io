@@ -33,9 +33,8 @@
 &lt;a href=&#34;https://www.linkedin.com/in/eli-kerr-067234102/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eli Kerr&lt;/a&gt; (Kevala) &lt;br&gt;
 &lt;a href=&#34;https://eta.lbl.gov/people/jason-macdonald&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason MacDonald&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/chuck-moran/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck Moran&lt;/a&gt; (Kevala)&lt;/p&gt;
-&lt;!--
-#### Postdocs:
---&gt;
+&lt;h4 id=&#34;postdocs&#34;&gt;Postdocs:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://chenyuezhang-evelyn.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chenyue Zhang&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://sinelab.tech.cornell.edu/research/people/andrew_campbell/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Campbell&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;)&lt;/p&gt;
 &lt;!--
@@ -60,6 +59,8 @@
 &lt;h3 id=&#34;presentations-relating-to-this-project-1&#34;&gt;Presentations relating to this project:&lt;/h3&gt;
 &lt;p&gt;Andrew Campbell, Anna Scaglione, and Sean Peisert, &amp;ldquo;Decentralized Differentially Private Power Method&amp;rdquo; (poster), &lt;a href=&#34;https://tpdp.journalprivacyconfidentiality.org/2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Theory and Practice of Differential Privacy&lt;/a&gt;, Mountain View, CA, June 2-3, 2025.&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Andrew Campbell, Anna Scaglione, Sean Peisert, “&lt;a href=&#34;https://arxiv.org/abs/2507.22849&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decentralized Differentially Private Power Method&lt;/a&gt;,” arXiv preprint arXiv:2507.22849, July 30, 2025.&lt;/p&gt;
+&lt;p&gt;Hang Liu, Anna Scaglione, Sean Peisert, “&lt;a href=&#34;https://arxiv.org/abs/2507.22849&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differentially Private Distribution Release of Gaussian Mixture Models via KL-Divergence Minimization&lt;/a&gt;,” arXiv preprint arXiv:2506.0346, 4 Jun 2025.&lt;/p&gt;
 &lt;p&gt;Hang Liu, Anna Scaglione, and Sean Peisert, ”&lt;a href=&#34;https://doi.org/10.1109/TIFS.2024.3483669&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph-Signal-to-Graph Matching for Network De-anonymization Attacks&lt;/a&gt;,”&lt;em&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Information Forensics and Security&lt;/a&gt;&lt;/em&gt;, accepted 14 Oct, 2024.&lt;/p&gt;
 &lt;p&gt;Sachin Kadam, Anna Scaglione, Nikhil Ravi, Sean Peisert, Brent Lunghino, and Aram Shumavon, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1186/s42400-024-00239-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Optimum Noise Mechanism for Differentially Private Queries in Discrete Finite Sets&lt;/a&gt;&lt;/A&gt;,&amp;rdquo;
 &lt;em&gt;&lt;a href=&#34;https://cybersecurity.springeropen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity&lt;/a&gt;&lt;/em&gt;, 7(1):54, 25 September 2024.&lt;/p&gt;

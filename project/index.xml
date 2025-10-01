@@ -202,9 +202,8 @@
 &lt;a href=&#34;https://www.linkedin.com/in/eli-kerr-067234102/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eli Kerr&lt;/a&gt; (Kevala) &lt;br&gt;
 &lt;a href=&#34;https://eta.lbl.gov/people/jason-macdonald&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason MacDonald&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/chuck-moran/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck Moran&lt;/a&gt; (Kevala)&lt;/p&gt;
-&lt;!--
-#### Postdocs:
---&gt;
+&lt;h4 id=&#34;postdocs&#34;&gt;Postdocs:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://chenyuezhang-evelyn.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chenyue Zhang&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://sinelab.tech.cornell.edu/research/people/andrew_campbell/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Campbell&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt;)&lt;/p&gt;
 &lt;!--
@@ -229,6 +228,8 @@
 &lt;h3 id=&#34;presentations-relating-to-this-project-1&#34;&gt;Presentations relating to this project:&lt;/h3&gt;
 &lt;p&gt;Andrew Campbell, Anna Scaglione, and Sean Peisert, &amp;ldquo;Decentralized Differentially Private Power Method&amp;rdquo; (poster), &lt;a href=&#34;https://tpdp.journalprivacyconfidentiality.org/2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Theory and Practice of Differential Privacy&lt;/a&gt;, Mountain View, CA, June 2-3, 2025.&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Andrew Campbell, Anna Scaglione, Sean Peisert, “&lt;a href=&#34;https://arxiv.org/abs/2507.22849&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decentralized Differentially Private Power Method&lt;/a&gt;,” arXiv preprint arXiv:2507.22849, July 30, 2025.&lt;/p&gt;
+&lt;p&gt;Hang Liu, Anna Scaglione, Sean Peisert, “&lt;a href=&#34;https://arxiv.org/abs/2507.22849&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differentially Private Distribution Release of Gaussian Mixture Models via KL-Divergence Minimization&lt;/a&gt;,” arXiv preprint arXiv:2506.0346, 4 Jun 2025.&lt;/p&gt;
 &lt;p&gt;Hang Liu, Anna Scaglione, and Sean Peisert, ”&lt;a href=&#34;https://doi.org/10.1109/TIFS.2024.3483669&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph-Signal-to-Graph Matching for Network De-anonymization Attacks&lt;/a&gt;,”&lt;em&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Information Forensics and Security&lt;/a&gt;&lt;/em&gt;, accepted 14 Oct, 2024.&lt;/p&gt;
 &lt;p&gt;Sachin Kadam, Anna Scaglione, Nikhil Ravi, Sean Peisert, Brent Lunghino, and Aram Shumavon, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1186/s42400-024-00239-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Optimum Noise Mechanism for Differentially Private Queries in Discrete Finite Sets&lt;/a&gt;&lt;/A&gt;,&amp;rdquo;
 &lt;em&gt;&lt;a href=&#34;https://cybersecurity.springeropen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity&lt;/a&gt;&lt;/em&gt;, 7(1):54, 25 September 2024.&lt;/p&gt;
@@ -276,24 +277,32 @@ Office of Defense Nuclear Nonproliferation Research and Development&lt;/a&gt;.&l
       <guid>https://secpriv.lbl.gov/project/desc/</guid>
       <description>&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sean Peisert&lt;/a&gt; (LBNL &amp;amp; UC Davis) &lt;br&gt;
-&lt;a href=&#34;https://faculty.engineering.ucdavis.edu/akella/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Venkatesh Akella&lt;/a&gt; (LBNL &amp;amp; UC Davis) &lt;br&gt;
-&lt;a href=&#34;https://faculty.engineering.ucdavis.edu/lowepower/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jason Lowe-Power&lt;/a&gt; (LBNL &amp;amp; UC Davis)&lt;/p&gt;
+&lt;a href=&#34;https://faculty.engineering.ucdavis.edu/akella/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Venkatesh Akella&lt;/a&gt; (LBNL &amp;amp; UC Davis)&lt;/p&gt;
 &lt;h4 id=&#34;research-staff&#34;&gt;Research Staff:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/farzad-fatollahi-fard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Farzad Fatollahl-Fard&lt;/a&gt; (LBNL) &lt;br&gt;
-&lt;a href=&#34;https://crd.lbl.gov/paul-hargrove/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Paul Hargrove&lt;/a&gt; (LBNL)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/paul-hargrove/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Paul Hargrove&lt;/a&gt; (LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/kaustavgoswami&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaustav Goswami&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;)&lt;/p&gt;
-&lt;h4 id=&#34;project-partners-on-na-22-desc-project&#34;&gt;Project Partners on NA-22 DESC Project:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.galois.com/team/marios-georgiou&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Marios Georgiou&lt;/a&gt; (Galois) &lt;br&gt;
-&lt;a href=&#34;https://www.galois.com/team/ted-hille&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ted Hille&lt;/a&gt; (Galois) &lt;br&gt;
-&lt;a href=&#34;https://www.ornl.gov/staff-profile/james-t-matta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. James Matta&lt;/a&gt; (ORNL) &lt;br&gt;
-&lt;a href=&#34;https://www.galois.com/team/tom-shrimpton&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Tom Shrimpton&lt;/a&gt; (Galois) &lt;br&gt;
-&lt;a href=&#34;https://anp.lbl.gov/personnel/profile-vavrek/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jayson Vavrek&lt;/a&gt; (LBNL) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/jon-warner-4b17b015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jon Warner&lt;/a&gt; (ANL) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/marie-whyatt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Marie Whyatt&lt;/a&gt; (PNNL)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/jack-ford-41891a223/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jack Ford&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;) &lt;br&gt;
+&lt;a href=&#34;https://sites.google.com/view/kaustavgoswami&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaustav Goswami&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;)&lt;/p&gt;
+&lt;!--
+#### Project Partners on NA-22 DESC Project:
+
+[Dr. Jayson Vavrek](https://anp.lbl.gov/personnel/profile-vavrek/) (LBNL)
+
+#### Past Project Partners on NA-22 DESC Project:
+
+[Dr. David Archer](https://www.galois.com/team/david-archer) (Galois) \
+[Dr. Marios Georgiou](https://www.galois.com/team/marios-georgiou) (Galois) \
+[Ted Hille](https://www.galois.com/team/ted-hille) (Galois) \
+[Dr. James Matta](https://www.ornl.gov/staff-profile/james-t-matta) (ORNL) \
+[Dr. Tom Shrimpton](https://www.galois.com/team/tom-shrimpton) (Galois) \
+[Dr. Jon Warner](https://www.linkedin.com/in/jon-warner-4b17b015/) (ANL) \
+[Dr. Marie Whyatt](https://www.linkedin.com/in/marie-whyatt/) (PNNL)
+--&gt;
 &lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.ayazakram.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayaz Akram&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt; / LBNL) &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/chitrabhanu-gupta-6114a8145/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chitrabhanu Gupta&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;)&lt;/p&gt;
+&lt;a href=&#34;https://crd.lbl.gov/farzad-fatollahi-fard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Farzad Fatollahl-Fard&lt;/a&gt; (LBNL) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/chitrabhanu-gupta-6114a8145/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chitrabhanu Gupta&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;) &lt;br&gt;
+&lt;a href=&#34;https://faculty.engineering.ucdavis.edu/lowepower/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jason Lowe-Power&lt;/a&gt; (LBNL &amp;amp; UC Davis)&lt;/p&gt;
 &lt;hr width=&#34;70%&#34; /&gt;
 &lt;h2 id=&#34;project-descriptions&#34;&gt;Project Descriptions&lt;/h2&gt;
 &lt;p&gt;Data Enclaves for Scientific/Secure Computing (DESC) is a new architecture appropriate to the needs of applications for which existing commercial trusted execution environments (TEEs) have shortcomings.  These applications include the following.&lt;/p&gt;
@@ -338,6 +347,8 @@ Ayaz Akram, Venkatesh Akella, Jason Lowe-Power, and Sean Peisert, [DOE ASCR Work
 &lt;p&gt;Sean Peisert, “Cybersecurity and Privacy research for Science and Energy,” &lt;a href=&#34;https://www.nitrd.gov/coordination-areas/csia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)&lt;/a&gt; Meeting, March 24, 2022.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;Securing Edge-to-Center Computing with Trustworthy Data Domains,&amp;rdquo; &lt;a href=&#34;https://community.apan.org/wg/afosr/w/researchareas/31786/2022-energy-consequences-of-information-workshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022 AFRL/AFOSR/DOE Energy Cost of Information Workshop&lt;/a&gt;, February 18, 2022.&lt;/p&gt;
 &lt;p&gt;Venkatesh Akella and Sean Peisert, &amp;ldquo;Usable Computer Security and Privacy to Enable Data Sharing for Scientific Research,&amp;rdquo; &lt;a href=&#34;https://hopin.com/events/tccoe-2022-summit%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trusted Computing Center of Excellence (TCCOE) Summit&lt;/a&gt;, February 1–3, 2022.&lt;/p&gt;
+&lt;p&gt;Sean Peisert, Venkatesh Akella, and Jason Lowe-Power, [Co-Design to Enable &amp;ldquo;&lt;a href=&#34;https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/1fe48ee7ca1949c0b6ebd5f4a81c3d5f/8642216bfe97418781a14109b1f78ef8.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trustworthy Data Lifecycles for Scientific Computing (abstract)&lt;/a&gt;,&amp;rdquo;
+ASCR Workshop on the Management and Storage of Scientific Data, January 24–27, 2022.&lt;/p&gt;
 &lt;p&gt;Keynote: &amp;ldquo;Usable Computer Security and Privacy to Enable Data Sharing for Scientific Research,&amp;rdquo; &lt;a href=&#34;https://svcc2021.svcsi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Second International Silicon Valley Cybersecurity Conference (SVCC)&lt;/a&gt;, December 3, 2021.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;Advancing Cybersecurity as an Enabling Capability in High-Performance Computing Environments&amp;rdquo;, &lt;a href=&#34;https://www.hpcuserforum.com/events.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HPC User Forum&lt;/a&gt;, Sept. 7–9, 2021&lt;/p&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;Cyber Privacy and Security Risks During the Pandemic” (panel - with Bart Preneel, KU Leuven; Kritika Bhardwaj, NLU Delhi; Margaret Bourdeaux, Harvard/Berkman Klein; Susan Landau, Tufts; and Smitha Prasad, NLU Delhi), Hewlett Foundation event hosted by the &lt;a href=&#34;https://fletcher.tufts.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fletcher School&lt;/a&gt; at Tufts University and the &lt;a href=&#34;https://ccgdelhi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre for Communication Governance (CCG)&lt;/a&gt; at National Law University, Delhi, December 17, 2020.&lt;/p&gt;
