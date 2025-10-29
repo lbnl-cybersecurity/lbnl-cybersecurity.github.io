@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nuclear Security | Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>https://secpriv.lbl.gov/tag/nuclear-security/</link>
-      <atom:link href="https://secpriv.lbl.gov/tag/nuclear-security/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nuclear Security</description>
+    <title>Nuclear Nonproliferation | Berkeley Lab Cybersecurity R&amp;D</title>
+    <link>https://secpriv.lbl.gov/tag/nuclear-nonproliferation/</link>
+      <atom:link href="https://secpriv.lbl.gov/tag/nuclear-nonproliferation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nuclear Nonproliferation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://secpriv.lbl.gov/media/icon_hu_95cb6356a9638a43.png</url>
-      <title>Nuclear Security</title>
-      <link>https://secpriv.lbl.gov/tag/nuclear-security/</link>
+      <title>Nuclear Nonproliferation</title>
+      <link>https://secpriv.lbl.gov/tag/nuclear-nonproliferation/</link>
     </image>
     
     <item>
