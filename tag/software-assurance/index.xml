@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Assurance | Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>https://secpriv.lbl.gov/tag/software-assurance/</link>
-      <atom:link href="https://secpriv.lbl.gov/tag/software-assurance/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/software-assurance/</link>
+      <atom:link href="http://localhost:1313/tag/software-assurance/index.xml" rel="self" type="application/rss+xml" />
     <description>Software Assurance</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://secpriv.lbl.gov/media/icon_hu_95cb6356a9638a43.png</url>
+      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Software Assurance</title>
-      <link>https://secpriv.lbl.gov/tag/software-assurance/</link>
+      <link>http://localhost:1313/tag/software-assurance/</link>
     </image>
     
     <item>
       <title>Trusted CI, the National Science Foundation Cybersecurity of Excellence</title>
-      <link>https://secpriv.lbl.gov/project/nsf-trustedci/</link>
+      <link>http://localhost:1313/project/nsf-trustedci/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/nsf-trustedci/</guid>
+      <guid>http://localhost:1313/project/nsf-trustedci/</guid>
       <description>
 
 
@@ -41,7 +41,7 @@
                /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_2e88da9d4fa35750.webp 400w,
                /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_399f57a0b7541126.webp 760w,
                /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_1e928bf91d58dfa0.webp 1200w&#34;
-               src=&#34;https://secpriv.lbl.gov/media/partners/TrustedCI_logo_blue_web%281%29-small_hu_2e88da9d4fa35750.webp&#34;
+               src=&#34;http://localhost:1313/media/partners/TrustedCI_logo_blue_web%281%29-small_hu_2e88da9d4fa35750.webp&#34;
                width=&#34;144&#34;
                height=&#34;41&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -146,15 +146,15 @@
 &lt;p&gt;Jim Basney and Sean Peisert, &amp;ldquo;Two Community Surveys on Data Integrity Issues in Scientific Computing,&amp;rdquo;
 &lt;a href=&#34;https://www.trustedci.org/2020-nsf-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure&lt;/a&gt;, September 24, 2020. (&lt;a href=&#34;https://www.youtube.com/watch?v=Bh9v2H_1ADo&amp;amp;list=PLLoFSG1hhthRk1SkxWXa1oGhOvuLCQXvM&amp;amp;index=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;https://drive.google.com/file/d/1j3Vo1BU_t2okM3l4atiIkF4Jqj6h9Enm/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Von Welch &amp;amp; Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Science Cyber Risk Profile (OSCRP)&lt;/a&gt;,&amp;rdquo; January 2017. (&lt;a href=&#34;https://www.youtube.com/watch?v=N9DF-RGD2A0&amp;amp;t=1s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;http://hdl.handle.net/2022/21235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AOSCSWAP: Study of Academic, Open Source, and COTS Software Assurance Products</title>
-      <link>https://secpriv.lbl.gov/project/dhs-software-assurance/</link>
+      <link>http://localhost:1313/project/dhs-software-assurance/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://secpriv.lbl.gov/project/dhs-software-assurance/</guid>
+      <guid>http://localhost:1313/project/dhs-software-assurance/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;In this project, LBNL will help inform DHS S&amp;amp;T regarding the state of the art in software assurance tools and capabilities.&lt;/p&gt;
 &lt;p&gt;This project is supported by the the U.S. Department of Homeland Security&amp;rsquo;s &lt;a href=&#34;https://www.dhs.gov/science-and-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science and Technology Directorate&lt;/a&gt;.&lt;/p&gt;
@@ -162,7 +162,7 @@
 &lt;p&gt;&lt;a href=&#34;https://https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/3435g520&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Current State of Software Assurance Tools and Techniques&lt;/a&gt;,&amp;rdquo; LBNL Technical Report, October 24, 2022.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab research &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; projects.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab research &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; projects.&lt;/p&gt;
 </description>
     </item>
     
