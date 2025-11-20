@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/publication/</link>
+      <atom:link href="https://secpriv.lbl.gov/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://secpriv.lbl.gov/publication/</link>
     </image>
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:1313/publication/example/</link>
+      <link>https://secpriv.lbl.gov/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/example/</guid>
+      <guid>https://secpriv.lbl.gov/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

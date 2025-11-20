@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nuclear Nonproliferation | Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>http://localhost:1313/tag/nuclear-nonproliferation/</link>
-      <atom:link href="http://localhost:1313/tag/nuclear-nonproliferation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/tag/nuclear-nonproliferation/</link>
+      <atom:link href="https://secpriv.lbl.gov/tag/nuclear-nonproliferation/index.xml" rel="self" type="application/rss+xml" />
     <description>Nuclear Nonproliferation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Nuclear Nonproliferation</title>
-      <link>http://localhost:1313/tag/nuclear-nonproliferation/</link>
+      <link>https://secpriv.lbl.gov/tag/nuclear-nonproliferation/</link>
     </image>
     
     <item>
       <title>Using Fuzz Testing to Detect Software Tampering</title>
-      <link>http://localhost:1313/project/nnsa-fuzzing/</link>
+      <link>https://secpriv.lbl.gov/project/nnsa-fuzzing/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/nnsa-fuzzing/</guid>
+      <guid>https://secpriv.lbl.gov/project/nnsa-fuzzing/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;It is essential to have the ability to verify that software operating on arms control monitoring equipment is within agreed parameters and has not undergone modification.  Existing approaches to ensuring the absence of tampering are outdated and are easily defeated by a motivated adversary.  Specifically, we use a coverage-guided, gray-box fuzzing approach to test the response of binaries to a wide range of inputs to increase confidence that the binary is behaving as expected. Our approach brings modern software analysis tools to bear to address today&amp;rsquo;s challenges.  Success in our project would enable identification of a critical mass of alterations of a software’s logic that have the potential to affect the output of the nuclear monitoring software, and provide a different result to inspectors.&lt;/p&gt;
 &lt;p&gt;This project was supported by the &lt;a href=&#34;https://www.energy.gov/nnsa/nonproliferation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Nuclear Security Administration
@@ -39,15 +39,15 @@ Office of Defense Nuclear Nonproliferation Research and Development&lt;/a&gt;.&l
 &lt;a href=&#34;https://mikotohhh.github.io/luozhong.github.io//&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Luozhong Zhou&lt;/a&gt; (B.S. 2024, University of Wisconsin-Madison → M.S. program, MIT)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Jayson R. Vavrek, Luozhong Zhou, Joshua Boverhof, Elisa R. Heymann, Barton P. Miller, and Sean Peisert. &lt;a href=&#34;https://arxiv.org/abs/2404.05946&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differential Fuzz Testing to Detect Tampering In Sensor Systems and its Application to Arms Control Authentication&lt;/a&gt;, arXiv preprint 2404.05946, 9 Apr 2024.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data Enclaves for Scientific/Secure Computing</title>
-      <link>http://localhost:1313/project/desc/</link>
+      <link>https://secpriv.lbl.gov/project/desc/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/desc/</guid>
+      <guid>https://secpriv.lbl.gov/project/desc/</guid>
       <description>&lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sean Peisert&lt;/a&gt; (LBNL &amp;amp; UC Davis) &lt;br&gt;
 &lt;a href=&#34;https://faculty.engineering.ucdavis.edu/akella/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Venkatesh Akella&lt;/a&gt; (LBNL &amp;amp; UC Davis)&lt;/p&gt;
@@ -138,15 +138,15 @@ ASCR Workshop on the Management and Storage of Scientific Data, January 24–27,
 &lt;p&gt;Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://2018.isc-program.com/?page_id=10&amp;amp;id=inv_sp155&amp;amp;sess=sess126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity Challenges and Opportunities in High-Performance Computing Environments&lt;/a&gt;,&amp;rdquo; &lt;a href=&#34;https://2018.isc-program.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Supercomputing Conference (ISC)&lt;/a&gt;, Frankfurt, Germany,  June 26, 2018.&lt;/p&gt;
 &lt;h3 id=&#34;other-resources&#34;&gt;Other Resources:&lt;/h3&gt;
 &lt;p&gt;Ayaz Akram, &lt;a href=&#34;https://arch.cs.ucdavis.edu/blog/2020-11-19-cloud-hpc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting up Trusted HPC System in the Cloud&lt;/a&gt;, November 19, 2020.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Reliable Multicast for Continuous Data Transmission for Nuclear Treaty Verification</title>
-      <link>http://localhost:1313/project/ascr-multicast/</link>
+      <link>https://secpriv.lbl.gov/project/ascr-multicast/</link>
       <pubDate>Mon, 30 Sep 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ascr-multicast/</guid>
+      <guid>https://secpriv.lbl.gov/project/ascr-multicast/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;LBNL&amp;rsquo;s work in reliable multicast built on graduate work in developing reliable multicast by Agarwal (Totem), Berket (InterGroup),  Keith Jackson, and Artur Muratas.  Related to this work included implementation of a secure group protocol, and improving methods for securing group keys.&lt;/p&gt;
 &lt;p&gt;One of LBNL&amp;rsquo;s efforts in reliable multicast involved working groups created to set up the Comprehensive Nuclear-Test-Ban Treaty verification network, an international network connecting 321 monitoring stations around the world. The goal was to monitor in real-time whether there were activities that could be the result of nuclear weapon testing.   LBNL&amp;rsquo;s role in the project examined the feasibility of using multicast in the Comprehensive Nuclear Test-Ban Treaty Organization (CTBTO) network, monitoring for signs of explosions.&lt;/p&gt;
@@ -206,7 +206,7 @@ Gene Tsudik&lt;/p&gt;
 &lt;p&gt;Deborah Agarwal, Richard Stead, Brian Coan, James E Burns, Nishith Shah, and Nicholas Kyriakopoulos. &lt;a href=&#34;https://escholarship.org/content/qt40x3788h/qt40x3788h.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Initial results of the CD-1 reliable multicast experiment&lt;/a&gt;. Lawrence Berkeley National Laboratory, 2000.&lt;/p&gt;
 &lt;p&gt;Giuseppe Ateniese, Olivier Chevassut, Damian Hasse, Yongdae Kim, and Gene Tsudik, &lt;a href=&#34;https://scholar.archive.org/work/emrbgw2gi5cphavtv7u5fvrogu/access/wayback/http://www-users.cs.umn.edu:80/~kyd/paper/achkt99.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The design of a group key agreement API&lt;/a&gt;. &lt;em&gt;Proceedings of the DARPA Information Survivability Conference and Exposition (DISCEX)&lt;/em&gt;, 2000&lt;/p&gt;
 &lt;p&gt;Deborah A Agarwal. &lt;a href=&#34;https://www.osti.gov/servlets/purl/767536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Using multicast in the global communications infrastructure for group communication&lt;/a&gt;. Lawrence Berkeley National Laboratory, 1999.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

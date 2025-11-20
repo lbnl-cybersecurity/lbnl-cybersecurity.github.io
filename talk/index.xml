@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>http://localhost:1313/talk/</link>
-      <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/talk/</link>
+      <atom:link href="https://secpriv.lbl.gov/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:1313/talk/</link>
+      <link>https://secpriv.lbl.gov/talk/</link>
     </image>
     
     <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 3 Report</title>
-      <link>http://localhost:1313/talk/ceds_spades_y3_report/</link>
+      <link>https://secpriv.lbl.gov/talk/ceds_spades_y3_report/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ceds_spades_y3_report/</guid>
+      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y3_report/</guid>
       <description>&lt;h2 id=&#34;final-project-report&#34;&gt;Final Project Report&lt;/h2&gt;
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;The SPADES project concluded work in July of 2023.  The final report from the SPADES project is included below:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y3_report/SPADES_Y3_Final_Report_with_Appendices.pdf&#34;&gt;Final Project Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y3_report/SPADES_Y3_Final_Report_with_Appendices.pdf&#34;&gt;Final Project Report&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 2 Workshop</title>
-      <link>http://localhost:1313/talk/ceds_spades_y2_workshop/</link>
+      <link>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ceds_spades_y2_workshop/</guid>
+      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;LBNL held the second workshop for the SPADES project in Dec. 2022 where the project partners presented deep dives into work conducted in the second year of the project.  Presentations from project partners are included below:&lt;/p&gt;
 &lt;h3 id=&#34;participants&#34;&gt;Participants&lt;/h3&gt;
@@ -45,38 +45,38 @@ Anna Scaglione, ASU, &lt;a href=&#34;mailto:as337@cornell.edu&#34;&gt;as337@corn
 Ignacio Losada Carreno, Cornell Tech, &lt;a href=&#34;mailto:il244@cornell.edu&#34;&gt;il244@cornell.edu&lt;/a&gt;&lt;br&gt;
 Tong Wu, Cornell Tech, &lt;a href=&#34;mailto:tw385@cornell.edu&#34;&gt;tw385@cornell.edu&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y2_workshop/LBNL_SPADES_Y2.pdf&#34;&gt;LBNL (Sy-Toan Ngo)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y2_workshop/NRECA_SPADES_Y2_del6.pdf&#34;&gt;NRECA (David Pinney)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y2_workshop/SIEMENS_SPADES_Y2.pdf&#34;&gt;Siemens CT (Bruno Leao)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y2_workshop/CORNELL_SPADES_Y2.pdf&#34;&gt;Cornell Tech (Ignacio Losada Carreno, Tong Wu)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/LBNL_SPADES_Y2.pdf&#34;&gt;LBNL (Sy-Toan Ngo)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/NRECA_SPADES_Y2_del6.pdf&#34;&gt;NRECA (David Pinney)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/SIEMENS_SPADES_Y2.pdf&#34;&gt;Siemens CT (Bruno Leao)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/CORNELL_SPADES_Y2.pdf&#34;&gt;Cornell Tech (Ignacio Losada Carreno, Tong Wu)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cybersecurity via Inverter Grid Automatic Reconfiguration (CIGAR) - Year 3 (End of Project) Workshop</title>
-      <link>http://localhost:1313/talk/ceds_cigar_y3_workshop/</link>
+      <link>https://secpriv.lbl.gov/talk/ceds_cigar_y3_workshop/</link>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ceds_cigar_y3_workshop/</guid>
+      <guid>https://secpriv.lbl.gov/talk/ceds_cigar_y3_workshop/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;LBNL held an end of project workshop for the CIGAR project on Mar. 17, 2021 where project participants, stakeholders, and advisors were convened to discuss outcomes of the CIGAR project.  Due to the COVID-19 pandemic, the workshop was held virtually.&lt;/p&gt;
 &lt;h3 id=&#34;workshop-agenda&#34;&gt;Workshop Agenda&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/CIGAR%20Workshop%20Agenda.pdf&#34;&gt;Workshop Agenda&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/CIGAR%20Workshop%20Agenda.pdf&#34;&gt;Workshop Agenda&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;./LBNL_1.pdf&#34;&gt;Introductory Remarks and Project Overview, Sean Peisert and Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/LBNL_2.pdf&#34;&gt;Reinforcement Learning and PyCIGAR Architecture, Sy-Toan Ngo and Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/LBNL_3.pdf&#34;&gt;Simulation Experiments/Results, Ciaran Roberts (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/NRECA_4.pdf&#34;&gt;Integration of PyCIGAR into NRECA OMF and Demo, David Pinney (NRECA)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/ASU_5.pdf&#34;&gt;ASU Linearized Power Flow Model and SoDa, Ignacio Losada Carreno (ASU)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/Siemens_6.pdf&#34;&gt;Siemens Internal Tech Transfer Tool, Graph Convolutional Neural Networks and RL Extensions, Anton Kocheturov (Siemens)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/LBNL_7.pdf&#34;&gt;Key Findings and Future Research Directions, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/LBNL_2.pdf&#34;&gt;Reinforcement Learning and PyCIGAR Architecture, Sy-Toan Ngo and Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/LBNL_3.pdf&#34;&gt;Simulation Experiments/Results, Ciaran Roberts (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/NRECA_4.pdf&#34;&gt;Integration of PyCIGAR into NRECA OMF and Demo, David Pinney (NRECA)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/ASU_5.pdf&#34;&gt;ASU Linearized Power Flow Model and SoDa, Ignacio Losada Carreno (ASU)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/Siemens_6.pdf&#34;&gt;Siemens Internal Tech Transfer Tool, Graph Convolutional Neural Networks and RL Extensions, Anton Kocheturov (Siemens)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/LBNL_7.pdf&#34;&gt;Key Findings and Future Research Directions, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 1 Workshop</title>
-      <link>http://localhost:1313/talk/ceds_spades_y1_workshop/</link>
+      <link>https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ceds_spades_y1_workshop/</guid>
+      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;LBNL held the first workshop for the SPADES project on Dec. 2, 2020 where the project participants convened to discuss progress made over the past year as well as plan for work to be conducted during Year 2.  Due to the COVID-19 pandemic, the workshop was held virtually.&lt;/p&gt;
 &lt;h3 id=&#34;participants&#34;&gt;Participants&lt;/h3&gt;
@@ -94,16 +94,16 @@ Dan Grinkevich, Siemens CT, &lt;a href=&#34;mailto:daniel.grinkevich@siemens.com
 Anna Scaglione, ASU, &lt;a href=&#34;mailto:ascaglio@asu.edu&#34;&gt;ascaglio@asu.edu&lt;/a&gt;&lt;br&gt;
 Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilosadac@asu.edu&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;workshop-agenda&#34;&gt;Workshop Agenda&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/SPADES%20Y1%20Workshop%20Agenda.pdf&#34;&gt;Workshop Agenda&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/SPADES%20Y1%20Workshop%20Agenda.pdf&#34;&gt;Workshop Agenda&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/LBNL%20-%20Introduction.pdf&#34;&gt;Introductory Remarks, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/LBNL_SPADES%20Workshop%20Battery%20Module%202020.12.02.pdf&#34;&gt;Storage and Control Module Architecture in PyCIGAR, Michael Sankur and Sy-Toan Ngo (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/LBNL_SPADES_Power_Electronic_Transient_Presentation.pdf&#34;&gt;Grid Forming/following &amp;amp; Active Load Stability Simulation, Ciaran Roberts (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/D4.3.2%20-%20SPADES%20Y1%20Workshop%20NRECA%20Presentation.pdf&#34;&gt;Open Modeling Framework (OMF) Updates. Use Case Analysis, Network Reduction, David Pinney &amp;amp; Lisa Slaughter (NRECA)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/Siemens_SPADES%20DOE%20workshop%2020201202.pdf&#34;&gt;Red Team Planning/Methodology, Bruno Leao (Siemens)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/ASU_SPADES_Y1_Workshop.pdf&#34;&gt;Log(V) 3LPF: A linearized solution to train reinforcement learning algorithms for unbalanced distribution systems, Ignacio Losada Carreno (ASU)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/LBNL%20-%20Concluding%20Thoughts.pdf&#34;&gt;Concluding Remarks, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/SPADES%20Y1%20Workshop%20Q&amp;amp;A_Notes.pdf&#34;&gt;Workshop Q&amp;amp;A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/LBNL%20-%20Introduction.pdf&#34;&gt;Introductory Remarks, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/LBNL_SPADES%20Workshop%20Battery%20Module%202020.12.02.pdf&#34;&gt;Storage and Control Module Architecture in PyCIGAR, Michael Sankur and Sy-Toan Ngo (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/LBNL_SPADES_Power_Electronic_Transient_Presentation.pdf&#34;&gt;Grid Forming/following &amp;amp; Active Load Stability Simulation, Ciaran Roberts (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/D4.3.2%20-%20SPADES%20Y1%20Workshop%20NRECA%20Presentation.pdf&#34;&gt;Open Modeling Framework (OMF) Updates. Use Case Analysis, Network Reduction, David Pinney &amp;amp; Lisa Slaughter (NRECA)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/Siemens_SPADES%20DOE%20workshop%2020201202.pdf&#34;&gt;Red Team Planning/Methodology, Bruno Leao (Siemens)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/ASU_SPADES_Y1_Workshop.pdf&#34;&gt;Log(V) 3LPF: A linearized solution to train reinforcement learning algorithms for unbalanced distribution systems, Ignacio Losada Carreno (ASU)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/LBNL%20-%20Concluding%20Thoughts.pdf&#34;&gt;Concluding Remarks, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/SPADES%20Y1%20Workshop%20Q&amp;amp;A_Notes.pdf&#34;&gt;Workshop Q&amp;amp;A&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

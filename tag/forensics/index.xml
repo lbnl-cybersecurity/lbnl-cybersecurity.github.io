@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Forensics | Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>http://localhost:1313/tag/forensics/</link>
-      <atom:link href="http://localhost:1313/tag/forensics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/tag/forensics/</link>
+      <atom:link href="https://secpriv.lbl.gov/tag/forensics/index.xml" rel="self" type="application/rss+xml" />
     <description>Forensics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Forensics</title>
-      <link>http://localhost:1313/tag/forensics/</link>
+      <link>https://secpriv.lbl.gov/tag/forensics/</link>
     </image>
     
     <item>
       <title>Insider Threat</title>
-      <link>http://localhost:1313/project/insider-threat/</link>
+      <link>https://secpriv.lbl.gov/project/insider-threat/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/insider-threat/</guid>
+      <guid>https://secpriv.lbl.gov/project/insider-threat/</guid>
       <description>&lt;p&gt;This project is looking at defining, analyzing, and seeking methods of ameliorating the insider threat. Whereas security has traditionally been defined with respect to a perimeter, using static and binary access control decisions, we assert that such a perimeter no longer exists and that traditional access control techniques inhibit authorized users from performing their job. We define the &amp;ldquo;insider threat&amp;rdquo; as a combination of (a) access to a particular resource, (b) knowledge of a particular resource, and/or (c) trust of an individual by a particular organization. Moreover, the insider threat is clearly also not binary, but a spectrum of &amp;ldquo;insiderness&amp;rdquo; based on the aforementioned qualities. In the past, we have sought to develop access control solutions that integrate this understanding in combination while also being informed by social science of how users may react most optimally to system access control and countermeasures. More recently, we have used a process modeling and analysis approach in the context of elections to evaluate insider threats.&lt;/p&gt;
 &lt;p&gt;More information is available at the &lt;a href=&#34;http://web.cs.ucdavis.edu/~peisert/projects/insider.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis Insider Threat project web site&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/research-cyberinfrastructure/&#34;&gt;cybersecurity for research cyberinfrastructure and high-performance computing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Computer Forensics</title>
-      <link>http://localhost:1313/project/i3p-forensics/</link>
+      <link>https://secpriv.lbl.gov/project/i3p-forensics/</link>
       <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/i3p-forensics/</guid>
+      <guid>https://secpriv.lbl.gov/project/i3p-forensics/</guid>
       <description>&lt;p&gt;This project is looking at establishing a rigorous, scientific model of forensic logging and analysis that is both efficient and effective at establishing the data that is necessary to record in order to understand past events. Additional applications include e-voting and forensic evidence in the courtroom. While forensics traditionally looks at available data and attempts to draw conclusions from it, we, in contrast, seek to understand the questions that we want to answer, and then derive what data is necessary to support answers to those questions.&lt;/p&gt;
 &lt;p&gt;More information is available at the &lt;a href=&#34;http://web.cs.ucdavis.edu/~peisert/projects/forensics.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis Computer Forensics project web site&lt;/a&gt;.&lt;/p&gt;
 </description>

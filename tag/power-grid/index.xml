@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Power Grid | Berkeley Lab Cybersecurity R&amp;D</title>
-    <link>http://localhost:1313/tag/power-grid/</link>
-      <atom:link href="http://localhost:1313/tag/power-grid/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://secpriv.lbl.gov/tag/power-grid/</link>
+      <atom:link href="https://secpriv.lbl.gov/tag/power-grid/index.xml" rel="self" type="application/rss+xml" />
     <description>Power Grid</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_95cb6356a9638a43.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu_95cb6356a9638a43.png</url>
       <title>Power Grid</title>
-      <link>http://localhost:1313/tag/power-grid/</link>
+      <link>https://secpriv.lbl.gov/tag/power-grid/</link>
     </image>
     
     <item>
       <title>Mitigation via Analytics for Inverter-Grid Cybersecurity (MAGIC)</title>
-      <link>http://localhost:1313/project/rmt-magic/</link>
+      <link>https://secpriv.lbl.gov/project/rmt-magic/</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/rmt-magic/</guid>
+      <guid>https://secpriv.lbl.gov/project/rmt-magic/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The Mitigation via Analytics for Grid-Inverter Cybersecurity (MAGIC) project will develop secure Artificial Intelligence/Machine Learning (AI/ML) tools to both detect and mitigate cyber attacks on aggregations of Distributed Energy Resources (DER) in electric power distribution systems and microgrids. In so doing, MAGIC will facilitate detecting cyber attacks on DER in their earliest stages and ameliorating the effect of attacks immediately.&lt;/p&gt;
 &lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
@@ -41,15 +41,15 @@
 &lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
 &lt;p&gt;DOE Press Release: &amp;ldquo;&lt;a href=&#34;https://www.energy.gov/ceser/articles/doe-announces-39-million-research-funding-enhance-cybersecurity-clean-distributed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOE Announces $39 Million in Research Funding to Enhance Cybersecurity of Clean Distributed Energy Resources&lt;/a&gt;&amp;rdquo; - Sept. 12, 2023&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://crd.lbl.gov/news-and-publications/news/2023/berkeley-lab-leading-the-way-with-new-cybersecurity-projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Lab leading the way with new cybersecurity projects&lt;/a&gt; - Nov. 6, 2023&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Privacy-Preserving, Collective Cyberattack Defense of DERs</title>
-      <link>http://localhost:1313/project/ceser-shielders/</link>
+      <link>https://secpriv.lbl.gov/project/ceser-shielders/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ceser-shielders/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceser-shielders/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;This project aims to develop, apply, and test a technique for enabling collective defense of distribution grids with significant penetration of distributed energy resources (DER) and responsive loads (particularly Electric Vehicles), by leveraging a privacy-preserving method of data sharing without exposing raw data that might contain personally identifiable information (PII) from individual consumers or buildings or that might otherwise be considered national security information that could be leveraged by adversaries to more effectively compromise and potentially destabilize portions of the electric grid. We envision creating a software platform to allow utilities to share relevant cybersecurity information with one another in a manner that does not compromise the privacy of customers in their service territories. In doing so, we hope to reduce the reluctance of utilities to share information that can be used to harden other networks by reducing privacy-related liabilities associated with grid operational technology (OT) data.&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Office of Cybersecurity, Energy Security, and Emergency Response (CESER)&lt;/a&gt; Risk Management Tools and Technologies (RMT) program.&lt;/p&gt;
@@ -102,27 +102,27 @@
 &lt;em&gt;&lt;a href=&#34;https://cybersecurity.springeropen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity&lt;/a&gt;&lt;/em&gt;, 7(1):54, 25 September 2024.&lt;/p&gt;
 &lt;p&gt;Hang Liu, Anna Scaglione, and Sean Peisert, “&lt;a href=&#34;https://doi.org/10.1109/ICASSP48485.2024.10447364&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Leakage in Graph Signal to Graph Matching Problems&lt;/a&gt;,” &lt;em&gt;Proceedings of the &lt;a href=&#34;https://2024.ieeeicassp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Acoustics, Speech, and Signal Processing&lt;/a&gt;&lt;/em&gt;, Seoul, South Korea, April 14–19, 2024.&lt;/p&gt;
 &lt;p&gt;Nikhil Ravi, Anna Scaglione, Sean Peisert, and Parth Pradhan, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2403.02324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differentially Private Communication of Measurement Anomalies in the Smart Grid&lt;/a&gt;,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; arXiv:2403.02324, 4 Mar 2024.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 3 Report</title>
-      <link>http://localhost:1313/talk/ceds_spades_y3_report/</link>
+      <link>https://secpriv.lbl.gov/talk/ceds_spades_y3_report/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ceds_spades_y3_report/</guid>
+      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y3_report/</guid>
       <description>&lt;h2 id=&#34;final-project-report&#34;&gt;Final Project Report&lt;/h2&gt;
 &lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;The SPADES project concluded work in July of 2023.  The final report from the SPADES project is included below:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y3_report/SPADES_Y3_Final_Report_with_Appendices.pdf&#34;&gt;Final Project Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y3_report/SPADES_Y3_Final_Report_with_Appendices.pdf&#34;&gt;Final Project Report&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Securing Automated, Adaptive Learning-Driven Cyber-Physical System Processes</title>
-      <link>http://localhost:1313/project/ldrd-secure-ml-control/</link>
+      <link>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ldrd-secure-ml-control/</guid>
+      <guid>https://secpriv.lbl.gov/project/ldrd-secure-ml-control/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;Numerous DOE-relevant processes are becoming automated and adaptive, using machine learning techniques.  Such processes include vehicle and traffic navigation guidance, intelligent transportation systems, adaptive control of grid-attached equipment, large scientific instruments.&lt;br&gt;
 This creates a vulnerability for a cyber attacker to sabotage processes through tainted training data or specially crafted inputs.  Consequences might be tainted manufactured output, traffic collisions, power outages, or damage to scientific instruments or experiments. This project is developing secure machine learning methods that will enable safer operation of automated, adaptive, learning-driven &amp;ldquo;cyber-physical system&amp;rdquo; processes.&lt;/p&gt;
@@ -138,15 +138,15 @@ This creates a vulnerability for a cyber attacker to sabotage processes through 
 &lt;p&gt;Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, ”&lt;a href=&#34;https://doi.org/10.1109/PESGM48719.2022.9917098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation&lt;/a&gt;,” &lt;em&gt;Proceedings of the 2022 IEEE Power Engineering Society (PES) General Meeting&lt;/em&gt;, Denver, CO. July 17-21 2022.&lt;/p&gt;
 &lt;p&gt;Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, &amp;ldquo;SAVER: Safe Learning-Based Controller for Real-Time Voltage Regulation,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2111.15152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.15152&lt;/a&gt;, 30 Nov 2021.&lt;/p&gt;
 &lt;p&gt;Yize Chen, Daniel Arnold, Yuanyuan Shi, and Sean Peisert, &amp;ldquo;Understanding the Safety Requirements for Learning-based Power Systems Operations,&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2110.04983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2110.04983&lt;/a&gt;, 11 Oct 2021&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Provable Anonymization of Grid Data for Cyberattack Detection</title>
-      <link>http://localhost:1313/project/ceds-privacy/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-privacy/</link>
       <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ceds-privacy/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-privacy/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;Data is frequently not shared by organizations because that data is considered by the organization to be in some way sensitive. For example, there may be laws or regulations prohibiting sharing due to personal privacy or national security issues, or the organization owning the data may also consider that data to be a proprietary trade secret. In any case, that data cannot or will not be released in raw form, and so alternative approaches are needed if that data is to be shared at all.&lt;/p&gt;
 &lt;p&gt;Today, data is often not shared at all, or if it is shared, it is done so in ways that require people processing or analyzing that data to access the data in highly secured, non-networked environments set up to prevent any data from being exfiltrated either physically from a building or certainly from a network. This is the reason why much research is hindered.  Sometimes data is shared through processes of &amp;ldquo;anonymization&amp;rdquo; in which data is typically either masked or made more general.  Unfortunately, these techniques have repeatedly been shown to fail, typically by merging external information containing identifiable information with quasi-identifiers contained in the dataset in order to identify &amp;ldquo;anonymized&amp;rdquo; records in the dataset.&lt;/p&gt;
@@ -201,15 +201,15 @@ This creates a vulnerability for a cyber attacker to sabotage processes through 
 &lt;p&gt;Nikhil Ravi, Anna Scaglione, Sachin Kadam, Reinhard Gentz, Sean Peisert, Brent Lunghino, Emmanuel Levijarvi, Aram Shumavon, &amp;ldquo;Differentially Private &lt;em&gt;K&lt;/em&gt;-means Clustering Applied to Meter Data Analysis and Synthesis,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2112.03801&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2112.03801&lt;/a&gt;, 7 Dec 2021.&lt;/p&gt;
 &lt;p&gt;Sachin Kadam, Anna Scaglione, Nikhil Ravi, Sean Peisert, Brent Lunghino, and Aram Shumavon, &amp;ldquo;Optimum Noise Mechanism for Differentially Private Queries in Discrete Finite Sets,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2111.11661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.11661&lt;/a&gt;, 23 Nov 2021.&lt;/p&gt;
 &lt;p&gt;Nikhil Ravi, Anna Scaglione, and Sean Peisert, &amp;ldquo;Colored Noise Mechanism for Differentially Private Clustering,&amp;rdquo; &lt;em&gt;arXiv preprint&lt;/em&gt; &lt;a href=&#34;https://arxiv.org/abs/2111.11661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2111.07850&lt;/a&gt;, 15 Nov 2021.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES)</title>
-      <link>http://localhost:1313/project/ceds-spades/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-spades/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ceds-spades/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-spades/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Energy Storage Systems (ESS), such as electric batteries, are increasingly becomming critical components of the electric power system.  As these devices begin to provide grid services, it is critical to ensure that they are resistant to cyber attacks and cannot be exploited as a mechanism to disrupt the operation of the power grid.  Tools from nonlinear and optimal control theory can be utilized to develop control policies to re-dispatch setpoints in both the ESS and the surrounding electric grid infrastructure to mitigate the effect of cyber attacks.&lt;/p&gt;
 &lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
@@ -244,9 +244,9 @@ This creates a vulnerability for a cyber attacker to sabotage processes through 
 &lt;a href=&#34;http://www.nreca.coop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Rural Electric Cooperative Association (NRECA)&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.siemens.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Siemens&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;project-workshops-and-reports&#34;&gt;Project Workshops and Reports&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/talk/ceds_spades_y1_workshop/&#34;&gt;Year 1&lt;/a&gt;, held on 12/02/2021  &lt;br&gt;
-&lt;a href=&#34;http://localhost:1313/talk/ceds_spades_y2_workshop&#34;&gt;Year 2&lt;/a&gt;, held on 12/08/2022 and 12/15/2022 &lt;br&gt;
-&lt;a href=&#34;http://localhost:1313/talk/ceds_spades_y3_report&#34;&gt;Years 3 and 4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/&#34;&gt;Year 1&lt;/a&gt;, held on 12/02/2021  &lt;br&gt;
+&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop&#34;&gt;Year 2&lt;/a&gt;, held on 12/08/2022 and 12/15/2022 &lt;br&gt;
+&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_spades_y3_report&#34;&gt;Years 3 and 4&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
 &lt;p&gt;TBD&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
@@ -259,15 +259,15 @@ This creates a vulnerability for a cyber attacker to sabotage processes through 
 &lt;p&gt;Arnold, D., Saha, S. S., Ngo, S., Roberts, C., Scaglione, A., Johnson, N., Peisert, S., and Pinney, D., “Adaptive Control of Distributed Energy Resources for Distribution Grid Voltage Stability,” IEEE Transactions on Power Systems, Vol. 38(1), Mar. 2022, pp. 129 - 141. &lt;a href=&#34;https://doi.org/10.1109/TPWRS.2022.3157558&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/TPWRS.2022.3157558&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Arnold, D., Ngo, S., Roberts, C., Chen, Y., Scaglione, A., and Peisert, S., “Adam-based Augmented Random Search for Control Policies for Distributed Energy Resource Cyber Attack Mitigation,” &lt;a href=&#34;https://acc2022.a2c2.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American Control Conference&lt;/a&gt;, 2022, accepted, available: &lt;a href=&#34;http://arxiv.org/abs/2201.11825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://arxiv.org/abs/2201.11825&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Roberts, C., Markovic, U., Arnold, D., and Callaway, D. S., “Malicious Control of an Active Load in an Islanded Mixed-Source Microgrid,” Proceedings of 2021 IEEE Madrid PowerTech, Madrid, Spain, July 2021, pp. 1-6. &lt;a href=&#34;https://doi.org/10.1109/PowerTech46648.2021.9495077&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/PowerTech46648.2021.9495077&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 2 Workshop</title>
-      <link>http://localhost:1313/talk/ceds_spades_y2_workshop/</link>
+      <link>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ceds_spades_y2_workshop/</guid>
+      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y2_workshop/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;LBNL held the second workshop for the SPADES project in Dec. 2022 where the project partners presented deep dives into work conducted in the second year of the project.  Presentations from project partners are included below:&lt;/p&gt;
 &lt;h3 id=&#34;participants&#34;&gt;Participants&lt;/h3&gt;
@@ -284,18 +284,18 @@ Anna Scaglione, ASU, &lt;a href=&#34;mailto:as337@cornell.edu&#34;&gt;as337@corn
 Ignacio Losada Carreno, Cornell Tech, &lt;a href=&#34;mailto:il244@cornell.edu&#34;&gt;il244@cornell.edu&lt;/a&gt;&lt;br&gt;
 Tong Wu, Cornell Tech, &lt;a href=&#34;mailto:tw385@cornell.edu&#34;&gt;tw385@cornell.edu&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y2_workshop/LBNL_SPADES_Y2.pdf&#34;&gt;LBNL (Sy-Toan Ngo)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y2_workshop/NRECA_SPADES_Y2_del6.pdf&#34;&gt;NRECA (David Pinney)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y2_workshop/SIEMENS_SPADES_Y2.pdf&#34;&gt;Siemens CT (Bruno Leao)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y2_workshop/CORNELL_SPADES_Y2.pdf&#34;&gt;Cornell Tech (Ignacio Losada Carreno, Tong Wu)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/LBNL_SPADES_Y2.pdf&#34;&gt;LBNL (Sy-Toan Ngo)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/NRECA_SPADES_Y2_del6.pdf&#34;&gt;NRECA (David Pinney)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/SIEMENS_SPADES_Y2.pdf&#34;&gt;Siemens CT (Bruno Leao)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y2_workshop/CORNELL_SPADES_Y2.pdf&#34;&gt;Cornell Tech (Ignacio Losada Carreno, Tong Wu)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Securing Solar for the Grid (S2G)</title>
-      <link>http://localhost:1313/project/seto-standards/</link>
+      <link>https://secpriv.lbl.gov/project/seto-standards/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/seto-standards/</guid>
+      <guid>https://secpriv.lbl.gov/project/seto-standards/</guid>
       <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;LBNL will lead a new workgroup for Artificial Intelligence (AI) for IBR/DER cybersecurity that will seek a draft standard report on AI performance requirements for high solar / IBR / DER penetration scenarios. This working group will specifically focus on advancing an understanding of performance requirements for IBR/DER for high solar generation scenarios.  As IBR / DER grow from tens of thousands to millions of devices, increased automation is likely required but needs to be considered within conflicting recommendations for manual control. Automation has brought significant advantages in the power grid for ensuring stability, increasing efficiency, and even providing cybersecurity benefits. At the same time, automation significantly increases cybersecurity risks because automated systems can be remotely attackable, and have similar vulnerabilities to other types of computing systems.&lt;/p&gt;
 &lt;p&gt;LBNL will also lead a new workgroup for privacy-preserving &amp;amp; cybersecure data and model sharing standards for solar / IBR / DER industry stakeholders. Use cases will focus on data and models for high solar / IBR / DER penetration scenarios. This will include threat-sharing program reformations, leveraging prior experience with CESER’s CEDS program.&lt;/p&gt;
@@ -308,35 +308,35 @@ Tong Wu, Cornell Tech, &lt;a href=&#34;mailto:tw385@cornell.edu&#34;&gt;tw385@co
 &lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Founder and CEO, &lt;a href=&#34;https://kevalaanalytics.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevala, Inc.&lt;/a&gt;)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;Robert Currie, Sean Peisert, Anna Scaglione, Aram Shumavon, and Nikhil Ravi, &amp;ldquo;Data Privacy for the Grid: Toward a Data Privacy Standard for Inverter-Based and Distributed Energy Resources,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Power &amp;amp; Energy Magazine&lt;/a&gt;&lt;/em&gt;, 21(5), pp. 58-57, Sept.-Oct 2023.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cybersecurity via Inverter Grid Automatic Reconfiguration (CIGAR) - Year 3 (End of Project) Workshop</title>
-      <link>http://localhost:1313/talk/ceds_cigar_y3_workshop/</link>
+      <link>https://secpriv.lbl.gov/talk/ceds_cigar_y3_workshop/</link>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ceds_cigar_y3_workshop/</guid>
+      <guid>https://secpriv.lbl.gov/talk/ceds_cigar_y3_workshop/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;LBNL held an end of project workshop for the CIGAR project on Mar. 17, 2021 where project participants, stakeholders, and advisors were convened to discuss outcomes of the CIGAR project.  Due to the COVID-19 pandemic, the workshop was held virtually.&lt;/p&gt;
 &lt;h3 id=&#34;workshop-agenda&#34;&gt;Workshop Agenda&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/CIGAR%20Workshop%20Agenda.pdf&#34;&gt;Workshop Agenda&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/CIGAR%20Workshop%20Agenda.pdf&#34;&gt;Workshop Agenda&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;./LBNL_1.pdf&#34;&gt;Introductory Remarks and Project Overview, Sean Peisert and Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/LBNL_2.pdf&#34;&gt;Reinforcement Learning and PyCIGAR Architecture, Sy-Toan Ngo and Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/LBNL_3.pdf&#34;&gt;Simulation Experiments/Results, Ciaran Roberts (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/NRECA_4.pdf&#34;&gt;Integration of PyCIGAR into NRECA OMF and Demo, David Pinney (NRECA)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/ASU_5.pdf&#34;&gt;ASU Linearized Power Flow Model and SoDa, Ignacio Losada Carreno (ASU)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/Siemens_6.pdf&#34;&gt;Siemens Internal Tech Transfer Tool, Graph Convolutional Neural Networks and RL Extensions, Anton Kocheturov (Siemens)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_cigar_y3_workshop/LBNL_7.pdf&#34;&gt;Key Findings and Future Research Directions, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/LBNL_2.pdf&#34;&gt;Reinforcement Learning and PyCIGAR Architecture, Sy-Toan Ngo and Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/LBNL_3.pdf&#34;&gt;Simulation Experiments/Results, Ciaran Roberts (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/NRECA_4.pdf&#34;&gt;Integration of PyCIGAR into NRECA OMF and Demo, David Pinney (NRECA)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/ASU_5.pdf&#34;&gt;ASU Linearized Power Flow Model and SoDa, Ignacio Losada Carreno (ASU)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/Siemens_6.pdf&#34;&gt;Siemens Internal Tech Transfer Tool, Graph Convolutional Neural Networks and RL Extensions, Anton Kocheturov (Siemens)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_cigar_y3_workshop/LBNL_7.pdf&#34;&gt;Key Findings and Future Research Directions, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cybersecurity via Inverter-Grid Automatic Reconfiguration (CIGAR)</title>
-      <link>http://localhost:1313/project/ceds-cigar/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-cigar/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ceds-cigar/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-cigar/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The proliferation of Distributed Energy Resources (DER) in electric distribution systems is challenging many existing conventional paradigms of how the grid is planned and operated. This includes strategies to ensure the safety of the electric grid from cyber attacks.  Aggregations of DER constitute a mechanism through which hostile entities can remotely influence multiple systems and states in the grid in such a way that distribution system operators have virtually no warning of an attack and no clear strategy to mitigate the effects of intrusion. Furthermore, as infrastructure already exists to reconfigure DER smart inverter settings, attackers need not infiltrate individual systems to gain control over large quantities of DER. Instead, attackers need only gain access to one of a handful of systems designed to wirelessly update DER.&lt;/p&gt;
 &lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
@@ -371,7 +371,7 @@ Tong Wu, Cornell Tech, &lt;a href=&#34;mailto:tw385@cornell.edu&#34;&gt;tw385@co
 &lt;a href=&#34;http://www.nreca.coop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Rural Electric Cooperative Association (NRECA)&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://www.siemens.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Siemens&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;project-workshops&#34;&gt;Project Workshops:&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/talk/ceds_cigar_y3_workshop/&#34;&gt;End of Project Workshop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/talk/ceds_cigar_y3_workshop/&#34;&gt;End of Project Workshop&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;press-regarding-this-project&#34;&gt;Press regarding this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://archerint.com/solar-power-opens-up-new-targets-for-cyber-attackers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solar power opens up new targets for cyber attackers&lt;/a&gt; (Archer News) — May 30, 2019&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.solarpowerworldonline.com/2019/04/cyberattacks-threaten-smart-inverters-but-scientists-have-solutions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyberattacks threaten smart inverters, but scientists have solutions&lt;/a&gt; (Solar Power World) — April 30, 2019&lt;/p&gt;
@@ -385,15 +385,15 @@ Tong Wu, Cornell Tech, &lt;a href=&#34;mailto:tw385@cornell.edu&#34;&gt;tw385@co
 &lt;p&gt;Shammya Shananda Saha, Daniel Arnold, Anna Scaglione, Eran Schweitzer, Ciaran Roberts, Sean Peisert, and Nathan G. Johnson. &amp;ldquo;&lt;a href=&#34;https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/rpg2.12009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lyapunov Stability of Smart Inverters Using Linearized DistFlow Approximation&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://digital-library.theiet.org/content/journals/iet-rpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IET Renewable Power Generation&lt;/a&gt;&lt;/em&gt;, accepted 28 September 2020. [&lt;a href=&#34;https://arxiv.org/abs/2011.09620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Ignacio Losada Carreño, Raksha Ramakrishna, Anna Scaglione, Daniel Arnold, Ciaran Roberts, Sy-Toan Ngo, Sean Peisert, and David Pinney, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/6cp617fw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SoDa: An Irradiance-Based Synthetic Solar Data Generation Tool&lt;/a&gt;,”   &lt;em&gt;Proceedings of the &lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)&lt;/a&gt;&lt;/em&gt;, November 11–13, 2020.&lt;/p&gt;
 &lt;p&gt;Ciaran Roberts Sy-Toan Ngo, Alexandre Milesi, Sean Peisert, Daniel Arnold, Shammya Saha, Anna Scaglione, Nathan Johnson, Anton Kocheturov, Dmitriy Fradkin, &amp;ldquo;&lt;a href=&#34;https://escholarship.org/uc/item/5069z5wn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Reinforcement Learning for DER Cyber-Attack Mitigation&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;https://sgc2020.ieee-smartgridcomm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)&lt;/a&gt;&lt;/em&gt;, November 11–13, 2020.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Supervisory Parameter Adjustment for Distribution Energy Storage (SPADES) - Year 1 Workshop</title>
-      <link>http://localhost:1313/talk/ceds_spades_y1_workshop/</link>
+      <link>https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ceds_spades_y1_workshop/</guid>
+      <guid>https://secpriv.lbl.gov/talk/ceds_spades_y1_workshop/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;LBNL held the first workshop for the SPADES project on Dec. 2, 2020 where the project participants convened to discuss progress made over the past year as well as plan for work to be conducted during Year 2.  Due to the COVID-19 pandemic, the workshop was held virtually.&lt;/p&gt;
 &lt;h3 id=&#34;participants&#34;&gt;Participants&lt;/h3&gt;
@@ -411,24 +411,24 @@ Dan Grinkevich, Siemens CT, &lt;a href=&#34;mailto:daniel.grinkevich@siemens.com
 Anna Scaglione, ASU, &lt;a href=&#34;mailto:ascaglio@asu.edu&#34;&gt;ascaglio@asu.edu&lt;/a&gt;&lt;br&gt;
 Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilosadac@asu.edu&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;workshop-agenda&#34;&gt;Workshop Agenda&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/SPADES%20Y1%20Workshop%20Agenda.pdf&#34;&gt;Workshop Agenda&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/SPADES%20Y1%20Workshop%20Agenda.pdf&#34;&gt;Workshop Agenda&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;presentations&#34;&gt;Presentations&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/LBNL%20-%20Introduction.pdf&#34;&gt;Introductory Remarks, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/LBNL_SPADES%20Workshop%20Battery%20Module%202020.12.02.pdf&#34;&gt;Storage and Control Module Architecture in PyCIGAR, Michael Sankur and Sy-Toan Ngo (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/LBNL_SPADES_Power_Electronic_Transient_Presentation.pdf&#34;&gt;Grid Forming/following &amp;amp; Active Load Stability Simulation, Ciaran Roberts (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/D4.3.2%20-%20SPADES%20Y1%20Workshop%20NRECA%20Presentation.pdf&#34;&gt;Open Modeling Framework (OMF) Updates. Use Case Analysis, Network Reduction, David Pinney &amp;amp; Lisa Slaughter (NRECA)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/Siemens_SPADES%20DOE%20workshop%2020201202.pdf&#34;&gt;Red Team Planning/Methodology, Bruno Leao (Siemens)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/ASU_SPADES_Y1_Workshop.pdf&#34;&gt;Log(V) 3LPF: A linearized solution to train reinforcement learning algorithms for unbalanced distribution systems, Ignacio Losada Carreno (ASU)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/LBNL%20-%20Concluding%20Thoughts.pdf&#34;&gt;Concluding Remarks, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/files/ceds_spades_y1_workshop/SPADES%20Y1%20Workshop%20Q&amp;amp;A_Notes.pdf&#34;&gt;Workshop Q&amp;amp;A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/LBNL%20-%20Introduction.pdf&#34;&gt;Introductory Remarks, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/LBNL_SPADES%20Workshop%20Battery%20Module%202020.12.02.pdf&#34;&gt;Storage and Control Module Architecture in PyCIGAR, Michael Sankur and Sy-Toan Ngo (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/LBNL_SPADES_Power_Electronic_Transient_Presentation.pdf&#34;&gt;Grid Forming/following &amp;amp; Active Load Stability Simulation, Ciaran Roberts (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/D4.3.2%20-%20SPADES%20Y1%20Workshop%20NRECA%20Presentation.pdf&#34;&gt;Open Modeling Framework (OMF) Updates. Use Case Analysis, Network Reduction, David Pinney &amp;amp; Lisa Slaughter (NRECA)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/Siemens_SPADES%20DOE%20workshop%2020201202.pdf&#34;&gt;Red Team Planning/Methodology, Bruno Leao (Siemens)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/ASU_SPADES_Y1_Workshop.pdf&#34;&gt;Log(V) 3LPF: A linearized solution to train reinforcement learning algorithms for unbalanced distribution systems, Ignacio Losada Carreno (ASU)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/LBNL%20-%20Concluding%20Thoughts.pdf&#34;&gt;Concluding Remarks, Daniel Arnold (LBNL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://secpriv.lbl.gov/static/files/ceds_spades_y1_workshop/SPADES%20Y1%20Workshop%20Q&amp;amp;A_Notes.pdf&#34;&gt;Workshop Q&amp;amp;A&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Byzantine Security — Multi-layered Intrusion Tolerant Byzantine Architecture for Bulk Power System Protective Relays</title>
-      <link>http://localhost:1313/project/gmlc-byzantine/</link>
+      <link>https://secpriv.lbl.gov/project/gmlc-byzantine/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/gmlc-byzantine/</guid>
+      <guid>https://secpriv.lbl.gov/project/gmlc-byzantine/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;This project aims to explore applications of a Byzantine Fault Tolerant (BFT) architecture in combination with Machine Learning (ML/AI) methods to ensure that the bulk power system, including protective relays in the transmission grid, and associated substation and control center systems, can perform intrusion tolerant operations.&lt;/p&gt;
 &lt;p&gt;This project is funded by several offices within the U.S.  Department of Energy under the auspices of the DOE Grid Modernization Initiative.  The project is led by PNNL.&lt;/p&gt;
@@ -448,15 +448,15 @@ Ignacio Losada Carreno, ASU, &lt;a href=&#34;mailto:ilosadac@asu.edu&#34;&gt;ilo
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;James R. Clavin, Yue Huang, Xin Wang, Pradeep M. Prakash, Sisi Duan, Jianwu Wang, and Sean Peisert, &amp;ldquo;A Framework for Evaluating BFT,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;http://ieee-icpads.net/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Parallel and Distributed Systems (ICPADS)&lt;/a&gt;&lt;/em&gt;, December 14–16, 2021.&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/2019-grid-modernization-lab-call-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Modernization Initiative&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>UC-Lab Center for Electricity Distribution Cybersecurity</title>
-      <link>http://localhost:1313/project/uc-lfrp-cybersecurity-grid/</link>
+      <link>https://secpriv.lbl.gov/project/uc-lfrp-cybersecurity-grid/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/uc-lfrp-cybersecurity-grid/</guid>
+      <guid>https://secpriv.lbl.gov/project/uc-lfrp-cybersecurity-grid/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;This project will bring together a multi-disciplinary UC-Lab team of cybersecurity and electricity infrastructure experts to investigate, through both cyber and physical modeling and physics-aware cybersecurity analysis, the impact and significance of cyberattacks on electricity distribution infrastructure.  We will develop new strategies for mitigating vulnerabilities, detecting intrusion, and protecting against detrimental system wide impact. This project will build a new knowledge base to address both theoretical and practical challenges in electricity distribution cybersecurity.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
@@ -473,15 +473,15 @@ Emma Stewart (Co-PI; PI at LLNL)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This project is funded by the &lt;a href=&#34;https://www.ucop.edu/research-initiatives/programs/lab-fees/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC-Lab Fees Research Program&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Integrated Multi Scale Machine Learning for the Power Grid</title>
-      <link>http://localhost:1313/project/gmlc-ml/</link>
+      <link>https://secpriv.lbl.gov/project/gmlc-ml/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/gmlc-ml/</guid>
+      <guid>https://secpriv.lbl.gov/project/gmlc-ml/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The goal of this project is to create advanced, distributed data analytics capability  to provide visibility and controllability to distribution grid operators.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
@@ -493,15 +493,15 @@ Emma Stewart (Co-PI; PI at LLNL)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/doe-grid-modernization-laboratory-consortium-gmlc-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Modernization Initiative&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Power Grid Threat Detection and Response with Data Analytics</title>
-      <link>http://localhost:1313/project/ceds-threat-detection/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-threat-detection/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ceds-threat-detection/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-threat-detection/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;The goal of this project is to develop technologies and methodologies to protect the nation&amp;rsquo;s power grid from advanced cyber and all-hazard threats. This will be done through the collection of disparate data and the use of advanced analytics to detect threats and response to them.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
@@ -523,15 +523,15 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;none yet&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program in support of the &lt;a href=&#34;http://energy.gov/doe-grid-modernization-laboratory-consortium-gmlc-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grid Modernization Initiative&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An Automated, Disruption Tolerant Key Management System for the Power Grid</title>
-      <link>http://localhost:1313/project/ceds-dtkm/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-dtkm/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ceds-dtkm/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-dtkm/</guid>
       <description>&lt;p&gt;Current key management architectures are not designed for machine-to-machine communication, are designed around an &amp;ldquo;always online&amp;rdquo; mentality, and are often burdensome to manage (key distribution, revocation lists, governance, etc.). This project is designing and developing a key management system to meet the unique requirements of electrical distribution systems (EDSs). Namely it is disruption tolerant, scales well, is centrally managed, has policy enforcement and auditing, automates key management services for devices, etc&amp;hellip;&lt;/p&gt;
 &lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
@@ -548,16 +548,16 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;p&gt;Thomas W. Edgar, Aditya Ashok, Garret E. Seppala, K.M. Arthur-Durrett, M. Engels, Reinhard Gentz, and Sean Peisert, &amp;ldquo;An Automated Disruption-Tolerant Key Management Framework for Critical Systems,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://www.jinfowar.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Information Warfare&lt;/a&gt;&lt;/em&gt;, accepted 8 October, 2019.&lt;/p&gt;
 &lt;h3 id=&#34;software-resulting-from-this-project&#34;&gt;Software resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/lbnl-cybersecurity/dtkm-sparcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LBNL Disruption Tolerant Key Management Monitoring for Stream-Processing Architecture for Real-time Cyber-physical Security (DTKM-SPARCS)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cyber Security of Power Distribution Systems by Detecting Differences Between Real-time Micro-Synchrophasor Measurements and Cyber-Reported SCADA</title>
-      <link>http://localhost:1313/project/ceds-upmu/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-upmu/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ceds-upmu/</guid>
-      <description>&lt;p&gt;The power distribution grid, like many cyber physical systems, was developed with careful consideration for safe operation. However, a number of features of the power system make it particularly vulnerable to cyber attacks via IP networks. &amp;ldquo;IT security&amp;rdquo; approaches to dealing with malware and other cyber attacks via a network include traditional intrusion detection systems, firewalls, encryption, etc&amp;hellip; These techniques can help, but as we&amp;rsquo;ve observed in a &lt;a href=&#34;http://localhost:1313/project/ceds-cps-security/&#34;&gt;previous project&lt;/a&gt;, traditional IT security techniques tend to leave a gap in safety and protection when applied to cyber-physical devices because they do not consider physical information known about the cyber-physical device they are protecting. Not only does this leave a gap in protection, but it ignores valuable information that could be used to better protect the cyber-physical device.&lt;/p&gt;
+      <guid>https://secpriv.lbl.gov/project/ceds-upmu/</guid>
+      <description>&lt;p&gt;The power distribution grid, like many cyber physical systems, was developed with careful consideration for safe operation. However, a number of features of the power system make it particularly vulnerable to cyber attacks via IP networks. &amp;ldquo;IT security&amp;rdquo; approaches to dealing with malware and other cyber attacks via a network include traditional intrusion detection systems, firewalls, encryption, etc&amp;hellip; These techniques can help, but as we&amp;rsquo;ve observed in a &lt;a href=&#34;https://secpriv.lbl.gov/project/ceds-cps-security/&#34;&gt;previous project&lt;/a&gt;, traditional IT security techniques tend to leave a gap in safety and protection when applied to cyber-physical devices because they do not consider physical information known about the cyber-physical device they are protecting. Not only does this leave a gap in protection, but it ignores valuable information that could be used to better protect the cyber-physical device.&lt;/p&gt;
 &lt;p&gt;The goal of this is to design and implement a measurement network, which can detect and report the resultant impact of cyber security attacks on the distribution system network. The cyber-attacks against the distribution grid that we primarily focus on are ones that (1) modify the distribution grid operation and causing it to behave in individually or collectively disruptive or damaging ways; (2) mask communication from substation components in the distribution grid, through cyber denial-of-service attack, and prevent awareness of the actual operational function; and (3) mask communication to substation components in the distribution grid, through cyber denial of service attack, causing misbehaving components to fail to receive instructions to restore safe operation. The detection and reporting will be within short time frame, at present not communicable or measured on the distribution system, allowing operators to perform remedial action.&lt;/p&gt;
 &lt;p&gt;To do this, this project uses micro phasor measurement units to capture information about the physical state of the power distribution grid and combines this with SCADA command monitoring in real time. The project will build models of safe and unsafe states of the distribution grid so that certain classes cyber attacks can potentially be detected by their physical effects on the power distribution grid alone. The result will be a system that provides an independent, integrated picture of the distribution grid&amp;rsquo;s physical state, which will be difficult for a cyber-attacker to subvert using data-spoofing techniques.&lt;/p&gt;
 &lt;p&gt;See the detection algorithms in action via our graphical front-end at the &lt;a href=&#34;http://powerdata.lbl.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LBNL Power Data Portal&lt;/a&gt;.&lt;/p&gt;
@@ -602,15 +602,15 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;h3 id=&#34;software-resulting-from-this-project&#34;&gt;Software resulting from this project:&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/lbnl-cybersecurity/sparcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LBNL Stream-Processing Architecture for Real-time Cyber-physical Security (SPARCS)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Analytics for Stream-Processing Architecture for Real-time Cyber-physical Security (Analytic-SPARCS).&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LBNL Power Data</title>
-      <link>http://localhost:1313/project/powerdata/</link>
+      <link>https://secpriv.lbl.gov/project/powerdata/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/powerdata/</guid>
+      <guid>https://secpriv.lbl.gov/project/powerdata/</guid>
       <description>&lt;p&gt;Can synchronized distribution level phasor measurements enhance planning for power flow and system control, security and resiliency in the modernized grid?&lt;/p&gt;
 &lt;p&gt;By installing a number of µPMUs in various locations in the electric distribution system and evaluating the data from them, this data supports a variety of projects to determine whether refined measurement of voltage phase angles can enable advanced diagnostic, monitoring and control methodologies in distribution systems, and to begin developing algorithms for diagnostic applications based on µPMU data.&lt;/p&gt;
 &lt;p&gt;Applications being studied include:&lt;/p&gt;
@@ -623,7 +623,7 @@ National Rural Electric Cooperative Association (NRECA)&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;The data available is a set of power measurements and annotations, and an interface for exploring and downloading that data. The power measurements are collected by micro-phasor measurement units (μPMUs) and PQube3 power quality meters manufactured by Power Standards Laboratory in Alameda, CA and located at Lawrence Berkeley National Laboratory, as well as other sites.&lt;/p&gt;
 &lt;p&gt;The manufacturer &lt;a href=&#34;http://www.powerstandards.com/&#34;&gt;Power Standards Laboratory (PSL)&lt;/a&gt;  supplied and tested the measurement technology, which is based on PSL&amp;rsquo;s already commercialized &lt;a href=&#34;http://www.powersensorsltd.com/PQube3.php&#34;&gt;PQube power quality recorder&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For the data collected by the &lt;a href=&#34;http://localhost:1313/projects/ceds-upmu&#34;&gt;CEDS µPMU project&lt;/a&gt;, please reference this publication for citations, which also contains more information on the dataset:&lt;/p&gt;
+&lt;p&gt;For the data collected by the &lt;a href=&#34;https://secpriv.lbl.gov/projects/ceds-upmu&#34;&gt;CEDS µPMU project&lt;/a&gt;, please reference this publication for citations, which also contains more information on the dataset:&lt;/p&gt;
 &lt;p&gt;Sean Peisert, Reinhard Gentz, Joshua Boverhof, Chuck McParland, Sophie Engle, Abdelrahman Elbashandy, and Dan Gunter, &amp;ldquo;&lt;A HREF=&#34;https://doi.org/10.21990/C21599&#34;&gt;LBNL Open Power Data&lt;/A&gt;,&amp;rdquo; LBNL Technical Report, May 2017. DOI:&lt;A HREF=&#34;https://doi.org/10.21990/C21599&#34;&gt;10.21990/C21599&lt;/A&gt;&lt;/p&gt;
 &lt;p&gt;This work was sponsored in part by the &lt;A HREF=&#34;https://energy.gov&#34;&gt;U.S. Department of Energy&amp;rsquo;s&lt;/A&gt; &lt;A HREF=&#34;https://energy.gov/oe/downloads/cybersecurity-energy-delivery-systems-ceds-fact-sheets&#34;&gt;Cybersecurity for Energy Delivery Systems&lt;/A&gt; program.&lt;/p&gt;
 &lt;!--
@@ -654,9 +654,9 @@ Sean Peisert, Reinhard Gentz, Joshua Boverhof, Chuck McParland, Sophie Engle, Ab
     
     <item>
       <title>Application of Cyber Security Techniques in the Protection of Efficient Cyber-Physical Energy Generation Systems</title>
-      <link>http://localhost:1313/project/ceds-cps-security/</link>
+      <link>https://secpriv.lbl.gov/project/ceds-cps-security/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/ceds-cps-security/</guid>
+      <guid>https://secpriv.lbl.gov/project/ceds-cps-security/</guid>
       <description>&lt;p&gt; This project is called, &amp;ldquo;Application of Cyber Security Techniques in the Protection of Efficient Cyber-Physical Energy Generation Systems.&amp;rdquo; In this project, we designed and developed a security monitoring and analysis framework for control systems and smart grid technologies. This system is designed to enhance resiliency of the system by integrating traditional computer security and safety engineering techniques. The goal is to integrate the monitoring and analysis of IP network traffic, as well as serial communications and physical constraints within a single intrusion detection system (IDS) framework and provide capabilities for determining the physical safety of system operations by simultaneously examining behavior at multiple hierarchical layers and contexts.&lt;/p&gt;
 &lt;p&gt;This project was supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cybersecurity for Energy Delivery Systems (CEDS)&lt;/a&gt; program.&lt;/p&gt;
 &lt;h4 id=&#34;principal-investigators&#34;&gt;Principal Investigators:&lt;/h4&gt;
@@ -685,10 +685,10 @@ Sean Peisert, Reinhard Gentz, Joshua Boverhof, Chuck McParland, Sophie Engle, Ab
 &lt;p&gt;Georgia Koutsandria, Reinhard Gentz, Mahdi Jamei, Anna Scaglione, Sean Peisert, and Chuck McParland, &amp;ldquo;&lt;a href=&#34;http://escholarship.org/uc/item/8gd162r2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Real-Time Testbed Environment for Cyber-Physical Security on the Power Grid&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;https://sites.google.com/site/2015cpsspc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First ACM Workshop on Cyber-Physical Systems Security &amp;amp; Privacy (CPS-SPC)&lt;/a&gt;&lt;/em&gt;, Denver, CO, October 16, 2015. [&lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/bibtex/Peisert2015-CPSSPC.bib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BibTeX&lt;/a&gt;] [&lt;a href=&#34;http://dx.doi.org/10.1093/jamia/ocw032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Chuck McParland, Sean Peisert, and Anna Scaglione, &amp;ldquo;&lt;a href=&#34;http://www.escholarship.org/uc/item/8f8738wd.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Monitoring Security of Networked Control Systems: It&amp;rsquo;s the Physics&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;http://www.computer.org/security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Security and Privacy&lt;/a&gt;&lt;/em&gt;,&lt;strong&gt;12&lt;/strong&gt;(6), November/December 2014. [&lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/bibtex/Peisert2014-SPMag.bib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BibTeX&lt;/a&gt;] [&lt;a href=&#34;http://dx.doi.org/10.1109/MSP.2014.122&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Georgia Koutsandria, Vishak Muthukumar, Masood Parvania, Sean Peisert, Chuck McParland, and Anna Scaglione, &amp;ldquo;&lt;a href=&#34;http://www.escholarship.org/uc/item/4m08h4xn.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Hybrid Network IDS for Protective Digital Relays in the Power Transmission Grid&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;http://sgc2014.ieee-smartgridcomm.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5th IEEE International Conference on Smart Grid Communications (SmartGridComm)&lt;/a&gt;&lt;/em&gt;, Venice, Italy, November 3–6, 2014. [&lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/bibtex/Peisert2014-SmartGridComm.bib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BibTeX&lt;/a&gt;] [&lt;a href=&#34;http://dx.doi.org/10.1109/SmartGridComm.2014.7007764&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;Georgia Koutsandria, &lt;em&gt;&lt;a href=&#34;http://localhost:1313/research/2014-Thesis_Koutsandria.pdf&#34;&gt;Cyber Physical Security for Power Grid Protection&lt;/a&gt;,&lt;/em&gt; M.S. Thesis, Dept. of Electrical and Computer Engineering, University of California, Davis, Sept. 2014. [&lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/bibtex/Koutsandria2014-Thesis.bib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BibTeX&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Georgia Koutsandria, &lt;em&gt;&lt;a href=&#34;https://secpriv.lbl.gov/research/2014-Thesis_Koutsandria.pdf&#34;&gt;Cyber Physical Security for Power Grid Protection&lt;/a&gt;,&lt;/em&gt; M.S. Thesis, Dept. of Electrical and Computer Engineering, University of California, Davis, Sept. 2014. [&lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/bibtex/Koutsandria2014-Thesis.bib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BibTeX&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Masood Parvania, Georgia Koutsandria, Vishak Muthukumar, Sean Peisert, Chuck McParland, and Anna Scaglione, &amp;ldquo;&lt;a href=&#34;http://www.escholarship.org/uc/item/1q63z548.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hybrid Control Network Intrusion Detection Systems for Automated Power Distribution Systems&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;http://www.tosg-workshop.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1st International Workshop on Trustworthiness of Smart Grids (ToSG)&lt;/a&gt;&lt;/em&gt;, Atlanta, GA, June 23, 2014. [&lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/bibtex/Peisert2014-ToSG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BibTeX&lt;/a&gt;] [&lt;a href=&#34;http://dx.doi.org/10.1109/DSN.2014.81&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Xiao Li, Zhifang Wang, Vishak Muthukumar, Anna Scaglione, Sean Peisert, and Chuck McParland, &amp;ldquo;&lt;a href=&#34;http://www.escholarship.org/uc/item/2d15z3zc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Networked Loads in the Distribution Grid&lt;/a&gt;,&amp;rdquo; &lt;em&gt;Proceedings of the &lt;a href=&#34;http://www.apsipa2012.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2012 Asia-Pacific Signal &amp;amp; Information Processing Association (APSIPA) Annual Summit and Conference&lt;/a&gt;&lt;/em&gt;, Hollywood, CA, December 3–6, 2012. [&lt;a href=&#34;http://www.cs.ucdavis.edu/%7Epeisert/bibtex/Peisert2012-APSIPA.bib&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BibTeX&lt;/a&gt;] [&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&amp;amp;arnumber=6411875&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;http://localhost:1313/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
