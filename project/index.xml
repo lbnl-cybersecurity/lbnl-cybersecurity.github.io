@@ -7,7 +7,7 @@
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2025</copyright><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://secpriv.lbl.gov/media/icon_hu_12623e4befc77eba.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu_129272e5cede94f3.png</url>
       <title>Projects</title>
       <link>https://secpriv.lbl.gov/project/</link>
     </image>
@@ -38,10 +38,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_f57dd588d4c1290a.webp 400w,
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_6f080c818a8993b0.webp 760w,
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_513f6c80ef49c32e.webp 1200w&#34;
-               src=&#34;https://secpriv.lbl.gov/media/partners/TrustedCI_logo_blue_web%281%29-small_hu_f57dd588d4c1290a.webp&#34;
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_a83b139fcd548b2c.webp 400w,
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_6f47668252bbe9b7.webp 760w,
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_97ee3caa4adc8f3f.webp 1200w&#34;
+               src=&#34;https://secpriv.lbl.gov/media/partners/TrustedCI_logo_blue_web%281%29-small_hu_a83b139fcd548b2c.webp&#34;
                width=&#34;144&#34;
                height=&#34;41&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -197,8 +197,7 @@
 &lt;h4 id=&#34;site-leads&#34;&gt;Site Leads:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/daniel-arnold-78b59269/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (Co-PI; LBNL → LLNL) &lt;br&gt;
 &lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Co-PI; Cornell Tech)  &lt;br&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Kevala) &lt;br&gt;
-&lt;a href=&#34;https://research-hub.nrel.gov/en/persons/vivek-kumar-singh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vivek Kumar Singh&lt;/a&gt; (NREL)&lt;/p&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Kevala)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/eli-kerr-067234102/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eli Kerr&lt;/a&gt; (Kevala) &lt;br&gt;
 &lt;a href=&#34;https://eta.lbl.gov/people/jason-macdonald&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason MacDonald&lt;/a&gt; (LBNL) &lt;br&gt;
@@ -213,7 +212,8 @@
 [Dr. Tong Wu](https://tong-andrew-wu.github.io) (University of Central Florida)
 --&gt;
 &lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/peteb4ker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pete Baker&lt;/a&gt; (Kevala) &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://research-hub.nrel.gov/en/persons/vivek-kumar-singh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vivek Kumar Singh&lt;/a&gt; (NREL) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/peteb4ker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pete Baker&lt;/a&gt; (Kevala) &lt;br&gt;
 &lt;a href=&#34;https://www.nrel.gov/research/staff/ryan-cryar.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ryan Cryar&lt;/a&gt; (NREL) &lt;br&gt;
 &lt;a href=&#34;https://profiles.lbl.gov/21406-valerie-hendrix/publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valerie Hendrix&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://scholar.google.com/citations?user=n1tKLQcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hang Liu&lt;/a&gt; (&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt; Postdoc 2023-2025 → Assistant Professor, University of Macao) &lt;br&gt;
