@@ -7,7 +7,7 @@
     <description>Cyber-Physical Systems</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2026</copyright><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://secpriv.lbl.gov/media/icon_hu_61455a90dfb1e533.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu_8bf920511c5d3d9d.png</url>
       <title>Cyber-Physical Systems</title>
       <link>https://secpriv.lbl.gov/tag/cyber-physical-systems/</link>
     </image>
@@ -38,10 +38,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_6397155f7870f593.webp 400w,
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_358c09b6d0c1ffe6.webp 760w,
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_4e17346730199cc8.webp 1200w&#34;
-               src=&#34;https://secpriv.lbl.gov/media/partners/TrustedCI_logo_blue_web%281%29-small_hu_6397155f7870f593.webp&#34;
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_a3403af0809654d0.webp 400w,
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_642c3451120a238b.webp 760w,
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_93832e5273895bd3.webp 1200w&#34;
+               src=&#34;https://secpriv.lbl.gov/media/partners/TrustedCI_logo_blue_web%281%29-small_hu_a3403af0809654d0.webp&#34;
                width=&#34;144&#34;
                height=&#34;41&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -166,7 +166,7 @@
 &lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Co-PI; Cornell Tech)  &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/aram-shumavon-3a8472/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aram Shumavon&lt;/a&gt; (Kevala)&lt;/p&gt;
 &lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/eli-kerr-067234102/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eli Kerr&lt;/a&gt; (Kevala) &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/merilyn-chesler/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Merilyn Chesler&lt;/a&gt; (Kevala) &lt;br&gt;
 &lt;a href=&#34;https://eta.lbl.gov/people/jason-macdonald&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason MacDonald&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/chuck-moran/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chuck Moran&lt;/a&gt; (Kevala)&lt;/p&gt;
 &lt;h4 id=&#34;postdocs&#34;&gt;Postdocs:&lt;/h4&gt;
@@ -179,7 +179,8 @@
 [Dr. Tong Wu](https://tong-andrew-wu.github.io) (University of Central Florida)
 --&gt;
 &lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://research-hub.nrel.gov/en/persons/vivek-kumar-singh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vivek Kumar Singh&lt;/a&gt; (NREL) &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/eli-kerr-067234102/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eli Kerr&lt;/a&gt; (Kevala) &lt;br&gt;
+&lt;a href=&#34;https://research-hub.nrel.gov/en/persons/vivek-kumar-singh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vivek Kumar Singh&lt;/a&gt; (NREL) &lt;br&gt;
 &lt;a href=&#34;https://research-hub.nrel.gov/en/persons/abhijeet-sahu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abhijeet Sahu&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/peteb4ker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pete Baker&lt;/a&gt; (Kevala) &lt;br&gt;
 &lt;a href=&#34;https://www.nrel.gov/research/staff/ryan-cryar.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ryan Cryar&lt;/a&gt; (NREL) &lt;br&gt;
@@ -199,6 +200,8 @@
 &lt;h3 id=&#34;presentations-relating-to-this-project-1&#34;&gt;Presentations relating to this project:&lt;/h3&gt;
 &lt;p&gt;Andrew Campbell, Anna Scaglione, and Sean Peisert, &amp;ldquo;Decentralized Differentially Private Power Method&amp;rdquo; (poster), &lt;a href=&#34;https://tpdp.journalprivacyconfidentiality.org/2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Theory and Practice of Differential Privacy&lt;/a&gt;, Mountain View, CA, June 2-3, 2025.&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Chenyue Zhang, Andrew Campbell, Anna Scaglione, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.48550/arXiv.2606.19275&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reconstruction Limits for Repeated Differentially Private Aggregates: A Cramer-Rao Perspective on Query Geometry&lt;/a&gt;,&amp;rdquo; arXiv preprint arXiv:2606.19275, 17 Jun 2026.&lt;/p&gt;
+&lt;p&gt;Andrew Campbell, Chenyue Zhang, Anna Scaglione, Eli Kerr, Merilyn Chesler, and Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.48550/arXiv.2605.02390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differentially Private Synthetic Voltage Phasor Release for Distribution Grids&lt;/a&gt;,&amp;rdquo; arXiv preprint arXiv:2605.02390, 4 May 2026.&lt;/p&gt;
 &lt;p&gt;Tong Wu, Anna Scaglione, Nikhil Ravi, Sean Peisert, and Daniel Arnold, &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1109/JIOT.2025.3622650&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Optimal Control of Differentially Private EV Charging: A Scalable Learning Approach under Uncertainty&lt;/a&gt;,&amp;rdquo; &lt;em&gt;&lt;a href=&#34;https://ieee-iotj.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Internet of Things Journal&lt;/a&gt;&lt;/em&gt;, 17 Oct 2025.&lt;/p&gt;
 &lt;p&gt;Andrew Campbell, Anna Scaglione, Hang Liu, Victor Elvira, Sean Peisert, Daniel Arnold, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2509.20460&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Differential Privacy of Network Parameters from a System Identification Perspective&lt;/a&gt;,&amp;rdquo; arXiv preprint arXiv:2509.20460, September 24, 2025.&lt;/p&gt;
 &lt;p&gt;Andrew Campbell, Anna Scaglione, Sean Peisert, “&lt;a href=&#34;https://arxiv.org/abs/2507.22849&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decentralized Differentially Private Power Method&lt;/a&gt;,” arXiv preprint arXiv:2507.22849, July 30, 2025.&lt;/p&gt;
