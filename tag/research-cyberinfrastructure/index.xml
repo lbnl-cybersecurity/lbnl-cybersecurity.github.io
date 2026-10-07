@@ -7,7 +7,7 @@
     <description>Research Cyberinfrastructure</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2018-2026</copyright><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://secpriv.lbl.gov/media/icon_hu_7ceb93c1c584e86e.png</url>
+      <url>https://secpriv.lbl.gov/media/icon_hu_6b53e64ac7bcb2a0.png</url>
       <title>Research Cyberinfrastructure</title>
       <link>https://secpriv.lbl.gov/tag/research-cyberinfrastructure/</link>
     </image>
@@ -38,10 +38,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_df6ec14731dc62d6.webp 400w,
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_905d6631716eaa66.webp 760w,
-               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_203704c87cd9d86b.webp 1200w&#34;
-               src=&#34;https://secpriv.lbl.gov/media/partners/TrustedCI_logo_blue_web%281%29-small_hu_df6ec14731dc62d6.webp&#34;
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_ab586adec68d3f23.webp 400w,
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_409c23138bd068d5.webp 760w,
+               /media/partners/TrustedCI_logo_blue_web%281%29-small_hu_bc5bf188309bd0f7.webp 1200w&#34;
+               src=&#34;https://secpriv.lbl.gov/media/partners/TrustedCI_logo_blue_web%281%29-small_hu_ab586adec68d3f23.webp&#34;
                width=&#34;144&#34;
                height=&#34;41&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -163,11 +163,10 @@
 &lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Sean Peisert&lt;/a&gt; (LBNL &amp;amp; UC Davis) &lt;br&gt;
 &lt;a href=&#34;https://faculty.engineering.ucdavis.edu/akella/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Venkatesh Akella&lt;/a&gt; (LBNL &amp;amp; UC Davis)&lt;/p&gt;
 &lt;h4 id=&#34;research-staff&#34;&gt;Research Staff:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://profiles.lbl.gov/21980-farzad-fatollahifard&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Farzad Fatollahi-Fard&lt;/a&gt; (LBNL) &lt;br&gt;
-&lt;a href=&#34;https://profiles.lbl.gov/19359-paul-h-hargrove&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Paul Hargrove&lt;/a&gt; (LBNL)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://profiles.lbl.gov/21980-farzad-fatollahifard&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Farzad Fatollahi-Fard&lt;/a&gt; (LBNL)&lt;/p&gt;
 &lt;h4 id=&#34;graduate-students&#34;&gt;Graduate Students:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/jack-ford-41891a223/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jack Ford&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;) &lt;br&gt;
-&lt;a href=&#34;https://sites.google.com/view/kaustavgoswami&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaustav Goswami&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;) \
+&lt;a href=&#34;https://sites.google.com/view/kaustavgoswami&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaustav Goswami&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/wshaddix/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;William Shaddix&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;)&lt;/p&gt;
 &lt;!--
 #### Project Partners on NA-22 DESC Project:
@@ -187,6 +186,7 @@
 &lt;h4 id=&#34;past-researchers&#34;&gt;Past Researchers:&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.ayazakram.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayaz Akram&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt; / LBNL) &lt;br&gt;
 &lt;a href=&#34;https://www.linkedin.com/in/chitrabhanu-gupta-6114a8145/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chitrabhanu Gupta&lt;/a&gt; (&lt;a href=&#34;https://www.cs.ucdavis.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UC Davis&lt;/a&gt;) &lt;br&gt;
+&lt;a href=&#34;https://profiles.lbl.gov/19359-paul-h-hargrove&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Paul Hargrove&lt;/a&gt; (LBNL) &lt;br&gt;
 &lt;a href=&#34;https://faculty.engineering.ucdavis.edu/lowepower/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jason Lowe-Power&lt;/a&gt; (LBNL &amp;amp; UC Davis) &lt;br&gt;
 &lt;a href=&#34;https://profiles.lbl.gov/21905-georgios-michelogiannakis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. George Michelogiannakis&lt;/a&gt; (LBNL)&lt;/p&gt;
 &lt;hr width=&#34;70%&#34; /&gt;
