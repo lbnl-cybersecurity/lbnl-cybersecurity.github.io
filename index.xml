@@ -33,6 +33,33 @@
     </item>
     
     <item>
+      <title>Collaborative Learning with Obfuscation Assurances for grid Knowledge (CLOAK)</title>
+      <link>https://secpriv.lbl.gov/project/ceser-cloak/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://secpriv.lbl.gov/project/ceser-cloak/</guid>
+      <description>&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;CLOAK (Collaborative Learning with Obfuscation Assurances for grid Knowledge) is a research project to investigate whether federated learning, combined with differential privacy (DP), allows electric utilities to train shared machine-learning models on sensitive operational data without releasing that data or accepting unquantified disclosure risk.&lt;/p&gt;
+&lt;p&gt;This project is supported by the U.S. Department of Energy&amp;rsquo;s &lt;a href=&#34;https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Office of Cybersecurity, Energy Security, and Emergency Response (CESER)&lt;/a&gt; Risk Management Tools and Technologies (RMT) program.&lt;/p&gt;
+&lt;h4 id=&#34;senior-personnel&#34;&gt;Senior Personnel:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ucdavis.edu/~peisert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Peisert&lt;/a&gt; (PI; LBNL)&lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/daniel-arnold-78b59269/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Arnold&lt;/a&gt; (LLNL) &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/jasonhollern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Hollern&lt;/a&gt; (EPRI) &lt;br&gt;
+&lt;a href=&#34;https://www.anl.gov/profile/kibaek-kim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kibaek Kim&lt;/a&gt; (ANL) &lt;br&gt;
+&lt;a href=&#34;https://eta.lbl.gov/people/jason-macdonald&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason MacDonald&lt;/a&gt; (LBNL) &lt;br&gt;
+&lt;a href=&#34;https://www.anl.gov/profile/ashton-raffety&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ashton Raffety&lt;/a&gt; (ANL) &lt;br&gt;
+&lt;a href=&#34;https://sinelab.tech.cornell.edu/anna-scaglione/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anna Scaglione&lt;/a&gt; (Cornell Tech) &lt;br&gt;
+&lt;a href=&#34;https://tong-andrew-wu.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tong Wu&lt;/a&gt; (University of Central Florida)&lt;/p&gt;
+&lt;h4 id=&#34;partners&#34;&gt;Partners:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.anl.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Argonne National Laboratory (ANL)&lt;/a&gt;
+&lt;a href=&#34;https://www.tech.cornell.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Tech&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.epri.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Electric Power Research Institute (EPRI)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.llnl.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lawrence Livermore National Laboratory (LLNL)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.ucf.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Central Florida (UCF)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More information is available on other Berkeley Lab R&amp;amp;D projects focusing on &lt;a href=&#34;https://secpriv.lbl.gov/projects/&#34;&gt;cybersecurity&lt;/a&gt; in general, as well as specifically on &lt;a href=&#34;https://secpriv.lbl.gov/research/ceds/&#34;&gt;cybersecurity for energy delivery systems&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Trusted CI, the National Science Foundation Cybersecurity of Excellence</title>
       <link>https://secpriv.lbl.gov/project/nsf-trustedci/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
@@ -260,6 +287,7 @@
 &lt;p&gt;Andrew Campbell, Anna Scaglione, and Sean Peisert, &amp;ldquo;Decentralized Differentially Private Power Method&amp;rdquo; (poster), &lt;a href=&#34;https://tpdp.journalprivacyconfidentiality.org/2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Theory and Practice of Differential Privacy&lt;/a&gt;, Mountain View, CA, June 2-3, 2025.&lt;/p&gt;
 &lt;p&gt;Sean Peisert, “LBNL Electric Grid Cybersecurity Research and Trustworthy Scientific Cyberinfrastructure,” &lt;a href=&#34;https://www.nitrd.gov/coordination-areas/csia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)&lt;/a&gt; Meeting, May 23, 2024.&lt;/p&gt;
 &lt;h3 id=&#34;publications-resulting-from-this-project&#34;&gt;Publications resulting from this project:&lt;/h3&gt;
+&lt;p&gt;Andrew Campbell, Chenyue Zhang, Hang Liu, Victor Elvira, Anna Scaglione, Sean Peisert, &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/2609.28899&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;When Do Differentially Private Inputs Protect Graph Shift Operators?&lt;/a&gt;,&amp;rdquo; arXiv preprint	arXiv:2609.28899, 24 Sep 2026.&lt;/p&gt;
 &lt;p&gt;Andrew Campbell, Chenyue Zhang, Anna Scaglione, and Sean Peisert,
 &amp;ldquo;Differentially Private Synthetic Voltage Phasor Release via Power-Flow Propagation of Loads,&amp;rdquo; _Proceedings of the 60th &lt;a href=&#34;https://www.asilomarsscconf.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Asilomar Conference on Signals, Systems, and Computers&lt;/a&gt;, Monterey, CA, October 25–28, 2026.&lt;/p&gt;
 &lt;p&gt;Chenyue Zhang, Andrew Campbell, Anna Scaglione, and Sean Peisert, “Reconstruction Limits for Repeated Differentially Private Aggregates: A Cramer-Rao Perspective on Query Geometry,&amp;quot; &lt;em&gt;&lt;a href=&#34;https://tpdp.journalprivacyconfidentiality.org/2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Theory and Practice of Differential Privacy (TPDP)&lt;/a&gt;&lt;/em&gt;, Boston, MA, June 1–2, 2026.&lt;/p&gt;

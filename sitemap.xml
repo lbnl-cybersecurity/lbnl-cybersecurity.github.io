@@ -39,15 +39,43 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://secpriv.lbl.gov/tag/cyber-physical-systems/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <loc>https://secpriv.lbl.gov/tag/ai/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://secpriv.lbl.gov/tag/maritime/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <loc>https://secpriv.lbl.gov/project/ceser-cloak/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tag/cyber-physical-systems/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tag/data-privacy/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tag/differential-privacy/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tag/machine-learning/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tag/power-grid/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://secpriv.lbl.gov/project/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tags/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://secpriv.lbl.gov/tag/maritime/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -63,36 +91,12 @@
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://secpriv.lbl.gov/tags/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://secpriv.lbl.gov/project/nsf-trustedci/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://secpriv.lbl.gov/tag/machine-learning/</loc>
-    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://secpriv.lbl.gov/project/rmt-magic/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tag/power-grid/</loc>
-    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tag/ai/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tag/data-privacy/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://secpriv.lbl.gov/tag/differential-privacy/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://secpriv.lbl.gov/project/ceser-shielders/</loc>
